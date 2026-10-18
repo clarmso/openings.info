@@ -22,25 +22,8 @@ jobs:
         with:
           python-version: '3.12'
 
-      - uses: actions/setup-node@v4
-        with:
-          node-version: '22'
-
-      - name: Install Copilot CLI
-        run: npm install -g @github/copilot
-
       - name: Run crawler
         run: python crawl.py
-
-      - name: Generate new jobs manifest
-        if: always()
-        env:
-          COPILOT_GITHUB_TOKEN: ${{ secrets.COPILOT_PAT }}
-        run: python scripts/generate_new_jobs.py
-
-      - name: Generate companies page
-        if: always()
-        run: python scripts/generate_companies_page.py
 
       - name: Commit changes
         id: commit
@@ -48,7 +31,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add data/ state/ docs/new_jobs.json docs/index.html docs/companies.json docs/companies.html
+          git add data/ state/open_jobs/
           if git diff --cached --quiet; then
             echo "No changes to commit"
             echo "changed=false" >> "$GITHUB_OUTPUT"
@@ -59,10 +42,10 @@ jobs:
           fi
 
       # A GITHUB_TOKEN-authenticated push above does NOT trigger other
-      # workflows' `on: push` (GitHub's loop-prevention rule), so Deploy
-      # Pages must be dispatched explicitly here when docs/ changed.
-      - name: Trigger Pages deployment
+      # workflows' `on: push` (GitHub's loop-prevention rule), so page
+      # generation must be dispatched explicitly here when data/ changed.
+      - name: Trigger page generation
         if: always() && steps.commit.outputs.changed == 'true'
         env:
           GH_TOKEN: ${{ github.token }}
-        run: gh workflow run pages.yml --ref main
+        run: gh workflow run generate.yml --ref main
