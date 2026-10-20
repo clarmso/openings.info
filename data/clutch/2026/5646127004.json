@@ -1,0 +1,47 @@
+{
+  "absolute_url": "https://job-boards.greenhouse.io/clutch/jobs/5646127004",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": false,
+      "requires_processing_consent": false,
+      "requires_retention_consent": false,
+      "retention_period": null,
+      "demographic_data_consent_applies": false
+    }
+  ],
+  "internal_job_id": 4978145004,
+  "location": {
+    "name": "Mississauga, Ontario, Canada"
+  },
+  "metadata": null,
+  "id": 5646127004,
+  "updated_at": "2026-10-19T15:26:43-04:00",
+  "requisition_id": "641",
+  "title": "Payment Administrator (Full-Time)",
+  "company_name": "Clutch Technologies Inc.",
+  "first_published": "2025-09-09T17:46:47-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;p&gt;&lt;strong&gt;About Clutch:&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;We’re on a mission to reinvent the way people buy, sell, and own cars. Are you game?&lt;/p&gt;\n&lt;p&gt;Clutch is Canada’s largest online used car retailer, delivering a seamless, hassle-free car buying and selling experience to drivers everywhere. Customers can browse hundreds of cars from the comfort of their home, get the right one delivered to their door, and enjoy peace of mind with our 10-Day Money-Back Guarantee… and that’s just the beginning.&lt;/p&gt;\n&lt;p&gt;Named three years in a row to the Globe &amp;amp; Mail’s list of the Top Growing Companies in Canada and also awarded spots on Deloitte’s Technology Fast 50™ and Fast 500™ lists, we’re looking to add curious, hard-working, and driven individuals to our growing team.&lt;/p&gt;\n&lt;p&gt;Headquartered in Toronto, Clutch was founded in 2017 and currently services Ontario, New Brunswick, Nova Scotia, and Prince Edward Island. Clutch is backed by a number of world-class investors, including D1 Capital, Canaan, Real Ventures, BrandProject, and Upper90. To learn more, visit clutch.ca.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;About the role:&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Clutch is looking for a &lt;strong&gt;Payment Administrator&lt;/strong&gt;&amp;nbsp;to join our “Sell to Clutch”&lt;strong&gt; &lt;/strong&gt;team! You are perfect for this role if you’re detail-oriented and organized as you’ll be responsible for verifying customer &amp;amp; vehicle documents prior to purchase. You will own customer payment processing, ensuring that customer payments are prepared accurately and efficiently. This team is integral to Clutch’s success and ensuring that we are upholding the highest standards for our customers.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;What you’ll do:&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Work in tandem with the Sell to Clutch team to ensure document accuracy, editing and drafting required documentation to facilitate all purchase transactions&lt;/li&gt;\n&lt;li&gt;Minimize Clutch’s risk exposure by preparing customer payments with complete accuracy&lt;/li&gt;\n&lt;li&gt;Liaise with our finance team to ensure payments are processed in an efficient and timely manner&lt;/li&gt;\n&lt;li&gt;Tracking metrics to give insight to multiple stakeholders on the status of all transactions&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;We’re looking for:&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;You are extremely detail-oriented and focused on quality work&lt;/li&gt;\n&lt;li&gt;1-2 years of experience in administrative, bookkeeping, or accounting roles. Experience with payment processing is a plus&lt;/li&gt;\n&lt;li&gt;Effective in time management and prioritizing multiple tasks (auditing documents, preparing payments, liaising with advisors, etc)&lt;/li&gt;\n&lt;li&gt;You have an ability to work under tight deadlines and maintain composure under pressure&lt;/li&gt;\n&lt;li&gt;You understand your strengths and have strong interpersonal, organizational, and time management skills&lt;/li&gt;\n&lt;li&gt;Must be able to work &lt;strong&gt;100% on-site&lt;/strong&gt; at our &lt;strong&gt;3350 Wolfedale Road Mississauga&lt;/strong&gt; facility&lt;/li&gt;\n&lt;li&gt;You must be available working our &lt;strong&gt;8:00AM - 4:00PM or 1:00PM - 9:00PM shifts with weekend availability&lt;/strong&gt;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;Why you’ll love it at Clutch:&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Autonomy &amp;amp; ownership -- create your own path, and own your work&lt;/li&gt;\n&lt;li&gt;Competitive compensation!&lt;/li&gt;\n&lt;li&gt;Health and Dental benefits&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;Clutch is committed to fostering an inclusive workplace where all individuals have an opportunity to succeed. If you require accommodation at any stage of the interview process, please email &lt;a href=&quot;mailto:talent@clutch.ca&quot;&gt;talent@clutch.ca&lt;/a&gt;&lt;em&gt;.&lt;/em&gt;&lt;/p&gt;",
+  "departments": [
+    {
+      "id": 4004505004,
+      "name": "Accounting & Finance",
+      "child_ids": [],
+      "parent_id": null
+    }
+  ],
+  "offices": [
+    {
+      "id": 4047257004,
+      "name": "Mississauga",
+      "location": "Mississauga, Ontario, Canada",
+      "child_ids": [],
+      "parent_id": null
+    }
+  ],
+  "ai_disclaimer": null,
+  "include_ai_disclaimer": false,
+  "ai_opt_out_request_url": "http://app4.greenhouse.io/ai_opt_out_request/job_post/5646127004/ai_opt_out"
+}

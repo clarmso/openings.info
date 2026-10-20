@@ -38,8 +38,8 @@
     "currency": "USD",
     "interval": "per-year-salary"
   },
-  "salaryDescription": "<div>\n<p>Base pay is $130,000 - 150,000 USD annually, plus a competitive variable component. Voltus also offers unlimited leave for full-time employees, parental leave, and a comprehensive benefits package supporting health, wellness, and financial security.</p>\n</div>",
-  "salaryDescriptionPlain": "Base pay is $130,000 - 150,000 USD annually, plus a competitive variable component. Voltus also offers unlimited leave for full-time employees, parental leave, and a comprehensive benefits package supporting health, wellness, and financial security.\n",
+  "salaryDescription": "<div>\n<p>Base pay is $130,000 - 150,000 USD annually, $240K+ OTE plus equity. Voltus also offers unlimited leave for full-time employees, parental leave, and a comprehensive benefits package supporting health, wellness, and financial security.</p>\n</div>",
+  "salaryDescriptionPlain": "Base pay is $130,000 - 150,000 USD annually, $240K+ OTE plus equity. Voltus also offers unlimited leave for full-time employees, parental leave, and a comprehensive benefits package supporting health, wellness, and financial security.\n",
   "text": "Battery Sales Director",
   "country": "US",
   "workplaceType": "remote",

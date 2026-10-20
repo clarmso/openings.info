@@ -37,13 +37,13 @@
     {
       "id": 20164553,
       "name": "FADV_Account",
-      "value": null,
+      "value": "237364CAN_ELASTIC CANADA",
       "value_type": "single_select"
     },
     {
       "id": 20164588,
       "name": "FADV_Package",
-      "value": null,
+      "value": "2366_CANADA FIELD OPS",
       "value_type": "single_select"
     },
     {
@@ -54,7 +54,7 @@
     }
   ],
   "id": 7863806,
-  "updated_at": "2026-10-05T16:32:45-04:00",
+  "updated_at": "2026-10-19T19:08:43-04:00",
   "requisition_id": "R11571",
   "title": "Enterprise Account Executive (Public Sector)",
   "company_name": "Elastic",

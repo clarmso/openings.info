@@ -12,7 +12,7 @@
   ],
   "internal_job_id": 4555966008,
   "location": {
-    "name": "San Francisco, CA | New York City, NY"
+    "name": "San Francisco, CA | New York City, NY | Seattle, WA"
   },
   "metadata": [
     {
@@ -23,7 +23,7 @@
     }
   ],
   "id": 5440427008,
-  "updated_at": "2026-10-01T11:33:26-04:00",
+  "updated_at": "2026-10-19T10:20:34-04:00",
   "requisition_id": "PIP-267791",
   "title": "Software Engineer, Sandboxing",
   "company_name": "Anthropic",

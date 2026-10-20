@@ -1,0 +1,47 @@
+{
+  "absolute_url": "https://job-boards.greenhouse.io/clutch/jobs/6228333004",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": false,
+      "requires_processing_consent": false,
+      "requires_retention_consent": false,
+      "retention_period": null,
+      "demographic_data_consent_applies": false
+    }
+  ],
+  "internal_job_id": 5230120004,
+  "location": {
+    "name": "Mississauga, Ontario, Canada "
+  },
+  "metadata": null,
+  "id": 6228333004,
+  "updated_at": "2026-10-19T12:15:32-04:00",
+  "requisition_id": "806",
+  "title": "Production Development Engineering Intern (Co-op), Winter 2027",
+  "company_name": "Clutch Technologies Inc.",
+  "first_published": "2026-10-19T12:09:03-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;p&gt;&lt;strong&gt;Location:&lt;/strong&gt; 3360 Wolfedale Road, Mississauga, ON (5 days a week on-site)&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Term:&lt;/strong&gt; January–April 2027 (4 months), with the potential to extend through August 2027&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Schedule:&lt;/strong&gt; Full-time, Monday to Friday (8:30am-4:30pm)&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Pay:&lt;/strong&gt; $26–$30 per hour&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span data-contrast=&quot;auto&quot;&gt;About Clutch:&lt;/span&gt;&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span data-contrast=&quot;auto&quot;&gt;We’re on a mission to reinvent the way people buy, sell, and own cars. Are you game?&lt;/span&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&lt;span data-contrast=&quot;auto&quot;&gt;Clutch is Canada’s largest online used car retailer, delivering a seamless, hassle-free car-buying experience to drivers everywhere. Customers can browse thousands of cars from the comfort of their home, get the right one delivered to their door, and enjoy peace of mind with our 10-Day Money-Back Guarantee… and that’s just the beginning.&lt;/span&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&lt;span data-contrast=&quot;auto&quot;&gt;Named five years in a row to the Globe &amp;amp; Mail’s list of the Top Growing Companies in Canada and also awarded spots on Deloitte’s Technology Fast 50™ and Fast 500™ lists, we’re looking to add curious, hard-working, and driven individuals to our growing team.&lt;/span&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&lt;span data-contrast=&quot;auto&quot;&gt;Headquartered in Toronto, Clutch was founded in 2017 and currently services Ontario, New Brunswick, Nova Scotia, British Columbia, and Prince Edward Island. Clutch is backed by several world-class investors, including Altos Ventures, Canaan Partners, BMO Capital, iA Financial, and FJ Labs. To learn more, visit clutch.ca.&lt;/span&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;What you&#39;ll work on&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;On an assembly line, every unit is the same. In our reconditioning facility, no two cars are the same. One car needs brakes and a detail; the next needs suspension work, bodywork and a part we have to order. Building standard work, staffing models and layouts around that kind of variation is the engineering problem you&#39;ll be working on.&lt;/p&gt;\n&lt;p&gt;As a Production Development Engineering Intern, you&#39;ll own one main project, start to finish, and support one or two smaller ones. You&#39;ll agree on the main project and its target with your manager by the end of week two. Projects we expect to have this term include:&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;&lt;strong&gt;Standardized work.&lt;/strong&gt; Time-study a process within our production areas (Inspection, Mechanical, or Detail). Separate the steps that add value from the ones that don&#39;t, and write the standard work the process runs on.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Finding the bottleneck.&lt;/strong&gt; Use our production data to map cycle time and wait time across the stations, find where cars sit longest, and test a fix on the floor.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;QC and rework.&lt;/strong&gt; Break down why cars fail QC or come back for rework, pick the top causes, and work with mechanics and leads on a change we can measure before your term ends.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Layout.&lt;/strong&gt; Redesign a bay or work area in CAD and make the case for it with data.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Capital project support.&lt;/strong&gt; Help scope an equipment or facility project: gather vendor quotes and track timeline and budget.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Present.&lt;/strong&gt; You will have an opportunity to present your achievements to the executive team at the end of your co-op.&amp;nbsp;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;What your term looks like&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;&lt;strong&gt;Weeks 1 to 2: Learn the floor.&lt;/strong&gt; Safety training, time at every station, and shadowing mechanics and production leads. You&#39;ll finish with a one-page project plan: the problem, the baseline number, and the target.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Weeks 3 to 8: Measure.&lt;/strong&gt; Collect data, run your studies, and share what you&#39;re finding at a mid-term review with engineering.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Weeks 9 to 14: Change something.&lt;/strong&gt; Pilot your recommendation on the floor with the team, and measure whether it worked.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Weeks 15 to 16: Hand it off.&lt;/strong&gt; Present results to engineering and production leadership, and document your work so the team keeps using it after you leave.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;What you&#39;ll get&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;A weekly 1:1 with the Director of Engineering, and a buddy on the team for day-to-day questions.&lt;/li&gt;\n&lt;li&gt;Lean tools used for real (time studies, standard work, 5S, value stream mapping) in an operation where the input changes with every car.&lt;/li&gt;\n&lt;li&gt;A view of the whole business, from the day we buy a car to the day a customer takes delivery.&lt;/li&gt;\n&lt;li&gt;Gain hands-on experience delivering measurable improvements and building tangible project outcomes you can showcase in your engineering career.&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;Strong performers will be considered for future co-op terms and for our Production Engineering Analyst roles.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;Who we&#39;re looking for:&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;We care more about how you think than about whether you have done this exact work before. If you like figuring out why something is slow and then fixing it, you will do well here.&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Currently enrolled in Mechanical, Mechatronics, Management, Systems Design, or a related engineering program.&lt;/li&gt;\n&lt;li&gt;Comfortable working with data in Excel or Google Sheets (pivot tables, charts, basic formulas).&lt;/li&gt;\n&lt;li&gt;Some exposure to CAD (SolidWorks, AutoCAD, Fusion 360, or similar) through coursework, a design team, or a previous co-op.&lt;/li&gt;\n&lt;li&gt;Happy to spend a large part of your day on a shop floor, asking mechanics questions and listening to their answers.&lt;/li&gt;\n&lt;li&gt;Clear communicator who can explain a recommendation to both an operator and a director.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;Nice to have:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;A previous co-op in manufacturing, automotive, logistics, or operations.&lt;/li&gt;\n&lt;li&gt;Coursework in operations research, lean manufacturing, or statistics (SPC, Pareto).&lt;/li&gt;\n&lt;li&gt;Experience on a student design team, such as Formula Electric or Midnight Sun.&lt;/li&gt;\n&lt;li&gt;Python or SQL, or experience using AI tools to speed up analysis.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;Why You&#39;ll Love it at Clutch&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Make an Impact: Help shape the future of car buying and selling in Canada by leading a critical part of our customer experience.&lt;/li&gt;\n&lt;li&gt;Career Growth: Join a rapidly growing company with opportunities for leadership and professional development.&lt;/li&gt;\n&lt;li&gt;Great Team: Work alongside talented, driven, and collaborative colleagues who are passionate about what they do.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;This posting is for a new position, open vacancy.&lt;/p&gt;\n&lt;p&gt;Clutch is committed to fostering an inclusive workplace where all individuals have an opportunity to succeed. If you require accommodation at any stage of the interview process, please email talent@clutch.ca.&amp;nbsp; We use AI-assisted tools to help screen and assess applications. Final hiring decisions are made by our team.&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;",
+  "departments": [
+    {
+      "id": 4004502004,
+      "name": "Production",
+      "child_ids": [],
+      "parent_id": null
+    }
+  ],
+  "offices": [
+    {
+      "id": 4047257004,
+      "name": "Mississauga",
+      "location": "Mississauga, Ontario, Canada",
+      "child_ids": [],
+      "parent_id": null
+    }
+  ],
+  "ai_disclaimer": null,
+  "include_ai_disclaimer": false,
+  "ai_opt_out_request_url": "http://app4.greenhouse.io/ai_opt_out_request/job_post/6228333004/ai_opt_out"
+}

@@ -1,0 +1,130 @@
+{
+  "id": "744000156240358",
+  "name": "Country Risk Officer",
+  "uuid": "90a5d821-b6c8-4612-870f-8065b54334b1",
+  "jobAdId": "48fa8da8-c986-40eb-868d-349843bdd752",
+  "defaultJobAd": true,
+  "refNumber": "R9984",
+  "company": {
+    "identifier": "Wise",
+    "name": "Wise"
+  },
+  "releasedDate": "2026-10-19T07:13:46.696Z",
+  "location": {
+    "city": "Hyderabad",
+    "country": "in",
+    "address": "Table Space Suites, Raheja Mindspace, Building 4, HITEC City",
+    "postalCode": "500081",
+    "remote": false,
+    "hybrid": false,
+    "fullLocation": "Hyderabad, , India"
+  },
+  "industry": {
+    "id": "financial_services",
+    "label": "Financial Services"
+  },
+  "department": {},
+  "function": {
+    "id": "analyst",
+    "label": "Analyst"
+  },
+  "typeOfEmployment": {
+    "id": "permanent",
+    "label": "Full-time"
+  },
+  "experienceLevel": {
+    "id": "mid_senior_level",
+    "label": "Mid-Senior Level"
+  },
+  "customField": [
+    {
+      "fieldId": "65d3d0e0d37044292ef9549b",
+      "fieldLabel": "Job Profile",
+      "valueId": "cdd42c5d88190168c67a4f7bff017480",
+      "valueLabel": "Risk Senior Manager - JP100613"
+    },
+    {
+      "fieldId": "65d3d0a7d37044292ef9549a",
+      "fieldLabel": "Job Family",
+      "valueId": "031d60c1f3b20194ac76df85bc005f00",
+      "valueLabel": "Risk"
+    },
+    {
+      "fieldId": "COUNTRY",
+      "fieldLabel": "Country/Region",
+      "valueId": "in",
+      "valueLabel": "India"
+    },
+    {
+      "fieldId": "65d3d05c735007771b14e932",
+      "fieldLabel": "Worker Type",
+      "valueId": "EE",
+      "valueLabel": "Wiser"
+    },
+    {
+      "fieldId": "65cea5ac287e8d0651481809",
+      "fieldLabel": "Time Type",
+      "valueId": "d2f4dafccd5101059b6cf09e12278400",
+      "valueLabel": "Full time"
+    },
+    {
+      "fieldId": "65d3d06b2865b46cfa4f0ec3",
+      "fieldLabel": "Worker Sub Type",
+      "valueId": "046034784a4d016f1889ba8863278f0d",
+      "valueLabel": "Permanent"
+    },
+    {
+      "fieldId": "65d3d1796435ba43bdb089ad",
+      "fieldLabel": "Squad",
+      "valueId": "2508138664ba1001b695f4179b560000",
+      "valueLabel": "Asia & Pacific (APAC) (Squad)"
+    },
+    {
+      "fieldId": "658553f79a81b00900831a80",
+      "fieldLabel": "Brands",
+      "valueId": "default",
+      "valueLabel": "Wise"
+    },
+    {
+      "fieldId": "65d3d0374c34974b271801f9",
+      "fieldLabel": "Management Level",
+      "valueId": "e82698b941950169671e99d5f100d710",
+      "valueLabel": "6"
+    },
+    {
+      "fieldId": "65d3d16de5ae4c7be012a87e",
+      "fieldLabel": "Tribe",
+      "valueId": "c23f18fabbcf1001b6983e6040cf0000",
+      "valueLabel": "Regional Expansion (Tribe)"
+    },
+    {
+      "fieldId": "65d3d0926435ba43bdb089ac",
+      "fieldLabel": "Job Family Group",
+      "valueId": "cf8ed98297e201402981b117ba008c14",
+      "valueLabel": "Risk and Compliance"
+    },
+    {
+      "fieldId": "65cec407735007771b14e92d",
+      "fieldLabel": "Company",
+      "valueId": "8928081b6a9e014945dcd4299c012074",
+      "valueLabel": "Wise Payments India Private Limited"
+    },
+    {
+      "fieldId": "65d90823f2e6436af25814c2",
+      "fieldLabel": "Job Ad Salary Range",
+      "valueLabel": " -   "
+    },
+    {
+      "fieldId": "65d9080b4aa2f46927dfc1f3",
+      "fieldLabel": "WD Target Hire Date",
+      "valueLabel": "2026-09-30"
+    }
+  ],
+  "visibility": "PUBLIC",
+  "ref": "https://api.smartrecruiters.com/v1/companies/wise/postings/744000156240358",
+  "language": {
+    "code": "en",
+    "label": "English",
+    "labelNative": "English (US)"
+  }
+}

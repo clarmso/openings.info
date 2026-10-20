@@ -1,0 +1,72 @@
+{
+  "absolute_url": "https://www.zoominfo.com/careers?gh_jid=8860060002",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": false,
+      "requires_processing_consent": false,
+      "requires_retention_consent": false,
+      "retention_period": null,
+      "demographic_data_consent_applies": false
+    }
+  ],
+  "internal_job_id": 6546930002,
+  "location": {
+    "name": "Bethesda, Maryland, United States; Vancouver, Washington, United States; Waltham, Massachusetts, United States"
+  },
+  "metadata": [
+    {
+      "id": 24710929002,
+      "name": "Job Family Group",
+      "value": "Engineering",
+      "value_type": "single_select"
+    },
+    {
+      "id": 24711071002,
+      "name": "Time Type",
+      "value": "Full time",
+      "value_type": "single_select"
+    },
+    {
+      "id": 101751589002,
+      "name": "Work Shift",
+      "value": "General Shift",
+      "value_type": "short_text"
+    },
+    {
+      "id": 4203585002,
+      "name": "LEGACY - Employment Type",
+      "value": null,
+      "value_type": "single_select"
+    }
+  ],
+  "id": 8860060002,
+  "updated_at": "2026-10-19T14:10:03-04:00",
+  "requisition_id": "JR108190",
+  "title": "Software Engineer III - Analytical Data",
+  "company_name": "ZoomInfo Technologies LLC",
+  "first_published": "2026-10-19T14:08:55-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;ZoomInfo is where careers accelerate. We move fast, think boldly, and empower you to do the best work of your life. You’ll be surrounded by teammates who care deeply, challenge each other, and celebrate wins. With tools that amplify your impact and a culture that backs your ambition, you won’t just contribute. You’ll make things happen–fast.&lt;/p&gt;&lt;/div&gt;&lt;p&gt;ZoomInfo (NASDAQ: GTM) is the Go-To-Market Intelligence Platform that empowers businesses to grow faster with AI-ready insights, trusted data, and advanced automation. Its solutions provide more than 35,000 companies worldwide with a complete view of their customers, making every seller their best seller.&lt;/p&gt;\n&lt;p&gt;Our mission is simple but ambitious: deliver the most accurate and comprehensive B2B data to power modern go-to-market strategies. We continuously innovate to help businesses identify ideal customers, reach key decision-makers, and accelerate growth through data-driven insights.&lt;/p&gt;\n&lt;h3&gt;The Opportunity&lt;/h3&gt;\n&lt;p&gt;We&#39;re looking for a Software Engineer III to join the Analytical Data team - the team that builds and runs the lakehouse for ZoomInfo&#39;s Data organization.&lt;/p&gt;\n&lt;p&gt;ZoomInfo&#39;s data about people and companies is produced by many teams and used by many more: analysts, data scientists, product managers, and, increasingly, AI agents. We are building one governed source of that data for all of them. Each dataset is written once as Apache Iceberg tables, kept on both Google Cloud Storage and Amazon S3, and queried in place by BigQuery, Snowflake, and Starburst/Trino - no separate copy or export pipeline per engine. The goal is that anyone in the Data organization, person or agent, can query fresh, trusted data without an engineer in the loop.&lt;/p&gt;\n&lt;p&gt;This is a hands-on data engineering role. You will work across streaming and batch ingestion, Iceberg table management, multi-engine access, data contracts with producer teams, and the observability that shows the data is fresh and complete. Datasets run to hundreds of millions of records, and most refresh daily.&lt;/p&gt;\n&lt;h3&gt;What You&#39;ll Do&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Build and run Kotlin and Apache Beam pipelines on Google Cloud Dataflow that load data from Kafka and cloud storage into Apache Iceberg tables.&lt;/li&gt;\n&lt;li&gt;Keep large Iceberg tables correct, fast, and cost-efficient with good partitioning, Spark maintenance jobs (compaction, deduplication, snapshot expiry, orphan-file cleanup), and reconciliation against the source.&lt;/li&gt;\n&lt;li&gt;Make each dataset queryable from BigQuery, Snowflake, and Starburst/Trino through Iceberg catalogs and stable consumer views.&lt;/li&gt;\n&lt;li&gt;Work with producer teams on schemas and data contracts, and keep publishing a new dataset simple and documented.&lt;/li&gt;\n&lt;li&gt;Build the observability that shows each dataset is fresh, complete, and within budget: Datadog dashboards and monitors today, AI agents for alert triage next.&lt;/li&gt;\n&lt;li&gt;Own your pipelines in production, from incident response to the fix that keeps the problem from coming back.&lt;/li&gt;\n&lt;li&gt;Ship through code review, CI/CD, staged releases, and unit, integration, and end-to-end tests, with infrastructure managed in Terraform across GCP and AWS.&lt;/li&gt;\n&lt;li&gt;Work daily with data consumers, producer teams, and platform teams, and help shape the platform&#39;s technical roadmap.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;Must-Have Qualifications&lt;/h3&gt;\n&lt;h4&gt;Data Engineering and Distributed Systems&lt;/h4&gt;\n&lt;ul&gt;\n&lt;li&gt;3+ years of professional software engineering experience, with a focus on data engineering or distributed systems.&lt;/li&gt;\n&lt;li&gt;Strong programming skills in Kotlin, Java, or Python. Our ingestion pipelines are written in Kotlin and our table maintenance and orchestration in Python, so you will work in both.&lt;/li&gt;\n&lt;li&gt;Hands-on experience with Apache Beam (ideally on Google Cloud Dataflow) or Apache Spark.&lt;/li&gt;\n&lt;li&gt;Experience with Apache Kafka or a similar streaming platform in production pipelines.&lt;/li&gt;\n&lt;li&gt;Experience with very large datasets and distributed systems, including designing data models and storage layouts that handle large volumes efficiently.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h4&gt;Lakehouse, Query Engines, and Cloud&lt;/h4&gt;\n&lt;ul&gt;\n&lt;li&gt;Understanding of lakehouse architecture and open table formats, ideally Apache Iceberg.&lt;/li&gt;\n&lt;li&gt;Strong SQL and working knowledge of at least one of BigQuery, Snowflake, or Starburst/Trino.&lt;/li&gt;\n&lt;li&gt;Experience with Protobuf or Avro schemas and evolving them without breaking downstream consumers.&lt;/li&gt;\n&lt;li&gt;Experience with GCP or AWS. We are GCP-first, with storage and catalogs on AWS as well.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h4&gt;Engineering Practices and Operations&lt;/h4&gt;\n&lt;ul&gt;\n&lt;li&gt;Good understanding of the SDLC for data pipelines, including unit, integration, and end-to-end tests.&lt;/li&gt;\n&lt;li&gt;Experience running pipelines in production with metrics, dashboards, and alerts (for example in Datadog), and a strong ownership mindset: you take responsibility for production incidents end-to-end.&lt;/li&gt;\n&lt;li&gt;Practical, everyday use of AI coding assistants such as Claude Code or Codex, with the judgment to review and test what they produce.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h4&gt;Collaboration and General&lt;/h4&gt;\n&lt;ul&gt;\n&lt;li&gt;Experience in cross-team collaboration: working directly with producer teams on schema changes and daily with data consumers (analytics, ML) and platform/infrastructure teams, with the ability to navigate different contexts and technical vocabularies.&lt;/li&gt;\n&lt;li&gt;Bachelor&#39;s degree in Computer Science, Software Engineering, or a related field, or equivalent practical experience.&lt;/li&gt;\n&lt;li&gt;Pragmatic engineering judgment with the ability to balance quality, speed, and business impact.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h4&gt;Nice to Have&lt;/h4&gt;\n&lt;ul&gt;\n&lt;li&gt;Production experience with Apache Iceberg: table maintenance, partition and schema evolution, and Iceberg catalogs such as BigLake metastore (now Google&#39;s Lakehouse runtime catalog), AWS Glue, or Project Nessie.&lt;/li&gt;\n&lt;li&gt;Experience with metadata catalogs and data governance tooling such as OpenMetadata.&lt;/li&gt;\n&lt;li&gt;Experience building AI agents that watch pipelines, triage alerts, or investigate data issues.&lt;/li&gt;\n&lt;li&gt;Experience serving the same data to several query engines, or running data infrastructure across GCP and AWS.&lt;/li&gt;\n&lt;li&gt;Experience negotiating data contracts between producer and consumer teams.&lt;/li&gt;\n&lt;li&gt;Experience contributing to technical strategy or a roadmap for data processing infrastructure.&lt;/li&gt;\n&lt;li&gt;Experience with Terraform, Apache Airflow (Cloud Composer), or dbt.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h4&gt;Why This Role Matters&lt;/h4&gt;\n&lt;p&gt;Without a shared layer, each dataset gets copied into each warehouse, and every copy brings its own export pipeline, access process, and definition. Data becomes slow to reach, expensive to keep, and easy to disagree about. The lakehouse replaces those copies with one governed source that every team and every engine reads.&lt;/p&gt;\n&lt;p&gt;You will join a small team early in this work, with ownership of production systems and a direct say in the architecture, in the standards producer teams follow, and in how the Data organization uses its data.&lt;/p&gt;\n&lt;p&gt;#LI-AR2&lt;/p&gt;\n&lt;p&gt;#LI-Hybrid&lt;/p&gt;&lt;div class=&quot;content-pay-transparency&quot;&gt;&lt;div class=&quot;pay-input&quot;&gt;&lt;div class=&quot;description&quot;&gt;&lt;p&gt;Actual compensation offered will be based on factors such as the candidate’s work location, qualifications, skills, experience and/or training. Your recruiter can share more information about the specific salary range for your desired work location during the hiring process. We want our employees and their families to thrive.&lt;/p&gt;\n&lt;p&gt;In addition to comprehensive benefits we offer holistic mind, body and lifestyle programs designed for overall well-being. Learn more about ZoomInfo benefits &lt;a class=&quot;c-link&quot; href=&quot;https://www.zoominfo.com/careers#benefits&quot; target=&quot;_blank&quot; data-stringify-link=&quot;https://www.zoominfo.com/careers#benefits&quot; data-sk=&quot;tooltip_parent&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;title&quot;&gt;Below is the US base salary for this position. Additional compensation such as Bonus, Commission, Equity and other benefits may also apply.&lt;/div&gt;&lt;div class=&quot;pay-range&quot;&gt;&lt;span&gt;$112,000&lt;/span&gt;&lt;span class=&quot;divider&quot;&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;$176,000 USD&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;&lt;strong&gt;About us:&lt;/strong&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;ZoomInfo (NASDAQ: GTM) is the Go-To-Market Intelligence Platform that empowers businesses to grow faster with AI-ready insights, trusted data, and advanced automation. Its solutions provide more than 35,000 companies worldwide with a complete view of their customers, making every seller their best seller.&lt;/p&gt;\n&lt;p&gt;ZoomInfo is committed to protecting your privacy when you apply for jobs with us. Please review our Job Applicant &lt;a href=&quot;https://drive.google.com/file/d/1yiG-k0YX_sW10PiJk_xliDc3W-veJCrK/view?usp=drive_link&quot; target=&quot;_blank&quot;&gt;Privacy Notice&lt;/a&gt; for more details on how we handle your personal information.&lt;/p&gt;\n&lt;p&gt;ZoomInfo may use a software-based assessment as part of the recruitment process. More information about this tool, including the results of the most recent bias audit, is available &lt;a href=&quot;https://www.zoominfo.com/legal/nyc-local-law-144-notice&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;\n&lt;p&gt;ZoomInfo is proud to be an equal opportunity employer, hiring based on qualifications, merit, and business needs, and does not discriminate based on protected status. We welcome all applicants and are committed to providing equal employment opportunities regardless of sex, race, age, color, national origin, sexual orientation, gender identity, marital status, disability status, religion, protected military or veteran status, medical condition, or any other characteristic protected by applicable law. We also consider qualified candidates with criminal histories in accordance with legal requirements.&lt;/p&gt;\n&lt;p&gt;For Massachusetts Applicants: It is unlawful in Massachusetts to require or administer a lie detector test as a condition of employment or continued employment. An employer who violates this law shall be subject to criminal penalties and civil liability. ZoomInfo does not administer lie detector tests to applicants in any location.&lt;/p&gt;&lt;/div&gt;",
+  "departments": [
+    {
+      "id": 4074788002,
+      "name": "936 Engineering - Data Engineering",
+      "child_ids": [],
+      "parent_id": null
+    }
+  ],
+  "offices": [
+    {
+      "id": 4016432002,
+      "name": "Waltham",
+      "location": "Waltham, Massachusetts, United States",
+      "child_ids": [],
+      "parent_id": null
+    }
+  ],
+  "ai_disclaimer": null,
+  "include_ai_disclaimer": null,
+  "ai_opt_out_request_url": null
+}

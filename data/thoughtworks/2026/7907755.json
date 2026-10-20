@@ -1,0 +1,92 @@
+{
+  "absolute_url": "https://www.thoughtworks.com/careers/jobs/7907755?gh_jid=7907755",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": false,
+      "requires_processing_consent": false,
+      "requires_retention_consent": false,
+      "retention_period": null,
+      "demographic_data_consent_applies": false
+    }
+  ],
+  "internal_job_id": 3437309,
+  "location": {
+    "name": "Singapore, Singapore"
+  },
+  "metadata": [
+    {
+      "id": 17181,
+      "name": "Employment Type",
+      "value": "Employee",
+      "value_type": "single_select"
+    },
+    {
+      "id": 25173,
+      "name": "Job Role",
+      "value": "Enterprise Strategist",
+      "value_type": "single_select"
+    },
+    {
+      "id": 61790,
+      "name": "Job Grade",
+      "value": "Principal",
+      "value_type": "single_select"
+    },
+    {
+      "id": 25172,
+      "name": "Country",
+      "value": "Singapore",
+      "value_type": "single_select"
+    },
+    {
+      "id": 38057280,
+      "name": "Job Category",
+      "value": "Non-Technology",
+      "value_type": "single_select"
+    },
+    {
+      "id": 15975856,
+      "name": "Function",
+      "value": [
+        "Business Transformation"
+      ],
+      "value_type": "multi_select"
+    },
+    {
+      "id": 53682232,
+      "name": "No. of days in office",
+      "value": "Hybrid – 3 days on-site/week",
+      "value_type": "single_select"
+    }
+  ],
+  "id": 7907755,
+  "updated_at": "2026-10-18T23:21:50-04:00",
+  "requisition_id": "R13477",
+  "title": "Principal Modernisation Strategist",
+  "company_name": "Thoughtworks",
+  "first_published": "2026-05-19T23:42:01-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;div class=&quot;description content&quot;&gt;\n&lt;p&gt;&lt;em&gt;Thoughtworks Singapore will be prioritising applicants who are currently residing in Singapore.&amp;nbsp;&lt;/em&gt;&lt;/p&gt;\n&lt;p&gt;Are you a seasoned technologist passionate about guiding organisations through complex legacy modernisations to achieve business success?&amp;nbsp;We are looking for a Modernisation Strategist to join our team who would play the role of a trusted partner to Thoughtworks’ clients, helping shape the future of legacy modernisation through a focus on business outcomes delivered through technology excellence . You will be responsible for developing and leading the implementation of large-scale transformation and modernisation strategies. You will be a key member of the Enterprise Modernisation, Platform and Cloud service line.&lt;/p&gt;\n&lt;/div&gt;\n&lt;h2 id=&quot;job-responsibilities&quot;&gt;Job responsibilities&lt;/h2&gt;\n&lt;div class=&quot;job-responsibilities content&quot;&gt;\n&lt;ul&gt;\n&lt;li&gt;You will partner closely with the different business verticals in identifying modernisation opportunities aligned with industry best practices and emerging technologies&lt;/li&gt;\n&lt;li&gt;You will be involved with pre-sales, lead generation, creating proposals, shaping engagements for clients and helping to educate both clients and colleagues about the value of our services and the commercial success they can deliver&lt;/li&gt;\n&lt;li&gt;You will take a consultative approach with our clients&#39; C-level executives and other stakeholders, working as their trusted advisor to enable them to achieve their business goals and redefine their industry&lt;/li&gt;\n&lt;li&gt;You will be a key member of the Enterprise Modernisation, Platform and Cloud service line, creating points of view and solutioning content through your insights on client needs and associated solutions, and also through defining progressive and repeatable practices which will help us to scale our efforts&lt;/li&gt;\n&lt;li&gt;You will drive creation of industry leading IP and best practices for modernising legacy retail banking systems while nurturing and upskilling future thought leaders at Thoughtworks&lt;/li&gt;\n&lt;li&gt;You will partner closely with technical leaders to support the delivery team, ensuring they have what they need to successfully execute engagement and deliver extraordinary impact to our clients&lt;/li&gt;\n&lt;li&gt;You will stay current with Thoughtworks&#39; business strategy and our technology goals&lt;/li&gt;\n&lt;li&gt;You will have billing targets that you will achieve by being fully or fractionally staffed on client engagements&lt;/li&gt;\n&lt;/ul&gt;\n&lt;/div&gt;\n&lt;h2 id=&quot;job-qualifications&quot;&gt;Job qualifications&lt;/h2&gt;\n&lt;div class=&quot;job-qualifications content&quot;&gt;\n&lt;h3&gt;Technical skills&lt;/h3&gt;\n&lt;div class=&quot;qualifications inner-content&quot;&gt;\n&lt;ul&gt;\n&lt;li&gt;You have experienced and executed modernisation and migration in large scale organisations.&lt;/li&gt;\n&lt;li&gt;You possess a strong technical background, ideally experienced in more than one programming paradigms – familiarity with Python will be a bonus&lt;/li&gt;\n&lt;li&gt;You are familiar with new and emerging technologies such as Kubernetes, Kafka, Istio , PostgreSQL databases&lt;/li&gt;\n&lt;li&gt;You understand evolutionary architectures and modern architecture principles such as MACH (Microservices, API-first, Cloud-native and Headless) and LIFESPAR (Latency-aware, Instrumented, Failure-aware, Event-driven, Secure, Parallelisable, Automated and Resource-consumption aware) and how to use then in practice.&lt;/li&gt;\n&lt;li&gt;You have strong knowledge of building cloud-native architectures using microservices and serverless along with interaction styles such as synchronous and asynchronous communication, data streaming and API technologies and lifecycle management.&lt;/li&gt;\n&lt;li&gt;You have the ability to&amp;nbsp; understand various levels of consistency such as linearizability vs serializability&lt;/li&gt;\n&lt;li&gt;You have the knowledge of established and emerging approaches for achieving high availability and disaster recovery, including running systems across multi AZ, multi region and multi-cloud vendor environments&lt;/li&gt;\n&lt;li&gt;You have experience in building security and system performance management functions in solutions from the start.&lt;/li&gt;\n&lt;li&gt;You have strong client-facing skills with the ability to position, defend and communicate effectively a technical position to a room of skilled client architects&lt;/li&gt;\n&lt;li&gt;You exhibit attention to detail, a practical approach to the day-to-day work of story-writing and delivery, and can draw a line directly from an overarching client strategy to your team’s outcomes&lt;/li&gt;\n&lt;li&gt;You are well versed with Agile, Lean and Continuous Delivery methodologies, SRE practices and the DevOps philosophy&lt;/li&gt;\n&lt;/ul&gt;\n&lt;/div&gt;\n&lt;h3&gt;Professional skills&lt;/h3&gt;\n&lt;div class=&quot;skills inner-content&quot;&gt;\n&lt;ul&gt;\n&lt;li&gt;You have demonstrable experience in engaging with C-level stakeholders at the business and technology level, using a consultative selling approach to maximise the customer outcomes&lt;/li&gt;\n&lt;li&gt;You possess a strong technology and consulting acumen with the ability to positively translate into business value&lt;/li&gt;\n&lt;/ul&gt;\n&lt;/div&gt;\n&lt;/div&gt;\n&lt;h2 id=&quot;important-things&quot;&gt;Other things to know&lt;/h2&gt;\n&lt;div class=&quot;important-things content&quot;&gt;\n&lt;h3&gt;Learning &amp;amp; Development&lt;/h3&gt;\n&lt;div class=&quot;inner-content&quot;&gt;\n&lt;p&gt;There is no one-size-fits-all career path at Thoughtworks: however you want to develop your career is entirely up to you. But we also balance autonomy with the strength of our cultivation culture. This means your career is supported by interactive tools, numerous development programs and teammates who want to help you grow. We see value in helping each other be our best and that extends to empowering our employees in their career journeys.&lt;/p&gt;\n&lt;/div&gt;\n&lt;/div&gt;\n&lt;h2 id=&quot;about&quot;&gt;About Thoughtworks&lt;/h2&gt;\n&lt;div class=&quot;about content&quot;&gt;\n&lt;p&gt;Thoughtworks is a global technology consultancy that integrates strategy, design and engineering to drive digital innovation. For 30+ years, our clients have trusted our autonomous teams to build solutions that look past the obvious. Here, computer science grads come together with seasoned technologists, self-taught developers, midlife career changers and more to learn from and challenge each other. Career journeys flourish with the strength of our cultivation culture, which has won numerous awards around the world. &lt;br&gt;&lt;br&gt;&lt;br&gt;Join Thoughtworks and thrive. Together, our extra curiosity, innovation, passion and dedication overcomes ordinary.&lt;/p&gt;\n&lt;/div&gt;\n&lt;p style=&quot;display: none;&quot;&gt;#LI-Onsite&lt;/p&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p style=&quot;text-align: center;&quot;&gt;&lt;a href=&quot;https://www.thoughtworks.com/careers/ai-policy-for-recruitment&quot;&gt;See here our AI policy.&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;",
+  "departments": [
+    {
+      "id": 314937,
+      "name": "1X_TWSGP SL EMPC",
+      "child_ids": [],
+      "parent_id": null
+    }
+  ],
+  "offices": [
+    {
+      "id": 11314,
+      "name": "Singapore",
+      "location": "Singapore",
+      "child_ids": [],
+      "parent_id": null
+    }
+  ],
+  "ai_disclaimer": null,
+  "include_ai_disclaimer": null,
+  "ai_opt_out_request_url": null
+}

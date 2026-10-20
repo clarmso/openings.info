@@ -58,18 +58,18 @@
     {
       "id": 31273219,
       "name": "Does this role require access to ITAR-controlled data?",
-      "value": null,
+      "value": "Yes",
       "value_type": "single_select"
     },
     {
       "id": 58619948,
       "name": "IC or MG",
-      "value": null,
+      "value": "IC",
       "value_type": "single_select"
     }
   ],
   "id": 8173840,
-  "updated_at": "2026-09-29T13:18:57-04:00",
+  "updated_at": "2026-10-19T20:03:23-04:00",
   "requisition_id": "R20852",
   "title": "Senior Security Engineer, Vulnerability Management",
   "company_name": "Datadog",

@@ -1,0 +1,47 @@
+{
+  "absolute_url": "https://job-boards.greenhouse.io/beyondtrust/jobs/8279053",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": false,
+      "requires_processing_consent": false,
+      "requires_retention_consent": false,
+      "retention_period": null,
+      "demographic_data_consent_applies": false
+    }
+  ],
+  "internal_job_id": 3581125,
+  "location": {
+    "name": "Hybrid Tel Aviv, Israel"
+  },
+  "metadata": null,
+  "id": 8279053,
+  "updated_at": "2026-10-19T13:31:04-04:00",
+  "requisition_id": "4178",
+  "title": "Software Development Engineer - Fix Term Contract",
+  "company_name": "BeyondTrust",
+  "first_published": "2026-10-19T13:29:05-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;p&gt;BeyondTrust is a place where you can bring your purpose to life through the work that you do, creating a safer world through our cyber security SaaS portfolio.&lt;/p&gt;\n&lt;p&gt;Our culture of flexibility, trust, and continual learning means you will be recognized for your growth, and for the impact you make on our success. You will be surrounded by people who challenge, support, and inspire you to be the best version of yourself.&lt;/p&gt;\n&lt;p&gt;&lt;u&gt;The Role&lt;/u&gt;&lt;/p&gt;\n&lt;p&gt;As a Software Development Engineer, you will be crucial in launching and supporting Entitle - BeyondTrust’s Just-In-Time Access Management system. You will be part of a fast-paced team designing, developing, delivering, and maintaining a cloud-based software solution utilizing modern orchestration technologies. This is a unique opportunity for you to step up as a technical leader in solving cloud-scale challenges and deliver a bar-raising platform system.&lt;/p&gt;\n&lt;p&gt;&lt;u&gt;What You’ll Do&lt;/u&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Design, build, and maintain highly scalable and resilient backend components, services, and orchestration.&lt;/li&gt;\n&lt;li&gt;Deliver outstanding user experience for complex API-based integrations.&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;Contribute to the design of systems and provide technical leadership for projects with increasing complexity.&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;Review functional and technical requirements to identify gaps and limitations, propose simplifications, and communicate ideas effectively with cross-functional teams.&lt;/li&gt;\n&lt;li&gt;Be a bar-raiser for delivering results and taking end-to-end ownership individually and as part of a team.&lt;/li&gt;\n&lt;li&gt;Relentless pursuit of high quality by leveraging engineering best practices.&amp;nbsp;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;u&gt;What You’ll Bring&lt;/u&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;2+ years’ experience delivering and supporting enterprise-ready cloud-based systems.&lt;/li&gt;\n&lt;li&gt;Hands-on experience architecting and developing backend and frontend services.&lt;/li&gt;\n&lt;li&gt;Software development experience in any language.&lt;/li&gt;\n&lt;li&gt;Experience developing scalable microservices architectures.&lt;/li&gt;\n&lt;li&gt;Understanding of Continuous Integration and Continuous Delivery strategies.&lt;/li&gt;\n&lt;li&gt;Understanding of monitoring and alerting strategies.&lt;/li&gt;\n&lt;li&gt;Familiarity with unit testing frameworks and end-to-end testing tools.&lt;/li&gt;\n&lt;li&gt;Understanding of software development best practices, including testing paradigms, peer code reviews, and resilient architectures.&lt;/li&gt;\n&lt;li&gt;Team player who adapts to ambiguity, takes initiative to fix issues, and balances speed and risk using data-driven decisions.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;u&gt;Nice To Have&lt;/u&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Familiarity with Node.js and TypeScript, Kafka, object stores, Kubernetes, Redis, and PostgreSQL.&lt;/li&gt;\n&lt;li&gt;Familiarity with React, NestJS, Fastify, and MikroORM (big plus).&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;u&gt;Better Together&lt;/u&gt;&lt;/p&gt;\n&lt;p&gt;Diversity. Inclusion. They’re more than just words for us. They are the guiding values of how we build our teams, cultivate leaders, and create a culture where people feel connected.&lt;/p&gt;\n&lt;p&gt;We take care of our employees so they can take care of our customers. Customers who&amp;nbsp;come from all walks of life just like us. We hire incredible people from diverse backgrounds because when we are different together, we are stronger together.&lt;/p&gt;\n&lt;p&gt;&lt;u&gt;About Us&lt;/u&gt;&lt;/p&gt;\n&lt;p&gt;BeyondTrust is the worldwide leader in intelligent identity and access security, enabling organizations to protect identities, stop threats, and deliver dynamic access. We are leading the charge in innovating identity-first security and are trusted by 20,000 customers, including 75 of the Fortune 100, plus a global ecosystem of partners.&lt;/p&gt;\n&lt;p&gt;Learn more at&amp;nbsp;&lt;a href=&quot;http://www.beyondtrust.com/&quot;&gt;www.beyondtrust.com&lt;/a&gt;.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;#LI-EP1&lt;/p&gt;",
+  "departments": [
+    {
+      "id": 151526,
+      "name": "Engineering ",
+      "child_ids": [],
+      "parent_id": 81781
+    }
+  ],
+  "offices": [
+    {
+      "id": 201121,
+      "name": "Hybrid Israel",
+      "location": null,
+      "child_ids": [],
+      "parent_id": 51991
+    }
+  ],
+  "ai_disclaimer": null,
+  "include_ai_disclaimer": null,
+  "ai_opt_out_request_url": null
+}

@@ -37,13 +37,13 @@
     {
       "id": 20164553,
       "name": "FADV_Account",
-      "value": null,
+      "value": "237364USA_ELASTIC US",
       "value_type": "single_select"
     },
     {
       "id": 20164588,
       "name": "FADV_Package",
-      "value": null,
+      "value": "2115_US FIELD OPS - AMER",
       "value_type": "single_select"
     },
     {
@@ -54,7 +54,7 @@
     }
   ],
   "id": 7997314,
-  "updated_at": "2026-10-01T12:57:36-04:00",
+  "updated_at": "2026-10-19T09:35:23-04:00",
   "requisition_id": "R11749",
   "title": "Inside Account Executive (Hunter)",
   "company_name": "Elastic",

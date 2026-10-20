@@ -124,7 +124,7 @@
     }
   ],
   "id": 5175673008,
-  "updated_at": "2026-10-13T17:47:50-04:00",
+  "updated_at": "2026-10-19T14:34:06-04:00",
   "requisition_id": "R0006198",
   "title": "Senior Technical Account Manager, Cash App Pay & Afterpay",
   "company_name": "Block",
@@ -142,8 +142,8 @@
   ],
   "offices": [
     {
-      "id": 4007808008,
-      "name": "US - NY - NYC - Remote",
+      "id": 4007876008,
+      "name": "US - CA - SoCal - Remote",
       "location": null,
       "child_ids": [],
       "parent_id": 4004627008

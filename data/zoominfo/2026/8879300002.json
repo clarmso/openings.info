@@ -1,0 +1,72 @@
+{
+  "absolute_url": "https://www.zoominfo.com/careers?gh_jid=8879300002",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": false,
+      "requires_processing_consent": false,
+      "requires_retention_consent": false,
+      "retention_period": null,
+      "demographic_data_consent_applies": false
+    }
+  ],
+  "internal_job_id": 6555733002,
+  "location": {
+    "name": "Remote-US-CA"
+  },
+  "metadata": [
+    {
+      "id": 24710929002,
+      "name": "Job Family Group",
+      "value": "Engineering",
+      "value_type": "single_select"
+    },
+    {
+      "id": 24711071002,
+      "name": "Time Type",
+      "value": "Full time",
+      "value_type": "single_select"
+    },
+    {
+      "id": 101751589002,
+      "name": "Work Shift",
+      "value": "General Shift",
+      "value_type": "short_text"
+    },
+    {
+      "id": 4203585002,
+      "name": "LEGACY - Employment Type",
+      "value": null,
+      "value_type": "single_select"
+    }
+  ],
+  "id": 8879300002,
+  "updated_at": "2026-10-19T17:12:53-04:00",
+  "requisition_id": "JR108218",
+  "title": "Principal Software Engineer - PA 105",
+  "company_name": "ZoomInfo Technologies LLC",
+  "first_published": "2026-10-19T17:12:53-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;ZoomInfo is where careers accelerate. We move fast, think boldly, and empower you to do the best work of your life. You’ll be surrounded by teammates who care deeply, challenge each other, and celebrate wins. With tools that amplify your impact and a culture that backs your ambition, you won’t just contribute. You’ll make things happen–fast.&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;br&gt;We are looking for a Principal Software Engineer to serve as a senior technical force multiplier across three pillars of our Platform Engineering organization: Integrations, Workflows &amp;amp; Orchestration, and Data Management. Together, these teams own the connectors, orchestration, and data quality capabilities that push ZoomInfo&#39;s data product into the systems our customers run every day.&lt;/p&gt;\n&lt;p&gt;This is a hands-on, high-impact individual contributor role. You will embed with whichever team needs the most help at a given time. That might mean a major initiative, a stubborn area of tech debt, a reliability problem, or a chance to grow into new territory. You will lead through influence, not authority. You will set technical direction, raise the engineering bar, and work with Managers, engineers, and Product to turn ambiguity into well-architected, shipped solutions.&lt;/p&gt;\n&lt;p&gt;You will report directly to the Senior Director of Software Engineering and work closely with three Engineering Leaders and their teams.&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;The Three Pillars You&#39;ll Support&lt;/strong&gt;&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;&lt;strong&gt;Integrations:&lt;/strong&gt; Native connectors and APIs that link ZoomInfo to CRM, marketing automation, sales engagement, data warehouse, and BI platforms (Salesforce, HubSpot, Marketo, Outreach, Snowflake, and others), processing millions of records daily.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Workflows &amp;amp; Orchestration:&lt;/strong&gt; The engine behind lead-to-account matching and multi-step, event-driven business processes triggered by buying signals and business rules.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Data Management:&lt;/strong&gt; Deduplication, standardization, enrichment, continuous verification, and GDPR/CCPA compliance that keep customer data clean, current, and trustworthy.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;What You&#39;ll do:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Embed with Integrations, Workflows &amp;amp; Orchestration, and Data Management teams on a rotating basis, writing production-quality code and unblocking the hardest technical problems&lt;/li&gt;\n&lt;li&gt;Define and evolve scalable, fault-tolerant, event-driven architecture on Java/Spring Boot, Node.js/NestJS, Kafka, and workflow orchestration platforms such as Temporal or Google Cloud Workflows&lt;/li&gt;\n&lt;li&gt;Lead response and root-cause analysis for high-severity incidents and systemic reliability issues&lt;/li&gt;\n&lt;li&gt;Drive platform modernization by consolidating integration patterns, re-architecting legacy systems, and improving observability&lt;/li&gt;\n&lt;li&gt;Establish best practices for idempotency, retries, error handling, state management, API and webhook versioning, and workflow design&lt;/li&gt;\n&lt;li&gt;Shape multi-quarter roadmaps with the Senior Director, Engineering Managers, and Product, bringing technical feasibility, sizing, and risk into prioritization&lt;/li&gt;\n&lt;li&gt;Lead build-vs-buy evaluations and author architecture decision records and design docs that guide teams over multiple quarters&lt;/li&gt;\n&lt;li&gt;Mentor engineers at all levels and serve as a senior interviewer to raise the hiring bar&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;What you bring:&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&lt;em&gt;Must-Have&lt;/em&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;12+ years of software engineering experience, including significant time in senior or staff-level roles, with a track record of technical leadership across multiple teams&lt;/li&gt;\n&lt;li&gt;Deep experience designing and operating backend distributed systems at scale, with strong proficiency in Java (Spring Boot) and/or Node.js (NestJS)&lt;/li&gt;\n&lt;li&gt;Experience building or owning integrations or connectors with CRM, marketing automation, sales engagement, or data warehouse platforms (Salesforce, HubSpot, Marketo, Snowflake, or similar)&lt;/li&gt;\n&lt;li&gt;Demonstrated ability to influence without authority by aligning teams, driving decisions, and earning trust across engineering, product, and business stakeholders&lt;/li&gt;\n&lt;li&gt;Strong track record leading platform modernization, reliability, and observability initiatives, with excellent written and verbal communication skills, including presenting to executive leadership&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;em&gt;Preferred&lt;/em&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Hands-on experience with event-driven architectures and streaming technologies such as Kafka, and workflow orchestration platforms such as Temporal, Google Cloud Workflows, or Airflow&lt;/li&gt;\n&lt;li&gt;Working knowledge of data quality practices: deduplication, standardization, enrichment, and GDPR/CCPA compliance&lt;/li&gt;\n&lt;li&gt;Experience with API strategy, webhooks, partner/ISV integration programs, and no-code/low-code workflow builders&lt;/li&gt;\n&lt;li&gt;Experience with multi-cloud environments (AWS, GCP), build-vs-buy evaluations, vendor management, and SaaS cost optimization&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;The US base salary range for this position is&amp;nbsp;&lt;strong&gt;$XXX,XXX&lt;/strong&gt; - &lt;strong&gt;$XXX,XXX&lt;/strong&gt; + variable compensation + benefits.&lt;/p&gt;\n&lt;p&gt;Actual compensation offered will be based on factors such as the candidate’s work location, qualifications, skills, experience and/or training. Your recruiter can share more information about the specific salary range for your desired work location during the hiring process.&lt;/p&gt;\n&lt;p&gt;We want our employees and their families to thrive. In addition to comprehensive benefits we offer holistic mind, body and lifestyle programs designed for overall well-being. Learn more about ZoomInfo benefits&amp;nbsp;&lt;a href=&quot;https://www.zoominfo.com/careers#benefits&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;\n&lt;p&gt;#LI-LM1&lt;/p&gt;\n&lt;p&gt;#LI-Remote&lt;/p&gt;&lt;div class=&quot;content-pay-transparency&quot;&gt;&lt;div class=&quot;pay-input&quot;&gt;&lt;div class=&quot;description&quot;&gt;&lt;p&gt;Actual compensation offered will be based on factors such as the candidate’s work location, qualifications, skills, experience and/or training. Your recruiter can share more information about the specific salary range for your desired work location during the hiring process. We want our employees and their families to thrive.&lt;/p&gt;\n&lt;p&gt;In addition to comprehensive benefits we offer holistic mind, body and lifestyle programs designed for overall well-being. Learn more about ZoomInfo benefits &lt;a class=&quot;c-link&quot; href=&quot;https://www.zoominfo.com/careers#benefits&quot; target=&quot;_blank&quot; data-stringify-link=&quot;https://www.zoominfo.com/careers#benefits&quot; data-sk=&quot;tooltip_parent&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;title&quot;&gt;Below is the US base salary for this position. Additional compensation such as Bonus, Commission, Equity and other benefits may also apply.&lt;/div&gt;&lt;div class=&quot;pay-range&quot;&gt;&lt;span&gt;$163,800&lt;/span&gt;&lt;span class=&quot;divider&quot;&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;$257,400 USD&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;&lt;strong&gt;About us:&lt;/strong&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;ZoomInfo (NASDAQ: GTM) is the Go-To-Market Intelligence Platform that empowers businesses to grow faster with AI-ready insights, trusted data, and advanced automation. Its solutions provide more than 35,000 companies worldwide with a complete view of their customers, making every seller their best seller.&lt;/p&gt;\n&lt;p&gt;ZoomInfo is committed to protecting your privacy when you apply for jobs with us. Please review our Job Applicant &lt;a href=&quot;https://drive.google.com/file/d/1yiG-k0YX_sW10PiJk_xliDc3W-veJCrK/view?usp=drive_link&quot; target=&quot;_blank&quot;&gt;Privacy Notice&lt;/a&gt; for more details on how we handle your personal information.&lt;/p&gt;\n&lt;p&gt;ZoomInfo may use a software-based assessment as part of the recruitment process. More information about this tool, including the results of the most recent bias audit, is available &lt;a href=&quot;https://www.zoominfo.com/legal/nyc-local-law-144-notice&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;\n&lt;p&gt;ZoomInfo is proud to be an equal opportunity employer, hiring based on qualifications, merit, and business needs, and does not discriminate based on protected status. We welcome all applicants and are committed to providing equal employment opportunities regardless of sex, race, age, color, national origin, sexual orientation, gender identity, marital status, disability status, religion, protected military or veteran status, medical condition, or any other characteristic protected by applicable law. We also consider qualified candidates with criminal histories in accordance with legal requirements.&lt;/p&gt;\n&lt;p&gt;For Massachusetts Applicants: It is unlawful in Massachusetts to require or administer a lie detector test as a condition of employment or continued employment. An employer who violates this law shall be subject to criminal penalties and civil liability. ZoomInfo does not administer lie detector tests to applicants in any location.&lt;/p&gt;&lt;/div&gt;",
+  "departments": [
+    {
+      "id": 4074789002,
+      "name": "938 Engineering - Product Foundations",
+      "child_ids": [],
+      "parent_id": null
+    }
+  ],
+  "offices": [
+    {
+      "id": 4085444002,
+      "name": "Remote-US-CA",
+      "location": null,
+      "child_ids": [],
+      "parent_id": null
+    }
+  ],
+  "ai_disclaimer": null,
+  "include_ai_disclaimer": null,
+  "ai_opt_out_request_url": null
+}

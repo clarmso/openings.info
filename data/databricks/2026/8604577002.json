@@ -31,7 +31,7 @@
     }
   ],
   "id": 8604577002,
-  "updated_at": "2026-10-13T15:49:25-04:00",
+  "updated_at": "2026-10-20T03:40:17-04:00",
   "requisition_id": "GAQ426R192",
   "title": "Senior Manager, Finance Data and AI",
   "company_name": "Databricks",
@@ -49,11 +49,11 @@
   ],
   "offices": [
     {
-      "id": 4007112002,
-      "name": "Bengaluru, India",
-      "location": "Bengaluru, India",
+      "id": 4056344002,
+      "name": "Remote - India",
+      "location": "Remote - India",
       "child_ids": [],
-      "parent_id": 4056341002
+      "parent_id": 4033855002
     }
   ],
   "ai_disclaimer": null,

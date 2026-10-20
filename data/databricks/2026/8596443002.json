@@ -31,7 +31,7 @@
     }
   ],
   "id": 8596443002,
-  "updated_at": "2026-10-14T08:18:14-04:00",
+  "updated_at": "2026-10-19T05:55:05-04:00",
   "requisition_id": "SLSQ327R435",
   "title": "Strategic Enterprise Account Executive - Insurance  ",
   "company_name": "Databricks",
@@ -49,9 +49,9 @@
   ],
   "offices": [
     {
-      "id": 4000545002,
-      "name": "London, United Kingdom",
-      "location": "London, United Kingdom",
+      "id": 4056392002,
+      "name": "Remote - United Kingdom",
+      "location": "Remote - United Kingdom",
       "child_ids": [],
       "parent_id": 4033858002
     }

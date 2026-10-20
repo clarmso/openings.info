@@ -30,7 +30,7 @@
     {
       "id": 498252,
       "name": "Cost Center",
-      "value": "Technical Solutions - Professional Services",
+      "value": "Sales - Channels & Alliances",
       "value_type": "single_select"
     },
     {
@@ -48,7 +48,11 @@
     {
       "id": 29446322,
       "name": "Pay Transparency Range",
-      "value": null,
+      "value": {
+        "unit": "EUR",
+        "max_value": "0.0",
+        "min_value": "0.0"
+      },
       "value_type": "currency_range"
     },
     {
@@ -65,7 +69,7 @@
     }
   ],
   "id": 8204056,
-  "updated_at": "2026-09-29T13:18:57-04:00",
+  "updated_at": "2026-10-19T07:00:32-04:00",
   "requisition_id": "R18091",
   "title": " Partner Solutions Architect (EMEA)",
   "company_name": "Datadog",
@@ -83,11 +87,25 @@
   ],
   "offices": [
     {
+      "id": 85005,
+      "name": "Lisbon",
+      "location": null,
+      "child_ids": [],
+      "parent_id": 78106
+    },
+    {
       "id": 76732,
       "name": "Remote - France",
       "location": "France",
       "child_ids": [],
       "parent_id": 78094
+    },
+    {
+      "id": 76737,
+      "name": "Remote - Italy",
+      "location": "Italy",
+      "child_ids": [],
+      "parent_id": 64262
     },
     {
       "id": 76793,

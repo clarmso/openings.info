@@ -1,0 +1,108 @@
+{
+  "absolute_url": "https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6226480004",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": true,
+      "requires_processing_consent": false,
+      "requires_retention_consent": true,
+      "retention_period": 1460,
+      "demographic_data_consent_applies": true
+    }
+  ],
+  "internal_job_id": 5229561004,
+  "location": {
+    "name": "United States, Remote"
+  },
+  "metadata": [
+    {
+      "id": 4367803004,
+      "name": "Cost Center",
+      "value": "GAMES1US70-USG1900320 US-Supply Chain",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4167524004,
+      "name": "Career Page - Office Location",
+      "value": "United States, Remote",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4167525004,
+      "name": "Career Page - Department",
+      "value": "Supply Chain & Operations",
+      "value_type": "single_select"
+    },
+    {
+      "id": 9377282004,
+      "name": "Career Page - Sub Department",
+      "value": null,
+      "value_type": "single_select"
+    },
+    {
+      "id": 20089613004,
+      "name": "Career Page - Studio Project",
+      "value": null,
+      "value_type": "single_select"
+    },
+    {
+      "id": 4395289004,
+      "name": "Worker Type",
+      "value": "Employee",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4404049004,
+      "name": "Country",
+      "value": "United States of America",
+      "value_type": "single_select"
+    },
+    {
+      "id": 9262269004,
+      "name": "Job Family",
+      "value": "Production Control",
+      "value_type": "short_text"
+    },
+    {
+      "id": 9262270004,
+      "name": "Job Family Group",
+      "value": "Supply Chain",
+      "value_type": "short_text"
+    },
+    {
+      "id": 21724118004,
+      "name": "Bungie Geo Pay",
+      "value": null,
+      "value_type": "single_select"
+    }
+  ],
+  "id": 6226480004,
+  "updated_at": "2026-10-19T14:42:39-04:00",
+  "requisition_id": "R-125796",
+  "title": "Senior Manager, AMER Operations",
+  "company_name": "PlayStation Global",
+  "first_published": "2026-10-19T14:42:19-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;Why Sony Interactive Entertainment?&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Sony Interactive Entertainment isn’t just the Best Place to Play — it’s also the Best Place to Work. Sony Interactive Entertainment (SIE) is the company behind the PlayStation brand. As a subsidiary of Sony Group Corporation, we’re part of a proud legacy of innovation and excellence. SIE is a dynamic technology company, delivering cutting-edge hardware and network services to more than 100 million people and an entertainment leader, home to some of the most beloved and recognizable intellectual properties (IP) in the world. Our role at SIE is to create and nurture the experiences under the PlayStation brand, a name synonymous with entertainment excellence and creativity.&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;span style=&quot;color: #000000;&quot;&gt;&lt;strong&gt;Senior Manager, Operations&lt;/strong&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;\n&lt;p style=&quot;color: !important;&quot;&gt;&lt;span style=&quot;color: #000000;&quot;&gt;The Senior Manager, Operations will be responsible for leading logistics and warehousing activities across the AMER region (US, CAN, LATAM) for Sony Interactive Entertainment, ensuring PlayStation products move efficiently, reliably, and compliantly through the end-to-end regional supply chain.&amp;nbsp;&lt;/span&gt;&lt;/p&gt;\n&lt;p style=&quot;color: !important;&quot;&gt;&lt;span style=&quot;color: #000000;&quot;&gt;This role will oversee inbound logistics, destination activity from port to warehouse, warehouse operations, and outbound transportation across both B2B and B2C channels. Working closely with the Japan Logistics group for international transportation, regional Operations teams, Planning, Commercial, D2C, Finance, Customer Service, external warehousing (3PL), and logistics partners including 4PL Control Towers, this senior leader will ensure the AMER supply chain is resilient, cost effective, agile, and able to deliver against PlayStation’s customer and commercial commitments.&amp;nbsp;&lt;/span&gt;&lt;/p&gt;\n&lt;p style=&quot;color: !important;&quot;&gt;&lt;span style=&quot;color: #000000;&quot;&gt;The Logistics Operations and Warehouse Operations team members will report into this role, with responsibility for managing performance, developing capability, and ensuring operational execution meets the needs of the business.&amp;nbsp;&lt;/span&gt;&lt;/p&gt;\n&lt;p style=&quot;color: !important;&quot;&gt;&lt;span style=&quot;color: #000000;&quot;&gt;&lt;strong&gt;What You’ll Be Doing:&lt;/strong&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;\n&lt;p style=&quot;color: !important;&quot;&gt;&lt;span style=&quot;color: #000000;&quot;&gt;Lead all AMER logistics and warehousing operations, ensuring inbound, warehouse, and outbound activities are delivered safely, accurately, on time, and to the required service level.&amp;nbsp;&lt;/span&gt;&lt;/p&gt;\n&lt;p style=&quot;color: !important;&quot;&gt;&lt;span style=&quot;color: #000000;&quot;&gt;Partner closely with the Japan Logistics group to manage inbound transportation from factory, creating resilience across supply routes, shipment planning, issue management, and operational execution.&amp;nbsp;&lt;/span&gt;&lt;/p&gt;\n&lt;p style=&quot;color: !important;&quot;&gt;&lt;span style=&quot;color: #000000;&quot;&gt;Ensure destination activities from port into warehouse are completed on time and correctly, including coordination with freight partners, customs teams, port operations, and warehousing providers.&amp;nbsp;&lt;/span&gt;&lt;/p&gt;\n&lt;p style=&quot;color: !important;&quot;&gt;&lt;span style=&quot;color: #000000;&quot;&gt;Oversee warehouse operations across AMER, ensuring service providers deliver efficient, cost effective, resilient, and agile fulfilment capability for both B2B and B2C channels.&amp;nbsp;&lt;/span&gt;&lt;/p&gt;\n&lt;p style=&quot;color: !important;&quot;&gt;&lt;span style=&quot;color: #000000;&quot;&gt;Manage outbound transportation performance to deliver On Time In Full across retail, distributor, eCommerce, and PlayStation Direct customer requirements.&amp;nbsp;&lt;/span&gt;&lt;/p&gt;\n&lt;p style=&quot;color: !important;&quot;&gt;&lt;span style=&quot;color: #000000;&quot;&gt;Lead logistics and warehousing partner performance management, ensuring partners meet agreed service levels, cost expectations, operational standards, and business commitments. Own MBRs and relevant processes, ensuring the annual review schedule is planned, cordinated, and delivered to provide key insights into SIE and out to our warehousing, transport, and service partners.&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;\n&lt;p style=&quot;color: !important;&quot;&gt;&lt;span style=&quot;color: #000000;&quot;&gt;Work cross-functionally with Planning, Commercial, D2C Operations, Finance, Customer Service, and regional market teams to ensure operational plans are aligned to demand, customer needs, launch activity, and business priorities.&amp;nbsp;&lt;/span&gt;&lt;/p&gt;\n&lt;p style=&quot;color: !important;&quot;&gt;&lt;span style=&quot;color: #000000;&quot;&gt;Drive continuous improvement across cost, service, resilience, agility, warehouse productivity, transport performance, and operational ways of working. This role requires close collaboration hand in hand with Operational Excellence and Transformation to drive a defined improvement plan, develop and input into MRP, and undertake regular metric reviews in a standardised and systematic manner.&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;\n&lt;p style=&quot;color: !important;&quot;&gt;&lt;span style=&quot;color: #000000;&quot;&gt;&lt;strong&gt;Key Areas of Focus:&lt;/strong&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;\n&lt;p style=&quot;color: !important;&quot;&gt;&lt;span style=&quot;color: #000000;&quot;&gt;&lt;strong&gt;Inbound Logistics &amp;amp; Supply Chain Resilience&lt;/strong&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;&lt;span style=&quot;color: #000000;&quot;&gt;Manage inbound transportation activity from factory into AMER.&amp;nbsp;&lt;/span&gt;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;ul&gt;\n&lt;li&gt;&lt;span style=&quot;color: #000000;&quot;&gt;Partner with Japan Logistics to ensure shipment plans, lead times, capacity, and risks are actively managed.&amp;nbsp;&lt;/span&gt;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;ul&gt;\n&lt;li&gt;&lt;span style=&quot;color: #000000;&quot;&gt;Build resilience across inbound routes, providers, processes, and escalation paths.&amp;nbsp;&lt;/span&gt;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;ul&gt;\n&lt;li&gt;&lt;span style=&quot;color: #000000;&quot;&gt;Ensure inbound issues are identified early and resolved quickly to protect customer and business commitments.&amp;nbsp;&lt;/span&gt;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p style=&quot;color: !important;&quot;&gt;&lt;span style=&quot;color: #000000;&quot;&gt;&lt;strong&gt;Port, Destination &amp;amp; Warehouse Flow&lt;/strong&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;&lt;span style=&quot;color: #000000;&quot;&gt;Oversee destination activity from port into warehouse.&amp;nbsp;&lt;/span&gt;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;ul&gt;\n&lt;li&gt;&lt;span style=&quot;color: #000000;&quot;&gt;Ensure stock is received, transferred, and made available accurately and on time.&amp;nbsp;&lt;/span&gt;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;ul&gt;\n&lt;li&gt;&lt;span style=&quot;color: #000000;&quot;&gt;Coordinate with freight forwarders, customs partners, port providers, and warehouse teams to maintain flow.&amp;nbsp;&lt;/span&gt;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;ul&gt;\n&lt;li&gt;&lt;span style=&quot;color: #000000;&quot;&gt;Identify and remove bottlenecks across inbound handling, clearance, transport, and receipt processes.&amp;nbsp;&lt;/span&gt;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p style=&quot;color: !important;&quot;&gt;&lt;span style=&quot;color: #000000;&quot;&gt;&lt;strong&gt;Warehouse Operations&lt;/strong&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;&lt;span style=&quot;color: #000000;&quot;&gt;Lead AMER warehouse operations across B2B and B2C activity.&amp;nbsp;&lt;/span&gt;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;ul&gt;\n&lt;li&gt;&lt;span style=&quot;color: #000000;&quot;&gt;Manage warehousing partners to deliver high service, strong productivity, cost control, and operational flexibility.&amp;nbsp;&lt;/span&gt;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;ul&gt;\n&lt;li&gt;&lt;span style=&quot;color: #000000;&quot;&gt;Ensure warehouse operations support retail, distributor, D2C, launch, promotional, returns, and peak requirements.&amp;nbsp;&lt;/span&gt;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;ul&gt;\n&lt;li&gt;&lt;span style=&quot;color: #000000;&quot;&gt;Drive partner accountability through service reviews, performance metrics, issue resolution, and improvement plans.&amp;nbsp;&lt;/span&gt;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;ul&gt;\n&lt;li&gt;&lt;span style=&quot;color: #000000;&quot;&gt;Design, Deploy, and Deliver Continuous Improvement initiatives throughout the warehousing network.&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p style=&quot;color: !important;&quot;&gt;&lt;span style=&quot;color: #000000;&quot;&gt;&lt;strong&gt;Outbound Transportation&lt;/strong&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;&lt;span style=&quot;color: #000000;&quot;&gt;Manage outbound transport operations across AMER for B2B and B2C customers.&amp;nbsp;&lt;/span&gt;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;ul&gt;\n&lt;li&gt;&lt;span style=&quot;color: #000000;&quot;&gt;Ensure transport partners deliver On Time In Full against agreed customer promises.&amp;nbsp;&lt;/span&gt;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;ul&gt;\n&lt;li&gt;&lt;span style=&quot;color: #000000;&quot;&gt;Monitor delivery performance, cost, capacity, claims, exceptions, and service quality.&amp;nbsp;&lt;/span&gt;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;ul&gt;\n&lt;li&gt;&lt;span style=&quot;color: #000000;&quot;&gt;Work with Customer Service, D2C, Commercial, and Planning teams to ensure customer requirements are understood and delivered.&amp;nbsp;&lt;/span&gt;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p style=&quot;color: !important;&quot;&gt;&lt;span style=&quot;color: #000000;&quot;&gt;&lt;strong&gt;Leadership &amp;amp; Operational Performance&lt;/strong&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;&lt;span style=&quot;color: #000000;&quot;&gt;Lead the Logistics Operations and Warehouse Operations teams.&amp;nbsp;&lt;/span&gt;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;ul&gt;\n&lt;li&gt;&lt;span style=&quot;color: #000000;&quot;&gt;Build a high-performing operational culture focused on service, accountability, resilience, and continuous improvement.&amp;nbsp;&lt;/span&gt;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;ul&gt;\n&lt;li&gt;&lt;span style=&quot;color: #000000;&quot;&gt;Establish clear governance, KPIs, reporting, and escalation routines across logistics and warehousing. Undertake regular standardised metrics reviews with the team, tracking actions to pivot, stay agile, and keep the business on track.&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;ul&gt;\n&lt;li&gt;&lt;span style=&quot;color: #000000;&quot;&gt;Deliver measurable improvements in service performance, cost efficiency, partner capability, and operational execution via a well-defined plan of action. Input into the MRP process and communicate plans effectively.&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;ul&gt;\n&lt;li&gt;&lt;span style=&quot;color: #000000;&quot;&gt;Create a Lean culture, capitalising on VSMs and undertaking waste removal activities via Continuous Improvement. Work closely with the Operational Excellence Team to gain support and take guidance on strategic and continuous improvement plans.&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p style=&quot;color: !important;&quot;&gt;&lt;span style=&quot;color: #000000;&quot;&gt;&lt;strong&gt;What We’re Looking For:&lt;/strong&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;&lt;span style=&quot;color: #000000;&quot;&gt;12+ years’ experience in logistics, warehousing, supply chain operations, transportation, fulfilment, or a related field.&amp;nbsp;&lt;/span&gt;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;ul&gt;\n&lt;li&gt;&lt;span style=&quot;color: #000000;&quot;&gt;Strong experience managing regional logistics and warehouse operations across complex supply chains.&amp;nbsp;&lt;/span&gt;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;ul&gt;\n&lt;li&gt;&lt;span style=&quot;color: #000000;&quot;&gt;Experience working with inbound freight, port-to-warehouse activity, 3PL warehousing partners, and outbound transport providers.&amp;nbsp;&lt;/span&gt;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;ul&gt;\n&lt;li&gt;&lt;span style=&quot;color: #000000;&quot;&gt;Strong understanding of B2B and B2C operational requirements, including retail fulfilment, eCommerce, and direct-to-consumer delivery.&amp;nbsp;&lt;/span&gt;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;ul&gt;\n&lt;li&gt;&lt;span style=&quot;color: #000000;&quot;&gt;Proven ability to manage service partners against cost, service, resilience, and performance expectations.&amp;nbsp;&lt;/span&gt;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;ul&gt;\n&lt;li&gt;&lt;span style=&quot;color: #000000;&quot;&gt;Strong leadership experience, with the ability to manage operational teams and influence cross-functional partners.&amp;nbsp;&lt;/span&gt;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;ul&gt;\n&lt;li&gt;&lt;span style=&quot;color: #000000;&quot;&gt;Excellent analytical and problem-solving skills, with a focus on continuous improvement and operational control.&amp;nbsp;&lt;/span&gt;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;ul&gt;\n&lt;li&gt;&lt;span style=&quot;color: #000000;&quot;&gt;Strong stakeholder management skills across Logistics, Planning, Commercial, Finance, Customer Service, D2C, and regional teams.&amp;nbsp;&lt;/span&gt;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;ul&gt;\n&lt;li&gt;&lt;span style=&quot;color: #000000;&quot;&gt;Excellent written, verbal, and presentation skills.&amp;nbsp;&lt;/span&gt;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;ul&gt;\n&lt;li&gt;&lt;span style=&quot;color: #000000;&quot;&gt;BA/BS in Supply Chain, Logistics, Operations, Business, or another related field preferred.&amp;nbsp;&lt;/span&gt;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;color: #000000;&quot;&gt;#LI-SV1&lt;/span&gt;&lt;/p&gt;&lt;div class=&quot;content-pay-transparency&quot;&gt;&lt;div class=&quot;pay-input&quot;&gt;&lt;div class=&quot;description&quot;&gt;&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;At SIE, we consider several factors when setting each role’s base pay range, including the competitive benchmarking data for the market and geographic location.&amp;nbsp;&lt;br&gt;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Please note that the base pay range may vary in line with our hybrid working policy and individual base pay will be determined based on job-related factors which may include knowledge, skills, experience, and location.&amp;nbsp;&lt;br&gt;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;In addition, this role is eligible for SIE’s top-tier benefits package that includes medical, dental, vision, matching 401(k), paid time off, wellness program and coveted employee discounts for Sony products. This role also may be eligible for a bonus package. Click &lt;/span&gt;&lt;a href=&quot;https://careers.playstation.com/benefits&quot; target=&quot;_blank&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;strong&gt;here&lt;/strong&gt;&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt; to learn more.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;title&quot;&gt;This is a flexible role that can be remote, with varying pay ranges based on geographic location. For example, if you are based out of Seattle, the estimated base pay range for this role is listed below.&lt;/div&gt;&lt;div class=&quot;pay-range&quot;&gt;&lt;span&gt;$164,600&lt;/span&gt;&lt;span class=&quot;divider&quot;&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;$247,000 USD&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p class=&quot;p1&quot;&gt;Please note, Sony Interactive Entertainment conducts background checks at the offer stage for all new employees (which may include criminal background checks for some roles) and will need to process personal information to support these checks.&lt;/p&gt;\n&lt;p class=&quot;p1&quot;&gt;Please refer to our&amp;nbsp;&lt;a href=&quot;https://www.playstation.com/legal/careers-privacy-notice/&quot; target=&quot;_blank&quot;&gt;Candidate Privacy Notice&lt;/a&gt;&amp;nbsp;for more information about what personal information we collect, how we use it, who we share it with, and your data protection rights.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Equal Opportunity Statement:&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&lt;em&gt;Sony is an Equal Opportunity Employer. All persons will receive consideration for employment without regard to gender (including gender identity, gender expression and gender reassignment), race (including colour, nationality, ethnic or national origin), religion or belief, marital or civil partnership status, disability, age, sexual orientation, pregnancy, maternity or parental status, trade union membership or membership in any other legally protected category.&lt;/em&gt;&lt;/p&gt;\n&lt;p&gt;&lt;em&gt;We strive to create an inclusive environment, empower employees and embrace diversity. We encourage everyone to respond.&amp;nbsp;&lt;/em&gt;&lt;/p&gt;\n&lt;p&gt;&lt;em&gt;Sony Interactive Entertainment is a Fair Chance employer and qualified applicants with arrest and conviction records will be considered for employment.&lt;/em&gt;&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;",
+  "departments": [
+    {
+      "id": 4037206004,
+      "name": "Admin (Channel Sales)",
+      "child_ids": [],
+      "parent_id": 4037140004
+    }
+  ],
+  "offices": [
+    {
+      "id": 4023532004,
+      "name": "USA-CA-Telecommute",
+      "location": null,
+      "child_ids": [],
+      "parent_id": 4089335004
+    }
+  ],
+  "ai_disclaimer": "<p><strong>Use of AI in Recruiting&nbsp;</strong></p><p><br></p><p>We use artificial intelligence and other automated tools to assist with certain aspects of our recruiting process, including reviewing applications and supporting candidate evaluation. For example, we use Greenhouse's AI-powered Talent Matching tool to compare information in your application against job-related qualifications and criteria established by our recruiting team. More information about <a href=\"https://www.greenhouse.com/\" target=\"_blank\">Greenhouse</a>, including about its features and its Privacy Policy, may be found at its website. These tools assist our recruiting team and do not make hiring decisions.&nbsp;</p><p><br></p>",
+  "include_ai_disclaimer": true,
+  "ai_opt_out_request_url": "http://app4.greenhouse.io/ai_opt_out_request/job_post/6226480004/ai_opt_out"
+}

@@ -12,7 +12,7 @@
   ],
   "internal_job_id": 6443153002,
   "location": {
-    "name": "Remote, Canada; Remote, United Kingdom"
+    "name": "Remote, United Kingdom"
   },
   "metadata": [
     {
@@ -23,7 +23,7 @@
     }
   ],
   "id": 8621733002,
-  "updated_at": "2026-10-15T15:24:46-04:00",
+  "updated_at": "2026-10-19T12:57:08-04:00",
   "requisition_id": "6609",
   "title": "Senior Backend Engineer, AI Engineering: Chat   ",
   "company_name": "GitLab",
@@ -40,13 +40,6 @@
     }
   ],
   "offices": [
-    {
-      "id": 4040901002,
-      "name": "Canada",
-      "location": null,
-      "child_ids": [],
-      "parent_id": 4019551002
-    },
     {
       "id": 4040908002,
       "name": "United Kingdom",

@@ -1,0 +1,148 @@
+{
+  "absolute_url": "https://www.mongodb.com/careers/job/?gh_jid=7909429",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": false,
+      "requires_processing_consent": false,
+      "requires_retention_consent": false,
+      "retention_period": null,
+      "demographic_data_consent_applies": true
+    }
+  ],
+  "internal_job_id": 3437834,
+  "location": {
+    "name": "Palo Alto"
+  },
+  "metadata": [
+    {
+      "id": 22194060,
+      "name": "Position ID",
+      "value": "10013987",
+      "value_type": "short_text"
+    },
+    {
+      "id": 24918,
+      "name": "Department ID",
+      "value": "D85024-FIN Tech",
+      "value_type": "single_select"
+    },
+    {
+      "id": 22194061,
+      "name": "Team",
+      "value": "388-ERP",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4914027,
+      "name": "Region",
+      "value": "North America",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4137836,
+      "name": "Working Model Eligibility",
+      "value": [
+        "2-Flexible"
+      ],
+      "value_type": "multi_select"
+    },
+    {
+      "id": 4914029,
+      "name": "Job Level",
+      "value": "People Manager",
+      "value_type": "single_select"
+    },
+    {
+      "id": 24109,
+      "name": "Employment Type",
+      "value": "Full-time",
+      "value_type": "single_select"
+    },
+    {
+      "id": 1073551,
+      "name": "Job Type",
+      "value": "Standard",
+      "value_type": "single_select"
+    },
+    {
+      "id": 988684,
+      "name": "JD Link",
+      "value": "https://docs.google.com/document/d/1my3evUJZFYaZksElcWirfqyHqdYaZgYMn3d7GdMRZto/edit?tab=t.0",
+      "value_type": "url"
+    },
+    {
+      "id": 5525802,
+      "name": "Baseline Budgeted Salary",
+      "value": null,
+      "value_type": "currency_range"
+    },
+    {
+      "id": 5525816,
+      "name": "Other Large Market Budgeted Salary",
+      "value": null,
+      "value_type": "currency_range"
+    },
+    {
+      "id": 13324394,
+      "name": "Job Post Range (United States)",
+      "value": {
+        "unit": "USD",
+        "max_value": "319000.0",
+        "min_value": "162000.0"
+      },
+      "value_type": "currency_range"
+    },
+    {
+      "id": 40497768,
+      "name": "Job Post Range (Canada)",
+      "value": {
+        "unit": "USD",
+        "max_value": "0.0",
+        "min_value": "0.0"
+      },
+      "value_type": "currency_range"
+    },
+    {
+      "id": 57694516,
+      "name": "Job Post Range (Poland)",
+      "value": null,
+      "value_type": "currency_range"
+    },
+    {
+      "id": 64002488,
+      "name": "Job Post Range (Italy)",
+      "value": null,
+      "value_type": "currency_range"
+    }
+  ],
+  "id": 7909429,
+  "updated_at": "2026-10-19T11:02:34-04:00",
+  "requisition_id": "2273437834",
+  "title": "Senior Lead, Product Management",
+  "company_name": "MongoDB",
+  "first_published": "2026-10-19T11:02:34-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;h3&gt;&lt;strong&gt;About the Role&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;As MongoDB scales, our Finance organization needs systems that scale with it. We are seeking a Senior Manager, Finance Technology - to lead a team of Product Managers, NetSuite Engineers, and Engineers who build and evolve the financial technology platform behind Tax, Treasury, Accounting, Source-to-Pay (S2P), and FP&amp;amp;A.&lt;/p&gt;\n&lt;p&gt;This is a player-coach leadership role at the intersection of Finance, Product, and Engineering. You will own the technical direction for the finance technology stack, turn complex finance requirements into scalable, automated, and compliant solutions, and build a high-performing team that delivers measurable business outcomes. You will also own our NetSuite engineering function, leading the team that develops, integrates, and maintains our ERP platform as the foundation for Finance. You will partner closely with the CFO organization, Controllership, Tax, Treasury, Procurement, FP&amp;amp;A, IT, Security, and Data teams.&lt;/p&gt;\n&lt;p&gt;This role is based in the US. [Palo Alto/ New York]&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;Key Responsibilities&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;Fintech Strategy &amp;amp; Roadmap&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Define and execute a multi-year fintech strategy and roadmap across Tax, Treasury, Accounting, S2P, and FP&amp;amp;A, aligned to Finance priorities and company growth plans&lt;/li&gt;\n&lt;li&gt;Prioritize investments using clear business cases, ROI, and risk considerations, balancing quick wins against foundational platform work&lt;/li&gt;\n&lt;li&gt;Drive automation, AI-enabled workflows, and self-service capabilities that reduce manual effort and shorten close, planning, and procurement cycles&lt;/li&gt;\n&lt;li&gt;Stay ahead of fintech trends, ERP and finance platform best practices, and emerging technologies, and apply them where they create value&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;Product &amp;amp; Engineering Leadership&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Lead and mentor a team of Product Managers and Engineers, setting clear goals, quality standards, and delivery expectations&lt;/li&gt;\n&lt;li&gt;Establish product management and engineering practices for the Finance domain, including discovery, requirements, prioritization, agile delivery, release management, and measurement&lt;/li&gt;\n&lt;li&gt;Ensure PMs and Engineers work as one team, with shared ownership of outcomes and not just feature delivery&lt;/li&gt;\n&lt;li&gt;Provide career development, coaching, and technical growth opportunities for team members&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;NetSuite Engineering &amp;amp; Platform Ownership&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Lead the NetSuite engineering team responsible for the design, development, and ongoing health of MongoDB&#39;s NetSuite environment, which serves as the financial system of record&lt;/li&gt;\n&lt;li&gt;Set technical direction and standards for NetSuite development, including SuiteScript (1.0, 2.0, 2.1), SuiteFlow workflows, SuiteTalk, SuiteQL, saved searches, and custom records and objects&lt;/li&gt;\n&lt;li&gt;Own the NetSuite release and change management lifecycle, including sandbox strategy, code review, testing, deployment, and management of semi-annual NetSuite releases and feature updates&lt;/li&gt;\n&lt;li&gt;Drive technical debt reduction, including rationalizing legacy customizations and scripts, improving performance, and moving toward configuration and standard functionality where it makes sense&lt;/li&gt;\n&lt;li&gt;Oversee NetSuite integrations with CRM, billing, banking, tax, procurement, planning, and data warehouse systems, ensuring they are reliable, monitored, and well documented&lt;/li&gt;\n&lt;li&gt;Partner with Product Managers to translate finance requirements into NetSuite solutions, and with Finance process owners to evaluate when to configure, customize, or buy&lt;/li&gt;\n&lt;li&gt;Ensure NetSuite changes meet SOX and IT general controls, including segregation of duties, role and permission design, change approvals, and audit-ready documentation&lt;/li&gt;\n&lt;li&gt;Manage the relationship with NetSuite/Oracle and implementation partners, including licensing, support escalations, and roadmap alignment&lt;/li&gt;\n&lt;li&gt;Establish support and incident response practices, with clear SLAs, root cause analysis, and monitoring for business-critical processes such as month-end close&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;Domain Leadership Across Finance Functions&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Tax: Partner with Tax to enable accurate and automated sales and use tax, VAT/GST, withholding, and indirect tax compliance, including tax engine integrations and reporting&lt;/li&gt;\n&lt;li&gt;Treasury: Enable cash management, bank connectivity, payments, cash forecasting, FX and risk management, and intercompany funding workflows&lt;/li&gt;\n&lt;li&gt;Accounting: Support record-to-report, general ledger, revenue recognition (ASC 606), consolidations, close automation, reconciliations, and fixed assets&lt;/li&gt;\n&lt;li&gt;Source-to-Pay (S2P): Drive procurement, purchase-to-pay, vendor management, AP automation, spend controls, and expense management&lt;/li&gt;\n&lt;li&gt;FP&amp;amp;A: Enable planning, budgeting, forecasting, and reporting platforms, with trusted data flowing from source systems into decision-ready analytics&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;Systems Integration, Data &amp;amp; Architecture&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Own the architecture and integration strategy for the finance application landscape, spanning ERP (e.g., NetSuite), CRM, billing, banking, tax, procurement, planning, and data warehouse systems&lt;/li&gt;\n&lt;li&gt;Oversee integrations built with iPaaS and API-based tools (e.g., Boomi, Celigo, MuleSoft) and REST/SOAP APIs, ensuring reliability, scalability, and observability.&lt;/li&gt;\n&lt;li&gt;Partner with Data teams to improve data quality, lineage, and the reporting and analytics that support decision-making.&lt;/li&gt;\n&lt;li&gt;Evaluate build vs. buy decisions and lead vendor selection, implementation, and ongoing vendor management, including contracts and licensing.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;Governance, Compliance &amp;amp; Risk&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Ensure finance systems meet regulatory and internal control requirements, including SOX, GAAP, ASC 606, and applicable data privacy regulations&lt;/li&gt;\n&lt;li&gt;Define and enforce governance standards for change management, segregation of duties, role-based access controls (RBAC), and data integrity&lt;/li&gt;\n&lt;li&gt;Support internal and external audits by providing system documentation, reports, and evidence&lt;/li&gt;\n&lt;li&gt;Manage operational reliability, incident response, and system performance for business-critical finance processes&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;Cross-Functional Partnership&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Act as a trusted advisor to Finance and executive leadership on technology capabilities, risks, and strategic initiatives&lt;/li&gt;\n&lt;li&gt;Translate business requirements into scalable solutions and communicate priorities, trade-offs, and progress clearly to technical and non-technical stakeholders&lt;/li&gt;\n&lt;li&gt;Partner with IT, Security, Legal, and Procurement to deliver cohesive, compliant solutions&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;&lt;strong&gt;Required Qualifications&lt;/strong&gt;&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;15+ years of experience in finance systems, fintech, or enterprise application product and engineering, with 4+ years leading teams that include Product Managers and Engineers, including NetSuite developers or engineers&lt;/li&gt;\n&lt;li&gt;Deep, hands-on NetSuite expertise, including SuiteScript (1.0, 2.0, 2.1), SuiteFlow, SuiteTalk/REST/SOAP APIs, SQL/SuiteQL, and managing NetSuite implementations, upgrades, and releases at scale&lt;/li&gt;\n&lt;li&gt;Demonstrated experience delivering technology solutions across multiple finance domains (e.g., Tax, Treasury, Accounting, S2P, FP&amp;amp;A)&lt;/li&gt;\n&lt;li&gt;Strong working knowledge of finance and accounting processes such as record-to-report, procure-to-pay, order-to-cash, treasury operations, and planning and forecasting&lt;/li&gt;\n&lt;li&gt;Hands-on experience with ERP platforms (NetSuite, SAP, Oracle, or Dynamics 365) and adjacent finance applications such as tax engines, treasury management systems, procurement and AP automation, close and reconciliation tools, and planning platforms&lt;/li&gt;\n&lt;li&gt;Strong technical foundation in system integration and architecture, including APIs (REST/SOAP), SQL, and integration platforms (Boomi, MuleSoft, Celigo or similar)&lt;/li&gt;\n&lt;li&gt;Proven ability to set product strategy, build roadmaps, and manage large cross-functional programs, including implementations, migrations, and upgrades, end to end&lt;/li&gt;\n&lt;li&gt;Understanding of SOX compliance, GAAP, ASC 606, and IT general controls and security best practices&lt;/li&gt;\n&lt;li&gt;Excellent leadership, communication, and stakeholder management skills, including the ability to influence senior Finance and technology leaders&lt;/li&gt;\n&lt;li&gt;Strong analytical and problem-solving skills with a data-driven mindset&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;Preferred Qualifications&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;NetSuite Administrator, ERP Consultant, or SuiteCloud Developer certification&lt;/li&gt;\n&lt;li&gt;Experience in a high-growth SaaS, enterprise technology, or public company environment&lt;/li&gt;\n&lt;li&gt;Experience with AI/automation in finance workflows (e.g., intelligent document processing, close automation, forecasting)&lt;/li&gt;\n&lt;li&gt;Familiarity with BI and reporting tools (e.g., Tableau, Looker, Power BI, NetSuite Analytics)&lt;/li&gt;\n&lt;li&gt;Other relevant certifications (e.g., PMP, CPA) or a CPA-adjacent finance background are a plus&lt;/li&gt;\n&lt;li&gt;Experience building and scaling product management practices within a Finance or IT organization&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;&lt;strong&gt;Success Metrics&lt;/strong&gt;&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Strategic Impact: Deliver a clear, prioritized fintech roadmap that drives efficiency, automation, and scalability across Tax, Treasury, Accounting, S2P, and FP&amp;amp;A&lt;/li&gt;\n&lt;li&gt;Operational Excellence: Maintain reliable, secure, and audit-ready finance systems with strong performance and control compliance&lt;/li&gt;\n&lt;li&gt;NetSuite Platform Health: Maintain a stable, performant, audit-ready NetSuite environment with disciplined release management, low production incident rates, and reduced technical debt&lt;/li&gt;\n&lt;li&gt;Business Outcomes: Achieve measurable improvements such as faster financial close, reduced manual effort, improved forecast accuracy, and stronger spend and cash visibility&lt;/li&gt;\n&lt;li&gt;Stakeholder Satisfaction: Be a trusted partner to Finance leaders, delivering solutions that meet business needs&lt;/li&gt;\n&lt;li&gt;Leadership &amp;amp; Team Growth: Build, retain, and develop a high-performing team of Product Managers, NetSuite Engineers, and Engineers&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;About MongoDB&lt;/h3&gt;\n&lt;p&gt;MongoDB is built for change, empowering our customers and our people to innovate at the speed of the market. We have redefined the data platform for the AI era, enabling builders to create, transform, and disrupt industries with software. MongoDB’s unified data platform, the most widely available, globally distributed data platform on the market, helps organizations modernize legacy workloads, embrace innovation, and unleash AI. Our cloud-native platform, MongoDB Atlas, is the only globally distributed, multi-cloud data platform and is available across AWS, Google Cloud, and Microsoft Azure.&lt;/p&gt;\n&lt;p&gt;With offices worldwide and over 67,000 customers, including AI-native startups and approximately 75% of the Fortune 100, relying on MongoDB for their most important applications, we’re powering the next era of software.&lt;/p&gt;\n&lt;p&gt;Our compass at MongoDB is our &lt;a href=&quot;https://www.mongodb.com/company&quot;&gt;Leadership Commitment,&lt;/a&gt; guiding how and why we make decisions, show up for each other, and win. It’s what makes us MongoDB.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;To drive the personal growth and business impact of our employees, we’re committed to developing a supportive and enriching culture for everyone. &lt;a href=&quot;https://www.mongodb.com/company/blog/culture/employee-benefits-that-make-a-difference-at-mongodb&quot;&gt;From employee affinity groups, to fertility assistance and a generous parental leave policy&lt;/a&gt;, we value our employees’ wellbeing and want to support them along every step of their professional and personal journeys.&lt;a href=&quot;https://www.mongodb.com/blog/channel/culture&quot;&gt; Learn more about what it’s like to work at MongoDB&lt;/a&gt;, and help us make an impact on the world!&lt;/p&gt;\n&lt;p&gt;MongoDB is committed to providing any necessary accommodations for individuals with disabilities within our application and interview process. To request an accommodation due to a disability, please inform your recruiter.&lt;/p&gt;\n&lt;p&gt;MongoDB, Inc. provides equal employment opportunities to all employees and applicants for employment and prohibits discrimination and harassment of any type and makes all hiring decisions without regard to race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state or local laws.&lt;/p&gt;\n&lt;p&gt;REQ ID: 2273437834&lt;/p&gt;&lt;div class=&quot;content-pay-transparency&quot;&gt;&lt;div class=&quot;pay-input&quot;&gt;&lt;div class=&quot;description&quot;&gt;&lt;p&gt;MongoDB’s base salary range for this role is posted below. Compensation at the time of offer is unique to each candidate and based on a variety of factors such as skill set, experience, qualifications, and work location. Salary is one part of MongoDB’s total compensation and benefits package. Other benefits for eligible employees may include: equity, participation in the employee stock purchase program, flexible paid time off, 20 weeks fully-paid gender-neutral parental leave, fertility and adoption assistance, 401(k) plan, mental health counseling, access to transgender-inclusive health insurance coverage, and health benefits offerings. Please note, the base salary range listed below and the benefits in this paragraph are only applicable to U.S.-based candidates.&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;title&quot;&gt;MongoDB’s base salary range for this role in the U.S. is:&lt;/div&gt;&lt;div class=&quot;pay-range&quot;&gt;&lt;span&gt;$162,000&lt;/span&gt;&lt;span class=&quot;divider&quot;&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;$319,000 USD&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;",
+  "departments": [
+    {
+      "id": 289353,
+      "name": "FIN Tech",
+      "child_ids": [],
+      "parent_id": 298006
+    }
+  ],
+  "offices": [
+    {
+      "id": 3961,
+      "name": "Palo Alto",
+      "location": "Palo Alto, CA, United States",
+      "child_ids": [],
+      "parent_id": 23657
+    }
+  ],
+  "ai_disclaimer": null,
+  "include_ai_disclaimer": false,
+  "ai_opt_out_request_url": null
+}

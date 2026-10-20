@@ -84,7 +84,7 @@
     {
       "id": 944667,
       "name": "Company",
-      "value": "Reddit, Inc.",
+      "value": "Reddit Canada Limited",
       "value_type": "single_select"
     },
     {
@@ -101,7 +101,7 @@
     }
   ],
   "id": 7792848,
-  "updated_at": "2026-10-17T08:26:40-04:00",
+  "updated_at": "2026-10-19T20:33:42-04:00",
   "requisition_id": "R-105321",
   "title": "Ads Conversion Modeling, Machine Learning Engineering Manager",
   "company_name": "Reddit",
@@ -119,8 +119,8 @@
   ],
   "offices": [
     {
-      "id": 88237,
-      "name": "Remote - United States",
+      "id": 88238,
+      "name": "Remote - Canada",
       "location": null,
       "child_ids": [],
       "parent_id": null

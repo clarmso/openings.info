@@ -4,7 +4,7 @@
   "department": "Customer Experience",
   "team": "Customer Experience: Professional Services",
   "employmentType": "FullTime",
-  "location": "New York, NY",
+  "location": "Princeton, NJ",
   "shouldDisplayCompensationOnJobPostings": true,
   "secondaryLocations": [
     {
@@ -24,9 +24,9 @@
   "workplaceType": "Remote",
   "address": {
     "postalAddress": {
-      "addressRegion": "New York",
-      "addressCountry": "US",
-      "addressLocality": "New York"
+      "addressRegion": "New Jersey",
+      "addressCountry": "United States",
+      "addressLocality": "Princeton"
     }
   },
   "jobUrl": "https://jobs.ashbyhq.com/benchling/9ff817e6-9274-4613-9ac3-1bc012b7ff8a",

@@ -65,7 +65,7 @@
     }
   ],
   "id": 7997198,
-  "updated_at": "2026-09-29T13:18:57-04:00",
+  "updated_at": "2026-10-19T06:29:23-04:00",
   "requisition_id": "R19462",
   "title": "Partner Solutions Architect (Pan-EMEA GSI)",
   "company_name": "Datadog",
@@ -90,34 +90,6 @@
       "parent_id": 78094
     },
     {
-      "id": 76766,
-      "name": "Remote - Germany",
-      "location": null,
-      "child_ids": [],
-      "parent_id": 63631
-    },
-    {
-      "id": 76737,
-      "name": "Remote - Italy",
-      "location": "Italy",
-      "child_ids": [],
-      "parent_id": 64262
-    },
-    {
-      "id": 76789,
-      "name": "Remote - Netherlands",
-      "location": "Netherlands",
-      "child_ids": [],
-      "parent_id": 78096
-    },
-    {
-      "id": 76790,
-      "name": "Remote - Poland",
-      "location": "Poland",
-      "child_ids": [],
-      "parent_id": 78097
-    },
-    {
       "id": 76793,
       "name": "Remote - Portugal",
       "location": "Portugal",
@@ -130,20 +102,6 @@
       "location": "Spain",
       "child_ids": [],
       "parent_id": 74766
-    },
-    {
-      "id": 76756,
-      "name": "Remote - Sweden",
-      "location": "Sweden",
-      "child_ids": [],
-      "parent_id": 78100
-    },
-    {
-      "id": 76758,
-      "name": "Remote - UK",
-      "location": "United Kingdom",
-      "child_ids": [],
-      "parent_id": 63630
     }
   ],
   "ai_disclaimer": null,

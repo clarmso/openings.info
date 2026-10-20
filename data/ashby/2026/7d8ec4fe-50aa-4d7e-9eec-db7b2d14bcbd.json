@@ -114,20 +114,20 @@
         "additionalInformation": "75/25 Split",
         "components": [
           {
-            "id": "70b4dff9-29da-465f-a390-20807671e7e8",
-            "summary": "Offers Equity",
-            "compensationType": "EquityPercentage",
-            "interval": "NONE",
-            "currencyCode": null,
-            "minValue": null,
-            "maxValue": null
-          },
-          {
             "id": "521cf87f-871a-4005-9db1-8dc48547a976",
             "summary": "Offers Commission",
             "compensationType": "Commission",
             "interval": "1 YEAR",
             "currencyCode": "USD",
+            "minValue": null,
+            "maxValue": null
+          },
+          {
+            "id": "70b4dff9-29da-465f-a390-20807671e7e8",
+            "summary": "Offers Equity",
+            "compensationType": "EquityPercentage",
+            "interval": "NONE",
+            "currencyCode": null,
             "minValue": null,
             "maxValue": null
           },
