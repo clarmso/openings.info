@@ -1,0 +1,70 @@
+{
+  "absolute_url": "https://boards.greenhouse.io/cloudflare/jobs/7421848?gh_jid=7421848",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": false,
+      "requires_processing_consent": false,
+      "requires_retention_consent": false,
+      "retention_period": null,
+      "demographic_data_consent_applies": false
+    }
+  ],
+  "internal_job_id": 3304489,
+  "location": {
+    "name": "Hybrid"
+  },
+  "metadata": [
+    {
+      "id": 825338,
+      "name": "Cost Center",
+      "value": "5100 - Mid Market",
+      "value_type": "single_select"
+    },
+    {
+      "id": 8654220,
+      "name": "Job Posting Location",
+      "value": [
+        "Tokyo, Japan"
+      ],
+      "value_type": "multi_select"
+    },
+    {
+      "id": 46546702,
+      "name": "Career Site Department",
+      "value": [
+        "Sales"
+      ],
+      "value_type": "multi_select"
+    }
+  ],
+  "id": 7421848,
+  "updated_at": "2026-10-20T05:34:55-04:00",
+  "requisition_id": null,
+  "title": "Senior Account Executive, Digital Native",
+  "company_name": "Cloudflare",
+  "first_published": "2026-10-20T05:34:55-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h3&gt;About Us&lt;/h3&gt;\n&lt;p&gt;At Cloudflare, we are on a mission to help build a better Internet. Today the company runs one of the world’s largest networks that powers millions of websites and other Internet properties for customers ranging from individual bloggers to SMBs to Fortune 500 companies. Cloudflare protects and accelerates any Internet application online without adding hardware, installing software, or changing a line of code. Internet properties powered by Cloudflare all have web traffic routed through its intelligent global network, which gets smarter with every request. As a result, they see significant improvement in performance and a decrease in spam and other attacks. Cloudflare was named to Entrepreneur Magazine’s Top Company Cultures list and ranked among the World’s Most Innovative Companies by Fast Company.&lt;/p&gt;\n&lt;p&gt;At Cloudflare, we’re not looking for people who wait for a polished roadmap; we’re looking for the builders who see the cracks in the Internet that everyone else has simply learned to live with. We value candidates who have the instinct to spot a &quot;normalized&quot; problem and the AI-native curiosity to create a solution using the latest tools. Our culture is built on iteration, leveraging AI to ship faster today to make it better tomorrow, while ensuring that every improvement, no matter how small, is shared across the team to lift everyone up. If you’re the type of person who values curiosity over bureaucracy, and that AI is a partner in solving tough problems to keep the Internet moving forward, you’ll fit right in.&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;Available Location: Tokyo, Japan&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;About the Department&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;At Cloudflare, our Go-To-Market team—comprising Account Executives, Business Development Representatives, Customer Engineers—collaborates seamlessly to empower organizations to modernize their digital infrastructure and build faster, safer Internet experiences.&lt;/p&gt;\n&lt;p&gt;Our Sales organization plays a pivotal role in delivering impactful, technology-driven solutions to overcome complex business challenges, directly driving the sustainable revenue growth that fuels Cloudflare’s global mission.&lt;/p&gt;\n&lt;p class=&quot;p1&quot;&gt;&lt;span class=&quot;s1&quot;&gt;&lt;strong&gt;About The Role&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;\n&lt;p class=&quot;p1&quot;&gt;You will be responsible for driving new business with &lt;strong&gt;fast-growing, cloud-native, VC-backed technology companies across Japan&lt;/strong&gt;, working closely with founders and senior technical leaders.&lt;/p&gt;\n&lt;p class=&quot;p1&quot;&gt;This is an &lt;strong&gt;Outbound, High Touch sales role&lt;/strong&gt; requiring strong discipline, resilience, and commercial focus. You will own the full sales cycle - from account selection and prospecting through discovery, solution design, proposal, negotiation, and close.&lt;/p&gt;\n&lt;p class=&quot;p1&quot;&gt;We are seeking someone who combines strong sales execution with technical credibility, and who is comfortable engaging across Engineering, DevOps, Security, Network, IT, and Infrastructure teams.&lt;/p&gt;\n&lt;p class=&quot;p2&quot;&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p class=&quot;p1&quot;&gt;&lt;strong&gt;Key Responsibilities:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul class=&quot;ul1&quot;&gt;\n&lt;li class=&quot;li1&quot;&gt;&lt;strong&gt;Strategic Territory Planning:&lt;/strong&gt; Formulate and execute tailored sales strategies to systematically maximize market penetration in Japan.&lt;/li&gt;\n&lt;li class=&quot;li1&quot;&gt;Build and manage a portfolio of high-potential &lt;strong&gt;Digital Native - Emerging&lt;/strong&gt; accounts focused on Application Security, Performance &amp;amp; Dev Platform&lt;/li&gt;\n&lt;li class=&quot;li1&quot;&gt;&lt;strong&gt;Revenue Generation:&lt;/strong&gt; Consistently achieve and exceed quarterly revenue targets by closing high-value, complex solutions.&lt;/li&gt;\n&lt;li class=&quot;li1&quot;&gt;&lt;strong&gt;Value Proposition &amp;amp; Offerings:&lt;/strong&gt; Clearly articulate Cloudflare’s unique value, connecting our Cloud/Security platform directly to client business outcomes.&lt;/li&gt;\n&lt;li class=&quot;li1&quot;&gt;&lt;strong&gt;Pipeline &amp;amp; Deal Management:&lt;/strong&gt; Build and maintain a healthy, predictable sales pipeline from lead qualification to contract negotiation and closure.&lt;/li&gt;\n&lt;li class=&quot;li1&quot;&gt;&lt;strong&gt;Ecosystem Co-Selling:&lt;/strong&gt; Identify, enable, and collaborate with strategic partners to scale sales reach and accelerate solution adoption.&lt;/li&gt;\n&lt;li class=&quot;li1&quot;&gt;&lt;strong&gt;Client Advocacy:&lt;/strong&gt; Foster strong, long-term relationships with key customer accounts to drive ongoing retention and customer satisfaction.&lt;/li&gt;\n&lt;li class=&quot;li1&quot;&gt;&lt;strong&gt;Field Travel:&lt;/strong&gt; Travel within Japan as required (up to ~60% dependent on business needs).&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p class=&quot;p2&quot;&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p class=&quot;p1&quot;&gt;&lt;strong&gt;Key Qualifications &amp;amp; Experience&lt;/strong&gt;&lt;/p&gt;\n&lt;ul class=&quot;ul1&quot;&gt;\n&lt;li class=&quot;li1&quot;&gt;&lt;strong&gt;Proven Sales Record:&lt;/strong&gt; 10+ years of successful Field / Direct Sales experience in the IT, Cloud, or Cyber Security industry.&lt;/li&gt;\n&lt;li class=&quot;li1&quot;&gt;&lt;strong&gt;Domain Expertise:&lt;/strong&gt; Demonstrated success selling Network Infrastructure, SaaS, Enterprise Security, or Cloud Architecture (IaaS/PaaS) directly to enterprise clients.&lt;/li&gt;\n&lt;li class=&quot;li1&quot;&gt;&lt;strong&gt;Lead Ownership:&lt;/strong&gt; Proven ability to manage the complete sales lifecycle as a lead account owner and relationship orchestrator.&lt;/li&gt;\n&lt;li class=&quot;li1&quot;&gt;&lt;strong&gt;Language Proficiency:&lt;/strong&gt; Fluent in Japanese (Native level) and Working proficiency in English (both written and verbal).&lt;/li&gt;\n&lt;li class=&quot;li1&quot;&gt;&lt;strong&gt;Technical Aptitude:&lt;/strong&gt; Core understanding of networking fundamentals, web infrastructure, and internet security. A technical background (Computer Science, Engineering, or MIS) is a strong plus.&lt;/li&gt;\n&lt;li class=&quot;li1&quot;&gt;&lt;strong&gt;Executive Presence:&lt;/strong&gt; Outstanding presentation, negotiation, and interpersonal communication skills with a consultative mindset.&lt;/li&gt;\n&lt;li class=&quot;li1&quot;&gt;&lt;strong&gt;Education:&lt;/strong&gt; Bachelor’s degree or equivalent practical experience.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;/li&gt;\n&lt;/ul&gt;\n&lt;div id=&quot;content&quot; class=&quot;&quot;&gt;\n&lt;h3&gt;&lt;strong&gt;Terms &amp;amp; Working Conditions&lt;/strong&gt;&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;&lt;strong&gt;Term of Employment:&lt;/strong&gt; Permanent / Indefinite-term (正社員)&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Probationary Period:&lt;/strong&gt; 6 months&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Location:&lt;/strong&gt; Tokyo Office (Hybrid Work Model)&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Standard Working Hours:&lt;/strong&gt; 9:00 AM – 6:00 PM (1-hour lunch break included)&lt;/li&gt;\n&lt;/ul&gt;\n&lt;/div&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;h3&gt;What Makes Cloudflare Special?&lt;/h3&gt;\n&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;We’re not just a highly ambitious, large-scale technology company. We’re a highly ambitious, large-scale technology company with a soul. Fundamental to our mission to help build a better Internet is protecting the free and open Internet.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;a href=&quot;https://blog.cloudflare.com/protecting-free-expression-online/&quot;&gt;&lt;strong&gt;Project Galileo&lt;/strong&gt;&lt;/a&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;: Since 2014, we&#39;ve equipped more than 2,400 journalism and civil society organizations in 111 countries with powerful tools to defend themselves against attacks that would otherwise censor their work, technology already used by Cloudflare’s enterprise customers--at no cost.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.cloudflare.com/athenian/&quot;&gt;Athenian Project&lt;/a&gt;&lt;/strong&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;: In 2017, we created the Athenian Project to ensure that state and local governments have the highest level of protection and reliability for free, so that their constituents have access to election information and voter registration. Since the project, we&#39;ve provided services to more than 425 local government election websites in 33 states.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;a href=&quot;https://1.1.1.1/&quot;&gt;&lt;strong&gt;1.1.1.1&lt;/strong&gt;&lt;/a&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;: We released&lt;/span&gt;&lt;a href=&quot;https://1.1.1.1/&quot;&gt; &lt;span style=&quot;font-weight: 400;&quot;&gt;1.1.1.1&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt; to help fix the foundation of the Internet by building a faster, more secure and privacy-centric public DNS resolver. This is available publicly for everyone to use - it is the first consumer-focused service Cloudflare has ever released. Here’s the deal - we don’t store client IP addresses never, ever. We will continue to abide by our&lt;/span&gt;&lt;a href=&quot;https://developers.cloudflare.com/1.1.1.1/privacy/public-dns-resolver&quot;&gt; privacy commitment&lt;/a&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt; and ensure that no user data is sold to advertisers or used to target consumers.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Sound like something you’d like to be a part of? We’d love to hear from you!&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Please note that applicants who progress to the offer stage of the interview process may be asked to attend an in-person interview within one of the Cloudflare Offices or Cloudflare Hubs.&amp;nbsp; More details about this will be available at that stage of the interview process.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;This position may require access to information protected under U.S. export control laws, including the U.S. Export Administration Regulations. Please note that any offer of employment may be conditioned on your authorization to receive software or technology controlled under these U.S. export laws without sponsorship for an export license.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Cloudflare is proud to be an equal opportunity employer. &amp;nbsp;We are committed to providing equal employment opportunity for all people and place great value in both diversity and inclusiveness. &amp;nbsp;All qualified applicants will be considered for employment without regard to their, or any other person&#39;s, perceived or actual&lt;/span&gt; &lt;span style=&quot;font-weight: 400;&quot;&gt;race, color, religion, sex, gender, gender identity, gender expression, sexual orientation, national origin, ancestry, citizenship, age, physical or mental disability, medical condition, family care status, or any other basis protected by law. &lt;/span&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;We are an AA/Veterans/Disabled Employer.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Cloudflare provides reasonable accommodations to qualified individuals with disabilities. &amp;nbsp;Please tell us if you require a reasonable accommodation to apply for a job. Examples of reasonable accommodations include, but are not limited to, changing the application process, providing documents in an alternate format, using a sign language interpreter, or using specialized equipment. &amp;nbsp;If you require a reasonable accommodation to apply for a job, please contact us via e-mail at &lt;/span&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;hr@cloudflare.com&lt;/span&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt; or via mail at 101 Townsend St. San Francisco, CA 94107.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;",
+  "departments": [
+    {
+      "id": 70658,
+      "name": "Mid Market",
+      "child_ids": [],
+      "parent_id": 29066
+    }
+  ],
+  "offices": [
+    {
+      "id": 48756,
+      "name": "Tokyo, Japan",
+      "location": "Japan, 東京都東京都",
+      "child_ids": [],
+      "parent_id": 74844
+    }
+  ],
+  "ai_disclaimer": null,
+  "include_ai_disclaimer": null,
+  "ai_opt_out_request_url": null
+}

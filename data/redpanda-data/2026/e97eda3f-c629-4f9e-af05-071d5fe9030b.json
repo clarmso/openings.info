@@ -6,7 +6,20 @@
   "employmentType": "FullTime",
   "location": "Austin, Texas - Hybrid",
   "shouldDisplayCompensationOnJobPostings": false,
-  "secondaryLocations": [],
+  "secondaryLocations": [
+    {
+      "location": "San Francisco, California - Hybrid",
+      "address": {
+        "postalAddress": {
+          "postalCode": "94104",
+          "addressRegion": "California",
+          "streetAddress": "220 Montgomery Street, Suite 400",
+          "addressCountry": "United States",
+          "addressLocality": "San Francisco"
+        }
+      }
+    }
+  ],
   "publishedAt": "2026-10-09T00:07:55.915+00:00",
   "isListed": true,
   "isRemote": true,

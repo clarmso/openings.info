@@ -40,13 +40,13 @@
         "additionalInformation": null,
         "components": [
           {
-            "id": "1bf8c366-c0ca-452a-bac8-8e1143182d44",
-            "summary": "Offers Equity",
-            "compensationType": "EquityPercentage",
-            "interval": "NONE",
-            "currencyCode": null,
-            "minValue": null,
-            "maxValue": null
+            "id": "8b45c217-956c-4d19-bbef-053e7b395d7c",
+            "summary": "On Target Earnings AED 540K – AED 715K",
+            "compensationType": "Salary",
+            "interval": "1 YEAR",
+            "currencyCode": "AED",
+            "minValue": 540000,
+            "maxValue": 715000
           },
           {
             "id": "eeb54389-aecb-4712-a184-8ff09bbf2230",
@@ -58,24 +58,24 @@
             "maxValue": null
           },
           {
-            "id": "8b45c217-956c-4d19-bbef-053e7b395d7c",
-            "summary": "On Target Earnings AED 540K – AED 715K",
-            "compensationType": "Salary",
-            "interval": "1 YEAR",
-            "currencyCode": "AED",
-            "minValue": 540000,
-            "maxValue": 715000
+            "id": "1bf8c366-c0ca-452a-bac8-8e1143182d44",
+            "summary": "Offers Equity",
+            "compensationType": "EquityPercentage",
+            "interval": "NONE",
+            "currencyCode": null,
+            "minValue": null,
+            "maxValue": null
           }
         ]
       }
     ],
     "summaryComponents": [
       {
-        "compensationType": "EquityPercentage",
-        "interval": "NONE",
-        "currencyCode": null,
-        "minValue": null,
-        "maxValue": null
+        "compensationType": "Salary",
+        "interval": "1 YEAR",
+        "currencyCode": "AED",
+        "minValue": 540000,
+        "maxValue": 715000
       },
       {
         "compensationType": "Commission",
@@ -85,11 +85,11 @@
         "maxValue": null
       },
       {
-        "compensationType": "Salary",
-        "interval": "1 YEAR",
-        "currencyCode": "AED",
-        "minValue": 540000,
-        "maxValue": 715000
+        "compensationType": "EquityPercentage",
+        "interval": "NONE",
+        "currencyCode": null,
+        "minValue": null,
+        "maxValue": null
       }
     ]
   }

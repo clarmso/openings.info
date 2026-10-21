@@ -1,0 +1,132 @@
+{
+  "absolute_url": "https://job-boards.greenhouse.io/reddit/jobs/8303798",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": false,
+      "requires_processing_consent": false,
+      "requires_retention_consent": false,
+      "retention_period": null,
+      "demographic_data_consent_applies": true
+    }
+  ],
+  "internal_job_id": 3590331,
+  "location": {
+    "name": "Remote - United States"
+  },
+  "metadata": [
+    {
+      "id": 944668,
+      "name": "Position ID",
+      "value": "P-100355",
+      "value_type": "short_text"
+    },
+    {
+      "id": 956352,
+      "name": "Recruiting Start Date",
+      "value": "2026-10-20",
+      "value_type": "date"
+    },
+    {
+      "id": 944671,
+      "name": "Target Hire Date",
+      "value": "2026-12-07",
+      "value_type": "date"
+    },
+    {
+      "id": 944672,
+      "name": "Target Hire End Date",
+      "value": "",
+      "value_type": "date"
+    },
+    {
+      "id": 944673,
+      "name": "Job Profile",
+      "value": "Software Development Engineer 4",
+      "value_type": "single_select"
+    },
+    {
+      "id": 956351,
+      "name": "Management Level",
+      "value": "IC4",
+      "value_type": "single_select"
+    },
+    {
+      "id": 944675,
+      "name": "Job Family",
+      "value": "Software Engineering",
+      "value_type": "single_select"
+    },
+    {
+      "id": 53341,
+      "name": "Worker Sub-Type",
+      "value": "Regular",
+      "value_type": "single_select"
+    },
+    {
+      "id": 944676,
+      "name": "Time Type",
+      "value": "Full time",
+      "value_type": "single_select"
+    },
+    {
+      "id": 944682,
+      "name": "Pay Rate Type",
+      "value": "Salary",
+      "value_type": "single_select"
+    },
+    {
+      "id": 944681,
+      "name": "Scheduled Weekly Hours",
+      "value": "40.0",
+      "value_type": "number"
+    },
+    {
+      "id": 944667,
+      "name": "Company",
+      "value": "Reddit, Inc.",
+      "value_type": "single_select"
+    },
+    {
+      "id": 944677,
+      "name": "Cost Center",
+      "value": "Tech-Client Platforms",
+      "value_type": "single_select"
+    },
+    {
+      "id": 944669,
+      "name": "Worker Type",
+      "value": "Employee",
+      "value_type": "single_select"
+    }
+  ],
+  "id": 8303798,
+  "updated_at": "2026-10-20T13:04:42-04:00",
+  "requisition_id": "R-105971",
+  "title": "Senior Software Engineer, Web Platform",
+  "company_name": "Reddit",
+  "first_published": "2026-10-20T12:54:32-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;div class=&quot;content-intro&quot;&gt;&lt;div class=&quot;c-message_kit__blocks c-message_kit__blocks--rich_text&quot;&gt;\n&lt;div class=&quot;c-message__message_blocks c-message__message_blocks--rich_text&quot; data-qa=&quot;message-text&quot;&gt;\n&lt;div class=&quot;p-block_kit_renderer&quot; data-qa=&quot;block-kit-renderer&quot;&gt;\n&lt;div class=&quot;p-block_kit_renderer__block_wrapper p-block_kit_renderer__block_wrapper--first&quot;&gt;\n&lt;div class=&quot;p-rich_text_block&quot;&gt;\n&lt;div class=&quot;p-rich_text_section&quot;&gt;Reddit is a community of communities. It’s built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 130 million daily active unique visitors, Reddit is one of the internet’s largest sources of information. For more information, visit &lt;a class=&quot;c-link&quot; href=&quot;http://www.redditinc.com/&quot; target=&quot;_blank&quot; data-stringify-link=&quot;http://redditinc.com&quot; data-sk=&quot;tooltip_parent&quot;&gt;www.redditinc.com&lt;/a&gt;.&lt;/div&gt;\n&lt;/div&gt;\n&lt;/div&gt;\n&lt;/div&gt;\n&lt;/div&gt;\n&lt;/div&gt;&lt;/div&gt;&lt;p&gt;This role is remote friendly. Reddit has a flexible first workforce.&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;Who We Are&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;The Web Platform team leads the development of the Shreddit platform, the heart of &lt;a href=&quot;http://reddit.com&quot;&gt;reddit.com&lt;/a&gt;. We focus on platform-wide architecture, performance optimizations, operational health and upleveling our web developer experience for one of the most trafficked sites on the internet.&lt;/p&gt;\n&lt;p&gt;With us, you’ll turn ambiguous platform problems into clear designs and ship high‑quality, observable, well‑tested solutions that other teams rely on every day.&lt;/p&gt;\n&lt;p&gt;You&#39;ll drive key platform initiatives, including optimizing Shreddit&#39;s global performance, evolving HTML rendering, and enhancing web infrastructure resiliency and scale. You will also boost developer experience through AI tooling, automated workflows, and streamlined CI/CD pipelines.&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;Who You Are&lt;/strong&gt;&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;&lt;strong&gt;Platform Minded Engineer: &lt;/strong&gt;You empower engineers to deliver safe, scalable, and high-performance solutions by standardizing cross-organizational patterns, workflows, and tooling.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Pragmatic Builder:&lt;/strong&gt; You strike the right balance between rapid iteration and architectural rigor, delivering scalable solutions without getting bogged down by unnecessary processes.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Effective Collaborator:&lt;/strong&gt; You excel in communicating complex technical concepts clearly to both technical and non-technical stakeholders.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Continuous Learner:&lt;/strong&gt; You have a deep curiosity for emerging technologies and actively keep up with modern industry trends, standards, and performance optimizations.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;&lt;strong&gt;What You’ll Do&lt;/strong&gt;&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;&lt;strong&gt;Build with impact:&lt;/strong&gt; Design and evolve the Shreddit web platform’s architecture, performance, and developer tooling that powers reddit.com for hundreds of millions of users across the world.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Full-Lifecycle Development:&amp;nbsp;&lt;/strong&gt; Lead end‑to‑end delivery of complex, cross‑service initiatives in areas like asset delivery, html processing, observability and reliability for core web experiences.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Quality &amp;amp; Velocity:&lt;/strong&gt; Move fast while maintaining high quality standards through thorough code reviews, detailed design doc evaluations, and constructive feedback on product specs and UI mocks.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Mentorship &amp;amp; Engineering Standards:&lt;/strong&gt; Help establish developer workflows, champion best practices, and mentor junior and mid-level engineers to elevate technical excellence across the team.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;&lt;strong&gt;Technical Qualifications&lt;/strong&gt;&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;&lt;strong&gt;Web Expertise:&lt;/strong&gt; Strong proficiency in modern web stacks, including JavaScript, TypeScript, React, and Next.js, with a proven track record of translating complex problems into performant, scalable and safe&amp;nbsp; responsive, production-grade applications.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Operational Health Excellence:&lt;/strong&gt; Experience tracing, profiling and tuning performance of network calls, rendering, or data access paths, monitoring and reporting their operational health.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;AI-First Workflows Expertise&lt;/strong&gt;: Experience implementing AI workflows and tooling to support and accelerate high quality web development, optimization and debugging.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;API &amp;amp; System Design:&lt;/strong&gt; Demonstrated experience designing, building, and maintaining robust APIs using protocols such as REST, GraphQL, gRPC, HTTP, or Thrift basics.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Education:&lt;/strong&gt; Bachelor’s degree in Computer Science, a related technical field, or equivalent practical experience.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;Benefits:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Comprehensive Healthcare Benefits and Income Replacement Programs&lt;/li&gt;\n&lt;li&gt;401k with Employer Match&lt;/li&gt;\n&lt;li&gt;Global Benefit programs that fit your lifestyle, from workspace to professional development to caregiving support&lt;/li&gt;\n&lt;li&gt;Family Planning Support&lt;/li&gt;\n&lt;li&gt;Gender-Affirming Care&lt;/li&gt;\n&lt;li&gt;Mental Health &amp;amp; Coaching Benefits&lt;/li&gt;\n&lt;li&gt;Flexible Vacation &amp;amp; Paid Volunteer Time Off&lt;/li&gt;\n&lt;li&gt;Generous Paid Parental Leave&amp;nbsp;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;div class=&quot;content-pay-transparency&quot;&gt;&lt;div class=&quot;pay-input&quot;&gt;&lt;div class=&quot;description&quot;&gt;&lt;p&gt;&lt;strong&gt;Pay Transparency:&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;This job posting may span more than one career level.&lt;/p&gt;\n&lt;p&gt;In addition to base salary, this job is eligible to receive equity in the form of restricted stock units, and depending on the position offered, it may also be eligible to receive a commission. Additionally, Reddit offers a wide range of benefits to U.S.-based employees, including medical, dental, and vision insurance, 401(k) program with employer match, generous time off for vacation, and parental leave. To learn more, please visit &lt;a href=&quot;https://www.redditinc.com/careers/&quot; target=&quot;_blank&quot;&gt;https://www.redditinc.com/careers/&lt;/a&gt;.&lt;/p&gt;\n&lt;p&gt;To provide greater transparency to candidates, we share base salary ranges for all US-based job postings regardless of state. We set standard base pay ranges for all roles based on function, level, and country location, benchmarked against similar stage growth companies. Final offer amounts are determined by multiple factors including, skills, depth of work experience and relevant licenses/credentials, and may vary from the amounts listed below.&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;title&quot;&gt;The base salary range for this position is:&lt;/div&gt;&lt;div class=&quot;pay-range&quot;&gt;&lt;span&gt;$190,800&lt;/span&gt;&lt;span class=&quot;divider&quot;&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;$267,100 USD&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;In select roles and locations, the interviews will be recorded, transcribed and summarized by artificial intelligence (AI). You will have the opportunity to opt out of recording, transcription and summarization prior to any scheduled interviews.&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;During the interview, we will collect the following categories of personal information: Identifiers, Professional and Employment-Related Information, Sensory Information (audio/video recording), and any other categories of personal information you choose to share with us. We will use this information to evaluate your application for employment or an independent contractor role, as applicable.&amp;nbsp; We will not sell your personal information or disclose it to any third party for their marketing purposes.&amp;nbsp; We will delete any recording of your interview promptly after making a hiring decision.&amp;nbsp; For more information about how we will handle your personal information, including our retention of it, please refer to our &lt;a href=&quot;https://redditinc.com/policies/candidate-privacy-policy&quot;&gt;Candidate Privacy Policy for Potential Employees and Contractors&lt;/a&gt;.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;em&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Reddit is proud to be an equal opportunity employer, and is committed to building a workforce representative of the diverse communities we serve.&amp;nbsp; Reddit is committed to providing reasonable accommodations for qualified individuals with disabilities and disabled veterans in our job application procedures. If, due to a disability, you need an accommodation during the interview process, please let your recruiter know.&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;&lt;/div&gt;",
+  "departments": [
+    {
+      "id": 77934,
+      "name": "Platform Engineering",
+      "child_ids": [],
+      "parent_id": 16253
+    }
+  ],
+  "offices": [
+    {
+      "id": 10167,
+      "name": "San Francisco",
+      "location": "San Francisco, CA, United States",
+      "child_ids": [],
+      "parent_id": null
+    }
+  ],
+  "ai_disclaimer": null,
+  "include_ai_disclaimer": null,
+  "ai_opt_out_request_url": null
+}

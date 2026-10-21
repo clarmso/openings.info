@@ -1,0 +1,79 @@
+{
+  "id": "744000156534229",
+  "name": "Major Account Manager",
+  "uuid": "8cecd92f-ba1d-4d42-a0b9-56094f1c4a3c",
+  "jobAdId": "97af647c-6ca3-473d-94a6-0f34142f05f8",
+  "defaultJobAd": true,
+  "refNumber": "REF3777I",
+  "company": {
+    "identifier": "AristaNetworks",
+    "name": "Arista Networks"
+  },
+  "releasedDate": "2026-10-20T11:41:02.173Z",
+  "location": {
+    "city": "Riyadh",
+    "region": "Riyadh Province",
+    "country": "sa",
+    "remote": false,
+    "hybrid": true,
+    "latitude": "24.7135517",
+    "longitude": "46.6752957",
+    "fullLocation": "Riyadh, Riyadh Province, Saudi Arabia"
+  },
+  "industry": {
+    "id": "computer_networking",
+    "label": "Computer Networking"
+  },
+  "department": {
+    "id": "1392052",
+    "label": "Sales"
+  },
+  "function": {
+    "id": "sales",
+    "label": "Sales"
+  },
+  "typeOfEmployment": {
+    "id": "permanent",
+    "label": "Full-time"
+  },
+  "experienceLevel": {
+    "id": "mid_senior_level",
+    "label": "Mid-Senior Level"
+  },
+  "customField": [
+    {
+      "fieldId": "COUNTRY",
+      "fieldLabel": "Country/Region",
+      "valueId": "sa",
+      "valueLabel": "Saudi Arabia"
+    },
+    {
+      "fieldId": "58b81d3de4b06dbf7dd514e1",
+      "fieldLabel": "Department",
+      "valueId": "1392052",
+      "valueLabel": "Sales"
+    },
+    {
+      "fieldId": "58b81d3de4b06dbf7dd514e0",
+      "fieldLabel": "Brands",
+      "valueId": "default",
+      "valueLabel": "Arista Networks"
+    },
+    {
+      "fieldId": "62a7845974fe2c08874d5452",
+      "fieldLabel": "Role",
+      "valueId": "4e150511-63af-4e42-850a-47ad805607cc",
+      "valueLabel": "Senior"
+    }
+  ],
+  "visibility": "PUBLIC",
+  "ref": "https://api.smartrecruiters.com/v1/companies/AristaNetworks/postings/744000156534229",
+  "creator": {
+    "name": "Edward Sheppard"
+  },
+  "language": {
+    "code": "en",
+    "label": "English",
+    "labelNative": "English (US)"
+  }
+}

@@ -12,7 +12,7 @@
   ],
   "internal_job_id": 3547798,
   "location": {
-    "name": "San Francisco, California, USA"
+    "name": "Denver, Colorado, USA; San Francisco, California, USA"
   },
   "metadata": [
     {
@@ -69,7 +69,7 @@
     }
   ],
   "id": 8197674,
-  "updated_at": "2026-09-29T13:18:57-04:00",
+  "updated_at": "2026-10-20T12:47:17-04:00",
   "requisition_id": "R20964",
   "title": "Senior Deal Desk Analyst",
   "company_name": "Datadog",
@@ -86,6 +86,13 @@
     }
   ],
   "offices": [
+    {
+      "id": 61865,
+      "name": "Denver",
+      "location": "Denver, Colorado, United States",
+      "child_ids": [],
+      "parent_id": 78231
+    },
     {
       "id": 57627,
       "name": "San Francisco",

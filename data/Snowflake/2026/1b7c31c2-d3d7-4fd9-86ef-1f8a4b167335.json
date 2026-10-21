@@ -27,13 +27,13 @@
     "scrapeableCompensationSalarySummary": "CA$291,250 - CA$341,250",
     "compensationTiers": [
       {
-        "id": "cbcd1054-9fa1-4e21-bd1a-e4340f8ce4bc",
+        "id": "79881102-2d3c-4af3-90bd-3987a7e5b219",
         "tierSummary": "CA$291,250 – CA$341,250",
         "title": null,
         "additionalInformation": null,
         "components": [
           {
-            "id": "3467e214-77af-4408-b90f-5dde4c703e8d",
+            "id": "251100a1-a5f1-4d66-a013-724e0fdcdb24",
             "summary": "CA$291,250 – CA$341,250",
             "compensationType": "Salary",
             "interval": "1 YEAR",

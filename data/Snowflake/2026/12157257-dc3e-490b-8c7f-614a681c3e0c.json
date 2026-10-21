@@ -4,7 +4,7 @@
   "department": "Solution Engineering",
   "team": "Solution Engineering",
   "employmentType": "FullTime",
-  "location": "US-CA-Menlo Park",
+  "location": "US-CA-Dublin",
   "shouldDisplayCompensationOnJobPostings": true,
   "secondaryLocations": [
     {
@@ -26,7 +26,7 @@
     "postalAddress": {
       "addressRegion": "California",
       "addressCountry": "United States",
-      "addressLocality": "Menlo Park"
+      "addressLocality": "Dublin"
     }
   },
   "jobUrl": "https://jobs.ashbyhq.com/Snowflake/12157257-dc3e-490b-8c7f-614a681c3e0c",
@@ -38,13 +38,13 @@
     "scrapeableCompensationSalarySummary": "$138,000 - $181,125",
     "compensationTiers": [
       {
-        "id": "5d5684e8-43e3-4acb-b07b-0eb71a57008c",
+        "id": "2da0bc55-c4e3-4495-91e2-352fefd96f2e",
         "tierSummary": "$138,000 – $181,125",
         "title": null,
         "additionalInformation": null,
         "components": [
           {
-            "id": "d84bccaf-6162-44c8-b622-85e3af57b05b",
+            "id": "d1ad00c6-e3d3-450c-b515-64c3cfa4299a",
             "summary": "$138,000 – $181,125",
             "compensationType": "Salary",
             "interval": "1 YEAR",

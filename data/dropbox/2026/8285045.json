@@ -1,0 +1,110 @@
+{
+  "absolute_url": "https://jobs.dropbox.com/listing/8285045?gh_jid=8285045",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": false,
+      "requires_processing_consent": false,
+      "requires_retention_consent": false,
+      "retention_period": null,
+      "demographic_data_consent_applies": false
+    }
+  ],
+  "education": "education_required",
+  "employment": "employment_required",
+  "internal_job_id": 3583392,
+  "location": {
+    "name": "Remote - Australia: Select locations"
+  },
+  "metadata": [
+    {
+      "id": 397108,
+      "name": "Recruiting Team Responsible",
+      "value": "GCO Recruiting",
+      "value_type": "single_select"
+    },
+    {
+      "id": 1993612,
+      "name": "Weighted Value",
+      "value": null,
+      "value_type": "single_select"
+    },
+    {
+      "id": 397072,
+      "name": "Parent Job ID",
+      "value": null,
+      "value_type": "single_select"
+    },
+    {
+      "id": 397073,
+      "name": "Active Until Date",
+      "value": "",
+      "value_type": "date"
+    },
+    {
+      "id": 31703,
+      "name": "Employment Type",
+      "value": "Regular",
+      "value_type": "single_select"
+    },
+    {
+      "id": 29942941,
+      "name": "Time Type",
+      "value": "Full Time",
+      "value_type": "single_select"
+    },
+    {
+      "id": 3465818,
+      "name": "Location Cost Tier",
+      "value": "Mid",
+      "value_type": "single_select"
+    },
+    {
+      "id": 696737,
+      "name": "Skillset",
+      "value": "Solutions Specialist",
+      "value_type": "single_select"
+    },
+    {
+      "id": 113830,
+      "name": "Dropboxer Level",
+      "value": "IC4",
+      "value_type": "single_select"
+    },
+    {
+      "id": 54678,
+      "name": "Career Page Allocation",
+      "value": "Sales",
+      "value_type": "single_select"
+    }
+  ],
+  "id": 8285045,
+  "updated_at": "2026-10-20T09:46:10-04:00",
+  "requisition_id": "R11734",
+  "title": "Senior Technical Solutions Specialist",
+  "company_name": "Dropbox",
+  "first_published": "2026-10-20T09:46:10-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;h2 class=&quot;p1&quot;&gt;&lt;span class=&quot;s1&quot;&gt;Role Description&lt;/span&gt;&lt;/h2&gt;\n&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;The Dropbox Sales and Channel team helps organisations transform how they work through technology. We partner with customers to understand their business challenges and develop solutions that deliver practical, measurable value.&lt;/p&gt;\n&lt;p&gt;As a Solutions Consultant, you’ll combine technical depth with commercial judgement to help customers evaluate and adopt Dropbox products. With our work on DBX Platform, this role places particular emphasis on hands-on API experience, integrations and technical solution design.&lt;/p&gt;\n&lt;p&gt;You’ll work directly with customer technical teams to understand their environments, design connected workflows and validate solutions through demonstrations, pilots and proofs of concept. You’ll bring experience working with APIs and scripting languages, alongside the ability to explain technical decisions and business value to stakeholders ranging from developers and IT teams to senior executives.&lt;/p&gt;\n&lt;p&gt;Working across Direct Sales and Channel, you’ll support the full sales cycle—from discovery and technical validation through to deployment planning and handover. You’ll help shape customer solutions, influence product development through customer feedback and deepen your expertise across Dropbox’s products and platform capabilities.&lt;/p&gt;\n&lt;h2 class=&quot;p1&quot;&gt;&lt;span class=&quot;s1&quot;&gt;Responsibilities&lt;/span&gt;&lt;/h2&gt;\n&lt;ul&gt;\n&lt;li&gt;\n&lt;div&gt;&lt;span class=&quot; author-d-1gg9uz65z1iz85zgdz68zmqkz84zo2qovw8w7fz78zz76zz85z3z83zz85zqz85zpz74ziz66zaz82zsz73zz80z0z85zz81zz79zrpp4z69z&quot;&gt;Partner with Direct Sales and Channel teams to translate customer business and technical requirements into secure, practical solutions using Dropbox products, add-ons and third-party integrations.&lt;/span&gt;&lt;/div&gt;\n&lt;/li&gt;\n&lt;li&gt;\n&lt;div&gt;&lt;span class=&quot; author-d-1gg9uz65z1iz85zgdz68zmqkz84zo2qovw8w7fz78zz76zz85z3z83zz85zqz85zpz74ziz66zaz82zsz73zz80z0z85zz81zz79zrpp4z69z&quot;&gt;Lead technical discovery, demonstrations, pilots and proofs of concept, working directly with customer technical teams to establish success criteria, test feasibility and resolve technical challenges.&lt;/span&gt;&lt;/div&gt;\n&lt;/li&gt;\n&lt;li&gt;\n&lt;div&gt;&lt;span class=&quot; author-d-1gg9uz65z1iz85zgdz68zmqkz84zo2qovw8w7fz78zz76zz85z3z83zz85zqz85zpz74ziz66zaz82zsz73zz80z0z85zz81zz79zrpp4z69z&quot;&gt;Design, build and validate API-based integrations and tailored workflows that address customer requirements and demonstrate the value of Dropbox products including DBX Platform.&lt;/span&gt;&lt;/div&gt;\n&lt;/li&gt;\n&lt;li&gt;\n&lt;div&gt;&lt;span class=&quot; author-d-1gg9uz65z1iz85zgdz68zmqkz84zo2qovw8w7fz78zz76zz85z3z83zz85zqz85zpz74ziz66zaz82zsz73zz80z0z85zz81zz79zrpp4z69z&quot;&gt;Deliver technical enablement and training to Sales Representatives, Account Managers and service delivery and channel partners.&lt;/span&gt;&lt;/div&gt;\n&lt;/li&gt;\n&lt;li&gt;\n&lt;div&gt;&lt;span class=&quot; author-d-1gg9uz65z1iz85zgdz68zmqkz84zo2qovw8w7fz78zz76zz85z3z83zz85zqz85zpz74ziz66zaz82zsz73zz80z0z85zz81zz79zrpp4z69z&quot;&gt;Ensure effective handover to Customer Success and Channel teams, documenting the proposed solution, technical dependencies, customer expectations and deployment considerations.&lt;/span&gt;&lt;/div&gt;\n&lt;/li&gt;\n&lt;li&gt;\n&lt;div&gt;&lt;span class=&quot; author-d-1gg9uz65z1iz85zgdz68zmqkz84zo2qovw8w7fz78zz76zz85z3z83zz85zqz85zpz74ziz66zaz82zsz73zz80z0z85zz81zz79zrpp4z69z&quot;&gt;Bring customer feedback and integration requirements to Dropbox Product teams and leadership to inform product improvements and priorities.&lt;/span&gt;&lt;/div&gt;\n&lt;/li&gt;\n&lt;li&gt;\n&lt;div&gt;&lt;span class=&quot; author-d-1gg9uz65z1iz85zgdz68zmqkz84zo2qovw8w7fz78zz76zz85z3z83zz85zqz85zpz74ziz66zaz82zsz73zz80z0z85zz81zz79zrpp4z69z&quot;&gt;Travel to customer sites, conferences and other relevant events as required.&lt;/span&gt;&lt;/div&gt;\n&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h2 class=&quot;p1&quot;&gt;&lt;span class=&quot;s1&quot;&gt;Requirements&lt;/span&gt;&lt;/h2&gt;\n&lt;ul&gt;\n&lt;li&gt;\n&lt;div&gt;&lt;span class=&quot; author-d-1gg9uz65z1iz85zgdz68zmqkz84zo2qovw8oz81zy7z86zz74zcbz65zz86z2z89zz85zels1l7wz70zoz70zz76z36z73zz69zz71z&quot;&gt;6+ years of experience as a Sales Engineer, Solutions Consultant, Professional Services Solutions Consultant or in a comparable customer-facing technical role.&lt;/span&gt;&lt;/div&gt;\n&lt;/li&gt;\n&lt;li&gt;\n&lt;div&gt;&lt;span class=&quot; author-d-1gg9uz65z1iz85zgdz68zmqkz84zo2qovw8w7fz78zz76zz85z3z83zz85zqz85zpz74ziz66zaz82zsz73zz80z0z85zz81zz79zrpp4z69z&quot;&gt;Demonstrable hands-on experience using REST APIs and at least one programming or scripting language to build, test and troubleshoot integrations. Ability to explain authentication, data flows, technical decisions and your personal contribution to delivered solutions.&lt;/span&gt;&lt;/div&gt;\n&lt;/li&gt;\n&lt;li&gt;\n&lt;div&gt;&lt;span class=&quot; author-d-1gg9uz65z1iz85zgdz68zmqkz84zo2qovw8w7fz78zz76zz85z3z83zz85zqz85zpz74ziz66zaz82zsz73zz80z0z85zz81zz79zrpp4z69z&quot;&gt;Strong technical expertise in SaaS applications and integrations across cloud-hosted and on-premises environments, including collaboration or productivity technologies.&lt;/span&gt;&lt;/div&gt;\n&lt;/li&gt;\n&lt;li&gt;\n&lt;div&gt;&lt;span class=&quot; author-d-1gg9uz65z1iz85zgdz68zmqkz84zo2qovw8w7fz78zz76zz85z3z83zz85zqz85zpz74ziz66zaz82zsz73zz80z0z85zz81zz79zrpp4z69z&quot;&gt;Experience implementing large-scale IT projects, SaaS solutions or enterprise deployments, translating customer requirements into workable technical solutions.&lt;/span&gt;&lt;/div&gt;\n&lt;/li&gt;\n&lt;li&gt;\n&lt;div&gt;&lt;span class=&quot; author-d-1gg9uz65z1iz85zgdz68zmqkz84zo2qovw8w7fz78zz76zz85z3z83zz85zqz85zpz74ziz66zaz82zsz73zz80z0z85zz81zz79zrpp4z69z&quot;&gt;Strong written and verbal communication skills, with experience explaining technical concepts, business value and trade-offs to technical teams, executives and other key stakeholders.&lt;/span&gt;&lt;/div&gt;\n&lt;/li&gt;\n&lt;li&gt;\n&lt;div&gt;&lt;span class=&quot; author-d-1gg9uz65z1iz85zgdz68zmqkz84zo2qovw8w7fz78zz76zz85z3z83zz85zqz85zpz74ziz66zaz82zsz73zz80z0z85zz81zz79zrpp4z69z&quot;&gt;Deep understanding of identity management and authentication, including experience integrating with technologies such as Okta, Azure AD, Active Directory and SAML 2.0.&lt;/span&gt;&lt;/div&gt;\n&lt;/li&gt;\n&lt;li&gt;\n&lt;div&gt;&lt;span class=&quot; author-d-1gg9uz65z1iz85zgdz68zmqkz84zo2qovw8w7fz78zz76zz85z3z83zz85zqz85zpz74ziz66zaz82zsz73zz80z0z85zz81zz79zrpp4z69z&quot;&gt;Solid understanding of security and networking technologies, including CASBs, SIEMs and/or DLPs, and their implications for enterprise SaaS adoption and integrations.&lt;/span&gt;&lt;/div&gt;\n&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h2&gt;Preferred Qualifications&lt;/h2&gt;\n&lt;div&gt;\n&lt;ul&gt;\n&lt;li&gt;&lt;span class=&quot; author-d-1gg9uz65z1iz85zgdz68zmqkz84zo2qovw8oz81zy7z86zz74zcbz65zz86z2z89zz85zels1l7wz70zoz70zz76z36z73zz69zz71z&quot;&gt;Experience supporting API-led SaaS platforms, data platforms, cloud infrastructure or cloud storage solutions, including object storage such as Amazon S3.&lt;/span&gt;&lt;/li&gt;\n&lt;li&gt;Experience addressing customer use cases in media and entertainment, AI or security.&lt;/li&gt;\n&lt;li&gt;Understanding of workplace transformation trends and their implications for enterprise workflows, collaboration and technology adoption.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;/div&gt;\n&lt;div&gt;\n&lt;div&gt;\n&lt;h2&gt;&lt;span class=&quot; author-d-1gg9uz65z1iz85zgdz68zmqkz84zo2qowz81zz86z7z65z9wz73z7z75z6emz81zz70z4oz65zrz86z4dnz72ztz67zvoz67zl91&quot;&gt;Durable Skills&lt;/span&gt;&lt;/h2&gt;\n&lt;/div&gt;\n&lt;/div&gt;\n&lt;p&gt;&lt;span class=&quot; author-d-1gg9uz65z1iz85zgdz68zmqkz84zo2qotuz85zdz87z113tz83zz67z5n8qpz80zpz89zoz69zcz76zz87zz88zz88z5gsnz85zu&quot;&gt;AI fluency means using these tools to &lt;/span&gt;&lt;span class=&quot; author-d-1gg9uz65z1iz85zgdz68zmqkz84zo2qotuz85zdz87z113tz83zz67z5n8qpz80zpz89zoz69zcz76zz87zz88zz88z5gsnz85zu&quot;&gt;&lt;em&gt;amplify&lt;/em&gt;&lt;/span&gt;&lt;span class=&quot; author-d-1gg9uz65z1iz85zgdz68zmqkz84zo2qotuz85zdz87z113tz83zz67z5n8qpz80zpz89zoz69zcz76zz87zz88zz88z5gsnz85zu&quot;&gt; human judgment, not replace it. We believe people with these skills will thrive as work and technology&lt;/span&gt; &lt;span class=&quot; author-d-1gg9uz65z1iz85zgdz68zmqkz84zo2qotuz85zdz87z113tz83zz67z5n8qpz80zpz89zoz69zcz76zz87zz88zz88z5gsnz85zu&quot;&gt;continue to evolve:&lt;/span&gt;&lt;/p&gt;\n&lt;ul class=&quot;listtype-bullet listindent1 list-bullet1&quot; data-testid=&quot;bullet-list&quot; data-test-indentation=&quot;1&quot;&gt;\n&lt;li&gt;&lt;span class=&quot; author-d-1gg9uz65z1iz85zgdz68zmqkz84zo2qotuz85zdz87z113tz83zz67z5n8qpz80zpz89zoz69zcz76zz87zz88zz88z5gsnz85zu&quot;&gt;&lt;strong&gt;Awareness:&lt;/strong&gt;&lt;/span&gt; &lt;span class=&quot; author-d-1gg9uz65z1iz85zgdz68zmqkz84zo2qotv4sz81zsz68zwz85z3z78zbz88z2z76zpz74z2v1z75zz67zz85zjlvz122zz122z6oaz84z&quot;&gt;U&lt;/span&gt;&lt;span class=&quot; author-d-1gg9uz65z1iz85zgdz68zmqkz84zo2qotuz85zdz87z113tz83zz67z5n8qpz80zpz89zoz69zcz76zz87zz88zz88z5gsnz85zu&quot;&gt;nderstand &lt;/span&gt;&lt;span class=&quot; author-d-1gg9uz65z1iz85zgdz68zmqkz84zo2qotv4sz81zsz68zwz85z3z78zbz88z2z76zpz74z2v1z75zz67zz85zjlvz122zz122z6oaz84z&quot;&gt;yourself&lt;/span&gt;&lt;span class=&quot; author-d-1gg9uz65z1iz85zgdz68zmqkz84zo2qotuz85zdz87z113tz83zz67z5n8qpz80zpz89zoz69zcz76zz87zz88zz88z5gsnz85zu&quot;&gt; and others&lt;/span&gt;&lt;span class=&quot; author-d-1gg9uz65z1iz85zgdz68zmqkz84zo2qotv4sz81zsz68zwz85z3z78zbz88z2z76zpz74z2v1z75zz67zz85zjlvz122zz122z6oaz84z&quot;&gt;.&lt;/span&gt;&lt;/li&gt;\n&lt;li&gt;&lt;span class=&quot; author-d-1gg9uz65z1iz85zgdz68zmqkz84zo2qotuz85zdz87z113tz83zz67z5n8qpz80zpz89zoz69zcz76zz87zz88zz88z5gsnz85zu&quot;&gt;&lt;strong&gt;Judgment:&lt;/strong&gt;&lt;/span&gt; &lt;span class=&quot; author-d-1gg9uz65z1iz85zgdz68zmqkz84zo2qotv4sz81zsz68zwz85z3z78zbz88z2z76zpz74z2v1z75zz67zz85zjlvz122zz122z6oaz84z&quot;&gt;E&lt;/span&gt;&lt;span class=&quot; author-d-1gg9uz65z1iz85zgdz68zmqkz84zo2qotuz85zdz87z113tz83zz67z5n8qpz80zpz89zoz69zcz76zz87zz88zz88z5gsnz85zu&quot;&gt;valuat&lt;/span&gt;&lt;span class=&quot; author-d-1gg9uz65z1iz85zgdz68zmqkz84zo2qotv4sz81zsz68zwz85z3z78zbz88z2z76zpz74z2v1z75zz67zz85zjlvz122zz122z6oaz84z&quot;&gt;e&lt;/span&gt;&lt;span class=&quot; author-d-1gg9uz65z1iz85zgdz68zmqkz84zo2qotuz85zdz87z113tz83zz67z5n8qpz80zpz89zoz69zcz76zz87zz88zz88z5gsnz85zu&quot;&gt; information and mak&lt;/span&gt;&lt;span class=&quot; author-d-1gg9uz65z1iz85zgdz68zmqkz84zo2qotv4sz81zsz68zwz85z3z78zbz88z2z76zpz74z2v1z75zz67zz85zjlvz122zz122z6oaz84z&quot;&gt;e &lt;/span&gt;&lt;span class=&quot; author-d-1gg9uz65z1iz85zgdz68zmqkz84zo2qotuz85zdz87z113tz83zz67z5n8qpz80zpz89zoz69zcz76zz87zz88zz88z5gsnz85zu&quot;&gt;decisions in complex situations&lt;/span&gt;&lt;span class=&quot; author-d-1gg9uz65z1iz85zgdz68zmqkz84zo2qotv4sz81zsz68zwz85z3z78zbz88z2z76zpz74z2v1z75zz67zz85zjlvz122zz122z6oaz84z&quot;&gt;.&lt;/span&gt;&lt;/li&gt;\n&lt;li&gt;&lt;span class=&quot; author-d-1gg9uz65z1iz85zgdz68zmqkz84zo2qotuz85zdz87z113tz83zz67z5n8qpz80zpz89zoz69zcz76zz87zz88zz88z5gsnz85zu&quot;&gt;&lt;strong&gt;Adaptability:&lt;/strong&gt;&lt;/span&gt; &lt;span class=&quot; author-d-1gg9uz65z1iz85zgdz68zmqkz84zo2qotv4sz81zsz68zwz85z3z78zbz88z2z76zpz74z2v1z75zz67zz85zjlvz122zz122z6oaz84z&quot;&gt;L&lt;/span&gt;&lt;span class=&quot; author-d-1gg9uz65z1iz85zgdz68zmqkz84zo2qotuz85zdz87z113tz83zz67z5n8qpz80zpz89zoz69zcz76zz87zz88zz88z5gsnz85zu&quot;&gt;earn, adjust, and stay effective through change&lt;/span&gt;&lt;span class=&quot; author-d-1gg9uz65z1iz85zgdz68zmqkz84zo2qotv4sz81zsz68zwz85z3z78zbz88z2z76zpz74z2v1z75zz67zz85zjlvz122zz122z6oaz84z&quot;&gt;.&lt;/span&gt;&lt;/li&gt;\n&lt;li&gt;&lt;span class=&quot; author-d-1gg9uz65z1iz85zgdz68zmqkz84zo2qotuz85zdz87z113tz83zz67z5n8qpz80zpz89zoz69zcz76zz87zz88zz88z5gsnz85zu&quot;&gt;&lt;strong&gt;Connection:&lt;/strong&gt;&lt;/span&gt; &lt;span class=&quot; author-d-1gg9uz65z1iz85zgdz68zmqkz84zo2qotv4sz81zsz68zwz85z3z78zbz88z2z76zpz74z2v1z75zz67zz85zjlvz122zz122z6oaz84z&quot;&gt;C&lt;/span&gt;&lt;span class=&quot; author-d-1gg9uz65z1iz85zgdz68zmqkz84zo2qotuz85zdz87z113tz83zz67z5n8qpz80zpz89zoz69zcz76zz87zz88zz88z5gsnz85zu&quot;&gt;ommunicat&lt;/span&gt;&lt;span class=&quot; author-d-1gg9uz65z1iz85zgdz68zmqkz84zo2qotv4sz81zsz68zwz85z3z78zbz88z2z76zpz74z2v1z75zz67zz85zjlvz122zz122z6oaz84z&quot;&gt;e&lt;/span&gt;&lt;span class=&quot; author-d-1gg9uz65z1iz85zgdz68zmqkz84zo2qotuz85zdz87z113tz83zz67z5n8qpz80zpz89zoz69zcz76zz87zz88zz88z5gsnz85zu&quot;&gt;, collaborat&lt;/span&gt;&lt;span class=&quot; author-d-1gg9uz65z1iz85zgdz68zmqkz84zo2qotv4sz81zsz68zwz85z3z78zbz88z2z76zpz74z2v1z75zz67zz85zjlvz122zz122z6oaz84z&quot;&gt;e&lt;/span&gt;&lt;span class=&quot; author-d-1gg9uz65z1iz85zgdz68zmqkz84zo2qotuz85zdz87z113tz83zz67z5n8qpz80zpz89zoz69zcz76zz87zz88zz88z5gsnz85zu&quot;&gt;, and build trust&lt;/span&gt;&lt;span class=&quot; author-d-1gg9uz65z1iz85zgdz68zmqkz84zo2qotv4sz81zsz68zwz85z3z78zbz88z2z76zpz74z2v1z75zz67zz85zjlvz122zz122z6oaz84z&quot;&gt;.&lt;/span&gt;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;span class=&quot; author-d-iz88z86z86za0dz67zz78zz78zz74zz68zjz80zz71z9iz90z9z84z5u1z69zz90zlz73z3ly1nz76zw1r5kz89zz66z4z65zz65zjz122zf092&quot;&gt;To learn more about why these skills matter and what the data shows about thriving through change, read this&amp;nbsp;&lt;/span&gt;&lt;span class=&quot;attrlink url author-d-iz88z86z86za0dz67zz78zz78zz74zz68zjz80zz71z9iz90z9z84z5u1z69zz90zlz73z3ly1nz76zw1r5kz89zz66z4z65zz65zjz122zf092&quot;&gt;&lt;a class=&quot;attrlink&quot; href=&quot;https://www.dropbox.jobs/en/our-blog/employee-stories/the-era-of-durable-skills-what-the-data-tells-us-about-thriving-in-change/&quot; target=&quot;_blank&quot; data-target-href=&quot;https://www.dropbox.jobs/en/our-blog/employee-stories/the-era-of-durable-skills-what-the-data-tells-us-about-thriving-in-change/&quot;&gt;blog post&lt;/a&gt;&lt;/span&gt; &lt;span class=&quot; author-d-1gg9uz65z1iz85zgdz68zmqkz84zo2qotuz85zdz87z113tz83zz67z5n8qpz80zpz89zoz69zcz76zz87zz88zz88z5gsnz85zu&quot;&gt;from&lt;/span&gt;&lt;span class=&quot; author-d-iz88z86z86za0dz67zz78zz78zz74zz68zjz80zz71z9iz90z9z84z5u1z69zz90zlz73z3ly1nz76zw1r5kz89zz66z4z65zz65zjz122zf092&quot;&gt; our Chief People Officer, Melanie Rosenwasser.&lt;/span&gt;&lt;/p&gt;\n&lt;h2&gt;Compensation&lt;/h2&gt;",
+  "departments": [
+    {
+      "id": 69901,
+      "name": "Global Solutions - APJ (Sub Team)",
+      "child_ids": [],
+      "parent_id": 8321
+    }
+  ],
+  "offices": [
+    {
+      "id": 86226,
+      "name": "Australia",
+      "location": null,
+      "child_ids": [],
+      "parent_id": 43636
+    }
+  ],
+  "ai_disclaimer": null,
+  "include_ai_disclaimer": null,
+  "ai_opt_out_request_url": null
+}

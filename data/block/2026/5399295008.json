@@ -25,7 +25,7 @@
     {
       "id": 4185041008,
       "name": "Brands",
-      "value": "Cash App",
+      "value": "Block",
       "value_type": "single_select"
     },
     {
@@ -120,7 +120,7 @@
     }
   ],
   "id": 5399295008,
-  "updated_at": "2026-10-05T16:18:52-04:00",
+  "updated_at": "2026-10-20T13:31:49-04:00",
   "requisition_id": "R0006920",
   "title": "Creative Director, Block",
   "company_name": "Block",

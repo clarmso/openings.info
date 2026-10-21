@@ -27,13 +27,13 @@
     "scrapeableCompensationSalarySummary": "$236K - $339.2K",
     "compensationTiers": [
       {
-        "id": "d37381d7-0d26-4967-9c05-e0128b1accca",
+        "id": "0c7bba54-7e62-42c9-8619-f9f0efc5a11e",
         "tierSummary": "$236K – $339.2K",
         "title": null,
         "additionalInformation": null,
         "components": [
           {
-            "id": "ab1c439e-6eca-4883-bd01-d995b26af3ce",
+            "id": "837d5508-b5bd-413e-add5-f6490f9c00d8",
             "summary": "$236K – $339.2K",
             "compensationType": "Salary",
             "interval": "1 YEAR",

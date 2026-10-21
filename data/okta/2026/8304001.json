@@ -1,0 +1,110 @@
+{
+  "absolute_url": "https://www.okta.com/company/careers/opportunity/8304001?gh_jid=8304001",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": false,
+      "requires_processing_consent": false,
+      "requires_retention_consent": false,
+      "retention_period": null,
+      "demographic_data_consent_applies": false
+    }
+  ],
+  "internal_job_id": 3590417,
+  "location": {
+    "name": "Bellevue, Washington; Chicago, Illinois; San Francisco, California"
+  },
+  "metadata": [
+    {
+      "id": 58735330,
+      "name": "Naukri Job URL",
+      "value": null,
+      "value_type": "long_text"
+    },
+    {
+      "id": 58735350,
+      "name": "Naukri Job Error",
+      "value": null,
+      "value_type": "long_text"
+    },
+    {
+      "id": 58735367,
+      "name": "Minimum Salary",
+      "value": null,
+      "value_type": "number"
+    },
+    {
+      "id": 58735368,
+      "name": "Maximum Salary",
+      "value": null,
+      "value_type": "number"
+    },
+    {
+      "id": 58735369,
+      "name": "Minimum Work Experience",
+      "value": null,
+      "value_type": "number"
+    },
+    {
+      "id": 58735370,
+      "name": "Maximum Work Experience",
+      "value": null,
+      "value_type": "number"
+    },
+    {
+      "id": 58735384,
+      "name": "City",
+      "value": null,
+      "value_type": "single_select"
+    },
+    {
+      "id": 58735385,
+      "name": "Job Description",
+      "value": null,
+      "value_type": "long_text"
+    }
+  ],
+  "id": 8304001,
+  "updated_at": "2026-10-20T14:28:24-04:00",
+  "requisition_id": "P26090_3590417",
+  "title": "Specialist AI GTM Strategy and Activation - Technical Market Engagement",
+  "company_name": "Okta",
+  "first_published": "2026-10-20T14:28:24-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;Secure Every Identity, from AI to Human&lt;br&gt;&lt;br&gt;&lt;/strong&gt;Identity is the key to unlocking the potential of AI. Okta secures AI by building the trusted, neutral infrastructure that enables organizations to safely embrace this new era. This work requires a relentless drive to solve complex challenges with real-world stakes. We are looking for builders and owners who operate with speed and urgency and execute with excellence.&lt;br&gt;&lt;br&gt;This is an opportunity to do career-defining work. We&#39;re all in on this mission. If you are too, let&#39;s talk.&lt;/p&gt;&lt;/div&gt;&lt;h2&gt;About this role&lt;/h2&gt;\n&lt;p&gt;Okta Secures AI is how enterprises give AI agents an identity, govern what those agents can reach, and prove it to auditors. The buyers are engineers, architects, and security practitioners who expect technical proof, not a business-value slide. The Technical focus area owns that audience: the reference architectures, technical content, demos, and deep-dive assets that hold up under live questioning.&lt;/p&gt;\n&lt;p&gt;You are the execution engine for that motion. You keep the technical content set accurate, current, and usable as the product ships new capabilities, and you take on well-scoped builds so the rest of the team can focus on net-new strategy and proof. Your first major ownership area is the technical content for the &lt;strong&gt;Blueprint Maturity Model (BMM)&lt;/strong&gt;. The BMM is the staged framework (Foundational, Scaling, Advanced, Strategic) that TAMs, CSMs, and FDEs use to move customers from first agent discovery to fully governed, production-scale agent identity. You also help with the plans, guides, and templates that go with it.&lt;/p&gt;\n&lt;p&gt;This is a hands-on, technical role. You will learn the product deeply, build and maintain assets, and work with the field teams who use your content every day. You&#39;ll start mostly behind the scenes and close to the field. As your depth and judgment grow, you&#39;ll spend more time directly in front of customers.&lt;/p&gt;\n&lt;h2&gt;Core responsibilities&lt;/h2&gt;\n&lt;p&gt;&lt;em&gt;Every role in this org carries these, applied to its focus area. At this level, you contribute to and execute against each one, with guidance from the Technical lead.&lt;/em&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;&lt;strong&gt;Messaging and positioning:&lt;/strong&gt; Apply the Technical narrative consistently across every asset you build or maintain, and flag where content has drifted from what the product actually does.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Buyer, persona, and market insight:&lt;/strong&gt; Capture what you hear from TAMs, CSMs, FDEs, SEs, and customer calls, and turn it into concrete updates to content and the BMM.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Competitive and category intelligence:&lt;/strong&gt; Track roadmap changes, competitor feature releases, and protocol developments (MCP, Cross App Access, agent auth patterns), and summarize what they mean for our technical content.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Go-to-market planning and launch execution:&lt;/strong&gt; Get technical assets, guides, and BMM entries updated and ready when features move from roadmap to Beta, EA, and GA.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Sales enablement and field readiness:&lt;/strong&gt; Maintain the guides, demo catalog, and reference material that SEs, TAMs, and CSMs rely on, and track whether they actually use it.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Customer-facing content and asset ownership:&lt;/strong&gt; Own accuracy and freshness for your assigned assets end to end, starting with the BMM, and retire what&#39;s outdated.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Cross-functional influence:&lt;/strong&gt; Work with product, engineering, Customer Success, and Professional Services to collect the inputs you need without formal authority over any of them.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Roadmap, pricing, and packaging input:&lt;/strong&gt; Bring recurring field and customer feedback (product gaps, feature requests, deployment friction) to the Technical lead with the evidence behind it.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h2&gt;What you&#39;ll own&lt;/h2&gt;\n&lt;ul&gt;\n&lt;li&gt;&lt;strong&gt;The Blueprint Maturity Model technical content.&lt;/strong&gt; Keep each stage and capability current: the customer value, the Okta feature that delivers it, and the guide that implements it. Add new capabilities as they ship, move &quot;to be released&quot; items into active stages as they reach Beta, EA, or GA, and keep stage criteria aligned with how customers actually progress.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;The BMM&#39;s associated content and templates.&lt;/strong&gt; Keep the TAM Technical Project Plan, Customer Overview, Status Overview, and Actions &amp;amp; Deliverables templates consistent with the model. That means matching numbering, accurate task lists, and correct ownership (RACI) across CSM, TAM, PS, and FDE.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Implementation guides and technical collateral.&lt;/strong&gt; Build and maintain the step-by-step guides linked from the BMM and the wider content set (for example SSO for agents, Cross App Access, agent import and registration, token exchange, secure token storage, system log streaming to a SIEM, and agent deactivation), so every BMM entry points to something a TAM can hand to a customer.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Demo environments and the demo catalog.&lt;/strong&gt; Keep demos working as the product changes, document every setup to the team&#39;s standard, and capture high-quality screenshots, visuals, and recordings for reuse.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Field feedback loop.&lt;/strong&gt; Gather input from TAMs, CSMs, and FDEs on where customers get stuck in the BMM, and turn it into proposed updates for the Technical lead to review.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Release and roadmap tracking.&lt;/strong&gt; Watch Okta Secures AI release notes, Beta and EA programs, and competitor launches, and keep a running log of what needs updating in the content set.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Scoped builds for the team.&lt;/strong&gt; Take on assigned pieces of larger projects, such as reference architecture diagrams, deep-dive sections, and demo scenarios, and deliver them accurately and on time.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h2&gt;How you&#39;ll work with customers&lt;/h2&gt;\n&lt;p&gt;You&#39;ll start close to the field rather than out in front of it. You&#39;ll join TAM, CSM, and SE calls to hear where customers get stuck, support demos and technical sessions, and check that BMM guidance holds up in real deployments. As your product depth and confidence grow, you&#39;ll run demos and technical sessions yourself, present the BMM to customers, and represent Okta Secures AI at technical and developer events. Your customer-facing scope expands as you earn it.&lt;/p&gt;\n&lt;h2&gt;What you&#39;ll bring&lt;/h2&gt;\n&lt;ul&gt;\n&lt;li&gt;2–5 years in technical marketing, solutions engineering, technical account management, professional services, developer relations, or another technical customer-facing role for a B2B software product. Identity or security experience is a plus.&lt;/li&gt;\n&lt;li&gt;Hands-on proficiency with SaaS admin consoles, CLIs, and APIs. You can stand up an integration, follow (and improve) technical documentation, and debug when a setup doesn&#39;t behave.&lt;/li&gt;\n&lt;li&gt;Working knowledge of identity fundamentals (SSO, OAuth 2.0, OIDC, SAML) and a strong interest in going deep on agent identity: MCP, Cross App Access, token exchange, and agent authentication and authorization patterns.&lt;/li&gt;\n&lt;li&gt;Clear technical writing. Your guides are accurate, well-structured, and usable by someone who wasn&#39;t in the room.&lt;/li&gt;\n&lt;li&gt;Rigor and attention to detail. You keep a large, fast-changing body of content consistent, version-controlled, and correct.&lt;/li&gt;\n&lt;li&gt;Proactive habits. You spot gaps and stale content without being asked, and you come with a proposed fix.&lt;/li&gt;\n&lt;li&gt;Comfort working across teams and taking input from TAMs, CSMs, SEs, product managers, and engineers.&lt;/li&gt;\n&lt;li&gt;Comfort operating in an early, fast-moving market where the product, the roadmap, and the guidance change weekly.&lt;/li&gt;\n&lt;li&gt;Willingness to travel occasionally (roughly 10%) for customer engagements, team sessions, and events. This will grow as your role becomes more customer-facing.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h2&gt;Success looks like&lt;/h2&gt;\n&lt;ul&gt;\n&lt;li&gt;BMM and associated content are accurate, current, and delivered on time, and no shipped capability is missing from the model or its guides.&lt;/li&gt;\n&lt;li&gt;TAMs, CSMs, and FDEs use the BMM and its guides to drive customer progression without reworking them.&lt;/li&gt;\n&lt;li&gt;Assets you build are reused across at least two channels or teams.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h2&gt;Growth path&lt;/h2&gt;\n&lt;p&gt;This role is the foundation of the Technical team. Growth toward the next level means moving from executing assigned work to independently finding gaps, building self-documented solutions without being asked, and owning more of the customer-facing technical conversation yourself.&lt;/p&gt;\n&lt;p&gt;P26090&lt;/p&gt;&lt;div class=&quot;content-pay-transparency&quot;&gt;&lt;div class=&quot;pay-input&quot;&gt;&lt;div class=&quot;title&quot;&gt;The annual base salary range for this position for candidates located in the San Francisco Bay area is between:  &lt;/div&gt;&lt;div class=&quot;pay-range&quot;&gt;&lt;span&gt;$122,000&lt;/span&gt;&lt;span class=&quot;divider&quot;&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;$168,000 USD&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;pay-input&quot;&gt;&lt;div class=&quot;description&quot;&gt;&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Below is the annual base salary range for candidates located in California (excluding San Francisco Bay Area), Colorado, Illinois, New York and Washington. Your actual base salary will depend on factors such as your skills, qualifications, experience, and work location. In addition, Okta offers equity (where applicable), bonus, and benefits, including health, dental and vision insurance, 401(k), flexible spending account, and paid leave (including PTO and parental leave) in accordance with our applicable plans and policies. To learn more about our Total Rewards program please visit: &lt;/span&gt;&lt;a href=&quot;https://rewards.okta.com/us&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;https://rewards.okta.com/us&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;.&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;title&quot;&gt;The annual base salary range for this position for candidates located in California (excluding San Francisco Bay Area), Colorado, Illinois, New York, and Washington is between:&lt;/div&gt;&lt;div class=&quot;pay-range&quot;&gt;&lt;span&gt;$109,000&lt;/span&gt;&lt;span class=&quot;divider&quot;&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;$149,000 USD&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;&lt;strong&gt;The Okta Experience&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;&lt;a href=&quot;http://rewards.okta.com&quot;&gt;Supporting Your Well-Being&lt;/a&gt;&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;&lt;a href=&quot;https://www.okta.com/company/okta-for-good/&quot;&gt;Driving Social Impact&amp;nbsp;&lt;/a&gt;&lt;/li&gt;\n&lt;li&gt;&lt;a href=&quot;https://www.okta.com/company/talent-connection-community/&quot;&gt;Developing Talent and Fostering Connection + Community&lt;/a&gt;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;We are intentional about connection. Our global community, spanning over 20 offices worldwide, is united by a drive to innovate. Your journey begins with an immersive, in-person onboarding experience designed to accelerate your impact and connect you to our mission and team from day one.&lt;br&gt;&lt;br&gt;Okta is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, ancestry, marital status, age, physical or mental disability, or status as a protected veteran. We also consider for employment qualified applicants with arrest and convictions records, consistent with applicable laws.&lt;br&gt;&lt;br&gt;If reasonable accommodation is needed to complete any part of the job application, interview process, or onboarding please&amp;nbsp;&lt;a href=&quot;https://docs.google.com/forms/d/1EfiEYZrIyhA2X4Fijk0R3RKYOzNoS3wtvyM4nhbZnXE/edit&quot;&gt;use this Form&lt;/a&gt; to request an accommodation.&lt;br&gt;&lt;br&gt;Notice for New York City Applicants &amp;amp; Employees: Okta may use Automated Employment Decision Tools (AEDT), as defined by New York City Local Law 144, that use artificial intelligence, machine learning, or other automated processes to assist in our recruitment and hiring process. In accordance with NYC Local Law 144, if you are an applicant or employee residing in New York City, please&amp;nbsp;&lt;a href=&quot;https://talent.okta.com/new-york-city-aedt-notice.html&quot;&gt;click here&lt;/a&gt; to view our full NYC AEDT Notice.&lt;/p&gt;&lt;/div&gt;",
+  "departments": [
+    {
+      "id": 335628,
+      "name": "Okta for AI Agents-764",
+      "child_ids": [],
+      "parent_id": 396309
+    }
+  ],
+  "offices": [
+    {
+      "id": 19613,
+      "name": "Bellevue",
+      "location": "Bellevue, WA, United States",
+      "child_ids": [],
+      "parent_id": 67252
+    },
+    {
+      "id": 61722,
+      "name": "Chicago",
+      "location": "Chicago, Illinois, United States",
+      "child_ids": [],
+      "parent_id": 67252
+    },
+    {
+      "id": 19611,
+      "name": "San Francisco",
+      "location": "San Francisco, CA, United States",
+      "child_ids": [],
+      "parent_id": 67252
+    }
+  ],
+  "ai_disclaimer": null,
+  "include_ai_disclaimer": null,
+  "ai_opt_out_request_url": null
+}

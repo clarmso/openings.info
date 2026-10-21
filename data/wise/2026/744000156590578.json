@@ -1,0 +1,130 @@
+{
+  "id": "744000156590578",
+  "name": "Global Complaints Team Lead",
+  "uuid": "f22264ef-45ad-4813-a5ec-07bdbfd808c7",
+  "jobAdId": "c493f33a-7a00-4fae-a75e-23ebf49eff65",
+  "defaultJobAd": false,
+  "refNumber": "R11376",
+  "company": {
+    "identifier": "Wise",
+    "name": "Wise"
+  },
+  "releasedDate": "2026-10-20T15:03:56.058Z",
+  "location": {
+    "city": "Budapest",
+    "country": "hu",
+    "address": "Váci út, 80",
+    "postalCode": "1133",
+    "remote": false,
+    "hybrid": false,
+    "fullLocation": "Budapest, , Hungary"
+  },
+  "industry": {
+    "id": "financial_services",
+    "label": "Financial Services"
+  },
+  "department": {},
+  "function": {
+    "id": "customer_service",
+    "label": "Customer Service"
+  },
+  "typeOfEmployment": {
+    "id": "permanent",
+    "label": "Full-time"
+  },
+  "experienceLevel": {
+    "id": "mid_senior_level",
+    "label": "Mid-Senior Level"
+  },
+  "customField": [
+    {
+      "fieldId": "65d3d0e0d37044292ef9549b",
+      "fieldLabel": "Job Profile",
+      "valueId": "e380f86fa0b20144260465bf95017102",
+      "valueLabel": "Complaints Team Lead - JP100202"
+    },
+    {
+      "fieldId": "65d3d0a7d37044292ef9549a",
+      "fieldLabel": "Job Family",
+      "valueId": "a128c75d9f540100b153ae838abf0000",
+      "valueLabel": "Complaints"
+    },
+    {
+      "fieldId": "COUNTRY",
+      "fieldLabel": "Country/Region",
+      "valueId": "hu",
+      "valueLabel": "Hungary"
+    },
+    {
+      "fieldId": "65d3d05c735007771b14e932",
+      "fieldLabel": "Worker Type",
+      "valueId": "EE",
+      "valueLabel": "Wiser"
+    },
+    {
+      "fieldId": "65cea5ac287e8d0651481809",
+      "fieldLabel": "Time Type",
+      "valueId": "d2f4dafccd5101059b6cf09e12278400",
+      "valueLabel": "Full time"
+    },
+    {
+      "fieldId": "65d3d06b2865b46cfa4f0ec3",
+      "fieldLabel": "Worker Sub Type",
+      "valueId": "046034784a4d016f1889ba8863278f0d",
+      "valueLabel": "Permanent"
+    },
+    {
+      "fieldId": "65d3d141c86c2f3257de414c",
+      "fieldLabel": "Cost Center Hierarchy",
+      "valueId": "6d8f1bd75a70018875458a31c712941c",
+      "valueLabel": "Customer Support"
+    },
+    {
+      "fieldId": "658553f79a81b00900831a80",
+      "fieldLabel": "Brands",
+      "valueId": "default",
+      "valueLabel": "Wise"
+    },
+    {
+      "fieldId": "65d3d0374c34974b271801f9",
+      "fieldLabel": "Management Level",
+      "valueId": "e82698b941950185dfe774d4f100d610",
+      "valueLabel": "5"
+    },
+    {
+      "fieldId": "65d3d0926435ba43bdb089ac",
+      "fieldLabel": "Job Family Group",
+      "valueId": "a128c75d9f540100b134ce5ef2630000",
+      "valueLabel": "Customer Support"
+    },
+    {
+      "fieldId": "65d3d151a5d3185b4341a7ab",
+      "fieldLabel": "Cost Center",
+      "valueId": "0367c3cc0fb510016c0bb7afc8350000",
+      "valueLabel": "CS Advocacy"
+    },
+    {
+      "fieldId": "65cec407735007771b14e92d",
+      "fieldLabel": "Company",
+      "valueId": "046034784a4d01fad2bf134764275817",
+      "valueLabel": "Wise Payments Limited Magyarországi Fióktelepe"
+    },
+    {
+      "fieldId": "65d90823f2e6436af25814c2",
+      "fieldLabel": "Job Ad Salary Range",
+      "valueLabel": "1120000 - 1440000 HUF Monthly"
+    },
+    {
+      "fieldId": "65d9080b4aa2f46927dfc1f3",
+      "fieldLabel": "WD Target Hire Date",
+      "valueLabel": "2026-12-07"
+    }
+  ],
+  "visibility": "PUBLIC",
+  "ref": "https://api.smartrecruiters.com/v1/companies/wise/postings/744000156590578",
+  "language": {
+    "code": "en",
+    "label": "English",
+    "labelNative": "English (US)"
+  }
+}

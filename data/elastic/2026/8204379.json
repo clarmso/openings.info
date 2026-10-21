@@ -13,7 +13,7 @@
   "education": "education_optional",
   "internal_job_id": 3550887,
   "location": {
-    "name": "New York, United States"
+    "name": "United States"
   },
   "metadata": [
     {
@@ -54,9 +54,9 @@
     }
   ],
   "id": 8204379,
-  "updated_at": "2026-10-01T12:57:36-04:00",
+  "updated_at": "2026-10-20T08:56:25-04:00",
   "requisition_id": "2945",
-  "title": "Enterprise Account Executive - East",
+  "title": "Enterprise Account Executive - North Central",
   "company_name": "Elastic",
   "first_published": "2026-09-17T12:15:53-04:00",
   "language": "en",

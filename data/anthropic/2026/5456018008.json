@@ -23,7 +23,7 @@
     }
   ],
   "id": 5456018008,
-  "updated_at": "2026-10-19T16:20:56-04:00",
+  "updated_at": "2026-10-21T01:52:27-04:00",
   "requisition_id": "REQ-26-1142-01",
   "title": "IT Systems Engineer, Client Platform Engineer, ChromeOS",
   "company_name": "Anthropic",
@@ -41,9 +41,44 @@
   ],
   "offices": [
     {
+      "id": 4039647008,
+      "name": "Boston, MA",
+      "location": "Boston, Massachusetts, United States",
+      "child_ids": [],
+      "parent_id": null
+    },
+    {
+      "id": 4001219008,
+      "name": "New York City, NY",
+      "location": "New York, New York, United States",
+      "child_ids": [],
+      "parent_id": null
+    },
+    {
+      "id": 4008537008,
+      "name": "Remote-Friendly US (Travel Required)",
+      "location": null,
+      "child_ids": [],
+      "parent_id": null
+    },
+    {
       "id": 4001218008,
       "name": "San Francisco, CA",
       "location": "San Francisco, California, United States",
+      "child_ids": [],
+      "parent_id": null
+    },
+    {
+      "id": 4001217008,
+      "name": "Seattle, WA",
+      "location": "Seattle, Washington, United States",
+      "child_ids": [],
+      "parent_id": null
+    },
+    {
+      "id": 4011228008,
+      "name": "Washington, D.C.",
+      "location": "Washington, District of Columbia, United States",
       "child_ids": [],
       "parent_id": null
     }

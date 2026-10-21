@@ -44,20 +44,20 @@
         "additionalInformation": "75/25 Split",
         "components": [
           {
-            "id": "0f75fbd0-434c-48aa-bcb8-23111e96ef53",
-            "summary": "Offers Commission",
-            "compensationType": "Commission",
-            "interval": "1 YEAR",
-            "currencyCode": "USD",
-            "minValue": null,
-            "maxValue": null
-          },
-          {
             "id": "4db95ae5-ce78-4ef7-9afd-4f37517cdf55",
             "summary": "Offers Equity",
             "compensationType": "EquityPercentage",
             "interval": "NONE",
             "currencyCode": null,
+            "minValue": null,
+            "maxValue": null
+          },
+          {
+            "id": "0f75fbd0-434c-48aa-bcb8-23111e96ef53",
+            "summary": "Offers Commission",
+            "compensationType": "Commission",
+            "interval": "1 YEAR",
+            "currencyCode": "USD",
             "minValue": null,
             "maxValue": null
           },
@@ -114,15 +114,6 @@
         "additionalInformation": "75/25 Split",
         "components": [
           {
-            "id": "b9530c9f-2e45-425e-afdc-2c85d86fc5d5",
-            "summary": "Offers Equity",
-            "compensationType": "EquityPercentage",
-            "interval": "NONE",
-            "currencyCode": null,
-            "minValue": null,
-            "maxValue": null
-          },
-          {
             "id": "4b82393a-00a1-44d9-bd02-5bfcc3d29f1d",
             "summary": "On Target Earnings CA$280,500 – CA$305,250",
             "compensationType": "Salary",
@@ -130,6 +121,15 @@
             "currencyCode": "CAD",
             "minValue": 280500,
             "maxValue": 305250
+          },
+          {
+            "id": "b9530c9f-2e45-425e-afdc-2c85d86fc5d5",
+            "summary": "Offers Equity",
+            "compensationType": "EquityPercentage",
+            "interval": "NONE",
+            "currencyCode": null,
+            "minValue": null,
+            "maxValue": null
           },
           {
             "id": "f6b1fe95-d805-46af-a17a-e098be2b6fb2",
@@ -145,13 +145,13 @@
     ],
     "summaryComponents": [
       {
-        "compensationType": "Commission",
+        "compensationType": "EquityPercentage",
         "minValue": null,
         "maxValue": null,
         "interval": "1 YEAR"
       },
       {
-        "compensationType": "EquityPercentage",
+        "compensationType": "Commission",
         "minValue": null,
         "maxValue": null,
         "interval": "1 YEAR"

@@ -1,0 +1,146 @@
+{
+  "id": "aa8125b8-1b0e-42dc-8c8e-2d69eabe0524",
+  "title": "Senior+ Full-Stack Engineer",
+  "department": "Engineering",
+  "team": "Engineering",
+  "employmentType": "FullTime",
+  "location": "USA",
+  "shouldDisplayCompensationOnJobPostings": true,
+  "secondaryLocations": [
+    {
+      "location": "Chile",
+      "address": {
+        "postalAddress": {
+          "addressCountry": "Chile"
+        }
+      }
+    },
+    {
+      "location": "UK",
+      "address": {
+        "postalAddress": {
+          "addressCountry": "United Kingdom"
+        }
+      }
+    },
+    {
+      "location": "Uruguay",
+      "address": {
+        "postalAddress": {
+          "addressCountry": "Uruguay"
+        }
+      }
+    },
+    {
+      "location": "Switzerland",
+      "address": {
+        "postalAddress": {
+          "addressCountry": "Switzerland"
+        }
+      }
+    },
+    {
+      "location": "Brazil",
+      "address": {
+        "postalAddress": {
+          "addressCountry": "Brazil"
+        }
+      }
+    },
+    {
+      "location": "Canada",
+      "address": {
+        "postalAddress": {
+          "addressRegion": "",
+          "addressCountry": "Canada"
+        }
+      }
+    },
+    {
+      "location": "Mexico",
+      "address": {
+        "postalAddress": {
+          "addressCountry": "Mexico"
+        }
+      }
+    },
+    {
+      "location": "Argentina",
+      "address": {
+        "postalAddress": {
+          "addressCountry": "Argentina"
+        }
+      }
+    },
+    {
+      "location": "Europe",
+      "address": {
+        "postalAddress": {
+          "addressCountry": "European Union"
+        }
+      }
+    }
+  ],
+  "publishedAt": "2026-10-20T19:29:51.894+00:00",
+  "isListed": true,
+  "isRemote": true,
+  "workplaceType": "Remote",
+  "address": {
+    "postalAddress": {
+      "addressRegion": "",
+      "addressCountry": "USA"
+    }
+  },
+  "jobUrl": "https://jobs.ashbyhq.com/nango/aa8125b8-1b0e-42dc-8c8e-2d69eabe0524",
+  "applyUrl": "https://jobs.ashbyhq.com/nango/aa8125b8-1b0e-42dc-8c8e-2d69eabe0524/application",
+  "descriptionHtml": "<p style=\"min-height:1.5em\"><em>(Remote, North America, LATAM or Europe)</em></p><p style=\"min-height:1.5em\"><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://nango.dev\"><u>Nango</u></a> (YC W23) is a developer infrastructure company and the leading provider of API access for agents and apps. It lets AI applications connect to the real world through integrations.</p><p style=\"min-height:1.5em\">More than 700 paying customers rely on Nango today, including Replit, Ramp, Mercor, Vapi, Instantly and Exa. We are a YC-backed company with multi-million ARR and a team of 14 from AWS, Snyk, GitHub, Okta, Netlify, Uber, Samsara and more.</p><p style=\"min-height:1.5em\">We are hiring Senior+ Full-Stack Engineers to join the core engineering team building Nango's platform. This is a product engineering role: you'll take features from customer conversation to shipped product, across the API, the runtime and the dashboard. We sell to developers, so our engineers directly drive the product roadmap, specs and execution. You will own whole product surfaces end to end and help decide how Nango evolves as more of our customers build agents.</p><p style=\"min-height:1.5em\"></p><h2><strong>What You'll Do</strong></h2><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">Ship product end to end, from backend services and APIs to the dashboard and developer-facing UIs.</p></li><li><p style=\"min-height:1.5em\">Build the tools developers and agents use to reach Nango: APIs, SDKs, CLI, MCP and the web app.</p></li><li><p style=\"min-height:1.5em\">Work directly with customers to understand their integration and agent use cases, then turn what you learn into a product.</p></li><li><p style=\"min-height:1.5em\">Design systems that stay reliable and fast as usage grows.</p></li><li><p style=\"min-height:1.5em\">Shape the roadmap with high ownership of product and technical decisions.</p></li><li><p style=\"min-height:1.5em\">Engage with the open-source community, owning and maintaining our repo.</p><p style=\"min-height:1.5em\"></p></li></ul><h2><strong>Who you are</strong></h2><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">5+ years of software engineering experience at a senior level or above, with strong backend fundamentals: APIs, databases, distributed systems and performance.</p></li><li><p style=\"min-height:1.5em\">Comfortable working across the stack in TypeScript, from Node.js services to React frontends.</p></li><li><p style=\"min-height:1.5em\">A product engineer at heart. You care about what gets built and why, not only how.</p></li><li><p style=\"min-height:1.5em\">Strong communicator, proactive and reliable in a remote-first environment.</p></li><li><p style=\"min-height:1.5em\">Developer empathy: you optimize for DX in every surface you touch.</p></li><li><p style=\"min-height:1.5em\">Pragmatic, positive and low ego: you step up in incidents and unblock teammates.</p></li><li><p style=\"min-height:1.5em\">Startup-ready: autonomous, driven by ownership and able to navigate ambiguity.</p></li><li><p style=\"min-height:1.5em\">Based in North America, LATAM or Europe.</p><p style=\"min-height:1.5em\"></p></li></ul><h2><strong>Nice to have</strong></h2><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">You've built agents or agent infrastructure in production (tool calling, orchestration, evals, MCP), not only used them.</p></li><li><p style=\"min-height:1.5em\">You've worked closely with customers, for example in a forward-deployed, solutions or developer-facing role.</p></li><li><p style=\"min-height:1.5em\">You've shipped polished frontend work, like dashboards or developer UIs.</p></li><li><p style=\"min-height:1.5em\">You've built developer tools or open-source projects.</p></li></ul><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\">If you're a full-stack engineer with solid backend foundations who loves shipping products, enjoys talking to customers and wants to shape how agents connect to the world, we'd love to hear from you.</p>",
+  "descriptionPlain": "(Remote, North America, LATAM or Europe)\n\nNango https://nango.dev (YC W23) is a developer infrastructure company and the leading provider of API access for agents and apps. It lets AI applications connect to the real world through integrations.\n\nMore than 700 paying customers rely on Nango today, including Replit, Ramp, Mercor, Vapi, Instantly and Exa. We are a YC-backed company with multi-million ARR and a team of 14 from AWS, Snyk, GitHub, Okta, Netlify, Uber, Samsara and more.\n\nWe are hiring Senior+ Full-Stack Engineers to join the core engineering team building Nango's platform. This is a product engineering role: you'll take features from customer conversation to shipped product, across the API, the runtime and the dashboard. We sell to developers, so our engineers directly drive the product roadmap, specs and execution. You will own whole product surfaces end to end and help decide how Nango evolves as more of our customers build agents.\n\n\n\n\nWHAT YOU'LL DO\n\n - Ship product end to end, from backend services and APIs to the dashboard and developer-facing UIs.\n\n - Build the tools developers and agents use to reach Nango: APIs, SDKs, CLI, MCP and the web app.\n\n - Work directly with customers to understand their integration and agent use cases, then turn what you learn into a product.\n\n - Design systems that stay reliable and fast as usage grows.\n\n - Shape the roadmap with high ownership of product and technical decisions.\n\n - Engage with the open-source community, owning and maintaining our repo.\n   \n   \n\n\nWHO YOU ARE\n\n - 5+ years of software engineering experience at a senior level or above, with strong backend fundamentals: APIs, databases, distributed systems and performance.\n\n - Comfortable working across the stack in TypeScript, from Node.js services to React frontends.\n\n - A product engineer at heart. You care about what gets built and why, not only how.\n\n - Strong communicator, proactive and reliable in a remote-first environment.\n\n - Developer empathy: you optimize for DX in every surface you touch.\n\n - Pragmatic, positive and low ego: you step up in incidents and unblock teammates.\n\n - Startup-ready: autonomous, driven by ownership and able to navigate ambiguity.\n\n - Based in North America, LATAM or Europe.\n   \n   \n\n\nNICE TO HAVE\n\n - You've built agents or agent infrastructure in production (tool calling, orchestration, evals, MCP), not only used them.\n\n - You've worked closely with customers, for example in a forward-deployed, solutions or developer-facing role.\n\n - You've shipped polished frontend work, like dashboards or developer UIs.\n\n - You've built developer tools or open-source projects.\n\n\n\nIf you're a full-stack engineer with solid backend foundations who loves shipping products, enjoys talking to customers and wants to shape how agents connect to the world, we'd love to hear from you.",
+  "compensation": {
+    "compensationTierSummary": "$140K – $220K • Offers Equity",
+    "scrapeableCompensationSalarySummary": "$140K - $220K",
+    "compensationTiers": [
+      {
+        "id": "400ec962-7c44-4e10-9c47-782a6c8394e8",
+        "tierSummary": "$140K – $220K • Offers Equity",
+        "title": "Staff",
+        "additionalInformation": null,
+        "components": [
+          {
+            "id": "420254ce-fb21-485e-9e22-e9b3e6803a40",
+            "summary": "Offers Equity",
+            "compensationType": "EquityPercentage",
+            "interval": "NONE",
+            "currencyCode": null,
+            "minValue": null,
+            "maxValue": null
+          },
+          {
+            "id": "d51c4715-967c-4de6-a219-0517767366f8",
+            "summary": "$140K – $220K",
+            "compensationType": "Salary",
+            "interval": "1 YEAR",
+            "currencyCode": "USD",
+            "minValue": 140000,
+            "maxValue": 220000
+          }
+        ]
+      }
+    ],
+    "summaryComponents": [
+      {
+        "compensationType": "EquityPercentage",
+        "interval": "NONE",
+        "currencyCode": null,
+        "minValue": null,
+        "maxValue": null
+      },
+      {
+        "compensationType": "Salary",
+        "interval": "1 YEAR",
+        "currencyCode": "USD",
+        "minValue": 140000,
+        "maxValue": 220000
+      }
+    ]
+  }
+}

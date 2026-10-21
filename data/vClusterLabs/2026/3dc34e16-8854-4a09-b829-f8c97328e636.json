@@ -1,0 +1,172 @@
+{
+  "id": "3dc34e16-8854-4a09-b829-f8c97328e636",
+  "title": "Engineering Tech Lead (Product Security)",
+  "department": "Engineering",
+  "team": "Engineering",
+  "employmentType": "FullTime",
+  "location": "Remote",
+  "shouldDisplayCompensationOnJobPostings": true,
+  "secondaryLocations": [
+    {
+      "location": "Canada",
+      "address": {
+        "postalAddress": {
+          "addressCountry": "Canada"
+        }
+      }
+    },
+    {
+      "location": "EMEA",
+      "address": {
+        "postalAddress": {}
+      }
+    }
+  ],
+  "publishedAt": "2026-10-20T19:15:55.220+00:00",
+  "isListed": true,
+  "isRemote": true,
+  "workplaceType": "Remote",
+  "address": {
+    "postalAddress": {
+      "addressRegion": "New York",
+      "addressCountry": "United States",
+      "addressLocality": "New York"
+    }
+  },
+  "jobUrl": "https://jobs.ashbyhq.com/vClusterLabs/3dc34e16-8854-4a09-b829-f8c97328e636",
+  "applyUrl": "https://jobs.ashbyhq.com/vClusterLabs/3dc34e16-8854-4a09-b829-f8c97328e636/application",
+  "descriptionHtml": "<p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\">vCluster Labs is looking for an<strong> Engineering Tech Lead</strong> focused on Product Security to help us build secure infrastructure software from the ground up. You'll bring hands-on penetration testing and deep Kubernetes expertise to our products, while reviewing security-sensitive designs, threat modeling new features, investigating vulnerabilities, and helping teams make sound security decisions as the platform evolves.</p><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\"><strong>As an Engineering Tech Lead (Product Security), your role will include:</strong></p><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\"><strong>Penetration testing:</strong> Test our products and infrastructure for exploitable weaknesses, with a focus on Kubernetes and container isolation.</p></li><li><p style=\"min-height:1.5em\"><strong>Owning vulnerability response:</strong> Triage, prioritize, and fix security issues in our code and dependencies through to a patched release.</p></li><li><p style=\"min-height:1.5em\"><strong>Threat modeling new features:</strong> Review security-sensitive designs early, identify risks, and help teams make sound security decisions as the platform evolves.</p></li><li><p style=\"min-height:1.5em\"><strong>Code and design reviews:</strong> Participate in code reviews, design reviews, and technical discussions with the rest of the engineering team.</p></li><li><p style=\"min-height:1.5em\"><strong>Improving security practices across engineering:</strong> Help engineers build secure defaults into the product.</p></li></ul><p style=\"min-height:1.5em\"><strong>This role could be a fit for you if you bring:</strong></p><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\"><strong>Hands-on penetration testing:</strong> Experience finding and exploiting vulnerabilities in production systems, with deep Kubernetes expertise.</p></li><li><p style=\"min-height:1.5em\"><strong>Kubernetes attack surface knowledge:</strong> Hands-on experience with container breakout, privilege escalation, RBAC, and policy best practices.</p></li><li><p style=\"min-height:1.5em\"><strong>Kubernetes internals depth:</strong> Working knowledge of the API server, admission control, RBAC, controllers, and the kubelet, ideally from building controllers or operators with controller-runtime, Kubebuilder, or client-go.</p></li><li><p style=\"min-height:1.5em\"><strong>Threat modeling and secure design:</strong> Experience threat modeling and reviewing designs for production systems, and explaining risk clearly to other engineers.</p></li><li><p style=\"min-height:1.5em\"><strong>Vulnerability ownership:</strong> Experience investigating and fixing vulnerabilities in code you work on, including the CVE lifecycle, coordinated disclosure, and patch releases.</p></li><li><p style=\"min-height:1.5em\"><strong>Production engineering in Go:</strong> Experience building and shipping production systems with Go as a primary language.</p></li></ul><p style=\"min-height:1.5em\"><strong>Bonus points for:</strong></p><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\"><strong>CKS certification:</strong> Certified Kubernetes Security Specialist.</p></li><li><p style=\"min-height:1.5em\"><strong>Startup Experience:</strong> Experience at an early-stage organization where you function autonomously and strive towards building something great.</p></li></ul><p style=\"min-height:1.5em\"></p><h2><strong>About vCluster Labs</strong></h2><p style=\"min-height:1.5em\">We're the #1 platform for AI infrastructure, trusted by the world's fastest-growing AI cloud builders. We're a venture-backed startup that's raised over $28M from top-tier investors including Khosla Ventures (first investor in OpenAI, GitLab, Stripe, and DoorDash), and we're in a hyper-growth phase looking for motivated people to join our team. Our headquarters are in San Francisco (Salesforce Tower), but our team is distributed around the globe with a remote-first culture.</p><p style=\"min-height:1.5em\">We give AI Cloud providers and AI factories a hyperscaler-like experience on their own GPU infrastructure. Our platform runs the full stack an operator needs, from bare metal provisioning and node lifecycle management up through managed Kubernetes, Slurm, Ray, and inference clusters, so they can turn raw GPUs into cluster products they can sell in days instead of spending 12+ months building it themselves. Today we power over 100,000 GPUs and 1 million CPUs across 50+ AI clouds and Fortune 500 companies, backed by a team of 40+ infrastructure engineers who build alongside our customers rather than just shipping them software.</p><p style=\"min-height:1.5em\">We're the company behind vCluster, the open source technology for tenant isolation on Kubernetes, with 11,000+ GitHub stars and 40M+ tenant clusters created since 2021. Open source is part of our DNA. At KubeCon North America 2025, we launched our Infrastructure Tenancy Platform for AI, a Kubernetes-native framework built for running AI, ML, and GPU-intensive workloads anywhere, with an NVIDIA-validated reference architecture for DGX systems.</p><p style=\"min-height:1.5em\"><strong>Benefits</strong></p><p style=\"min-height:1.5em\">We offer the following benefits:</p><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\"><strong>Competitive Salary</strong>: We offer a competitive compensation package, including equity.</p></li><li><p style=\"min-height:1.5em\"><strong>Premium Insurance</strong>: Health, dental, vision, and life Insurance, including plans for you and eligible dependents (benefits vary depending on country).</p></li><li><p style=\"min-height:1.5em\"><strong>Flexible Working Schedule:  </strong>You have a doctor’s appointment or need to head to the supermarket to get groceries at 2pm? We won’t have an issue with that. To us, results matter more than clocking in and out at the same time every day.</p></li><li><p style=\"min-height:1.5em\"><strong>Workplace Flexibility: </strong> We’re very flexible about where you work. We know things can change in life and we’re happy to adjust the work environment for you along the way.</p></li></ul><h2></h2><h2><strong>Culture &amp; Values</strong></h2><p style=\"min-height:1.5em\">At vCluster Labs, we value and stand for:</p><ol style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\"><strong>Make it Happen: </strong>We have a relentless bias for action and the grit to push through obstacles. We do whatever it takes to figure it out, put in the work, and ruthlessly prioritize the actions that drive measurable impact for the business.</p></li><li><p style=\"min-height:1.5em\"><strong>Own the Outcome: </strong>We understand that our responsibility doesn't end when a task is checked off; it ends when the value is delivered. We connect our daily individual actions to the broader success of the company and our customers.</p></li><li><p style=\"min-height:1.5em\"><strong>Create Wow: </strong>We measure success by the experience we generate, both inside and outside the company. For our customers, this means impressive speed and intuitive experiences. For our team, this means going the extra mile to support one another and to continuously drive each other to new heights.</p></li><li><p style=\"min-height:1.5em\"><strong>Open Source, Open Mind:</strong> We are actively contributing to and maintaining open-source projects. Internally, we foster meritocracy — the strongest ideas win, no matter who or where they come from.</p></li><li><p style=\"min-height:1.5em\"><strong>Build Tomorrow’s Standards, Intentionally:</strong> We don't just ship software; we define the state-of-the-art of tomorrow. We are fearless in tearing down old approaches to build something better, but we are disciplined in how we do it because we know our users rely on our technology to run mission-critical infrastructure platforms.</p><p style=\"min-height:1.5em\"></p></li></ol><p style=\"min-height:1.5em\"></p>",
+  "descriptionPlain": "vCluster Labs is looking for an Engineering Tech Lead focused on Product Security to help us build secure infrastructure software from the ground up. You'll bring hands-on penetration testing and deep Kubernetes expertise to our products, while reviewing security-sensitive designs, threat modeling new features, investigating vulnerabilities, and helping teams make sound security decisions as the platform evolves.\n\n\n\nAs an Engineering Tech Lead (Product Security), your role will include:\n\n - Penetration testing: Test our products and infrastructure for exploitable weaknesses, with a focus on Kubernetes and container isolation.\n\n - Owning vulnerability response: Triage, prioritize, and fix security issues in our code and dependencies through to a patched release.\n\n - Threat modeling new features: Review security-sensitive designs early, identify risks, and help teams make sound security decisions as the platform evolves.\n\n - Code and design reviews: Participate in code reviews, design reviews, and technical discussions with the rest of the engineering team.\n\n - Improving security practices across engineering: Help engineers build secure defaults into the product.\n\nThis role could be a fit for you if you bring:\n\n - Hands-on penetration testing: Experience finding and exploiting vulnerabilities in production systems, with deep Kubernetes expertise.\n\n - Kubernetes attack surface knowledge: Hands-on experience with container breakout, privilege escalation, RBAC, and policy best practices.\n\n - Kubernetes internals depth: Working knowledge of the API server, admission control, RBAC, controllers, and the kubelet, ideally from building controllers or operators with controller-runtime, Kubebuilder, or client-go.\n\n - Threat modeling and secure design: Experience threat modeling and reviewing designs for production systems, and explaining risk clearly to other engineers.\n\n - Vulnerability ownership: Experience investigating and fixing vulnerabilities in code you work on, including the CVE lifecycle, coordinated disclosure, and patch releases.\n\n - Production engineering in Go: Experience building and shipping production systems with Go as a primary language.\n\nBonus points for:\n\n - CKS certification: Certified Kubernetes Security Specialist.\n\n - Startup Experience: Experience at an early-stage organization where you function autonomously and strive towards building something great.\n\n\n\n\nABOUT VCLUSTER LABS\n\nWe're the #1 platform for AI infrastructure, trusted by the world's fastest-growing AI cloud builders. We're a venture-backed startup that's raised over $28M from top-tier investors including Khosla Ventures (first investor in OpenAI, GitLab, Stripe, and DoorDash), and we're in a hyper-growth phase looking for motivated people to join our team. Our headquarters are in San Francisco (Salesforce Tower), but our team is distributed around the globe with a remote-first culture.\n\nWe give AI Cloud providers and AI factories a hyperscaler-like experience on their own GPU infrastructure. Our platform runs the full stack an operator needs, from bare metal provisioning and node lifecycle management up through managed Kubernetes, Slurm, Ray, and inference clusters, so they can turn raw GPUs into cluster products they can sell in days instead of spending 12+ months building it themselves. Today we power over 100,000 GPUs and 1 million CPUs across 50+ AI clouds and Fortune 500 companies, backed by a team of 40+ infrastructure engineers who build alongside our customers rather than just shipping them software.\n\nWe're the company behind vCluster, the open source technology for tenant isolation on Kubernetes, with 11,000+ GitHub stars and 40M+ tenant clusters created since 2021. Open source is part of our DNA. At KubeCon North America 2025, we launched our Infrastructure Tenancy Platform for AI, a Kubernetes-native framework built for running AI, ML, and GPU-intensive workloads anywhere, with an NVIDIA-validated reference architecture for DGX systems.\n\nBenefits\n\nWe offer the following benefits:\n\n - Competitive Salary: We offer a competitive compensation package, including equity.\n\n - Premium Insurance: Health, dental, vision, and life Insurance, including plans for you and eligible dependents (benefits vary depending on country).\n\n - Flexible Working Schedule:  You have a doctor’s appointment or need to head to the supermarket to get groceries at 2pm? We won’t have an issue with that. To us, results matter more than clocking in and out at the same time every day.\n\n - Workplace Flexibility:  We’re very flexible about where you work. We know things can change in life and we’re happy to adjust the work environment for you along the way.\n\n\n\n\n\nCULTURE & VALUES\n\nAt vCluster Labs, we value and stand for:\n\n 1. Make it Happen: We have a relentless bias for action and the grit to push through obstacles. We do whatever it takes to figure it out, put in the work, and ruthlessly prioritize the actions that drive measurable impact for the business.\n\n 2. Own the Outcome: We understand that our responsibility doesn't end when a task is checked off; it ends when the value is delivered. We connect our daily individual actions to the broader success of the company and our customers.\n\n 3. Create Wow: We measure success by the experience we generate, both inside and outside the company. For our customers, this means impressive speed and intuitive experiences. For our team, this means going the extra mile to support one another and to continuously drive each other to new heights.\n\n 4. Open Source, Open Mind: We are actively contributing to and maintaining open-source projects. Internally, we foster meritocracy — the strongest ideas win, no matter who or where they come from.\n\n 5. Build Tomorrow’s Standards, Intentionally: We don't just ship software; we define the state-of-the-art of tomorrow. We are fearless in tearing down old approaches to build something better, but we are disciplined in how we do it because we know our users rely on our technology to run mission-critical infrastructure platforms.\n    \n    \n\n",
+  "compensation": {
+    "compensationTierSummary": "$150K – $200K • Offers Equity • Offers Bonus • Multiple Ranges",
+    "scrapeableCompensationSalarySummary": "$150K - $200K",
+    "compensationTiers": [
+      {
+        "id": "9e386364-d2dd-40a7-aafa-caa9ff5fbe46",
+        "tierSummary": "$150K – $200K • Offers Equity • Offers Bonus",
+        "title": "United States",
+        "additionalInformation": null,
+        "components": [
+          {
+            "id": "9de3e31c-786f-4fc5-9fd8-d53b819c4376",
+            "summary": "$150K – $200K",
+            "compensationType": "Salary",
+            "interval": "1 YEAR",
+            "currencyCode": "USD",
+            "minValue": 150000,
+            "maxValue": 200000
+          },
+          {
+            "id": "ab416880-3536-4d1a-9951-b076c5b19d05",
+            "summary": "Offers Equity",
+            "compensationType": "EquityPercentage",
+            "interval": "NONE",
+            "currencyCode": null,
+            "minValue": null,
+            "maxValue": null
+          },
+          {
+            "id": "a6bdd951-2bae-47a2-aaf0-2748f8404337",
+            "summary": "Offers Bonus",
+            "compensationType": "Bonus",
+            "interval": "1 YEAR",
+            "currencyCode": "USD",
+            "minValue": null,
+            "maxValue": null
+          }
+        ]
+      },
+      {
+        "id": "8a8a299e-ecaf-4688-bb27-d83e16adcd27",
+        "tierSummary": "€80K – €135K • Offers Equity • Offers Bonus",
+        "title": "Germany",
+        "additionalInformation": null,
+        "components": [
+          {
+            "id": "a4f239ef-7194-4fde-a751-19b7da4b0651",
+            "summary": "Offers Bonus",
+            "compensationType": "Bonus",
+            "interval": "1 YEAR",
+            "currencyCode": "EUR",
+            "minValue": null,
+            "maxValue": null
+          },
+          {
+            "id": "8c195e2f-83a6-4daa-92cd-7b6c08029f93",
+            "summary": "Offers Equity",
+            "compensationType": "EquityPercentage",
+            "interval": "NONE",
+            "currencyCode": null,
+            "minValue": null,
+            "maxValue": null
+          },
+          {
+            "id": "2ca6a70e-136b-426d-b308-8d250b13dd9d",
+            "summary": "€80K – €135K",
+            "compensationType": "Salary",
+            "interval": "1 YEAR",
+            "currencyCode": "EUR",
+            "minValue": 80000,
+            "maxValue": 135000
+          }
+        ]
+      },
+      {
+        "id": "0b68d1c5-1bb1-48ec-8037-79ceecc90b7d",
+        "tierSummary": "CA$140K – CA$200K • Offers Equity • Offers Bonus",
+        "title": "Canada ",
+        "additionalInformation": null,
+        "components": [
+          {
+            "id": "257c32be-015d-41a8-b018-fb59930f0efe",
+            "summary": "Offers Bonus",
+            "compensationType": "Bonus",
+            "interval": "1 YEAR",
+            "currencyCode": "CAD",
+            "minValue": null,
+            "maxValue": null
+          },
+          {
+            "id": "dd6e41ec-5988-4232-8f73-c174decc3183",
+            "summary": "CA$140K – CA$200K",
+            "compensationType": "Salary",
+            "interval": "1 YEAR",
+            "currencyCode": "CAD",
+            "minValue": 140000,
+            "maxValue": 200000
+          },
+          {
+            "id": "77531ef8-e322-4f84-9dee-a41aa354a39c",
+            "summary": "Offers Equity",
+            "compensationType": "EquityPercentage",
+            "interval": "NONE",
+            "currencyCode": null,
+            "minValue": null,
+            "maxValue": null
+          }
+        ]
+      }
+    ],
+    "summaryComponents": [
+      {
+        "compensationType": "Salary",
+        "interval": "1 YEAR",
+        "currencyCode": "USD",
+        "minValue": 150000,
+        "maxValue": 200000
+      },
+      {
+        "compensationType": "EquityPercentage",
+        "minValue": null,
+        "maxValue": null,
+        "interval": "1 YEAR"
+      },
+      {
+        "compensationType": "Bonus",
+        "minValue": null,
+        "maxValue": null,
+        "interval": "1 YEAR"
+      }
+    ]
+  }
+}

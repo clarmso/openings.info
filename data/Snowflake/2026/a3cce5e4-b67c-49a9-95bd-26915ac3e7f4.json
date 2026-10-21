@@ -1,0 +1,68 @@
+{
+  "id": "a3cce5e4-b67c-49a9-95bd-26915ac3e7f4",
+  "title": "Senior Manager, People Technology",
+  "department": "People",
+  "team": "People",
+  "employmentType": "FullTime",
+  "location": "US-CA-Menlo Park",
+  "shouldDisplayCompensationOnJobPostings": true,
+  "secondaryLocations": [
+    {
+      "location": "US-CA-Dublin",
+      "address": {
+        "postalAddress": {
+          "addressRegion": "California",
+          "addressCountry": "United States",
+          "addressLocality": "Dublin"
+        }
+      }
+    }
+  ],
+  "publishedAt": "2026-10-20T18:38:45.716+00:00",
+  "isListed": true,
+  "isRemote": null,
+  "workplaceType": null,
+  "address": {
+    "postalAddress": {
+      "addressRegion": "California",
+      "addressCountry": "United States",
+      "addressLocality": "Menlo Park"
+    }
+  },
+  "jobUrl": "https://jobs.ashbyhq.com/Snowflake/a3cce5e4-b67c-49a9-95bd-26915ac3e7f4",
+  "applyUrl": "https://jobs.ashbyhq.com/Snowflake/a3cce5e4-b67c-49a9-95bd-26915ac3e7f4/application",
+  "descriptionHtml": "<p style=\"min-height:1.5em\">At Snowflake, we are powering the era of the agentic enterprise. To usher in this new era, we seek AI-native thinkers across every function who are energized by the opportunity to reinvent how they work. You don’t just use tools; you possess an innate curiosity, treating AI as a high-trust collaborator that is core to how you solve problems and accelerate your impact. We look for low-ego individuals who thrive in dynamic and fast-moving environments and move with an experimental mindset — who rapidly test emerging capabilities to discover simpler, more powerful ways to deliver results. At Snowflake, your role isn't just to execute a function, but to help redefine the future of how work gets done.</p><p style=\"min-height:1.5em\">Snowflake is about empowering enterprises to achieve their full potential, and people too. With a culture that's all in on impact, innovation, and collaboration, Snowflake is the sweet spot for building big, moving fast, and taking technology and careers to the next level.</p><p style=\"min-height:1.5em\">This role goes beyond keeping People systems running. It's an opportunity to modernize how they're run. You'll own the core platforms within our People Technology stack,  such as Workday HCM, ServiceNow HRSD, Ashby, and the integrations that connect them. You will leverage AI, modern integration frameworks, and automation to eliminate manual work, and help build and operate the  AI products and skills transforming how Snowflake works.</p><p style=\"min-height:1.5em\"></p><h2><strong>WHAT YOU’LL OWN</strong></h2><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\"><strong>Platform operations</strong>: day-to-day support, release management, and change control for Workday HCM, ServiceNow HRSD, Ashby, and their integrations, including vendor releases from impact analysis through stabilization</p></li><li><p style=\"min-height:1.5em\"><strong>Trust and compliance:</strong> data integrity, system security, and audit readiness across all People systems (SOX, GDPR, privacy)</p></li><li><p style=\"min-height:1.5em\"><strong>Service excellence: </strong>operational SLAs and incident, problem, and request management that the business can count on</p></li><li><p style=\"min-height:1.5em\"><strong>AI-driven automation: </strong>ticket deflection, proactive data-hygiene monitoring, automated regression testing, and faster release cycles</p></li><li><p style=\"min-height:1.5em\"><strong>AI in production:</strong> operationalize, maintain, and support AI products and skills, developing robust runbooks, monitoring, and support structures once they go live</p></li><li><p style=\"min-height:1.5em\"><strong>Roadmap influence:</strong> turn operational friction into prioritized requirements, and co-own the People Tech and AI roadmap with the PMO</p></li><li><p style=\"min-height:1.5em\"><strong>Vendors:</strong> manage vendor and implementation-partner relationships for Workday, ServiceNow, Ashby, and connected SaaS tools including performance, escalations, contract management, and roadmap alignment</p></li></ul><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\"><strong>Team leadership:</strong> lead, develop, and mentor a high-performing team of People Systems Analysts and Integration Engineers</p></li></ul><p style=\"min-height:1.5em\"></p><h2><strong>WHAT YOU BRING</strong></h2><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">10+ years in HRIS or HR technology, including hands-on configuration, integration, and delivery experience</p></li><li><p style=\"min-height:1.5em\">4+ years of people management experience leading HRIS, systems, or integration teams</p></li><li><p style=\"min-height:1.5em\">Deep Workday expertise (Security, Business Processes, Reporting/RaaS), including supporting a global implementation, plus a strong grasp of middleware and integration platforms</p></li><li><p style=\"min-height:1.5em\">Hands-on experience with core HR systems beyond Workday, such as ServiceNow HRSD and Ashby</p></li><li><p style=\"min-height:1.5em\">A strong operating discipline: release management, change control, incident and problem management, SLA ownership, SOX and privacy controls</p></li><li><p style=\"min-height:1.5em\">Real experience applying AI or GenAI to HR operations, such as ticket deflection, data-quality monitoring, or test and release automation</p></li><li><p style=\"min-height:1.5em\">Proven ability to influence leaders and prioritize against operational realities</p></li><li><p style=\"min-height:1.5em\">Excellent communication skills and a customer service mindset in supporting the business</p></li></ul><p style=\"min-height:1.5em\"><em>Every Snowflake employee is expected to follow the company’s confidentiality and security standards for handling sensitive data. Snowflake employees must abide by the company’s data security plan as an essential part of their duties. It is every employee's duty to keep customer information secure and confidential.</em></p><p style=\"min-height:1.5em\">Snowflake is growing fast, and we’re scaling our team to help enable and accelerate our growth. We are looking for people who share our values, challenge ordinary thinking, and push the pace of innovation while building a future for themselves and Snowflake.</p><p style=\"min-height:1.5em\">How do you want to make your impact?</p><p style=\"min-height:1.5em\">For jobs located in the United States, please visit the job posting on the Snowflake Careers Site for salary and benefits information: <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"http://careers.snowflake.com\">careers.snowflake.com</a></p>",
+  "descriptionPlain": "At Snowflake, we are powering the era of the agentic enterprise. To usher in this new era, we seek AI-native thinkers across every function who are energized by the opportunity to reinvent how they work. You don’t just use tools; you possess an innate curiosity, treating AI as a high-trust collaborator that is core to how you solve problems and accelerate your impact. We look for low-ego individuals who thrive in dynamic and fast-moving environments and move with an experimental mindset — who rapidly test emerging capabilities to discover simpler, more powerful ways to deliver results. At Snowflake, your role isn't just to execute a function, but to help redefine the future of how work gets done.\n\nSnowflake is about empowering enterprises to achieve their full potential, and people too. With a culture that's all in on impact, innovation, and collaboration, Snowflake is the sweet spot for building big, moving fast, and taking technology and careers to the next level.\n\nThis role goes beyond keeping People systems running. It's an opportunity to modernize how they're run. You'll own the core platforms within our People Technology stack,  such as Workday HCM, ServiceNow HRSD, Ashby, and the integrations that connect them. You will leverage AI, modern integration frameworks, and automation to eliminate manual work, and help build and operate the  AI products and skills transforming how Snowflake works.\n\n\n\n\nWHAT YOU’LL OWN\n\n - Platform operations: day-to-day support, release management, and change control for Workday HCM, ServiceNow HRSD, Ashby, and their integrations, including vendor releases from impact analysis through stabilization\n\n - Trust and compliance: data integrity, system security, and audit readiness across all People systems (SOX, GDPR, privacy)\n\n - Service excellence: operational SLAs and incident, problem, and request management that the business can count on\n\n - AI-driven automation: ticket deflection, proactive data-hygiene monitoring, automated regression testing, and faster release cycles\n\n - AI in production: operationalize, maintain, and support AI products and skills, developing robust runbooks, monitoring, and support structures once they go live\n\n - Roadmap influence: turn operational friction into prioritized requirements, and co-own the People Tech and AI roadmap with the PMO\n\n - Vendors: manage vendor and implementation-partner relationships for Workday, ServiceNow, Ashby, and connected SaaS tools including performance, escalations, contract management, and roadmap alignment\n\n - Team leadership: lead, develop, and mentor a high-performing team of People Systems Analysts and Integration Engineers\n\n\n\n\nWHAT YOU BRING\n\n - 10+ years in HRIS or HR technology, including hands-on configuration, integration, and delivery experience\n\n - 4+ years of people management experience leading HRIS, systems, or integration teams\n\n - Deep Workday expertise (Security, Business Processes, Reporting/RaaS), including supporting a global implementation, plus a strong grasp of middleware and integration platforms\n\n - Hands-on experience with core HR systems beyond Workday, such as ServiceNow HRSD and Ashby\n\n - A strong operating discipline: release management, change control, incident and problem management, SLA ownership, SOX and privacy controls\n\n - Real experience applying AI or GenAI to HR operations, such as ticket deflection, data-quality monitoring, or test and release automation\n\n - Proven ability to influence leaders and prioritize against operational realities\n\n - Excellent communication skills and a customer service mindset in supporting the business\n\nEvery Snowflake employee is expected to follow the company’s confidentiality and security standards for handling sensitive data. Snowflake employees must abide by the company’s data security plan as an essential part of their duties. It is every employee's duty to keep customer information secure and confidential.\n\nSnowflake is growing fast, and we’re scaling our team to help enable and accelerate our growth. We are looking for people who share our values, challenge ordinary thinking, and push the pace of innovation while building a future for themselves and Snowflake.\n\nHow do you want to make your impact?\n\nFor jobs located in the United States, please visit the job posting on the Snowflake Careers Site for salary and benefits information: careers.snowflake.com http://careers.snowflake.com",
+  "compensation": {
+    "compensationTierSummary": "$186K – $243.6K",
+    "scrapeableCompensationSalarySummary": "$186K - $243.6K",
+    "compensationTiers": [
+      {
+        "id": "ff629715-5f6f-4943-acc3-1f66447bdec2",
+        "tierSummary": "$186K – $243.6K",
+        "title": null,
+        "additionalInformation": null,
+        "components": [
+          {
+            "id": "2c21a371-32a5-4102-a1a1-34ea3411e9da",
+            "summary": "$186K – $243.6K",
+            "compensationType": "Salary",
+            "interval": "1 YEAR",
+            "currencyCode": "USD",
+            "minValue": 186000,
+            "maxValue": 243600
+          }
+        ]
+      }
+    ],
+    "summaryComponents": [
+      {
+        "compensationType": "Salary",
+        "interval": "1 YEAR",
+        "currencyCode": "USD",
+        "minValue": 186000,
+        "maxValue": 243600
+      }
+    ]
+  }
+}

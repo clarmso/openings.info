@@ -68,6 +68,15 @@
         "additionalInformation": null,
         "components": [
           {
+            "id": "5c9dab43-594f-405f-8427-79275dd41167",
+            "summary": "Offers Equity",
+            "compensationType": "EquityPercentage",
+            "interval": "NONE",
+            "currencyCode": null,
+            "minValue": null,
+            "maxValue": null
+          },
+          {
             "id": "b5177652-f166-44e8-81a4-d2ea2fcccd0d",
             "summary": "Offers Commission",
             "compensationType": "Commission",
@@ -84,15 +93,6 @@
             "currencyCode": "SGD",
             "minValue": 140000,
             "maxValue": 170000
-          },
-          {
-            "id": "5c9dab43-594f-405f-8427-79275dd41167",
-            "summary": "Offers Equity",
-            "compensationType": "EquityPercentage",
-            "interval": "NONE",
-            "currencyCode": null,
-            "minValue": null,
-            "maxValue": null
           }
         ]
       },
@@ -103,20 +103,20 @@
         "additionalInformation": null,
         "components": [
           {
-            "id": "eae18c99-0894-4745-800e-570dd61b47d0",
-            "summary": "Offers Equity",
-            "compensationType": "EquityPercentage",
-            "interval": "NONE",
-            "currencyCode": null,
-            "minValue": null,
-            "maxValue": null
-          },
-          {
             "id": "65445785-bbdf-444c-8a72-a7382d1964c0",
             "summary": "Offers Commission",
             "compensationType": "Commission",
             "interval": "1 YEAR",
             "currencyCode": "EUR",
+            "minValue": null,
+            "maxValue": null
+          },
+          {
+            "id": "eae18c99-0894-4745-800e-570dd61b47d0",
+            "summary": "Offers Equity",
+            "compensationType": "EquityPercentage",
+            "interval": "NONE",
+            "currencyCode": null,
             "minValue": null,
             "maxValue": null
           },

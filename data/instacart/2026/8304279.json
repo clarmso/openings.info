@@ -1,0 +1,66 @@
+{
+  "absolute_url": "https://instacart.careers/job/?gh_jid=8304279",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": false,
+      "requires_processing_consent": false,
+      "requires_retention_consent": false,
+      "retention_period": null,
+      "demographic_data_consent_applies": false
+    }
+  ],
+  "internal_job_id": 3490577,
+  "location": {
+    "name": "United States - Remote"
+  },
+  "metadata": [
+    {
+      "id": 16452,
+      "name": "Employment Type",
+      "value": "Regular",
+      "value_type": "single_select"
+    },
+    {
+      "id": 740030,
+      "name": "Exemption Status",
+      "value": "Exempt",
+      "value_type": "single_select"
+    },
+    {
+      "id": 235666,
+      "name": "Time Type",
+      "value": "Full time",
+      "value_type": "single_select"
+    }
+  ],
+  "id": 8304279,
+  "updated_at": "2026-10-20T16:00:23-04:00",
+  "requisition_id": "EG966",
+  "title": "Senior Software Engineer II - Enterprise Foundations",
+  "company_name": "Instacart",
+  "first_published": "2026-10-20T16:00:23-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;We&#39;re transforming the grocery industry&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span class=&quot;im&quot;&gt;At Instacart, we invite the world to share love through food because we believe everyone should have access to the food they love and more time to enjoy it together. Where others see a simple need for grocery delivery, we see exciting complexity and endless opportunity to serve the varied needs of our community. We work to deliver an essential service that customers rely on to get their groceries and household goods, while also offering safe and flexible earnings opportunities to Instacart Personal Shoppers.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;Instacart has become a lifeline for millions of people, and we’re building the team to help push our shopping cart forward. If you’re ready to do the best work of your life, come join our table.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Instacart is a Flex First team &lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;There’s no one-size fits all approach to how we do our best work. Our employees have the flexibility to choose where they do their best work—whether it’s from home, an office, or your favorite coffee shop—while staying connected and building community through regular in-person events. &lt;a href=&quot;https://www.instacart.careers/flex-first&quot; target=&quot;_blank&quot; data-saferedirecturl=&quot;https://www.google.com/url?q=https://instacart.careers/remote/&amp;amp;source=gmail&amp;amp;ust=1651869232122000&amp;amp;usg=AOvVaw37OlxP8hAKN7nq4YwHQH7e&quot;&gt;Learn more about our flexible approach to where we work.&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;&lt;h1&gt;Overview&lt;/h1&gt;\n&lt;p&gt;Enterprise Foundations is the engineering team responsible for the architectural and integration work that allows Instacart&#39;s Retailer Platform to scale across the world&#39;s largest grocers. Our work spans omnichannel integrations — bringing products like FoodStorm catering and Caper Carts onto unified Instacart platform rails — enterprise extensibility (sandbox environments, configuration systems, retailer-facing tooling), and the cross-cutting data isolation work that allows Instacart&#39;s ML and Data Engineering teams to safely build bespoke models on top of the platform. As Instacart&#39;s enterprise retail business expands to hundreds of partner brands and new international markets, this team&#39;s work is foundational to how the platform matures.&lt;/p&gt;\n&lt;p&gt;We are seeking a Senior Software Engineer II to own and ship one of the team&#39;s most complex multi-quarter work-streams — at the seam of omnichannel identity, international storefront search expansions, and partner-owned integrations that we ultimately operate ourselves. You&#39;ll be the technical DRI for your area: framing the problem, designing the systems, driving the rollout, and codifying the patterns so the rest of Enterprise Platform can adopt them without your direct involvement. You&#39;ll work closely with Staff engineers on the team who set the team-wide architectural thesis, and partner across Connected Stores, Professional Services, Commerce, Search, Data Engineering, and ML to land integrations that hold up across organizational boundaries.&lt;/p&gt;\n&lt;h1&gt;About the Job&lt;/h1&gt;\n&lt;ul&gt;\n&lt;li&gt;Own a multi-quarter integration workstream end to end — for example, unified customer identity across FoodStorm and Storefront Pro, international storefront and search expansion for enterprise retailers, or consolidation of bespoke retailer-vertical services onto shared Instacart platform rails — from problem framing through design, implementation, rollout, and deprecation of legacy paths.&lt;/li&gt;\n&lt;li&gt;Drive the technical direction for your area: write the ERDs, propose the options, make and defend the trade-off calls, and bring partner teams along through design reviews and written artifacts that read clearly for first-time readers.&lt;/li&gt;\n&lt;li&gt;Lead vendor and cross-team integrations where Instacart will eventually own the system — push for the right observability, fallback behavior, and cost/latency guardrails up front, and challenge partner designs early rather than inheriting them at handoff.&lt;/li&gt;\n&lt;li&gt;Build reusable patterns, frameworks, and templates that other engineers across Enterprise Foundations and adjacent teams adopt with minimal hand-holding; treat &quot;system at a glance&quot; docs and migration runbooks as first-class deliverables.&lt;/li&gt;\n&lt;li&gt;Operate hands-on as a senior individual contributor on the highest-leverage technical work in your area; raise the bar on design quality, code quality, observability, and operational rigor.&lt;/li&gt;\n&lt;li&gt;Mentor more junior engineers in your area, delegate well-defined implementation pieces while retaining overall technical ownership, and act as a credible technical peer to senior and staff engineers in adjacent organizations.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h1&gt;About You&lt;/h1&gt;\n&lt;h1&gt;Minimum Qualifications&lt;/h1&gt;\n&lt;ul&gt;\n&lt;li&gt;7+ years of backend software engineering experience, with a track record of owning complex, multi-quarter projects end to end as a senior individual contributor.&lt;/li&gt;\n&lt;li&gt;Demonstrated ability to act as the technical DRI for cross-team workstreams — framing problems proactively, proposing options with clear recommendations, identifying risks early, and driving execution through to adoption.&lt;/li&gt;\n&lt;li&gt;Experience designing and shipping distributed systems and integrations that span multiple services, teams, or external partners in a production environment with real customers.&lt;/li&gt;\n&lt;li&gt;Strong proficiency with backend technologies in production environments (e.g., Ruby/Rails, Python, Go, or similar), along with relational databases, distributed data systems, and cloud infrastructure (e.g., AWS or GCP).&lt;/li&gt;\n&lt;li&gt;Track record of producing durable technical artifacts — ERDs, design docs, runbooks, and reusable patterns — that other engineers can build on without ongoing direct support.&lt;/li&gt;\n&lt;li&gt;Demonstrated ability to operate in ambiguous, high-growth environments where partner roadmaps and integration commitments are still maturing, with a record of driving clarity and forward motion through that ambiguity.&lt;/li&gt;\n&lt;li&gt;Bachelor&#39;s degree in Computer Science or a related technical field, or equivalent practical experience.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h1&gt;Preferred Qualifications&lt;/h1&gt;\n&lt;ul&gt;\n&lt;li&gt;Direct domain experience in commerce platforms, omnichannel retail, OMS, POS, catering systems, or connected-store / in-store technology.&lt;/li&gt;\n&lt;li&gt;Experience with customer identity, account linking, or SSO integrations across multiple consumer-facing surfaces.&lt;/li&gt;\n&lt;li&gt;Experience building or scaling search, retrieval, or ranking systems, including integrations with third-party search providers.&lt;/li&gt;\n&lt;li&gt;Background working on international expansion — localization, data residency, multi-region infrastructure, or in-country compliance requirements.&lt;/li&gt;\n&lt;li&gt;Experience leading vendor or partner-owned integrations where the system is ultimately operated and owned by the integrating team.&lt;/li&gt;\n&lt;li&gt;Experience designing per-tenant configuration, isolation, and extensibility for multi-tenant enterprise platforms.&lt;/li&gt;\n&lt;li&gt;&amp;nbsp;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;#LI-Remote&lt;/p&gt;&lt;div class=&quot;content-pay-transparency&quot;&gt;&lt;div class=&quot;pay-input&quot;&gt;&lt;div class=&quot;description&quot;&gt;&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Instacart provides highly market-competitive compensation and benefits in each location where our employees work. This role is remote and the base pay range for a successful candidate is dependent on their permanent work location. Please review our Flex First remote work policy &lt;/span&gt;&lt;a href=&quot;https://instacart.careers/flex-first/&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Offers may vary based on many factors, such as candidate experience and skills required for the role. &lt;/span&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Additionally, this role is eligible for a new hire equity grant as well as annual refresh grants. Please rea&lt;/span&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;d more about our benefits offerings &lt;/span&gt;&lt;a href=&quot;https://instacart.careers/taste-of-instacart/&quot; target=&quot;_blank&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;here&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;. &lt;br&gt;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;For US based candidates, the base pay ranges for a successful candidate are listed below.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;title&quot;&gt;CA, NY, CT, NJ&lt;/div&gt;&lt;div class=&quot;pay-range&quot;&gt;&lt;span&gt;$230,000&lt;/span&gt;&lt;span class=&quot;divider&quot;&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;$242,500 USD&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;pay-input&quot;&gt;&lt;div class=&quot;title&quot;&gt;WA&lt;/div&gt;&lt;div class=&quot;pay-range&quot;&gt;&lt;span&gt;$220,000&lt;/span&gt;&lt;span class=&quot;divider&quot;&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;$232,000 USD&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;pay-input&quot;&gt;&lt;div class=&quot;title&quot;&gt;OR, DE, ME, MA, MD, NH, RI, VT, DC, PA, VA, CO, TX, IL, HI&lt;/div&gt;&lt;div class=&quot;pay-range&quot;&gt;&lt;span&gt;$211,000&lt;/span&gt;&lt;span class=&quot;divider&quot;&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;$222,500 USD&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;pay-input&quot;&gt;&lt;div class=&quot;title&quot;&gt;All other states&lt;/div&gt;&lt;div class=&quot;pay-range&quot;&gt;&lt;span&gt;$192,000&lt;/span&gt;&lt;span class=&quot;divider&quot;&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;$202,500 USD&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;",
+  "departments": [
+    {
+      "id": 50240,
+      "name": "Infrastructure",
+      "child_ids": [],
+      "parent_id": 4132
+    }
+  ],
+  "offices": [
+    {
+      "id": 59835,
+      "name": "Remote - United States",
+      "location": null,
+      "child_ids": [],
+      "parent_id": 88197
+    }
+  ],
+  "ai_disclaimer": "<p>Instacart (Maplebear Inc. d/b/a Instacart) uses Greenhouse's Real Talent technology as part of our hiring process. Select \"Learn more\" for information on how these tools work, what data is involved, and your rights.&nbsp;</p>",
+  "include_ai_disclaimer": false,
+  "ai_opt_out_request_url": "http://app.greenhouse.io/ai_opt_out_request/job_post/8304279/ai_opt_out"
+}

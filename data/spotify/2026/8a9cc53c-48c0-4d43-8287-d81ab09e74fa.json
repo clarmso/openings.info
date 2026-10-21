@@ -4,10 +4,9 @@
   "categories": {
     "commitment": "Permanent",
     "department": "Operations and Business Support",
-    "location": "Stockholm",
+    "location": "London",
     "team": "Company Planning",
     "allLocations": [
-      "Stockholm",
       "London"
     ]
   },
@@ -26,11 +25,11 @@
     },
     {
       "text": "Where You'll Be",
-      "content": "<div>\n\n<li>This role is based in London or Stockholm.</li>\n<li>We offer you the flexibility to work where you work best, with 2–3 days per week in the office.</li>\n\n</div>"
+      "content": "<div>\n\n<li>This role is based in London.</li>\n<li>We offer you the flexibility to work where you work best, with 2–3 days per week in the office.</li>\n\n</div>"
     }
   ],
   "text": "Data Scientist, Company Planning & Execution",
-  "country": "SE",
+  "country": "GB",
   "workplaceType": "hybrid",
   "opening": "",
   "openingPlain": "",

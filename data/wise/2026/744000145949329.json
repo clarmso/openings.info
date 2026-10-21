@@ -124,12 +124,12 @@
     {
       "fieldId": "65d90823f2e6436af25814c2",
       "fieldLabel": "Job Ad Salary Range",
-      "valueLabel": "115000 - 150000 GBP Annual"
+      "valueLabel": "90000 - 115000 GBP Annual"
     },
     {
       "fieldId": "65d9080b4aa2f46927dfc1f3",
       "fieldLabel": "WD Target Hire Date",
-      "valueLabel": "2026-10-31"
+      "valueLabel": "2026-11-30"
     }
   ],
   "visibility": "PUBLIC",

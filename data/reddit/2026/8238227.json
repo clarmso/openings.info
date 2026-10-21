@@ -1,0 +1,132 @@
+{
+  "absolute_url": "https://job-boards.greenhouse.io/reddit/jobs/8238227",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": false,
+      "requires_processing_consent": false,
+      "requires_retention_consent": false,
+      "retention_period": null,
+      "demographic_data_consent_applies": true
+    }
+  ],
+  "internal_job_id": 3564835,
+  "location": {
+    "name": "Remote - United States"
+  },
+  "metadata": [
+    {
+      "id": 944668,
+      "name": "Position ID",
+      "value": "P-500186",
+      "value_type": "short_text"
+    },
+    {
+      "id": 956352,
+      "name": "Recruiting Start Date",
+      "value": "2026-10-01",
+      "value_type": "date"
+    },
+    {
+      "id": 944671,
+      "name": "Target Hire Date",
+      "value": "2026-10-01",
+      "value_type": "date"
+    },
+    {
+      "id": 944672,
+      "name": "Target Hire End Date",
+      "value": "",
+      "value_type": "date"
+    },
+    {
+      "id": 944673,
+      "name": "Job Profile",
+      "value": "Product Management Engineer/Mgr 5",
+      "value_type": "single_select"
+    },
+    {
+      "id": 956351,
+      "name": "Management Level",
+      "value": "IC5",
+      "value_type": "single_select"
+    },
+    {
+      "id": 944675,
+      "name": "Job Family",
+      "value": "Product Management",
+      "value_type": "single_select"
+    },
+    {
+      "id": 53341,
+      "name": "Worker Sub-Type",
+      "value": "Regular",
+      "value_type": "single_select"
+    },
+    {
+      "id": 944676,
+      "name": "Time Type",
+      "value": "Full time",
+      "value_type": "single_select"
+    },
+    {
+      "id": 944682,
+      "name": "Pay Rate Type",
+      "value": "Salary",
+      "value_type": "single_select"
+    },
+    {
+      "id": 944681,
+      "name": "Scheduled Weekly Hours",
+      "value": "40.0",
+      "value_type": "number"
+    },
+    {
+      "id": 944667,
+      "name": "Company",
+      "value": "Reddit, Inc.",
+      "value_type": "single_select"
+    },
+    {
+      "id": 944677,
+      "name": "Cost Center",
+      "value": "Product-Content Ecosystem",
+      "value_type": "single_select"
+    },
+    {
+      "id": 944669,
+      "name": "Worker Type",
+      "value": "Employee",
+      "value_type": "single_select"
+    }
+  ],
+  "id": 8238227,
+  "updated_at": "2026-10-20T13:36:03-04:00",
+  "requisition_id": "R-105897",
+  "title": "Staff Product Manager, Youth",
+  "company_name": "Reddit",
+  "first_published": "2026-10-20T13:36:03-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;div class=&quot;content-intro&quot;&gt;&lt;div class=&quot;c-message_kit__blocks c-message_kit__blocks--rich_text&quot;&gt;\n&lt;div class=&quot;c-message__message_blocks c-message__message_blocks--rich_text&quot; data-qa=&quot;message-text&quot;&gt;\n&lt;div class=&quot;p-block_kit_renderer&quot; data-qa=&quot;block-kit-renderer&quot;&gt;\n&lt;div class=&quot;p-block_kit_renderer__block_wrapper p-block_kit_renderer__block_wrapper--first&quot;&gt;\n&lt;div class=&quot;p-rich_text_block&quot;&gt;\n&lt;div class=&quot;p-rich_text_section&quot;&gt;Reddit is a community of communities. It’s built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 130 million daily active unique visitors, Reddit is one of the internet’s largest sources of information. For more information, visit &lt;a class=&quot;c-link&quot; href=&quot;http://www.redditinc.com/&quot; target=&quot;_blank&quot; data-stringify-link=&quot;http://redditinc.com&quot; data-sk=&quot;tooltip_parent&quot;&gt;www.redditinc.com&lt;/a&gt;.&lt;/div&gt;\n&lt;/div&gt;\n&lt;/div&gt;\n&lt;/div&gt;\n&lt;/div&gt;\n&lt;/div&gt;&lt;/div&gt;&lt;p&gt;Reddit is looking for an experienced Product Manager to help build a safe experience for the next generation of experiences for younger users while preserving a high-quality consumer experience. You will own ambiguous, zero-to-one product problems at the intersection of consumer product, safety, identity/age assurance, and global regulation. You will work closely with legal and cross-functional partners to determine what is truly required, frame clear options and tradeoffs, and ship scalable experiences that can adapt as laws and expectations evolve across markets.&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;Responsibilities&lt;/strong&gt;&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Own strategy, roadmap, requirements, launch, and measurable outcomes for Youth product initiatives.&lt;/li&gt;\n&lt;li&gt;Build and evolve age-assurance and third-party age-verification flows, including recovery/appeal experiences for users who are incorrectly classified.&lt;/li&gt;\n&lt;li&gt;Develop youth-specific product protections and controls, including age-gated content experiences, parental-control flows, and appropriate restrictions on product mechanics such as notifications, personalization, or chat where required.&lt;/li&gt;\n&lt;li&gt;Translate changing global regulations into objective product frameworks: clarify must-haves, deadlines, consequences, country exceptions, and viable product options with Legal and Policy.&lt;/li&gt;\n&lt;li&gt;Make principled tradeoffs between compliance, user experience, product value, technical complexity, and speed; escalate with clear evidence rather than treating legal interpretation as binary.&lt;/li&gt;\n&lt;li&gt;Partner with Engineering, Data/ML, Design, Research, Safety, Policy, Legal, and adjacent Product teams to ship durable solutions at Reddit scale.&lt;/li&gt;\n&lt;li&gt;Define success metrics and launch guardrails, monitor false positives/negatives and user friction where relevant, and iterate based on data and qualitative feedback.&lt;/li&gt;\n&lt;li&gt;Communicate strategy, risk, decisions, and progress clearly to senior stakeholders, including Product leadership.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;&lt;strong&gt;Must-have qualifications&lt;/strong&gt;&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Significant product management experience building and launching consumer products at large scale.&lt;/li&gt;\n&lt;li&gt;Demonstrated zero-to-one ownership: framing ambiguous problems, setting strategy, writing requirements, shipping, learning, and iterating.&lt;/li&gt;\n&lt;li&gt;Strong cross-functional leadership and ability to negotiate high-stakes tradeoffs with Legal, Engineering, Data, Safety/Policy, and senior stakeholders.&lt;/li&gt;\n&lt;li&gt;Strong analytical and first-principles problem solving; can distinguish legal requirements from interpretations and convert ambiguity into decision frameworks.&lt;/li&gt;\n&lt;li&gt;Experience launching products across multiple markets or navigating meaningful market-specific requirements.&lt;/li&gt;\n&lt;li&gt;Strong written and verbal communication, including concise articulation of options, risk, rationale, and recommendations.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;&lt;strong&gt;Nice-to-have qualifications&lt;/strong&gt;&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Direct Trust &amp;amp; Safety, youth safety, child/teen product, age assurance/verification, verified-account, or parental-control experience.&lt;/li&gt;\n&lt;li&gt;Experience with youth-focused or high-safety consumer products at high scaled environments.&lt;/li&gt;\n&lt;li&gt;Experience with content access controls, safety systems, notifications/personalization, messaging/chat protections, or other regulated consumer features.&lt;/li&gt;\n&lt;li&gt;Familiarity with ML/model-based classification and the product implications of false positives, false negatives, appeals, and verification fallbacks.&lt;/li&gt;\n&lt;/ul&gt;&lt;div class=&quot;content-pay-transparency&quot;&gt;&lt;div class=&quot;pay-input&quot;&gt;&lt;div class=&quot;description&quot;&gt;&lt;p&gt;&lt;strong&gt;Pay Transparency:&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;This job posting may span more than one career level.&lt;/p&gt;\n&lt;p&gt;In addition to base salary, this job is eligible to receive equity in the form of restricted stock units, and depending on the position offered, it may also be eligible to receive a commission. Additionally, Reddit offers a wide range of benefits to U.S.-based employees, including medical, dental, and vision insurance, 401(k) program with employer match, generous time off for vacation, and parental leave. To learn more, please visit &lt;a href=&quot;https://www.redditinc.com/careers/&quot; target=&quot;_blank&quot;&gt;https://www.redditinc.com/careers/&lt;/a&gt;.&lt;/p&gt;\n&lt;p&gt;To provide greater transparency to candidates, we share base salary ranges for all US-based job postings regardless of state. We set standard base pay ranges for all roles based on function, level, and country location, benchmarked against similar stage growth companies. Final offer amounts are determined by multiple factors including, skills, depth of work experience and relevant licenses/credentials, and may vary from the amounts listed below.&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;title&quot;&gt;The base salary range for this position is:&lt;/div&gt;&lt;div class=&quot;pay-range&quot;&gt;&lt;span&gt;$217,000&lt;/span&gt;&lt;span class=&quot;divider&quot;&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;$303,900 USD&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;In select roles and locations, the interviews will be recorded, transcribed and summarized by artificial intelligence (AI). You will have the opportunity to opt out of recording, transcription and summarization prior to any scheduled interviews.&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;During the interview, we will collect the following categories of personal information: Identifiers, Professional and Employment-Related Information, Sensory Information (audio/video recording), and any other categories of personal information you choose to share with us. We will use this information to evaluate your application for employment or an independent contractor role, as applicable.&amp;nbsp; We will not sell your personal information or disclose it to any third party for their marketing purposes.&amp;nbsp; We will delete any recording of your interview promptly after making a hiring decision.&amp;nbsp; For more information about how we will handle your personal information, including our retention of it, please refer to our &lt;a href=&quot;https://redditinc.com/policies/candidate-privacy-policy&quot;&gt;Candidate Privacy Policy for Potential Employees and Contractors&lt;/a&gt;.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;em&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Reddit is proud to be an equal opportunity employer, and is committed to building a workforce representative of the diverse communities we serve.&amp;nbsp; Reddit is committed to providing reasonable accommodations for qualified individuals with disabilities and disabled veterans in our job application procedures. If, due to a disability, you need an accommodation during the interview process, please let your recruiter know.&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;&lt;/div&gt;",
+  "departments": [
+    {
+      "id": 81517,
+      "name": "Consumer Product",
+      "child_ids": [],
+      "parent_id": 16253
+    }
+  ],
+  "offices": [
+    {
+      "id": 10167,
+      "name": "San Francisco",
+      "location": "San Francisco, CA, United States",
+      "child_ids": [],
+      "parent_id": null
+    }
+  ],
+  "ai_disclaimer": null,
+  "include_ai_disclaimer": null,
+  "ai_opt_out_request_url": null
+}

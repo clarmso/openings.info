@@ -49,7 +49,7 @@
       "id": 29446322,
       "name": "Pay Transparency Range",
       "value": {
-        "unit": null,
+        "unit": "USD",
         "max_value": "190000.0",
         "min_value": "143000.0"
       },
@@ -69,7 +69,7 @@
     }
   ],
   "id": 8223858,
-  "updated_at": "2026-10-07T11:55:28-04:00",
+  "updated_at": "2026-10-20T12:39:25-04:00",
   "requisition_id": "R21388",
   "title": "Manager, Business Recruiting - Enterprise Sales",
   "company_name": "Datadog",

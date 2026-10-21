@@ -18,7 +18,7 @@
       }
     }
   ],
-  "publishedAt": "2026-07-30T21:43:50.979+00:00",
+  "publishedAt": "2026-10-20T18:51:03.971+00:00",
   "isListed": true,
   "isRemote": true,
   "workplaceType": "Remote",
@@ -79,13 +79,13 @@
         "additionalInformation": null,
         "components": [
           {
-            "id": "c9e0433b-5197-4064-a83c-32b5c75edb17",
-            "summary": "SF & NYC - OTE $103K – $129K",
-            "compensationType": "Salary",
-            "interval": "1 YEAR",
-            "currencyCode": "USD",
-            "minValue": 103000,
-            "maxValue": 129000
+            "id": "89f45d89-453e-4e14-a363-53278f036dcb",
+            "summary": "Offers Equity",
+            "compensationType": "EquityPercentage",
+            "interval": "NONE",
+            "currencyCode": null,
+            "minValue": null,
+            "maxValue": null
           },
           {
             "id": "d64f582e-8fb0-4b88-bdf0-ede06e11e738",
@@ -97,13 +97,13 @@
             "maxValue": null
           },
           {
-            "id": "89f45d89-453e-4e14-a363-53278f036dcb",
-            "summary": "Offers Equity",
-            "compensationType": "EquityPercentage",
-            "interval": "NONE",
-            "currencyCode": null,
-            "minValue": null,
-            "maxValue": null
+            "id": "c9e0433b-5197-4064-a83c-32b5c75edb17",
+            "summary": "SF & NYC - OTE $103K – $129K",
+            "compensationType": "Salary",
+            "interval": "1 YEAR",
+            "currencyCode": "USD",
+            "minValue": 103000,
+            "maxValue": 129000
           }
         ]
       },

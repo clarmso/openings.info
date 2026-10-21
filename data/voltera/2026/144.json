@@ -1,0 +1,20 @@
+{
+  "id": "144",
+  "jobOpeningName": "Applications Technician",
+  "departmentId": "18699",
+  "departmentLabel": "Applications",
+  "employmentStatusLabel": "Full-Time",
+  "employmentType": null,
+  "location": {
+    "city": "Waterloo",
+    "state": "Ontario"
+  },
+  "atsLocation": {
+    "country": null,
+    "state": null,
+    "province": null,
+    "city": null
+  },
+  "isRemote": null,
+  "locationType": "0"
+}

@@ -70,15 +70,6 @@
         "additionalInformation": null,
         "components": [
           {
-            "id": "f9c85e47-8bff-4686-a214-11e15ce6efbc",
-            "summary": "Offers Equity",
-            "compensationType": "EquityPercentage",
-            "interval": "NONE",
-            "currencyCode": null,
-            "minValue": null,
-            "maxValue": null
-          },
-          {
             "id": "54a304a7-f50e-46f3-ab66-894aad1f6e49",
             "summary": "US Average $100,000 – $153,750",
             "compensationType": "Salary",
@@ -86,6 +77,15 @@
             "currencyCode": "USD",
             "minValue": 100000,
             "maxValue": 153750
+          },
+          {
+            "id": "f9c85e47-8bff-4686-a214-11e15ce6efbc",
+            "summary": "Offers Equity",
+            "compensationType": "EquityPercentage",
+            "interval": "NONE",
+            "currencyCode": null,
+            "minValue": null,
+            "maxValue": null
           }
         ]
       },
@@ -96,15 +96,6 @@
         "additionalInformation": null,
         "components": [
           {
-            "id": "02d341db-7545-4a4c-ac54-84b43314616e",
-            "summary": "Offers Equity",
-            "compensationType": "EquityPercentage",
-            "interval": "NONE",
-            "currencyCode": null,
-            "minValue": null,
-            "maxValue": null
-          },
-          {
             "id": "3cd0f9e5-a118-4425-bbdd-92648509a742",
             "summary": "Canada Averge CA$100,000 – CA$153,750",
             "compensationType": "Salary",
@@ -112,6 +103,15 @@
             "currencyCode": "CAD",
             "minValue": 100000,
             "maxValue": 153750
+          },
+          {
+            "id": "02d341db-7545-4a4c-ac54-84b43314616e",
+            "summary": "Offers Equity",
+            "compensationType": "EquityPercentage",
+            "interval": "NONE",
+            "currencyCode": null,
+            "minValue": null,
+            "maxValue": null
           }
         ]
       }

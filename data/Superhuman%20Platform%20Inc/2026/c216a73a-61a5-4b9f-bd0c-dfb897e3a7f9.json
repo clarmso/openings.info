@@ -1,0 +1,74 @@
+{
+  "id": "c216a73a-61a5-4b9f-bd0c-dfb897e3a7f9",
+  "title": "Senior Lifecycle Marketing Manager",
+  "department": "Growth",
+  "team": "Growth",
+  "employmentType": "FullTime",
+  "location": "Hub - San Francisco",
+  "shouldDisplayCompensationOnJobPostings": true,
+  "secondaryLocations": [],
+  "publishedAt": "2026-10-20T20:14:11.317+00:00",
+  "isListed": true,
+  "isRemote": true,
+  "workplaceType": "Remote",
+  "address": {
+    "postalAddress": {
+      "addressRegion": "California",
+      "addressCountry": "United States",
+      "addressLocality": "San Francisco"
+    }
+  },
+  "jobUrl": "https://jobs.ashbyhq.com/Superhuman%20Platform%20Inc/c216a73a-61a5-4b9f-bd0c-dfb897e3a7f9",
+  "applyUrl": "https://jobs.ashbyhq.com/Superhuman%20Platform%20Inc/c216a73a-61a5-4b9f-bd0c-dfb897e3a7f9/application",
+  "descriptionHtml": "<p style=\"min-height:1.5em\"><strong>Location: </strong>Remote, US</p><p style=\"min-height:1.5em\"><strong>Department: </strong>Growth</p><p style=\"min-height:1.5em\"><strong>Level of Experience: </strong>L4</p><p style=\"min-height:1.5em\"><strong>Link to Job Posting: </strong><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://superhuman.com/company/careers/jobs?ashby_jid=58e42e51-c75e-4cc2-afaf-7cb4755deaa6\"><strong>LINK</strong></a></p><p style=\"min-height:1.5em\"><strong>Short Summary of Role: </strong><br />We’re looking for a Senior Lifecycle Marketing Manager to join our Lifecycle Conversion team — a growth marketer who will turn free Grammarly users into paying customers across email, in-product messaging, and push, using experimentation, data-driven personalization, and AI decisioning to deliver relevant 1:1 upsell experiences to 40M+ users. This person will own a forward-looking experimentation roadmap, lead international and multilingual growth efforts, help drive cross-product monetization across the Superhuman suite, and partner closely with Marketing Operations, Data Science, Brand, and Creative. Strong fit for candidates with 4+ years in lifecycle, CRM, or growth marketing at a freemium or PLG subscription company, hands-on experience running statistically sound A/B tests, fluency with data and modern marketing tools (Braze, Hightouch, Iterable), and a track record of driving incremental revenue.</p>",
+  "descriptionPlain": "Location: Remote, US\n\nDepartment: Growth\n\nLevel of Experience: L4\n\nLink to Job Posting: LINK https://superhuman.com/company/careers/jobs?ashby_jid=58e42e51-c75e-4cc2-afaf-7cb4755deaa6\n\nShort Summary of Role: \nWe’re looking for a Senior Lifecycle Marketing Manager to join our Lifecycle Conversion team — a growth marketer who will turn free Grammarly users into paying customers across email, in-product messaging, and push, using experimentation, data-driven personalization, and AI decisioning to deliver relevant 1:1 upsell experiences to 40M+ users. This person will own a forward-looking experimentation roadmap, lead international and multilingual growth efforts, help drive cross-product monetization across the Superhuman suite, and partner closely with Marketing Operations, Data Science, Brand, and Creative. Strong fit for candidates with 4+ years in lifecycle, CRM, or growth marketing at a freemium or PLG subscription company, hands-on experience running statistically sound A/B tests, fluency with data and modern marketing tools (Braze, Hightouch, Iterable), and a track record of driving incremental revenue.",
+  "compensation": {
+    "compensationTierSummary": "$147K – $220K • Multiple Ranges",
+    "scrapeableCompensationSalarySummary": "$147K - $220K",
+    "compensationTiers": [
+      {
+        "id": "8c7a6588-fd8f-47e0-a662-3be5e42568ff",
+        "tierSummary": "$163K – $220K",
+        "title": "Zone 1",
+        "additionalInformation": null,
+        "components": [
+          {
+            "id": "9a7d4b6b-1725-4c81-91d6-87fb2942b734",
+            "summary": "$163K – $220K",
+            "compensationType": "Salary",
+            "interval": "1 YEAR",
+            "currencyCode": "USD",
+            "minValue": 163000,
+            "maxValue": 220000
+          }
+        ]
+      },
+      {
+        "id": "b5486ab6-15ae-4830-bfe6-e87077da28af",
+        "tierSummary": "$147K – $198K",
+        "title": "Zone 2",
+        "additionalInformation": null,
+        "components": [
+          {
+            "id": "dae5f6d5-3904-453a-8bd7-a77b0800d2dc",
+            "summary": "$147K – $198K",
+            "compensationType": "Salary",
+            "interval": "1 YEAR",
+            "currencyCode": "USD",
+            "minValue": 147000,
+            "maxValue": 198000
+          }
+        ]
+      }
+    ],
+    "summaryComponents": [
+      {
+        "minValue": 147000,
+        "maxValue": 220000,
+        "currencyCode": "USD",
+        "interval": "1 YEAR",
+        "compensationType": "Salary"
+      }
+    ]
+  }
+}

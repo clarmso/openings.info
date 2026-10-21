@@ -23,9 +23,9 @@
     }
   ],
   "id": 5057647008,
-  "updated_at": "2026-10-16T23:56:40-04:00",
+  "updated_at": "2026-10-20T19:56:30-04:00",
   "requisition_id": "11917",
-  "title": "Applied AI Engineer, Enterprise Tech",
+  "title": "Applied AI Engineer, Enterprise ",
   "company_name": "Anthropic",
   "first_published": "2026-01-08T15:47:40-05:00",
   "language": "en",
@@ -41,13 +41,6 @@
   ],
   "offices": [
     {
-      "id": 4039647008,
-      "name": "Boston, MA",
-      "location": "Boston, Massachusetts, United States",
-      "child_ids": [],
-      "parent_id": null
-    },
-    {
       "id": 4001219008,
       "name": "New York City, NY",
       "location": "New York, New York, United States",
@@ -58,20 +51,6 @@
       "id": 4001218008,
       "name": "San Francisco, CA",
       "location": "San Francisco, California, United States",
-      "child_ids": [],
-      "parent_id": null
-    },
-    {
-      "id": 4001217008,
-      "name": "Seattle, WA",
-      "location": "Seattle, Washington, United States",
-      "child_ids": [],
-      "parent_id": null
-    },
-    {
-      "id": 4011228008,
-      "name": "Washington, D.C.",
-      "location": "Washington, District of Columbia, United States",
       "child_ids": [],
       "parent_id": null
     }

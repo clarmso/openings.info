@@ -40,13 +40,13 @@
         "additionalInformation": null,
         "components": [
           {
-            "id": "611abe47-ddef-4cb0-a849-00fc5b6c3361",
-            "summary": "$180K – $220K",
-            "compensationType": "Salary",
-            "interval": "1 YEAR",
-            "currencyCode": "USD",
-            "minValue": 180000,
-            "maxValue": 220000
+            "id": "550b6c88-f039-4111-98e8-1e4ce2c079cd",
+            "summary": "Offers Equity",
+            "compensationType": "EquityPercentage",
+            "interval": "NONE",
+            "currencyCode": null,
+            "minValue": null,
+            "maxValue": null
           },
           {
             "id": "5a84eedf-6d76-4f2f-a2cb-ad0e5407234d",
@@ -58,13 +58,13 @@
             "maxValue": null
           },
           {
-            "id": "550b6c88-f039-4111-98e8-1e4ce2c079cd",
-            "summary": "Offers Equity",
-            "compensationType": "EquityPercentage",
-            "interval": "NONE",
-            "currencyCode": null,
-            "minValue": null,
-            "maxValue": null
+            "id": "611abe47-ddef-4cb0-a849-00fc5b6c3361",
+            "summary": "$180K – $220K",
+            "compensationType": "Salary",
+            "interval": "1 YEAR",
+            "currencyCode": "USD",
+            "minValue": 180000,
+            "maxValue": 220000
           }
         ]
       },
@@ -106,11 +106,10 @@
     ],
     "summaryComponents": [
       {
-        "compensationType": "Salary",
-        "interval": "1 YEAR",
-        "currencyCode": "USD",
-        "minValue": 180000,
-        "maxValue": 220000
+        "compensationType": "EquityPercentage",
+        "minValue": null,
+        "maxValue": null,
+        "interval": "1 YEAR"
       },
       {
         "compensationType": "Bonus",
@@ -119,10 +118,11 @@
         "interval": "1 YEAR"
       },
       {
-        "compensationType": "EquityPercentage",
-        "minValue": null,
-        "maxValue": null,
-        "interval": "1 YEAR"
+        "compensationType": "Salary",
+        "interval": "1 YEAR",
+        "currencyCode": "USD",
+        "minValue": 180000,
+        "maxValue": 220000
       }
     ]
   }
