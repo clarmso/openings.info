@@ -23,7 +23,7 @@
     }
   ],
   "id": 8886648002,
-  "updated_at": "2026-10-16T20:06:59-04:00",
+  "updated_at": "2026-10-21T13:19:35-04:00",
   "requisition_id": "7214",
   "title": "Sr. Manager, Solutions Architect SME",
   "company_name": "GitLab",
@@ -41,7 +41,17 @@
       "parent_id": 4011043002
     }
   ],
-  "offices": [],
+  "offices": [
+    {
+      "id": 4040904002,
+      "name": "United States of America",
+      "location": null,
+      "child_ids": [
+        4040902002
+      ],
+      "parent_id": 4019551002
+    }
+  ],
   "ai_disclaimer": null,
   "include_ai_disclaimer": null,
   "ai_opt_out_request_url": null

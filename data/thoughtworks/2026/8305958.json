@@ -1,0 +1,92 @@
+{
+  "absolute_url": "https://www.thoughtworks.com/careers/jobs/8305958?gh_jid=8305958",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": false,
+      "requires_processing_consent": false,
+      "requires_retention_consent": false,
+      "retention_period": null,
+      "demographic_data_consent_applies": false
+    }
+  ],
+  "internal_job_id": 3589981,
+  "location": {
+    "name": "Hamburg, Germany"
+  },
+  "metadata": [
+    {
+      "id": 17181,
+      "name": "Employment Type",
+      "value": "Employee",
+      "value_type": "single_select"
+    },
+    {
+      "id": 25173,
+      "name": "Job Role",
+      "value": "AI Engineer",
+      "value_type": "single_select"
+    },
+    {
+      "id": 61790,
+      "name": "Job Grade",
+      "value": "Principal",
+      "value_type": "single_select"
+    },
+    {
+      "id": 25172,
+      "name": "Country",
+      "value": "Germany",
+      "value_type": "single_select"
+    },
+    {
+      "id": 38057280,
+      "name": "Job Category",
+      "value": "Technology",
+      "value_type": "single_select"
+    },
+    {
+      "id": 15975856,
+      "name": "Function",
+      "value": [
+        "Technology"
+      ],
+      "value_type": "multi_select"
+    },
+    {
+      "id": 53682232,
+      "name": "No. of days in office",
+      "value": "Hybrid – 3 days on-site/week",
+      "value_type": "single_select"
+    }
+  ],
+  "id": 8305958,
+  "updated_at": "2026-10-21T09:50:29-04:00",
+  "requisition_id": "R14951",
+  "title": "Agentic AI Principal (m/f/d)",
+  "company_name": "Thoughtworks",
+  "first_published": "2026-10-21T09:50:29-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;div class=&quot;description content&quot;&gt;\n&lt;p&gt;We are looking for an Agentic AI Principal to act as a senior technical authority and trusted client advisor for complex agentic AI transformation in Germany, the Netherlands and the wider DACH region.&lt;/p&gt;\n&lt;p&gt;Operating at Principal level, you will shape enterprise AI strategy, define agentic architecture blueprints, lead high-value C-suite engagements and guide complex programmes from opportunity through delivery. You will bring deep hands-on credibility in multi-agent systems, governance and safeguards, while setting reusable patterns and raising capability across teams.&lt;/p&gt;\n&lt;p&gt;The role has particular focus on sovereign, compliant and production-grade agentic AI for regulated German, Dutch and European enterprises, with a primary focus on healthcare and life sciences (pharma, biotech, medtech and healthcare providers). Experience from other regulated sectors, such as financial services and insurance, automotive and manufacturing, energy and telecommunications, is equally welcome.&lt;/p&gt;\n&lt;p&gt;Our delivery model is moving from large time-and-materials teams to small, AI-first, multidisciplinary pods accountable to a business outcome. You will anchor the agentic side of that work, pairing with our data, tech advisory and industry domain leads from presale through delivery.&lt;/p&gt;\n&lt;p&gt;This is a client-facing, builder&#39;s leadership role. You will start with a small, senior team and grow it through technical depth, delivery excellence and thought leadership, rather than inheriting a large organisation.&lt;/p&gt;\n&lt;/div&gt;\n&lt;h2 id=&quot;job-responsibilities&quot;&gt;Job responsibilities&lt;/h2&gt;\n&lt;div class=&quot;job-responsibilities content&quot;&gt;\n&lt;p&gt;&lt;strong&gt;Shaping and winning&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;&lt;strong&gt;Agentic AI advisory and strategy:&lt;/strong&gt; shape and solution complex German, Dutch and DACH pursuits with account, commercial and delivery leaders, translating client needs into differentiated propositions, credible architectures and executable delivery approaches that support regional pipeline conversion.&lt;/li&gt;\n&lt;li&gt;Independently drive complex pursuits with technical and executive stakeholders, including shaping the commercial model (fixed-price, outcome-linked), trade-offs and risk.&lt;/li&gt;\n&lt;li&gt;Act as a sparring partner to C-suite buyers (CEO, CIO, CDO, CISO, COO): frame business-outcome hypotheses, challenge assumptions and define a thin slice of agentic delivery that proves value quickly.&lt;/li&gt;\n&lt;li&gt;Lead AI maturity assessments, identify and prioritise processes for agentisation, and connect architecture choices to measurable business value and ROI.&lt;/li&gt;\n&lt;li&gt;Represent Thoughtworks&#39; agentic AI expertise in strategic client conversations, industry forums, partnerships and thought leadership where appropriate.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;Designing and building&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;&lt;strong&gt;Design and build engineering:&lt;/strong&gt; set the architecture direction for complex, production-grade agentic AI systems, including multi-agent workflows, orchestration, tool use, memory, context strategy, retrieval, evaluation, observability and enterprise integration.&lt;/li&gt;\n&lt;li&gt;Integrate agents with the German enterprise core: SAP (S/4HANA, BTP), LIMS, QMS and clinical systems, MES/PLM and industrial systems, and legacy back-office platforms, using open protocols such as MCP and A2A where they fit.&lt;/li&gt;\n&lt;li&gt;Ensure agents run on trustworthy data foundations, working with data engineering and data product teams on data quality, semantics and access.&lt;/li&gt;\n&lt;li&gt;Design solutions for regulated German and EU environments, with strong consideration of data sovereignty (EU and German sovereign cloud, open-weight or self-hosted models where required), privacy, security, responsible AI and applicable regulation, including the EU AI Act and GDPR; for healthcare and life sciences GxP, EU MDR/IVDR and the European Health Data Space; and for other sectors DORA, NIS2 and BaFin requirements where relevant.&lt;/li&gt;\n&lt;li&gt;Guide teams in balancing rapid experimentation with robust production engineering, including evaluation-driven development, testing, CI/CD, reliability, cost and performance optimisation.&lt;/li&gt;\n&lt;li&gt;Provide technical and delivery leadership for complex programmes, staying hands-on enough to validate architecture, unblock teams, manage technical risk and ensure successful execution.&lt;/li&gt;\n&lt;li&gt;Partner with product, data, software engineering, enterprise architecture, governance and change specialists to design end-to-end solutions that deliver measurable business outcomes.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;Governance and safeguards&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Establish reusable patterns for observability, auditability, traceability and control of agentic systems, enabling teams to demonstrate safe and reliable behaviour in production.&lt;/li&gt;\n&lt;li&gt;Translate EU AI Act obligations (risk classification, human oversight, logging, technical documentation, GPAI-provider responsibilities) into concrete engineering controls and evidence.&lt;/li&gt;\n&lt;li&gt;Engage early with works councils (Betriebsrat, ondernemingsraad), data protection officers and information security, supporting DPIAs and co-determination processes so agentic solutions that touch employee workflows can go live.&lt;/li&gt;\n&lt;li&gt;Anticipate technical, organisational and governance challenges in enterprise AI adoption and define practical approaches to address them.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;Principal-level leadership and growing capability&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Set reusable architecture patterns, engineering standards and governance practices across multiple teams and engagements, influencing the evolution of Thoughtworks&#39; agentic AI capability beyond an individual programme.&lt;/li&gt;\n&lt;li&gt;Set technical direction across multiple teams and initiatives, defining reusable patterns, frameworks and engineering standards for agentic AI delivery.&lt;/li&gt;\n&lt;li&gt;Mentor senior engineers and technical leads, build the next generation of the German team, and raise AI fluency and agentic engineering standards across specialists and generalists.&lt;/li&gt;\n&lt;li&gt;Evaluate emerging agentic AI technologies and frameworks and guide their responsible adoption based on client context, engineering quality and business value.&lt;/li&gt;\n&lt;li&gt;Build our German and Dutch market presence through local-language points of view, ecosystem and partner initiatives (hyperscalers, SAP, European model providers) and community events.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;/div&gt;\n&lt;h2 id=&quot;job-qualifications&quot;&gt;Job qualifications&lt;/h2&gt;\n&lt;div class=&quot;job-qualifications content&quot;&gt;\n&lt;h3 id=&quot;technical-skills&quot;&gt;Technical Skills&lt;/h3&gt;\n&lt;div class=&quot;qualifications inner-content&quot;&gt;\n&lt;ul&gt;\n&lt;li&gt;Deep expertise in modern software engineering and Python, with a strong track record of setting standards for testing, CI/CD, observability, maintainability and production reliability.&lt;/li&gt;\n&lt;li&gt;Recognised experience architecting and delivering complex GenAI and agentic AI systems at enterprise scale, from early discovery through production deployment.&lt;/li&gt;\n&lt;li&gt;Deep knowledge of agentic architectures and frameworks such as LangGraph, AutoGen, CrewAI, LlamaIndex or equivalent, including tool use, orchestration, memory, multi-agent coordination and interoperability protocols (MCP, A2A).&lt;/li&gt;\n&lt;li&gt;Strong expertise in Retrieval-Augmented Generation, advanced information retrieval, vector databases and enterprise knowledge integration.&lt;/li&gt;\n&lt;li&gt;Experience designing evaluation strategies for GenAI and agentic systems, including quality, safety, reliability, latency and cost measures.&lt;/li&gt;\n&lt;li&gt;Strong understanding of AI governance and safeguards, including guardrails, red-teaming, observability, responsible AI and secure deployment practices (prompt injection, data leakage, tool misuse).&lt;/li&gt;\n&lt;li&gt;Significant experience deploying AI systems on major cloud platforms using containers, orchestration and production-grade infrastructure patterns, including EU sovereign cloud, hybrid or on-premises setups and self-hosted open-weight models.&lt;/li&gt;\n&lt;li&gt;Experience with model adaptation and optimisation techniques, including prompt/context engineering, fine-tuning where appropriate, and application-level performance optimisation.&lt;/li&gt;\n&lt;li&gt;Ability to make sound architecture trade-offs across model capability, reliability, security, compliance, performance and cost.&lt;/li&gt;\n&lt;li&gt;Working knowledge of the EU AI Act, GDPR and sector rules (for healthcare and life sciences: GxP and GAMP 5 computerised-system validation, EU MDR/IVDR, EHDS; for other sectors: DORA, NIS2, BaFin) and how they shape agentic system design.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Strongly preferred: &lt;/strong&gt;delivering AI in healthcare or life sciences (e.g. R&amp;amp;D, clinical, regulatory, manufacturing quality, commercial).&lt;/li&gt;\n&lt;li&gt;Nice to have: integrating agents with SAP and industrial or manufacturing systems; data product and data platform foundations for AI.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;/div&gt;\n&lt;h3&gt;Consulting and Commercial Track Record&lt;/h3&gt;\n&lt;div class=&quot;skills inner-content&quot;&gt;\n&lt;ul&gt;\n&lt;li&gt;Proven ability to lead C-suite and senior client engagements, rapidly establish credibility and advise on both business and technical choices.&lt;/li&gt;\n&lt;li&gt;Strong consulting and commercial judgement: you can point to data and AI (ideally agentic or GenAI) pursuits you helped shape, sell and deliver in the last three to five years, from around €3M–5M upwards, including fixed-price or outcome-linked elements.&lt;/li&gt;\n&lt;li&gt;Experience shaping, solutioning, selling and delivering complex deals of €5M+ in the last few years. Annual target of solutioning, selling and delivering €10M+ TCV in Data &amp;amp; AI deals with an AI-first delivery focus.&lt;/li&gt;\n&lt;li&gt;Comfortable discussing P&amp;amp;L, business cases and ROI with executive buyers, not just architecture.&lt;/li&gt;\n&lt;li&gt;Consultancy or professional-services experience within the last five years, ideally with German, Dutch or DACH enterprise clients.&lt;/li&gt;\n&lt;li&gt;You have grown a practice, capability or go-to-market asset (e.g. a reusable accelerator).&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;Professional Skills&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Executive presence and communication skills, making complex agentic AI concepts, risks and trade-offs clear to technical and non-technical audiences.&lt;/li&gt;\n&lt;li&gt;Proven leadership of complex delivery across multidisciplinary teams, moving fluidly between strategy, architecture, governance and hands-on technical leadership.&lt;/li&gt;\n&lt;li&gt;Ability to influence across organisations without formal authority, align diverse stakeholders and navigate ambiguity in high-value or high-risk programmes.&lt;/li&gt;\n&lt;li&gt;Proven ability to mentor senior engineers and technical leaders and raise standards across a wider engineering community.&lt;/li&gt;\n&lt;li&gt;Self-directed, prioritisation-led working style, with creative problem-solving in fixed-scope, outcome-driven work.&lt;/li&gt;\n&lt;li&gt;Experience navigating German stakeholder structures, including works councils, data protection officers and procurement.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;German B2 minimum&lt;/strong&gt;, C1 strongly preferred; fluent English.&amp;nbsp;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;/div&gt;\n&lt;/div&gt;\n&lt;h2 id=&quot;important-things&quot;&gt;Other things to know&lt;/h2&gt;\n&lt;div class=&quot;important-things content&quot;&gt;\n&lt;h3&gt;Learning &amp;amp; Development&lt;/h3&gt;\n&lt;div class=&quot;inner-content&quot;&gt;\n&lt;p&gt;There is no one-size-fits-all career path at Thoughtworks: however you want to develop your career is entirely up to you. But we also balance autonomy with the strength of our cultivation culture. This means your career is supported by interactive tools, numerous development programs and teammates who want to help you grow. We see value in helping each other be our best and that extends to empowering our employees in their career journeys.&lt;/p&gt;\n&lt;/div&gt;\n&lt;/div&gt;\n&lt;h2 id=&quot;responsible-ai-use&quot;&gt;Responsible Use of AI in Recruitment&lt;/h2&gt;\n&lt;div class=&quot;responsible-ai-use content&quot;&gt;\n&lt;p&gt;At Thoughtworks, we use AI tools to support our recruitment team with administrative tasks such as drafting communications, scheduling interviews and writing job descriptions.&lt;br&gt;&lt;br&gt;Crucially, our AI tools do not screen, assess, rank or make hiring decisions. Every application is reviewed by our team and all selection decisions are made exclusively by our interviewers and hiring managers.&lt;br&gt;&lt;br&gt;We are committed to fairness and responsible AI. We actively manage our AI systems by testing, monitoring for biased outcomes and implementing mitigation measures. We hold our third-party vendors to these same high standards through a rigorous governance process. For additional information, please see our full &lt;a href=&quot;https://www.thoughtworks.com/careers/ai-policy-for-recruitment&quot; target=&quot;_blank&quot;&gt;Thoughtworks AI Policy for Recruitment&lt;/a&gt;.&lt;/p&gt;\n&lt;/div&gt;\n&lt;h2 id=&quot;about&quot;&gt;About Thoughtworks&lt;/h2&gt;\n&lt;div class=&quot;about content&quot;&gt;\n&lt;p&gt;Thoughtworks is a dynamic and inclusive community of bright and supportive colleagues who are revolutionizing tech. As a leading technology consultancy, we’re pushing boundaries through our purposeful and impactful work. For 30+ years, we’ve delivered extraordinary impact together with our clients by helping them solve complex business problems with technology as the differentiator. Bring your brilliant expertise and commitment for continuous learning to Thoughtworks. Together, let’s be extraordinary.&lt;/p&gt;\n&lt;/div&gt;\n&lt;p style=&quot;display: none;&quot;&gt;#LI-Hybrid&lt;/p&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p style=&quot;text-align: center;&quot;&gt;&lt;a href=&quot;https://www.thoughtworks.com/careers/ai-policy-for-recruitment&quot;&gt;See here our AI policy.&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;",
+  "departments": [
+    {
+      "id": 314773,
+      "name": "1Y_TWDEU SL DATA",
+      "child_ids": [],
+      "parent_id": null
+    }
+  ],
+  "offices": [
+    {
+      "id": 9869,
+      "name": "Munich",
+      "location": "Munich, Germany",
+      "child_ids": [],
+      "parent_id": null
+    }
+  ],
+  "ai_disclaimer": null,
+  "include_ai_disclaimer": null,
+  "ai_opt_out_request_url": null
+}

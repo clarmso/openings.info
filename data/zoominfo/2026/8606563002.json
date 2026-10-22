@@ -12,7 +12,7 @@
   ],
   "internal_job_id": 6437476002,
   "location": {
-    "name": "Bethesda, Maryland, United States; Waltham, Massachusetts, United States"
+    "name": "Remote-US-DC; Remote-US-MD; Remote-US-VA"
   },
   "metadata": [
     {
@@ -41,7 +41,7 @@
     }
   ],
   "id": 8606563002,
-  "updated_at": "2026-10-19T11:45:17-04:00",
+  "updated_at": "2026-10-21T13:34:14-04:00",
   "requisition_id": "JR107787",
   "title": "Senior Software Engineer ",
   "company_name": "ZoomInfo Technologies LLC",

@@ -1,0 +1,132 @@
+{
+  "absolute_url": "https://job-boards.greenhouse.io/reddit/jobs/8289345",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": false,
+      "requires_processing_consent": false,
+      "requires_retention_consent": false,
+      "retention_period": null,
+      "demographic_data_consent_applies": true
+    }
+  ],
+  "internal_job_id": 3584967,
+  "location": {
+    "name": "Remote - United States"
+  },
+  "metadata": [
+    {
+      "id": 944668,
+      "name": "Position ID",
+      "value": "P-108368",
+      "value_type": "short_text"
+    },
+    {
+      "id": 956352,
+      "name": "Recruiting Start Date",
+      "value": "2026-10-16",
+      "value_type": "date"
+    },
+    {
+      "id": 944671,
+      "name": "Target Hire Date",
+      "value": "2026-12-31",
+      "value_type": "date"
+    },
+    {
+      "id": 944672,
+      "name": "Target Hire End Date",
+      "value": "",
+      "value_type": "date"
+    },
+    {
+      "id": 944673,
+      "name": "Job Profile",
+      "value": "Data Scientist 7",
+      "value_type": "single_select"
+    },
+    {
+      "id": 956351,
+      "name": "Management Level",
+      "value": "IC7",
+      "value_type": "single_select"
+    },
+    {
+      "id": 944675,
+      "name": "Job Family",
+      "value": "Data Science",
+      "value_type": "single_select"
+    },
+    {
+      "id": 53341,
+      "name": "Worker Sub-Type",
+      "value": "Regular",
+      "value_type": "single_select"
+    },
+    {
+      "id": 944676,
+      "name": "Time Type",
+      "value": "Full time",
+      "value_type": "single_select"
+    },
+    {
+      "id": 944682,
+      "name": "Pay Rate Type",
+      "value": "Salary",
+      "value_type": "single_select"
+    },
+    {
+      "id": 944681,
+      "name": "Scheduled Weekly Hours",
+      "value": "40.0",
+      "value_type": "number"
+    },
+    {
+      "id": 944667,
+      "name": "Company",
+      "value": "Reddit, Inc.",
+      "value_type": "single_select"
+    },
+    {
+      "id": 944677,
+      "name": "Cost Center",
+      "value": "Tech-Data Science",
+      "value_type": "single_select"
+    },
+    {
+      "id": 944669,
+      "name": "Worker Type",
+      "value": "Employee",
+      "value_type": "single_select"
+    }
+  ],
+  "id": 8289345,
+  "updated_at": "2026-10-21T20:17:10-04:00",
+  "requisition_id": "R-105960",
+  "title": "Principal Data Scientist, User Ecosystem",
+  "company_name": "Reddit",
+  "first_published": "2026-10-21T10:16:31-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;div class=&quot;content-intro&quot;&gt;&lt;div class=&quot;c-message_kit__blocks c-message_kit__blocks--rich_text&quot;&gt;\n&lt;div class=&quot;c-message__message_blocks c-message__message_blocks--rich_text&quot; data-qa=&quot;message-text&quot;&gt;\n&lt;div class=&quot;p-block_kit_renderer&quot; data-qa=&quot;block-kit-renderer&quot;&gt;\n&lt;div class=&quot;p-block_kit_renderer__block_wrapper p-block_kit_renderer__block_wrapper--first&quot;&gt;\n&lt;div class=&quot;p-rich_text_block&quot;&gt;\n&lt;div class=&quot;p-rich_text_section&quot;&gt;Reddit is a community of communities. It’s built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 130 million daily active unique visitors, Reddit is one of the internet’s largest sources of information. For more information, visit &lt;a class=&quot;c-link&quot; href=&quot;http://www.redditinc.com/&quot; target=&quot;_blank&quot; data-stringify-link=&quot;http://redditinc.com&quot; data-sk=&quot;tooltip_parent&quot;&gt;www.redditinc.com&lt;/a&gt;.&lt;/div&gt;\n&lt;/div&gt;\n&lt;/div&gt;\n&lt;/div&gt;\n&lt;/div&gt;\n&lt;/div&gt;&lt;/div&gt;&lt;p&gt;Reddit is a complex consumer ecosystem where users, content, communities, and conversations interact over time. We are looking for a very senior data science thought leader to shape how Reddit understands and improves that ecosystem for the user / consumer flywheel.&lt;/p&gt;\n&lt;p&gt;This role will define the measurement, modeling, and experimentation strategy for major Consumer questions: how users discover value, form habits, and deepen engagement; how we understand and serve user intent; how content and communities evolve; and how our systems create durable value for users, contributors, communities, and Reddit.&lt;/p&gt;\n&lt;p&gt;The ideal candidate will bring deep expertise in one or more areas of consumer science, such as:&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Recommender systems and information retrieval&lt;/li&gt;\n&lt;li&gt;User modeling, personalization, lifecycle, LTV, or optimization&lt;/li&gt;\n&lt;li&gt;Content, community, or ecosystem modeling&lt;/li&gt;\n&lt;li&gt;Knowledge graphs and representations of users, content, and communities&lt;/li&gt;\n&lt;li&gt;Causal inference, experimentation, and long-term consumer measurement&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;You will partner with leaders across Product, Engineering, Research, and Community to turn ambiguous consumer problems into clear scientific questions, durable analytical systems, and decisions that improve Reddit at scale.&lt;/p&gt;\n&lt;h1&gt;&lt;strong&gt;What you’ll do&lt;/strong&gt;&lt;/h1&gt;\n&lt;ul&gt;\n&lt;li&gt;Set the scientific direction for high-impact Consumer problems spanning discovery, relevance, personalization, user growth, retention, content, and communities.&lt;/li&gt;\n&lt;li&gt;Build a durable understanding of users, their intent, their needs, and the behaviors that lead to lasting value&lt;/li&gt;\n&lt;li&gt;Develop models and frameworks that represent users, content, communities, and their relationships over time for use in systems that operate at scale&lt;/li&gt;\n&lt;li&gt;Determine how to measure consumer and ecosystem health when objectives compete and short-term engagement may differ from long-term value.&lt;/li&gt;\n&lt;li&gt;Set learning agendas and steer experimentation strategy to distinguish durable improvement from temporary metric movement.&lt;/li&gt;\n&lt;li&gt;Build state-of-the-art measurement systems to evaluate heterogeneous effects across user personas, acquisition cohorts, platforms, content types, and community stages, and guide their actionability in production environments&lt;/li&gt;\n&lt;li&gt;Ensure coherence around ecosystem interactions including feedback loops, selection effects, interference, distribution shift, content supply, and other ecosystem risks.&lt;/li&gt;\n&lt;li&gt;Translate complex technical findings into clear product and business decisions.&lt;/li&gt;\n&lt;li&gt;Develop exceptional scientists through mentoring and influence data science org health and direction&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h1&gt;&lt;strong&gt;Requirements&lt;/strong&gt;&lt;/h1&gt;\n&lt;ul&gt;\n&lt;li&gt;Deep expertise in at least one relevant area, with the breadth and curiosity to work across adjacent domains.&lt;/li&gt;\n&lt;li&gt;A deep understanding of how to model and optimize systems involving users, content, communities, and feedback loops.&lt;/li&gt;\n&lt;li&gt;Ability to frame and lead the most ambiguous questions, identify the most important uncertainties, and develop a rigorous path from evidence to action.&lt;/li&gt;\n&lt;li&gt;Exceptional technical judgment across model design, objective selection, validation, experimentation, and production tradeoffs.&lt;/li&gt;\n&lt;li&gt;Advanced knowledge of modern machine-learning methods for behavioral and content data, including representation learning and sequential or contextual models. Experience with deep-learning frameworks such as PyTorch or JAX.&lt;/li&gt;\n&lt;li&gt;Experience working across Product, Engineering, Research, and other partner teams.&lt;/li&gt;\n&lt;li&gt;Excellent written and verbal communication, with the ability to influence senior stakeholders and explain technical ideas clearly.&lt;/li&gt;\n&lt;li&gt;Significant experience applying data science, machine learning, statistics, experimentation, or causal inference to complex consumer products.&lt;/li&gt;\n&lt;/ul&gt;&lt;div class=&quot;content-pay-transparency&quot;&gt;&lt;div class=&quot;pay-input&quot;&gt;&lt;div class=&quot;description&quot;&gt;&lt;p&gt;&lt;strong&gt;Pay Transparency:&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;This job posting may span more than one career level.&lt;/p&gt;\n&lt;p&gt;In addition to base salary, this job is eligible to receive equity in the form of restricted stock units, and depending on the position offered, it may also be eligible to receive a commission. Additionally, Reddit offers a wide range of benefits to U.S.-based employees, including medical, dental, and vision insurance, 401(k) program with employer match, generous time off for vacation, and parental leave. To learn more, please visit &lt;a href=&quot;https://www.redditinc.com/careers/&quot; target=&quot;_blank&quot;&gt;https://www.redditinc.com/careers/&lt;/a&gt;.&lt;/p&gt;\n&lt;p&gt;To provide greater transparency to candidates, we share base salary ranges for all US-based job postings regardless of state. We set standard base pay ranges for all roles based on function, level, and country location, benchmarked against similar stage growth companies. Final offer amounts are determined by multiple factors including, skills, depth of work experience and relevant licenses/credentials, and may vary from the amounts listed below.&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;title&quot;&gt;The base salary range for this position is:&lt;/div&gt;&lt;div class=&quot;pay-range&quot;&gt;&lt;span&gt;$313,000&lt;/span&gt;&lt;span class=&quot;divider&quot;&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;$365,100 USD&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;In select roles and locations, the interviews will be recorded, transcribed and summarized by artificial intelligence (AI). You will have the opportunity to opt out of recording, transcription and summarization prior to any scheduled interviews.&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;During the interview, we will collect the following categories of personal information: Identifiers, Professional and Employment-Related Information, Sensory Information (audio/video recording), and any other categories of personal information you choose to share with us. We will use this information to evaluate your application for employment or an independent contractor role, as applicable.&amp;nbsp; We will not sell your personal information or disclose it to any third party for their marketing purposes.&amp;nbsp; We will delete any recording of your interview promptly after making a hiring decision.&amp;nbsp; For more information about how we will handle your personal information, including our retention of it, please refer to our &lt;a href=&quot;https://redditinc.com/policies/candidate-privacy-policy&quot;&gt;Candidate Privacy Policy for Potential Employees and Contractors&lt;/a&gt;.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;em&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Reddit is proud to be an equal opportunity employer, and is committed to building a workforce representative of the diverse communities we serve.&amp;nbsp; Reddit is committed to providing reasonable accommodations for qualified individuals with disabilities and disabled veterans in our job application procedures. If, due to a disability, you need an accommodation during the interview process, please let your recruiter know.&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;&lt;/div&gt;",
+  "departments": [
+    {
+      "id": 71092,
+      "name": "Data Science",
+      "child_ids": [],
+      "parent_id": null
+    }
+  ],
+  "offices": [
+    {
+      "id": 88237,
+      "name": "Remote - United States",
+      "location": null,
+      "child_ids": [],
+      "parent_id": null
+    }
+  ],
+  "ai_disclaimer": null,
+  "include_ai_disclaimer": null,
+  "ai_opt_out_request_url": null
+}

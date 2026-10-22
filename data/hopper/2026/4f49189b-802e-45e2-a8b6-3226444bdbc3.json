@@ -1,0 +1,102 @@
+{
+  "id": "4f49189b-802e-45e2-a8b6-3226444bdbc3",
+  "title": "Finance & Strategy Manager",
+  "department": "Finance",
+  "team": "Finance",
+  "employmentType": "FullTime",
+  "location": "Ontario - Remote",
+  "shouldDisplayCompensationOnJobPostings": true,
+  "secondaryLocations": [
+    {
+      "location": "Toronto - Remote",
+      "address": {
+        "postalAddress": {
+          "addressRegion": "Ontario",
+          "addressCountry": "Canada",
+          "addressLocality": "Toronto"
+        }
+      }
+    },
+    {
+      "location": "Vancouver - Remote",
+      "address": {
+        "postalAddress": {
+          "addressRegion": "British Columbia",
+          "addressCountry": "Canada",
+          "addressLocality": "Vancouver"
+        }
+      }
+    },
+    {
+      "location": "British Columbia - Remote",
+      "address": {
+        "postalAddress": {
+          "addressRegion": "British Columbia",
+          "addressCountry": "Canada"
+        }
+      }
+    }
+  ],
+  "publishedAt": "2026-10-21T16:14:14.371+00:00",
+  "isListed": true,
+  "isRemote": true,
+  "workplaceType": "Remote",
+  "address": {
+    "postalAddress": {
+      "addressRegion": "Ontario",
+      "addressCountry": "Canada"
+    }
+  },
+  "jobUrl": "https://jobs.ashbyhq.com/hopper/4f49189b-802e-45e2-a8b6-3226444bdbc3",
+  "applyUrl": "https://jobs.ashbyhq.com/hopper/4f49189b-802e-45e2-a8b6-3226444bdbc3/application",
+  "descriptionHtml": "<p style=\"min-height:1.5em\"><strong>About the Role</strong><br /><br />As a Finance &amp; Strategy Manager at Hopper, you will be a finance partner to business leaders across the company, helping them understand performance, evaluate opportunities and make better decisions. You will build the models behind our forecasts, partnerships and strategic plans, lead business reviews, and turn analysis into clear recommendations for senior leadership and the CFO.<br /><br />This role is a great fit for someone who has built rigorous models under pressure in investment banking or private equity and now wants to apply those skills in-house, closer to the decisions. We are a lean team that moves fast, and we use SQL and AI tools like Claude to automate the manual work so we can spend our time on analysis and strategy.</p><p style=\"min-height:1.5em\"><strong>What would your day-to-day look like</strong></p><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">Build and maintain integrated financial models, scenario and sensitivity analyses, and business cases for new products, partnerships and investments</p></li><li><p style=\"min-height:1.5em\">Evaluate the economics of new commercial agreements (pricing, revenue share, unit economics, ROI) and help shape deal terms with business leaders</p></li><li><p style=\"min-height:1.5em\">Support fundraising, M&amp;A and capital allocation decisions, including the models and analysis behind them</p></li><li><p style=\"min-height:1.5em\">Own the monthly and quarterly forecast for the areas you support, and contribute to the annual budget and long-range plan by building the driver-based models and inputs that connect operational metrics to P&amp;L outcomes</p></li><li><p style=\"min-height:1.5em\">Lead monthly and quarterly reviews of actuals vs. plan and forecast, explain variances, and flag risks and opportunities to business leaders</p></li><li><p style=\"min-height:1.5em\">Partner with leadership on high-impact questions such as market sizing, investment prioritization and cost optimization</p></li><li><p style=\"min-height:1.5em\">Prepare clear, executive-, board- and investor-ready materials that tell the story behind the numbers</p></li><li><p style=\"min-height:1.5em\">Use SQL, BigQuery and AI tools to automate recurring reporting and analysis so the team spends less time handling data and more time on insight</p></li></ul><p style=\"min-height:1.5em\"><strong>An ideal candidate has</strong></p><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">4+ years of experience in investment banking, corporate development, private equity, strategic finance or FP&amp;A. Investment banking or private equity experience (Analyst or Associate) is preferred</p></li><li><p style=\"min-height:1.5em\">Advanced financial modeling skills: three-statement models, DCF, scenario and sensitivity analysis. Expert in Excel / Google Sheets</p></li><li><p style=\"min-height:1.5em\">Solid understanding of accounting and how the three financial statements connect</p></li><li><p style=\"min-height:1.5em\">Excellent communication skills, with the ability to explain financial concepts to non-finance partners and present confidently to senior leaders</p></li><li><p style=\"min-height:1.5em\">Working knowledge of SQL, or a demonstrated ability to pick up technical tools quickly</p></li><li><p style=\"min-height:1.5em\">Hands-on use of AI tools (Claude, ChatGPT, Copilot, etc.) to work faster and automate repetitive work</p></li><li><p style=\"min-height:1.5em\">Strong ownership, comfort with ambiguity and a builder mindset. Hopper moves fast</p></li><li><p style=\"min-height:1.5em\">A degree in Finance, Economics, Business, Math, Engineering or another quantitative discipline</p></li></ul><p style=\"min-height:1.5em\"><strong>Nice to have</strong></p><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">Experience in tech, fintech, travel, marketplaces or B2B partnerships</p></li><li><p style=\"min-height:1.5em\">Experience with Python and/or BI tools (Looker, Tableau, etc.)</p></li><li><p style=\"min-height:1.5em\">CFA, CPA or MBA</p></li></ul><p style=\"min-height:1.5em\"><strong>Perks and benefits of working with us</strong></p><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">Well-funded and proven startup with large ambitions, competitive salary and upsides of pre-IPO equity packages</p></li><li><p style=\"min-height:1.5em\">Hopper covers 100% of the premiums for group insurance plan</p></li><li><p style=\"min-height:1.5em\">Hopper offers life, short term and long term disability coverage</p></li><li><p style=\"min-height:1.5em\">HSA that covers eligible medical and dental expenses</p></li><li><p style=\"min-height:1.5em\">All employees and dependents have access to Dialogue’s telemedicine services, anytime, anywhere</p></li><li><p style=\"min-height:1.5em\">All employees have access to an RRSP plan with automatic pre-tax withdrawals per pay</p></li><li><p style=\"min-height:1.5em\">Please ask us about our very generous parental leave, much above industry standards!</p></li><li><p style=\"min-height:1.5em\">Unlimited PTO</p></li><li><p style=\"min-height:1.5em\">Carrot Cash travel stipend</p></li><li><p style=\"min-height:1.5em\">Access to co-working space on demand through FlexDesk AND Work-from-home stipend</p></li><li><p style=\"min-height:1.5em\">Entrepreneurial culture where pushing limits and taking risks is everyday business</p></li><li><p style=\"min-height:1.5em\">Open communication with management and company leadership</p></li><li><p style=\"min-height:1.5em\">Small, dynamic teams = massive impact</p></li></ul><p style=\"min-height:1.5em\"><strong>About Hopper</strong><br /><br />At Hopper, we're building the leading travel technology platform in the world, and we're doing it by solving real problems for real travelers globally. Our Hopper consumer booking platforms and HTS (Hopper Technology Solutions), our B2B business, work together to give travelers something the industry has never reliably offered: transparency, flexibility, and real savings on every trip. We combine massive amounts of data and AI with proprietary fintech products to make that happen, not just another booking engine, but a fundamentally better way to plan and experience travel for our customers and our partners. We're proof that better-for-the-customer and better-for-the-business can be one in the same</p><p style=\"min-height:1.5em\">And we're continuing to grow fast! The Hopper app has been downloaded over 120 million times, with 70% of our users being Gen Z and Millennials, next-generation travelers. Today, our biggest opportunity is powering travel fintech, commerce, and loyalty for some of the biggest brands in the industry. Our first HTS partnership with Capital One helped launch a dedicated travel portal for a major financial brand's cardholders, and we've since expanded across some of the biggest names in travel and banking, including Air Canada, Uber, Royal Bank of Canada (RBC), and Nubank, powering everything from a single fintech integration to a full end-to-end travel loyalty portal.</p><p style=\"min-height:1.5em\">That's our trajectory: we started as a small, disruptive app within the travel space, and now we're the engine under the hood powering how Travel Tech works.</p><p style=\"min-height:1.5em\">What that looks like in practice:</p><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">Billions of dollars in travel and travel fintech move through Hopper and HTS every year</p></li><li><p style=\"min-height:1.5em\">Our fintech products, including Cancel for Any Reason and Disruption Assistance for Any Reason, post exceptionally strong customer satisfaction because the terms are clear and resolutions are instant, no questions asked</p></li><li><p style=\"min-height:1.5em\">Nearly 30% of app customers add a fintech product to their booking, and those customers are 1.6x more likely to book with us again</p></li><li><p style=\"min-height:1.5em\">HTS now drives more than 90% of the business, proof of how fast B2B has scaled</p></li><li><p style=\"min-height:1.5em\">Through HTS, any travel provider (airlines, hotels, banks, travel agencies) can plug the company’s fintech, commerce and AI solutions into their own channels, whether that's a single integration or a full end-to-end travel portal</p></li></ul><p style=\"min-height:1.5em\">Come take off with us!<br /><br />#LI-Remote</p><p style=\"min-height:1.5em\"><em>At Hopper, we leverage AI-driven tools to assist our team in efficiently reviewing applications. These tools help us assess qualifications fairly and objectively. By submitting your application, you acknowledge the use of these automated screening technologies.</em></p>",
+  "descriptionPlain": "About the Role\n\nAs a Finance & Strategy Manager at Hopper, you will be a finance partner to business leaders across the company, helping them understand performance, evaluate opportunities and make better decisions. You will build the models behind our forecasts, partnerships and strategic plans, lead business reviews, and turn analysis into clear recommendations for senior leadership and the CFO.\n\nThis role is a great fit for someone who has built rigorous models under pressure in investment banking or private equity and now wants to apply those skills in-house, closer to the decisions. We are a lean team that moves fast, and we use SQL and AI tools like Claude to automate the manual work so we can spend our time on analysis and strategy.\n\nWhat would your day-to-day look like\n\n - Build and maintain integrated financial models, scenario and sensitivity analyses, and business cases for new products, partnerships and investments\n\n - Evaluate the economics of new commercial agreements (pricing, revenue share, unit economics, ROI) and help shape deal terms with business leaders\n\n - Support fundraising, M&A and capital allocation decisions, including the models and analysis behind them\n\n - Own the monthly and quarterly forecast for the areas you support, and contribute to the annual budget and long-range plan by building the driver-based models and inputs that connect operational metrics to P&L outcomes\n\n - Lead monthly and quarterly reviews of actuals vs. plan and forecast, explain variances, and flag risks and opportunities to business leaders\n\n - Partner with leadership on high-impact questions such as market sizing, investment prioritization and cost optimization\n\n - Prepare clear, executive-, board- and investor-ready materials that tell the story behind the numbers\n\n - Use SQL, BigQuery and AI tools to automate recurring reporting and analysis so the team spends less time handling data and more time on insight\n\nAn ideal candidate has\n\n - 4+ years of experience in investment banking, corporate development, private equity, strategic finance or FP&A. Investment banking or private equity experience (Analyst or Associate) is preferred\n\n - Advanced financial modeling skills: three-statement models, DCF, scenario and sensitivity analysis. Expert in Excel / Google Sheets\n\n - Solid understanding of accounting and how the three financial statements connect\n\n - Excellent communication skills, with the ability to explain financial concepts to non-finance partners and present confidently to senior leaders\n\n - Working knowledge of SQL, or a demonstrated ability to pick up technical tools quickly\n\n - Hands-on use of AI tools (Claude, ChatGPT, Copilot, etc.) to work faster and automate repetitive work\n\n - Strong ownership, comfort with ambiguity and a builder mindset. Hopper moves fast\n\n - A degree in Finance, Economics, Business, Math, Engineering or another quantitative discipline\n\nNice to have\n\n - Experience in tech, fintech, travel, marketplaces or B2B partnerships\n\n - Experience with Python and/or BI tools (Looker, Tableau, etc.)\n\n - CFA, CPA or MBA\n\nPerks and benefits of working with us\n\n - Well-funded and proven startup with large ambitions, competitive salary and upsides of pre-IPO equity packages\n\n - Hopper covers 100% of the premiums for group insurance plan\n\n - Hopper offers life, short term and long term disability coverage\n\n - HSA that covers eligible medical and dental expenses\n\n - All employees and dependents have access to Dialogue’s telemedicine services, anytime, anywhere\n\n - All employees have access to an RRSP plan with automatic pre-tax withdrawals per pay\n\n - Please ask us about our very generous parental leave, much above industry standards!\n\n - Unlimited PTO\n\n - Carrot Cash travel stipend\n\n - Access to co-working space on demand through FlexDesk AND Work-from-home stipend\n\n - Entrepreneurial culture where pushing limits and taking risks is everyday business\n\n - Open communication with management and company leadership\n\n - Small, dynamic teams = massive impact\n\nAbout Hopper\n\nAt Hopper, we're building the leading travel technology platform in the world, and we're doing it by solving real problems for real travelers globally. Our Hopper consumer booking platforms and HTS (Hopper Technology Solutions), our B2B business, work together to give travelers something the industry has never reliably offered: transparency, flexibility, and real savings on every trip. We combine massive amounts of data and AI with proprietary fintech products to make that happen, not just another booking engine, but a fundamentally better way to plan and experience travel for our customers and our partners. We're proof that better-for-the-customer and better-for-the-business can be one in the same\n\nAnd we're continuing to grow fast! The Hopper app has been downloaded over 120 million times, with 70% of our users being Gen Z and Millennials, next-generation travelers. Today, our biggest opportunity is powering travel fintech, commerce, and loyalty for some of the biggest brands in the industry. Our first HTS partnership with Capital One helped launch a dedicated travel portal for a major financial brand's cardholders, and we've since expanded across some of the biggest names in travel and banking, including Air Canada, Uber, Royal Bank of Canada (RBC), and Nubank, powering everything from a single fintech integration to a full end-to-end travel loyalty portal.\n\nThat's our trajectory: we started as a small, disruptive app within the travel space, and now we're the engine under the hood powering how Travel Tech works.\n\nWhat that looks like in practice:\n\n - Billions of dollars in travel and travel fintech move through Hopper and HTS every year\n\n - Our fintech products, including Cancel for Any Reason and Disruption Assistance for Any Reason, post exceptionally strong customer satisfaction because the terms are clear and resolutions are instant, no questions asked\n\n - Nearly 30% of app customers add a fintech product to their booking, and those customers are 1.6x more likely to book with us again\n\n - HTS now drives more than 90% of the business, proof of how fast B2B has scaled\n\n - Through HTS, any travel provider (airlines, hotels, banks, travel agencies) can plug the company’s fintech, commerce and AI solutions into their own channels, whether that's a single integration or a full end-to-end travel portal\n\nCome take off with us!\n\n#LI-Remote\n\nAt Hopper, we leverage AI-driven tools to assist our team in efficiently reviewing applications. These tools help us assess qualifications fairly and objectively. By submitting your application, you acknowledge the use of these automated screening technologies.",
+  "compensation": {
+    "compensationTierSummary": "CA$160K – CA$200K • Offers Equity",
+    "scrapeableCompensationSalarySummary": "CA$160K - CA$200K",
+    "compensationTiers": [
+      {
+        "id": "59d51335-8d24-4091-b037-dd18ff54c213",
+        "tierSummary": "The annual total compensation for this position ranges from $200,000 to $250,000 CAD. Total compensation will include base salary and equity (options), other potential incentives as per the \"perks and benefits\" section. Base salary will be determined by candidates' relevant qualifications, knowledge, skills and work experience. CA$160K – CA$200K • Offers Equity",
+        "title": "Finance & Strategy Manager",
+        "additionalInformation": null,
+        "components": [
+          {
+            "id": "5e0a2cb7-f675-40d6-9324-84df2ede0f85",
+            "summary": "Offers Equity",
+            "compensationType": "EquityPercentage",
+            "interval": "NONE",
+            "currencyCode": null,
+            "minValue": null,
+            "maxValue": null
+          },
+          {
+            "id": "fc29cbb6-76ce-4b20-b909-0dc4c719ff80",
+            "summary": "The annual total compensation for this position ranges from $200,000 to $250,000 CAD. Total compensation will include base salary and equity (options), other potential incentives as per the \"perks and benefits\" section. Base salary will be determined by candidates' relevant qualifications, knowledge, skills and work experience. CA$160K – CA$200K",
+            "compensationType": "Salary",
+            "interval": "1 YEAR",
+            "currencyCode": "CAD",
+            "minValue": 160000,
+            "maxValue": 200000
+          }
+        ]
+      }
+    ],
+    "summaryComponents": [
+      {
+        "compensationType": "EquityPercentage",
+        "interval": "NONE",
+        "currencyCode": null,
+        "minValue": null,
+        "maxValue": null
+      },
+      {
+        "compensationType": "Salary",
+        "interval": "1 YEAR",
+        "currencyCode": "CAD",
+        "minValue": 160000,
+        "maxValue": 200000
+      }
+    ]
+  }
+}

@@ -31,7 +31,7 @@
     }
   ],
   "id": 8638637002,
-  "updated_at": "2026-10-06T06:43:31-04:00",
+  "updated_at": "2026-10-21T12:54:07-04:00",
   "requisition_id": "MKTQ327R28",
   "title": "Event Marketing Manager, 3P & Partner",
   "company_name": "Databricks",
@@ -61,11 +61,13 @@
   ],
   "offices": [
     {
-      "id": 4000514002,
-      "name": "San Francisco, California",
-      "location": "San Francisco, California",
-      "child_ids": [],
-      "parent_id": 4033534002
+      "id": 4006260002,
+      "name": "Florida",
+      "location": "Florida",
+      "child_ids": [
+        4058274002
+      ],
+      "parent_id": 4056357002
     }
   ],
   "ai_disclaimer": null,

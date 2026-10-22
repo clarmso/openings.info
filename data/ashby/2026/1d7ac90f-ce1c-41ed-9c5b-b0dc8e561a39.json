@@ -1,0 +1,135 @@
+{
+  "id": "1d7ac90f-ce1c-41ed-9c5b-b0dc8e561a39",
+  "title": "Demo Engineer ",
+  "department": "Sales",
+  "team": "Solutions Engineering",
+  "employmentType": "FullTime",
+  "location": "Remote - US",
+  "shouldDisplayCompensationOnJobPostings": true,
+  "secondaryLocations": [
+    {
+      "location": "Remote - Canada",
+      "address": {
+        "postalAddress": {
+          "addressRegion": "",
+          "addressCountry": "Canada",
+          "addressLocality": ""
+        }
+      }
+    }
+  ],
+  "publishedAt": "2026-10-21T23:57:42.922+00:00",
+  "isListed": true,
+  "isRemote": true,
+  "workplaceType": "Remote",
+  "address": {
+    "postalAddress": {
+      "addressRegion": "",
+      "addressCountry": "United States",
+      "addressLocality": ""
+    }
+  },
+  "jobUrl": "https://jobs.ashbyhq.com/ashby/1d7ac90f-ce1c-41ed-9c5b-b0dc8e561a39",
+  "applyUrl": "https://jobs.ashbyhq.com/ashby/1d7ac90f-ce1c-41ed-9c5b-b0dc8e561a39/application",
+  "descriptionHtml": "<h1><strong>About this role</strong></h1><p style=\"min-height:1.5em\">As Ashby’s first Demo Engineer, you’ll own the systems that make our demo environments reliable, current, and tailored — the infrastructure the entire go-to-market team leans on to show Ashby at its best. Today, AEs and SEs maintain and configure their own demo accounts by hand. That doesn’t scale: reps lose selling time, demos drift out of date, and every new product release widens the gap between what Ashby can do and what we can actually show live. Your job is to close that gap.</p><p style=\"min-height:1.5em\">This is a net-new role. Right now, the work is split between ad hoc effort and a new set of disposable demo templates the Internal Platform team is building. You’ll own the layer on top of that foundation — customizing and extending those templates, generating realistic demo data, tailoring environments for specific verticals and new markets, and making sure every feature is demoable before it ships. You’ll sit within Solutions Engineering, reporting to the Global Head of Solutions Engineering, and partner closely with Internal Platform and Product teams.</p><p style=\"min-height:1.5em\">Your work will be split roughly 70/30: about 70% owning, customizing, and extending the demo template system and the data and content inside it, and about 30% running demo readiness as a program — release readiness, documentation, and enablement so the GTM team always has current, credible demos to work with.</p><p style=\"min-height:1.5em\">The best person for this job is genuinely hands-on technical — working with internal tools and configuration files, using APIs, and general data preparation — who gets energy from building leverage for a whole team rather than fixing one demo at a time.</p><p style=\"min-height:1.5em\"></p><h1><strong>You could be a great fit if:</strong></h1><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">🛠 You’re comfortable working in JSON, calling REST / developer APIs, using AI tools, and scripting to configure and customize environments.</p></li><li><p style=\"min-height:1.5em\">🏗 You’re a builder, not just an operator. You get energy from creating systems and tooling that make a whole team more effective over time.</p></li><li><p style=\"min-height:1.5em\">🎥 You care deeply about demo quality. You understand what makes a product demo land, and you’re thoughtful about data realism and the narrative a demo needs to support.</p></li><li><p style=\"min-height:1.5em\">🧠 You have strong product intuition and can learn a deeply configurable product quickly, understanding how the different pieces connect.</p></li><li><p style=\"min-height:1.5em\">🔁 You have an iterative mindset. You like testing what works, refining over time, and improving based on what you learn from the field.</p></li><li><p style=\"min-height:1.5em\">🧩 You’re a systems thinker who would rather standardize and automate than manually repeat the same setup.</p></li><li><p style=\"min-height:1.5em\">⚡ You’re comfortable with ambiguity and enjoy a 0→1 role where the infrastructure is still being built around you.</p></li><li><p style=\"min-height:1.5em\">🤝 You partner well cross-functionally — with Engineering and with GTM — and can translate their needs into reliable systems.</p></li><li><p style=\"min-height:1.5em\">💙 You have empathy for the go-to-market teams you support and the Talent Acquisition space they sell into.</p></li></ul><p style=\"min-height:1.5em\"></p><h1><strong>Bonus points for:</strong></h1><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">📊 You’ve built demo environments, demo data, or sandbox/trial environments at a SaaS company before.</p></li><li><p style=\"min-height:1.5em\">🧰 You’ve written automation scripts or tooling to generate data or configure environments at scale.</p></li><li><p style=\"min-height:1.5em\">🎬 You’ve built and maintained a library of reusable, templated environments or assets that others relied on.</p></li><li><p style=\"min-height:1.5em\">🤝 You have experience with HR tech, ATS workflows, or recruiting operations.</p></li></ul><p style=\"min-height:1.5em\"></p><h1><strong>Examples of things you’ll work on:</strong></h1><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\"><strong>🧱 Own the scaled demo system</strong> — customize and extend the demo environment infrastructure to support the GTM team.</p></li><li><p style=\"min-height:1.5em\"><strong>🗂 Generate realistic demo data</strong> — standardize and automate how demo environments are populated to eliminate manual setup.</p></li><li><p style=\"min-height:1.5em\"><strong>🎯 Build vertical- and market-specific demos</strong> — create tailored content for target verticals and additional languages as we move upmarket and expand internationally.</p></li><li><p style=\"min-height:1.5em\"><strong>🚦 Own demo readiness for new releases</strong> — make sure every feature is correctly configured and demoable in demo environments before it ships to GA.</p></li><li><p style=\"min-height:1.5em\"><strong>🧪 Stand up trial and sandbox environments</strong> — create templated environments prospects can use to test Ashby during the sales cycle.</p></li><li><p style=\"min-height:1.5em\"><strong>📚 Document how it all works</strong> — maintain clear documentation so the GTM team knows when and how to use each demo environment.</p></li></ul><p style=\"min-height:1.5em\"></p><h1><strong>Why become a Demo Engineer at Ashby?</strong></h1><p style=\"min-height:1.5em\"><strong>You’ll define a role that doesn’t exist yet. </strong>This is a net-new role designed around a real business need. You won’t inherit a mature playbook — you’ll build the infrastructure that lets the whole GTM team demo at a higher level.</p><p style=\"min-height:1.5em\"><strong>Your work will compound. </strong>A great live demo helps one deal. A reliable, current, well-documented demo system improves every demo the entire go-to-market team runs. If you like creating leverage, this role has a lot of it.</p><p style=\"min-height:1.5em\"><strong>The product gives you something real to work with. </strong>Ashby has strong product-market fit, and that matters here. You’re not manufacturing excitement around a weak product — you’re making it effortless to show something that already resonates when it’s shown well.</p><p style=\"min-height:1.5em\"><strong>You’ll sit at the intersection of Engineering and GTM. </strong>This is a rare blend of technical building and understanding what the field actually needs. You’ll help translate our product releases into live deals — and connect the two.</p><p style=\"min-height:1.5em\"><strong>The surface area keeps growing. </strong>As we ship new features and expand into new product areas, new verticals, and new geographies, demo needs compound with each release. There is a lot to build, and it only gets more interesting.</p><p style=\"min-height:1.5em\"></p><h1><strong>Reasons you shouldn’t apply:</strong></h1><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">If you want to be customer-facing or closing deals, this isn’t the right role — the impact here happens behind the scenes.</p></li><li><p style=\"min-height:1.5em\">If you’re not genuinely hands-on technical — comfortable in JSON, APIs, and data — the core of this job will be frustrating.</p></li><li><p style=\"min-height:1.5em\">If you need a fully built environment and a finished playbook, the ambiguity of a 0→1 role with infrastructure still being built will feel uncomfortable.</p></li><li><p style=\"min-height:1.5em\">If continuously maintaining and updating environments as the product changes sounds tedious rather than satisfying, this won’t be a fit.</p></li><li><p style=\"min-height:1.5em\">If you’d rather build production product features than internal tooling and demo systems, you’ll likely want a different engineering role.</p></li></ul><p style=\"min-height:1.5em\"></p><h1><strong>Interview Process</strong></h1><p style=\"min-height:1.5em\">Our interview process is thorough — we want to make sure this role is the right fit for you and that you’re the right fit for Ashby. Details on the process for this role will be shared by your recruiter.</p><p style=\"min-height:1.5em\"></p><h1><strong>Benefits</strong></h1><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">You’ll get the time to do things the right way; we put a lot of emphasis on high quality work and avoid quick hacks as much as possible.</p></li><li><p style=\"min-height:1.5em\">Sell a product that our customers are truly excited about.</p></li><li><p style=\"min-height:1.5em\">Generous equipment, software, and office furniture budget. Get what you need to be happy and productive!</p></li><li><p style=\"min-height:1.5em\">10-year exercise window for stock options. You shouldn’t feel pressure to purchase stock options if you leave Ashby — do it when you feel financially comfortable.</p></li><li><p style=\"min-height:1.5em\">$100/month education budget with more expensive items (like conferences) covered with manager approval.</p></li></ul><p style=\"min-height:1.5em\"></p><h1><strong>About Ashby</strong></h1><p style=\"min-height:1.5em\">We’re building the next generation of recruiting software and we’re starting with a suite of products that helps talent leaders, recruiters, and hiring managers run an efficient and data-driven hiring process.</p><p style=\"min-height:1.5em\">We are well funded and backed by great investors, including Y Combinator, Elad Gil and Lachy Groom. We have thousands of amazing customers including Snowflake, OpenAI, Shopify, Ramp, Notion, and Zapier (and many others who we cannot name!).</p><p style=\"min-height:1.5em\">We're in the talent acquisition software business. We run the end-to-end hiring process through our own platform, and ensure a level playing field for all candidates. Reaching out to hiring managers or recruiters directly won't improve your odds of success. Please focus your energy on the quality of your application.</p><p style=\"min-height:1.5em\"><em>Ashby provides equal employment opportunities (EEO) to all employees and applicants for employment without regard to race, color, religion, sex, national origin, age, disability, genetics, sexual orientation, gender identity, or gender expression. We are committed to a diverse and inclusive workforce and welcome people from all backgrounds, experiences, perspectives, and abilities.</em></p><p style=\"min-height:1.5em\"><em>Ashby is committed to a fair and transparent hiring process. We confirm that this advertisement is for an active, existing vacancy within our organization. Please be advised that we may use artificial intelligence-driven tools to assist our recruitment team in screening, assessing, and selecting candidates for this position.</em></p>",
+  "descriptionPlain": "ABOUT THIS ROLE\n\nAs Ashby’s first Demo Engineer, you’ll own the systems that make our demo environments reliable, current, and tailored — the infrastructure the entire go-to-market team leans on to show Ashby at its best. Today, AEs and SEs maintain and configure their own demo accounts by hand. That doesn’t scale: reps lose selling time, demos drift out of date, and every new product release widens the gap between what Ashby can do and what we can actually show live. Your job is to close that gap.\n\nThis is a net-new role. Right now, the work is split between ad hoc effort and a new set of disposable demo templates the Internal Platform team is building. You’ll own the layer on top of that foundation — customizing and extending those templates, generating realistic demo data, tailoring environments for specific verticals and new markets, and making sure every feature is demoable before it ships. You’ll sit within Solutions Engineering, reporting to the Global Head of Solutions Engineering, and partner closely with Internal Platform and Product teams.\n\nYour work will be split roughly 70/30: about 70% owning, customizing, and extending the demo template system and the data and content inside it, and about 30% running demo readiness as a program — release readiness, documentation, and enablement so the GTM team always has current, credible demos to work with.\n\nThe best person for this job is genuinely hands-on technical — working with internal tools and configuration files, using APIs, and general data preparation — who gets energy from building leverage for a whole team rather than fixing one demo at a time.\n\n\n\n\nYOU COULD BE A GREAT FIT IF:\n\n - 🛠 You’re comfortable working in JSON, calling REST / developer APIs, using AI tools, and scripting to configure and customize environments.\n\n - 🏗 You’re a builder, not just an operator. You get energy from creating systems and tooling that make a whole team more effective over time.\n\n - 🎥 You care deeply about demo quality. You understand what makes a product demo land, and you’re thoughtful about data realism and the narrative a demo needs to support.\n\n - 🧠 You have strong product intuition and can learn a deeply configurable product quickly, understanding how the different pieces connect.\n\n - 🔁 You have an iterative mindset. You like testing what works, refining over time, and improving based on what you learn from the field.\n\n - 🧩 You’re a systems thinker who would rather standardize and automate than manually repeat the same setup.\n\n - ⚡ You’re comfortable with ambiguity and enjoy a 0→1 role where the infrastructure is still being built around you.\n\n - 🤝 You partner well cross-functionally — with Engineering and with GTM — and can translate their needs into reliable systems.\n\n - 💙 You have empathy for the go-to-market teams you support and the Talent Acquisition space they sell into.\n\n\n\n\nBONUS POINTS FOR:\n\n - 📊 You’ve built demo environments, demo data, or sandbox/trial environments at a SaaS company before.\n\n - 🧰 You’ve written automation scripts or tooling to generate data or configure environments at scale.\n\n - 🎬 You’ve built and maintained a library of reusable, templated environments or assets that others relied on.\n\n - 🤝 You have experience with HR tech, ATS workflows, or recruiting operations.\n\n\n\n\nEXAMPLES OF THINGS YOU’LL WORK ON:\n\n - 🧱 Own the scaled demo system — customize and extend the demo environment infrastructure to support the GTM team.\n\n - 🗂 Generate realistic demo data — standardize and automate how demo environments are populated to eliminate manual setup.\n\n - 🎯 Build vertical- and market-specific demos — create tailored content for target verticals and additional languages as we move upmarket and expand internationally.\n\n - 🚦 Own demo readiness for new releases — make sure every feature is correctly configured and demoable in demo environments before it ships to GA.\n\n - 🧪 Stand up trial and sandbox environments — create templated environments prospects can use to test Ashby during the sales cycle.\n\n - 📚 Document how it all works — maintain clear documentation so the GTM team knows when and how to use each demo environment.\n\n\n\n\nWHY BECOME A DEMO ENGINEER AT ASHBY?\n\nYou’ll define a role that doesn’t exist yet. This is a net-new role designed around a real business need. You won’t inherit a mature playbook — you’ll build the infrastructure that lets the whole GTM team demo at a higher level.\n\nYour work will compound. A great live demo helps one deal. A reliable, current, well-documented demo system improves every demo the entire go-to-market team runs. If you like creating leverage, this role has a lot of it.\n\nThe product gives you something real to work with. Ashby has strong product-market fit, and that matters here. You’re not manufacturing excitement around a weak product — you’re making it effortless to show something that already resonates when it’s shown well.\n\nYou’ll sit at the intersection of Engineering and GTM. This is a rare blend of technical building and understanding what the field actually needs. You’ll help translate our product releases into live deals — and connect the two.\n\nThe surface area keeps growing. As we ship new features and expand into new product areas, new verticals, and new geographies, demo needs compound with each release. There is a lot to build, and it only gets more interesting.\n\n\n\n\nREASONS YOU SHOULDN’T APPLY:\n\n - If you want to be customer-facing or closing deals, this isn’t the right role — the impact here happens behind the scenes.\n\n - If you’re not genuinely hands-on technical — comfortable in JSON, APIs, and data — the core of this job will be frustrating.\n\n - If you need a fully built environment and a finished playbook, the ambiguity of a 0→1 role with infrastructure still being built will feel uncomfortable.\n\n - If continuously maintaining and updating environments as the product changes sounds tedious rather than satisfying, this won’t be a fit.\n\n - If you’d rather build production product features than internal tooling and demo systems, you’ll likely want a different engineering role.\n\n\n\n\nINTERVIEW PROCESS\n\nOur interview process is thorough — we want to make sure this role is the right fit for you and that you’re the right fit for Ashby. Details on the process for this role will be shared by your recruiter.\n\n\n\n\nBENEFITS\n\n - You’ll get the time to do things the right way; we put a lot of emphasis on high quality work and avoid quick hacks as much as possible.\n\n - Sell a product that our customers are truly excited about.\n\n - Generous equipment, software, and office furniture budget. Get what you need to be happy and productive!\n\n - 10-year exercise window for stock options. You shouldn’t feel pressure to purchase stock options if you leave Ashby — do it when you feel financially comfortable.\n\n - $100/month education budget with more expensive items (like conferences) covered with manager approval.\n\n\n\n\nABOUT ASHBY\n\nWe’re building the next generation of recruiting software and we’re starting with a suite of products that helps talent leaders, recruiters, and hiring managers run an efficient and data-driven hiring process.\n\nWe are well funded and backed by great investors, including Y Combinator, Elad Gil and Lachy Groom. We have thousands of amazing customers including Snowflake, OpenAI, Shopify, Ramp, Notion, and Zapier (and many others who we cannot name!).\n\nWe're in the talent acquisition software business. We run the end-to-end hiring process through our own platform, and ensure a level playing field for all candidates. Reaching out to hiring managers or recruiters directly won't improve your odds of success. Please focus your energy on the quality of your application.\n\nAshby provides equal employment opportunities (EEO) to all employees and applicants for employment without regard to race, color, religion, sex, national origin, age, disability, genetics, sexual orientation, gender identity, or gender expression. We are committed to a diverse and inclusive workforce and welcome people from all backgrounds, experiences, perspectives, and abilities.\n\nAshby is committed to a fair and transparent hiring process. We confirm that this advertisement is for an active, existing vacancy within our organization. Please be advised that we may use artificial intelligence-driven tools to assist our recruitment team in screening, assessing, and selecting candidates for this position.",
+  "compensation": {
+    "compensationTierSummary": "$130K – $184K • Offers Equity • Multiple Ranges",
+    "scrapeableCompensationSalarySummary": "$130K - $184K",
+    "compensationTiers": [
+      {
+        "id": "bffb67f8-e677-422b-8599-0851ac1de236",
+        "tierSummary": "Base Salary $149.5K – $184K • Offers Equity",
+        "title": "US Tier 1 - SF NYC Metros",
+        "additionalInformation": null,
+        "components": [
+          {
+            "id": "5b3ebf7a-c90e-420d-b5e7-f6c082635c49",
+            "summary": "Offers Equity",
+            "compensationType": "EquityPercentage",
+            "interval": "NONE",
+            "currencyCode": null,
+            "minValue": null,
+            "maxValue": null
+          },
+          {
+            "id": "f0384b42-e721-448f-b347-8e48f0dbadb0",
+            "summary": "Base Salary $149.5K – $184K",
+            "compensationType": "Salary",
+            "interval": "1 YEAR",
+            "currencyCode": "USD",
+            "minValue": 149500,
+            "maxValue": 184000
+          }
+        ]
+      },
+      {
+        "id": "8655d046-5831-4922-98a8-b64b5f1520c8",
+        "tierSummary": "Base Salary $130K – $160K • Offers Equity",
+        "title": "US Tier 2 ",
+        "additionalInformation": null,
+        "components": [
+          {
+            "id": "e196734d-324a-4d09-970f-e4bf31f9f992",
+            "summary": "Base Salary $130K – $160K",
+            "compensationType": "Salary",
+            "interval": "1 YEAR",
+            "currencyCode": "USD",
+            "minValue": 130000,
+            "maxValue": 160000
+          },
+          {
+            "id": "ca8b9448-3a19-4eb0-ba9d-15e43bd3c7e2",
+            "summary": "Offers Equity",
+            "compensationType": "EquityPercentage",
+            "interval": "NONE",
+            "currencyCode": null,
+            "minValue": null,
+            "maxValue": null
+          }
+        ]
+      },
+      {
+        "id": "9c56503e-ff72-4af3-9ff8-2380a0eaa94a",
+        "tierSummary": "Base Salary $143K – $176K • Offers Equity",
+        "title": "Canada",
+        "additionalInformation": null,
+        "components": [
+          {
+            "id": "fadde11e-538c-4e2b-96c3-a4c953cd61eb",
+            "summary": "Base Salary $143K – $176K",
+            "compensationType": "Salary",
+            "interval": "1 YEAR",
+            "currencyCode": "USD",
+            "minValue": 143000,
+            "maxValue": 176000
+          },
+          {
+            "id": "e6d51280-2347-41a2-a35e-f3369e2d51f3",
+            "summary": "Offers Equity",
+            "compensationType": "EquityPercentage",
+            "interval": "NONE",
+            "currencyCode": null,
+            "minValue": null,
+            "maxValue": null
+          }
+        ]
+      }
+    ],
+    "summaryComponents": [
+      {
+        "compensationType": "EquityPercentage",
+        "minValue": null,
+        "maxValue": null,
+        "interval": "1 YEAR"
+      },
+      {
+        "minValue": 130000,
+        "maxValue": 184000,
+        "currencyCode": "USD",
+        "interval": "1 YEAR",
+        "compensationType": "Salary"
+      }
+    ]
+  }
+}

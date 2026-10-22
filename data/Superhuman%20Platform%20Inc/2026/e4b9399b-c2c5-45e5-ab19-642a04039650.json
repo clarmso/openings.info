@@ -4,7 +4,7 @@
   "department": "Engineering, Product, Design, and Marketing",
   "team": "Core Marketing",
   "employmentType": "FullTime",
-  "location": "Hub - San Francisco",
+  "location": "Remote - United States",
   "shouldDisplayCompensationOnJobPostings": true,
   "secondaryLocations": [
     {
@@ -15,25 +15,15 @@
           "addressCountry": "Canada"
         }
       }
-    },
-    {
-      "location": "Remote - United States",
-      "address": {
-        "postalAddress": {
-          "addressCountry": "United States"
-        }
-      }
     }
   ],
   "publishedAt": "2026-09-16T22:00:00.169+00:00",
   "isListed": true,
   "isRemote": true,
-  "workplaceType": "Hybrid",
+  "workplaceType": "Remote",
   "address": {
     "postalAddress": {
-      "addressRegion": "California",
-      "addressCountry": "United States",
-      "addressLocality": "San Francisco"
+      "addressCountry": "United States"
     }
   },
   "jobUrl": "https://jobs.ashbyhq.com/Superhuman%20Platform%20Inc/e4b9399b-c2c5-45e5-ab19-642a04039650",

@@ -41,7 +41,7 @@
     }
   ],
   "id": 8243004002,
-  "updated_at": "2026-10-07T11:51:03-04:00",
+  "updated_at": "2026-10-21T13:46:38-04:00",
   "requisition_id": "JR106864",
   "title": "Senior Software Engineer",
   "company_name": "ZoomInfo Technologies LLC",
@@ -59,8 +59,8 @@
   ],
   "offices": [
     {
-      "id": 4085444002,
-      "name": "Remote-US-CA",
+      "id": 4087439002,
+      "name": "Remote-US-TX",
       "location": null,
       "child_ids": [],
       "parent_id": null

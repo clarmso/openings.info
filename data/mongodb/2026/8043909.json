@@ -43,7 +43,7 @@
       "id": 4137836,
       "name": "Working Model Eligibility",
       "value": [
-        "2-Flexible"
+        "1-In Office"
       ],
       "value_type": "multi_select"
     },
@@ -117,7 +117,7 @@
     }
   ],
   "id": 8043909,
-  "updated_at": "2026-10-16T17:59:16-04:00",
+  "updated_at": "2026-10-21T12:50:39-04:00",
   "requisition_id": "2273486439",
   "title": "Technical Services Engineer",
   "company_name": "MongoDB",

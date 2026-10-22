@@ -57,8 +57,8 @@
       "name": "Zone A Salary Range",
       "value": {
         "unit": "USD",
-        "max_value": "377400.0",
-        "min_value": "251600.0"
+        "max_value": "311900.0",
+        "min_value": "207900.0"
       },
       "value_type": "currency_range"
     },
@@ -67,8 +67,8 @@
       "name": "Zone B Salary Range",
       "value": {
         "unit": "USD",
-        "max_value": "377400.0",
-        "min_value": "251600.0"
+        "max_value": "296300.0",
+        "min_value": "197500.0"
       },
       "value_type": "currency_range"
     },
@@ -77,8 +77,8 @@
       "name": "Zone C Salary Range",
       "value": {
         "unit": "USD",
-        "max_value": "377400.0",
-        "min_value": "251600.0"
+        "max_value": "280700.0",
+        "min_value": "187100.0"
       },
       "value_type": "currency_range"
     },
@@ -87,8 +87,8 @@
       "name": "Zone D Salary Range",
       "value": {
         "unit": "USD",
-        "max_value": "377400.0",
-        "min_value": "251600.0"
+        "max_value": "265100.0",
+        "min_value": "176700.0"
       },
       "value_type": "currency_range"
     },
@@ -97,8 +97,8 @@
       "name": "Canada Zone A Pay Range",
       "value": {
         "unit": "CAD",
-        "max_value": "290200.0",
-        "min_value": "193400.0"
+        "max_value": "239900.0",
+        "min_value": "159900.0"
       },
       "value_type": "currency_range"
     },
@@ -107,8 +107,8 @@
       "name": "Canada Zone B Pay Range",
       "value": {
         "unit": "CAD",
-        "max_value": "290200.0",
-        "min_value": "193400.0"
+        "max_value": "239900.0",
+        "min_value": "159900.0"
       },
       "value_type": "currency_range"
     },
@@ -117,14 +117,14 @@
       "name": "EU Min to Max",
       "value": {
         "unit": "EUR",
-        "max_value": "204600.0",
-        "min_value": "136400.0"
+        "max_value": "153700.0",
+        "min_value": "102500.0"
       },
       "value_type": "currency_range"
     }
   ],
   "id": 5248778008,
-  "updated_at": "2026-10-05T16:18:43-04:00",
+  "updated_at": "2026-10-21T15:48:29-04:00",
   "requisition_id": "R0005229",
   "title": "Principal Designer, Tidal",
   "company_name": "Block",

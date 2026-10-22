@@ -23,7 +23,7 @@
     }
   ],
   "id": 8163857,
-  "updated_at": "2026-10-15T05:50:32-04:00",
+  "updated_at": "2026-10-21T11:15:26-04:00",
   "requisition_id": "00049720",
   "title": "Field Sales Representative - Edinburgh",
   "company_name": "Tripadvisor",
@@ -41,9 +41,9 @@
   ],
   "offices": [
     {
-      "id": 74290,
-      "name": "Open to Remote",
-      "location": null,
+      "id": 429118,
+      "name": "Edinburgh, Scotland, United Kingdom",
+      "location": "Edinburgh, Scotland, United Kingdom",
       "child_ids": [],
       "parent_id": null
     }

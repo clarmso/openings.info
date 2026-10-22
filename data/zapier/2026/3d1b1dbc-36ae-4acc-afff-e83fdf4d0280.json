@@ -29,6 +29,15 @@
         "additionalInformation": null,
         "components": [
           {
+            "id": "87920772-db7b-4995-acd9-75089b86072d",
+            "summary": "UK £82.2K – £123.2K",
+            "compensationType": "Salary",
+            "interval": "1 YEAR",
+            "currencyCode": "GBP",
+            "minValue": 82200,
+            "maxValue": 123200
+          },
+          {
             "id": "d5168a45-492a-428a-b1bb-4f01e1fa9f70",
             "summary": "Offers Bonus",
             "compensationType": "Bonus",
@@ -45,15 +54,6 @@
             "currencyCode": null,
             "minValue": null,
             "maxValue": null
-          },
-          {
-            "id": "87920772-db7b-4995-acd9-75089b86072d",
-            "summary": "UK £82.2K – £123.2K",
-            "compensationType": "Salary",
-            "interval": "1 YEAR",
-            "currencyCode": "GBP",
-            "minValue": 82200,
-            "maxValue": 123200
           }
         ]
       },
@@ -108,20 +108,20 @@
             "maxValue": 215900
           },
           {
-            "id": "e692ff99-8387-4909-a740-cb28288233ce",
-            "summary": "Offers Bonus",
-            "compensationType": "Bonus",
-            "interval": "1 YEAR",
-            "currencyCode": "USD",
-            "minValue": null,
-            "maxValue": null
-          },
-          {
             "id": "48344c65-b2c2-44e2-8c69-5465626ff892",
             "summary": "Offers Equity",
             "compensationType": "EquityPercentage",
             "interval": "NONE",
             "currencyCode": null,
+            "minValue": null,
+            "maxValue": null
+          },
+          {
+            "id": "e692ff99-8387-4909-a740-cb28288233ce",
+            "summary": "Offers Bonus",
+            "compensationType": "Bonus",
+            "interval": "1 YEAR",
+            "currencyCode": "USD",
             "minValue": null,
             "maxValue": null
           }
@@ -133,6 +133,15 @@
         "title": "Canada",
         "additionalInformation": null,
         "components": [
+          {
+            "id": "50f381e9-f3ef-4edb-9ed2-69168708725b",
+            "summary": "Offers Bonus",
+            "compensationType": "Bonus",
+            "interval": "1 YEAR",
+            "currencyCode": "CAD",
+            "minValue": null,
+            "maxValue": null
+          },
           {
             "id": "44d70ade-2a98-49a1-8ea5-653efea62643",
             "summary": "CA CA$143.9K – CA$215.9K",
@@ -150,20 +159,18 @@
             "currencyCode": null,
             "minValue": null,
             "maxValue": null
-          },
-          {
-            "id": "50f381e9-f3ef-4edb-9ed2-69168708725b",
-            "summary": "Offers Bonus",
-            "compensationType": "Bonus",
-            "interval": "1 YEAR",
-            "currencyCode": "CAD",
-            "minValue": null,
-            "maxValue": null
           }
         ]
       }
     ],
     "summaryComponents": [
+      {
+        "compensationType": "Salary",
+        "interval": "1 YEAR",
+        "currencyCode": "GBP",
+        "minValue": 82200,
+        "maxValue": 123200
+      },
       {
         "compensationType": "Bonus",
         "minValue": null,
@@ -175,13 +182,6 @@
         "minValue": null,
         "maxValue": null,
         "interval": "1 YEAR"
-      },
-      {
-        "compensationType": "Salary",
-        "interval": "1 YEAR",
-        "currencyCode": "GBP",
-        "minValue": 82200,
-        "maxValue": 123200
       }
     ]
   }

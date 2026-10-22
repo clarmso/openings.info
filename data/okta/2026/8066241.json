@@ -12,7 +12,7 @@
   ],
   "internal_job_id": 3495184,
   "location": {
-    "name": "Toronto, Ontario, Canada"
+    "name": "Bellevue, Washington; Chicago, Illinois; New York, New York; Toronto, Ontario, Canada; Washington, DC"
   },
   "metadata": [
     {
@@ -65,7 +65,7 @@
     }
   ],
   "id": 8066241,
-  "updated_at": "2026-09-30T18:00:51-04:00",
+  "updated_at": "2026-10-21T18:24:10-04:00",
   "requisition_id": "P19345_3495184",
   "title": "Senior Product Manager - Okta Device Access",
   "company_name": "Okta",
@@ -83,11 +83,11 @@
   ],
   "offices": [
     {
-      "id": 19614,
-      "name": "Toronto",
-      "location": "Toronto, ON, Canada",
+      "id": 19613,
+      "name": "Bellevue",
+      "location": "Bellevue, WA, United States",
       "child_ids": [],
-      "parent_id": 67251
+      "parent_id": 67252
     }
   ],
   "ai_disclaimer": null,

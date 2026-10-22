@@ -19,7 +19,7 @@
     {
       "id": 4185033008,
       "name": "Career Site Function",
-      "value": "Sales & Account Management",
+      "value": "Sales",
       "value_type": "single_select"
     },
     {
@@ -124,7 +124,7 @@
     }
   ],
   "id": 5121335008,
-  "updated_at": "2026-09-29T14:08:19-04:00",
+  "updated_at": "2026-10-21T16:48:03-04:00",
   "requisition_id": "R0005560",
   "title": "Commerce Account Executive ",
   "company_name": "Block",

@@ -18,7 +18,7 @@
     {
       "id": 9740521002,
       "name": "Company Assignment",
-      "value": "Databricks B.V.",
+      "value": "Databricks SARL",
       "value_type": "single_select"
     },
     {
@@ -31,7 +31,7 @@
     }
   ],
   "id": 8813464002,
-  "updated_at": "2026-10-06T07:06:03-04:00",
+  "updated_at": "2026-10-21T12:10:52-04:00",
   "requisition_id": "CSQ427R333",
   "title": "AI Forward Deployed Engineer - Netherlands",
   "company_name": "Databricks",
@@ -49,11 +49,11 @@
   ],
   "offices": [
     {
-      "id": 4056391002,
-      "name": "Remote - Netherlands",
-      "location": "Remote - Netherlands",
+      "id": 4056387002,
+      "name": "Remote - France",
+      "location": "Remote - France",
       "child_ids": [],
-      "parent_id": 4033859002
+      "parent_id": 4033857002
     }
   ],
   "ai_disclaimer": null,

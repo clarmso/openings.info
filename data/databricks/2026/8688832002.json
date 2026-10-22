@@ -31,7 +31,7 @@
     }
   ],
   "id": 8688832002,
-  "updated_at": "2026-10-06T06:50:41-04:00",
+  "updated_at": "2026-10-21T06:57:13-04:00",
   "requisition_id": "SLSQ427R368",
   "title": "Director, Alliance",
   "company_name": "Databricks",
@@ -49,12 +49,10 @@
   ],
   "offices": [
     {
-      "id": 4045929002,
-      "name": "North Rhine-Westphalia, Germany",
-      "location": "North Rhine-Westphalia, Germany",
-      "child_ids": [
-        4030068002
-      ],
+      "id": 4045928002,
+      "name": "Hesse, Germany",
+      "location": "Hesse, Germany",
+      "child_ids": [],
       "parent_id": 4033553002
     }
   ],

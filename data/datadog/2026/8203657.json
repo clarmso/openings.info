@@ -59,7 +59,7 @@
     {
       "id": 31273219,
       "name": "Does this role require access to ITAR-controlled data?",
-      "value": null,
+      "value": "Pipeline - Some roles may require an ITAR licence",
       "value_type": "single_select"
     },
     {
@@ -70,7 +70,7 @@
     }
   ],
   "id": 8203657,
-  "updated_at": "2026-09-29T13:18:57-04:00",
+  "updated_at": "2026-10-21T09:15:44-04:00",
   "requisition_id": "R21316",
   "title": "Research Science Intern (PhD)",
   "company_name": "Datadog",

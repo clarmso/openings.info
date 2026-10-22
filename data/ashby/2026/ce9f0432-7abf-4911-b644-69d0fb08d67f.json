@@ -40,7 +40,7 @@
       {
         "id": "3256f4f9-ee1c-47f4-9087-d01753232f12",
         "tierSummary": "US - OTE $90K – $112K • Offers Equity • Offers Commission",
-        "title": "US",
+        "title": "US Avg",
         "additionalInformation": null,
         "components": [
           {
@@ -74,8 +74,8 @@
       },
       {
         "id": "56fe3225-76a5-4ddf-a964-06ff39ae3b4d",
-        "tierSummary": "SF & NYC - OTE $103K – $129K • Offers Equity • Offers Commission",
-        "title": "US",
+        "tierSummary": "US - OTE $103K – $129K • Offers Equity • Offers Commission",
+        "title": "SF & NYC",
         "additionalInformation": null,
         "components": [
           {
@@ -98,7 +98,7 @@
           },
           {
             "id": "c9e0433b-5197-4064-a83c-32b5c75edb17",
-            "summary": "SF & NYC - OTE $103K – $129K",
+            "summary": "US - OTE $103K – $129K",
             "compensationType": "Salary",
             "interval": "1 YEAR",
             "currencyCode": "USD",

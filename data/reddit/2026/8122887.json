@@ -42,19 +42,19 @@
     {
       "id": 944673,
       "name": "Job Profile",
-      "value": "UX Design 7",
+      "value": "Specialized UX Design 6",
       "value_type": "single_select"
     },
     {
       "id": 956351,
       "name": "Management Level",
-      "value": "IC7",
+      "value": "IC6",
       "value_type": "single_select"
     },
     {
       "id": 944675,
       "name": "Job Family",
-      "value": "UX Design",
+      "value": "Specialized UX Design",
       "value_type": "single_select"
     },
     {
@@ -101,7 +101,7 @@
     }
   ],
   "id": 8122887,
-  "updated_at": "2026-10-15T11:40:02-04:00",
+  "updated_at": "2026-10-21T15:09:51-04:00",
   "requisition_id": "R-105782",
   "title": "Principal UX Engineer, Ads",
   "company_name": "Reddit",

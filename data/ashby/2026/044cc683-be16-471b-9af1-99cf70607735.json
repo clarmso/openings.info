@@ -70,15 +70,6 @@
         "additionalInformation": null,
         "components": [
           {
-            "id": "54a304a7-f50e-46f3-ab66-894aad1f6e49",
-            "summary": "US Average $100,000 – $153,750",
-            "compensationType": "Salary",
-            "interval": "1 YEAR",
-            "currencyCode": "USD",
-            "minValue": 100000,
-            "maxValue": 153750
-          },
-          {
             "id": "f9c85e47-8bff-4686-a214-11e15ce6efbc",
             "summary": "Offers Equity",
             "compensationType": "EquityPercentage",
@@ -86,6 +77,15 @@
             "currencyCode": null,
             "minValue": null,
             "maxValue": null
+          },
+          {
+            "id": "54a304a7-f50e-46f3-ab66-894aad1f6e49",
+            "summary": "US Average $100,000 – $153,750",
+            "compensationType": "Salary",
+            "interval": "1 YEAR",
+            "currencyCode": "USD",
+            "minValue": 100000,
+            "maxValue": 153750
           }
         ]
       },

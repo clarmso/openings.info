@@ -75,6 +75,15 @@
         "additionalInformation": null,
         "components": [
           {
+            "id": "faf72777-650e-4448-a7de-0e26bf376a9f",
+            "summary": "Offers Equity",
+            "compensationType": "EquityPercentage",
+            "interval": "NONE",
+            "currencyCode": null,
+            "minValue": null,
+            "maxValue": null
+          },
+          {
             "id": "02d2949d-54bb-4b2e-b7a0-07a8234c5fcb",
             "summary": "Offers Bonus",
             "compensationType": "Bonus",
@@ -91,15 +100,6 @@
             "currencyCode": "CAD",
             "minValue": 174200,
             "maxValue": 261200
-          },
-          {
-            "id": "faf72777-650e-4448-a7de-0e26bf376a9f",
-            "summary": "Offers Equity",
-            "compensationType": "EquityPercentage",
-            "interval": "NONE",
-            "currencyCode": null,
-            "minValue": null,
-            "maxValue": null
           }
         ]
       },
@@ -110,20 +110,20 @@
         "additionalInformation": null,
         "components": [
           {
-            "id": "65ae3d68-f0ae-4509-9b5d-0fd59aa31c44",
-            "summary": "Offers Equity",
-            "compensationType": "EquityPercentage",
-            "interval": "NONE",
-            "currencyCode": null,
-            "minValue": null,
-            "maxValue": null
-          },
-          {
             "id": "f049957a-4cb7-4b6e-95ea-e17ac7d9080d",
             "summary": "Offers Bonus",
             "compensationType": "Bonus",
             "interval": "1 YEAR",
             "currencyCode": "GBP",
+            "minValue": null,
+            "maxValue": null
+          },
+          {
+            "id": "65ae3d68-f0ae-4509-9b5d-0fd59aa31c44",
+            "summary": "Offers Equity",
+            "compensationType": "EquityPercentage",
+            "interval": "NONE",
+            "currencyCode": null,
             "minValue": null,
             "maxValue": null
           },

@@ -1,0 +1,108 @@
+{
+  "absolute_url": "https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6224549004",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": true,
+      "requires_processing_consent": false,
+      "requires_retention_consent": true,
+      "retention_period": 1460,
+      "demographic_data_consent_applies": true
+    }
+  ],
+  "internal_job_id": 5228912004,
+  "location": {
+    "name": "United States, Remote"
+  },
+  "metadata": [
+    {
+      "id": 4367803004,
+      "name": "Cost Center",
+      "value": "GAMES4US70-USL3950188 GSO Mgmt",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4167524004,
+      "name": "Career Page - Office Location",
+      "value": "United States, Remote",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4167525004,
+      "name": "Career Page - Department",
+      "value": "Software Engineering & Services",
+      "value_type": "single_select"
+    },
+    {
+      "id": 9377282004,
+      "name": "Career Page - Sub Department",
+      "value": null,
+      "value_type": "single_select"
+    },
+    {
+      "id": 20089613004,
+      "name": "Career Page - Studio Project",
+      "value": null,
+      "value_type": "single_select"
+    },
+    {
+      "id": 4395289004,
+      "name": "Worker Type",
+      "value": "Employee",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4404049004,
+      "name": "Country",
+      "value": "United States of America",
+      "value_type": "single_select"
+    },
+    {
+      "id": 9262269004,
+      "name": "Job Family",
+      "value": "Engineering Programs",
+      "value_type": "short_text"
+    },
+    {
+      "id": 9262270004,
+      "name": "Job Family Group",
+      "value": "Engineering",
+      "value_type": "short_text"
+    },
+    {
+      "id": 21724118004,
+      "name": "Bungie Geo Pay",
+      "value": null,
+      "value_type": "single_select"
+    }
+  ],
+  "id": 6224549004,
+  "updated_at": "2026-10-21T14:54:15-04:00",
+  "requisition_id": "R-125621",
+  "title": "Principal TPM - GSO Studio Enablement",
+  "company_name": "PlayStation Global",
+  "first_published": "2026-10-21T13:18:36-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;Why Sony Interactive Entertainment?&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Sony Interactive Entertainment isn’t just the Best Place to Play — it’s also the Best Place to Work. Sony Interactive Entertainment (SIE) is the company behind the PlayStation brand. As a subsidiary of Sony Group Corporation, we’re part of a proud legacy of innovation and excellence. SIE is a dynamic technology company, delivering cutting-edge hardware and network services to more than 100 million people and an entertainment leader, home to some of the most beloved and recognizable intellectual properties (IP) in the world. Our role at SIE is to create and nurture the experiences under the PlayStation brand, a name synonymous with entertainment excellence and creativity.&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;Principal TPM - GSO Studio Enablement&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;United States, Remote&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Role Overview&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Reporting to the Vice President of GSO and Studio Enablement, the Principal Technical Program Manager (TPM) will serve as a key driver of strategy, execution, and organizational alignment across one of Sony Interactive Entertainment’s most critical technology domains. This role is an individual contributor with significant influence, operating at the intersection of engineering, product, and business stakeholders.&lt;br&gt;&lt;br&gt;The Principal TPM will shape and advance initiatives across Global Service Operations and Studio IT, ensuring both organizations’ missions. The role requires not only deep technical program management expertise but also organizational design insight, executive-level communication, and the ability to foster alignment across leadership teams, operating companies, and external partners.&lt;br&gt;&lt;br&gt;This is a high-impact role for a seasoned technical program leader who thrives in complexity, navigates ambiguity, and builds trust at all levels of the organization.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Key Responsibilities&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Strategic Program Leadership&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Translate GSO and Studio Enablement’s long-term strategy into clear execution roadmaps, working across engineering, product, and operations teams to drive delivery of mission-critical initiatives.&lt;/li&gt;\n&lt;li&gt;Anticipate and surface cross-organizational dependencies, risks, and trade-offs, guiding leadership decision-making with data, insight, and scenario planning.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;Cross-Organizational Influence &amp;amp; Stakeholder Engagement&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Partner closely with leaders across SIE engineering, product management, design, and operations to align priorities and unlock execution velocity.&lt;/li&gt;\n&lt;li&gt;Represent GSO and Studio Enablement in enterprise forums, ensuring that operations and studio IT capabilities are positioned effectively across Sony’s ecosystem.&lt;/li&gt;\n&lt;li&gt;Build trusted relationships with external stakeholders (partners, vendors, strategic alliances) to accelerate adoption of Studio IT capabilities and extend GSO value.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;Execution Excellence &amp;amp; Governance&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Drive program governance for our highest-priority initiatives, ensuring effective rhythm-of-business, transparent reporting, and predictable execution.&lt;/li&gt;\n&lt;li&gt;Define success metrics and KPIs for our programs, producing data-driven insights that inform leadership decisions and drive accountability.&lt;/li&gt;\n&lt;li&gt;Establish operating frameworks that simplify decision-making and improve organizational agility across multiple stakeholders.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;Organizational Design &amp;amp; Enablement&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Serve as a thought partner to team leadership, helping design and refine organizational structures, roles, and processes that enable sustainable growth.&lt;/li&gt;\n&lt;li&gt;Curate leadership offsites, reviews, and cross-functional planning forums that sharpen objectives and unify execution.&lt;/li&gt;\n&lt;li&gt;Champion modern engineering and program management practices (Agile, SAFe, Lean Portfolio Management) that enhance collaboration, delivery predictability, and organizational health.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;Executive Communication &amp;amp; Storytelling&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Craft clear, compelling communications (strategy narratives, board/executive briefings, external partner messaging) that connect our technical vision to business outcomes.&lt;/li&gt;\n&lt;li&gt;Elevate GSO and Studio Enablement’s voice across Sony and the industry by supporting leadership with thought leadership, positioning, and strategic storytelling.&lt;/li&gt;\n&lt;li&gt;Ensure visibility and alignment by producing high-quality reports, presentations, and narratives for executives across Sony’s operating companies.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;Qualifications&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Experience &amp;amp; Expertise&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;10+ years of experience in technical program management, portfolio management, or related roles in large-scale software environments.&lt;/li&gt;\n&lt;li&gt;Proven track record of leading high-impact programs across global, matrixed organizations and aligning technical execution to business strategy.&lt;/li&gt;\n&lt;li&gt;Experience working with shared IT platforms and services across larger organizations, including modernization and standardization efforts.&lt;/li&gt;\n&lt;li&gt;Working knowledge of cloud platforms, networking, distributed systems, and infrastructure operations.&lt;/li&gt;\n&lt;li&gt;Experience using automation, telemetry, and emerging AI capabilities to reduce manual work and improve support outcomes.&lt;/li&gt;\n&lt;li&gt;Experience with CI/CD, engineering tooling, platform services, and improving developer workflows.&lt;/li&gt;\n&lt;li&gt;Experience helping teams move from reactive support toward more proactive, repeatable, and automated operations.&lt;/li&gt;\n&lt;li&gt;Demonstrated ability to influence without direct authority, with a history of driving alignment across senior executives and distributed teams.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;Leadership &amp;amp; Communication&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Exceptional written, verbal, and visual communication skills; adept at tailoring messages for executive and technical audiences alike.&lt;/li&gt;\n&lt;li&gt;Experience guiding executive stakeholders through organizational change, re-org planning, and enterprise-scale transformation.&lt;/li&gt;\n&lt;li&gt;Ability to act as a trusted partner to senior leaders, balancing strategic insight with operational rigor.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;Preferred&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Experience supporting production systems, incident response, reliability, monitoring, and operational improvement.&lt;/li&gt;\n&lt;li&gt;Experience supporting studio technology, developer environments, build workflows, source control, and day-to-day production needs.&lt;/li&gt;\n&lt;li&gt;MBA or advanced degree preferred, but not required.&lt;/li&gt;\n&lt;li&gt;Certifications in Agile, SAFe, or PMP are a plus.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;Success Profile&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;The ideal candidate will:&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Operate as a strategic integrator—connecting vision to execution across multiple organizations.&lt;/li&gt;\n&lt;li&gt;Be a catalyst for alignment—building clarity and trust across executive teams and external partners.&lt;/li&gt;\n&lt;li&gt;Demonstrate chief-of-staff-like influence—shaping organizational design, communication, and leadership effectiveness while remaining grounded in technical program management excellence.&lt;/li&gt;\n&lt;li&gt;Thrive in a global, fast-paced, and ambiguous environment, always bringing a collaborative, outcome-driven mindset.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;#LI-KS1&lt;/p&gt;&lt;div class=&quot;content-pay-transparency&quot;&gt;&lt;div class=&quot;pay-input&quot;&gt;&lt;div class=&quot;description&quot;&gt;&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;At SIE, we consider several factors when setting each role’s base pay range, including the competitive benchmarking data for the market and geographic location.&amp;nbsp;&lt;br&gt;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Please note that the base pay range may vary in line with our hybrid working policy and individual base pay will be determined based on job-related factors which may include knowledge, skills, experience, and location.&amp;nbsp;&lt;br&gt;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;In addition, this role is eligible for SIE’s top-tier benefits package that includes medical, dental, vision, matching 401(k), paid time off, wellness program and coveted employee discounts for Sony products. This role also may be eligible for a bonus package. Click &lt;/span&gt;&lt;a href=&quot;https://careers.playstation.com/benefits&quot; target=&quot;_blank&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;strong&gt;here&lt;/strong&gt;&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt; to learn more.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;title&quot;&gt;This is a flexible role that can be remote, with varying pay ranges based on geographic location. For example, if you are based out of Seattle, the estimated base pay range for this role is listed below.&lt;/div&gt;&lt;div class=&quot;pay-range&quot;&gt;&lt;span&gt;$236,300&lt;/span&gt;&lt;span class=&quot;divider&quot;&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;$354,500 USD&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p class=&quot;p1&quot;&gt;Please note, Sony Interactive Entertainment conducts background checks at the offer stage for all new employees (which may include criminal background checks for some roles) and will need to process personal information to support these checks.&lt;/p&gt;\n&lt;p class=&quot;p1&quot;&gt;Please refer to our&amp;nbsp;&lt;a href=&quot;https://www.playstation.com/legal/careers-privacy-notice/&quot; target=&quot;_blank&quot;&gt;Candidate Privacy Notice&lt;/a&gt;&amp;nbsp;for more information about what personal information we collect, how we use it, who we share it with, and your data protection rights.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Equal Opportunity Statement:&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&lt;em&gt;Sony is an Equal Opportunity Employer. All persons will receive consideration for employment without regard to gender (including gender identity, gender expression and gender reassignment), race (including colour, nationality, ethnic or national origin), religion or belief, marital or civil partnership status, disability, age, sexual orientation, pregnancy, maternity or parental status, trade union membership or membership in any other legally protected category.&lt;/em&gt;&lt;/p&gt;\n&lt;p&gt;&lt;em&gt;We strive to create an inclusive environment, empower employees and embrace diversity. We encourage everyone to respond.&amp;nbsp;&lt;/em&gt;&lt;/p&gt;\n&lt;p&gt;&lt;em&gt;Sony Interactive Entertainment is a Fair Chance employer and qualified applicants with arrest and conviction records will be considered for employment.&lt;/em&gt;&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;",
+  "departments": [
+    {
+      "id": 4065075004,
+      "name": "Global Services Operations and DTIS Office",
+      "child_ids": [],
+      "parent_id": 4065067004
+    }
+  ],
+  "offices": [
+    {
+      "id": 4023532004,
+      "name": "USA-CA-Telecommute",
+      "location": null,
+      "child_ids": [],
+      "parent_id": 4089335004
+    }
+  ],
+  "ai_disclaimer": "<p><strong>Use of AI in Recruiting&nbsp;</strong></p><p><br></p><p>We use artificial intelligence and other automated tools to assist with certain aspects of our recruiting process, including reviewing applications and supporting candidate evaluation. For example, we use Greenhouse's AI-powered Talent Matching tool to compare information in your application against job-related qualifications and criteria established by our recruiting team. More information about <a href=\"https://www.greenhouse.com/\" target=\"_blank\">Greenhouse</a>, including about its features and its Privacy Policy, may be found at its website. These tools assist our recruiting team and do not make hiring decisions.&nbsp;</p><p><br></p>",
+  "include_ai_disclaimer": true,
+  "ai_opt_out_request_url": "http://app4.greenhouse.io/ai_opt_out_request/job_post/6224549004/ai_opt_out"
+}

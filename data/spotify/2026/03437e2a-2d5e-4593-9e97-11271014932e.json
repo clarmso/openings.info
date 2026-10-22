@@ -3,10 +3,10 @@
   "additionalPlain": "",
   "categories": {
     "department": "Data and Analytics",
-    "location": "Toronto",
+    "location": "London",
     "team": "Platform",
     "allLocations": [
-      "Toronto"
+      "London"
     ]
   },
   "createdAt": 1776160237237,
@@ -24,11 +24,11 @@
     },
     {
       "text": "Where You'll Be",
-      "content": "<div>\n\n<li data-section-id=\"1w9b06u\" data-start=\"3421\" data-end=\"3476\">This role is based in Toronto</li>\n<li data-section-id=\"4du6if\" data-start=\"3477\" data-end=\"3667\">We offer you the flexibility to work where you work best! There will be some in person meetings, but still allows for flexibility to work from home.</li>\n\n</div>"
+      "content": "\n<li>This role is based in London or Stockholm</li>\n<li>We offer you the flexibility to work where you work best! There will be some in person meetings, but still allows for flexibility to work from home.</li>\n"
     }
   ],
   "text": "Product Manager - Data Platform",
-  "country": "CA",
+  "country": "GB",
   "workplaceType": "remote",
   "opening": "",
   "openingPlain": "",

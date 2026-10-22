@@ -59,15 +59,6 @@
         "additionalInformation": null,
         "components": [
           {
-            "id": "05b1f05e-b2e1-454c-81e2-0b27280f757b",
-            "summary": "Offers Equity",
-            "compensationType": "EquityPercentage",
-            "interval": "NONE",
-            "currencyCode": null,
-            "minValue": null,
-            "maxValue": null
-          },
-          {
             "id": "713922f7-cf60-47d4-bd09-4c6bd3d67416",
             "summary": "U.S. Tier 2 $220K – $250K",
             "compensationType": "Salary",
@@ -75,6 +66,15 @@
             "currencyCode": "USD",
             "minValue": 220000,
             "maxValue": 250000
+          },
+          {
+            "id": "05b1f05e-b2e1-454c-81e2-0b27280f757b",
+            "summary": "Offers Equity",
+            "compensationType": "EquityPercentage",
+            "interval": "NONE",
+            "currencyCode": null,
+            "minValue": null,
+            "maxValue": null
           }
         ]
       }

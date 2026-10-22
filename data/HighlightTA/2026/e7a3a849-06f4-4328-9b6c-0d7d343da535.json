@@ -1,0 +1,85 @@
+{
+  "id": "e7a3a849-06f4-4328-9b6c-0d7d343da535",
+  "title": "Product Designer ",
+  "department": "Neon One",
+  "team": "Neon One",
+  "employmentType": "FullTime",
+  "location": "United States",
+  "shouldDisplayCompensationOnJobPostings": true,
+  "secondaryLocations": [
+    {
+      "location": "Canada",
+      "address": {
+        "postalAddress": {
+          "addressRegion": "",
+          "addressCountry": "Canada",
+          "addressLocality": ""
+        }
+      }
+    }
+  ],
+  "publishedAt": "2026-10-21T16:36:37.541+00:00",
+  "isListed": true,
+  "isRemote": true,
+  "workplaceType": "Remote",
+  "address": {
+    "postalAddress": {
+      "addressRegion": "United States",
+      "addressCountry": "United States",
+      "addressLocality": "United States"
+    }
+  },
+  "jobUrl": "https://jobs.ashbyhq.com/HighlightTA/e7a3a849-06f4-4328-9b6c-0d7d343da535",
+  "applyUrl": "https://jobs.ashbyhq.com/HighlightTA/e7a3a849-06f4-4328-9b6c-0d7d343da535/application",
+  "descriptionHtml": "<h2><strong>About Neon One</strong></h2><p style=\"min-height:1.5em\">At Neon One, we believe that technology is the key to building vibrant communities of generosity. As a leader in nonprofit software since 2004, we create intuitive solutions that help small and mid-sized nonprofits connect with people, build trust, and make good happen every day.<br /><br />Our culture is powered by empathy, innovation, and a shared mission to empower organizations making a difference. We operate with a customer-first mindset, take pride in extraordinary results, and grow together by supporting each other and embracing bold new ideas. If you’re passionate about using your skills to drive real impact and want to thrive in a collaborative, fully remote environment, Neon One is the place for you.</p><p style=\"min-height:1.5em\"><br /></p><h2><strong>About the Role </strong></h2><p style=\"min-height:1.5em\">The Product Designer will help design and build user-friendly experiences across Neon One’s products. Working closely with Product Managers and Engineers, you’ll take features from early research and design through prototyping and implementation.<br /><br />This role combines product design with front-end development. You’ll use customer feedback, design systems, and AI-powered tools to create intuitive, accessible, and consistent product experiences.</p><h2><br /><strong>Key Responsibilities</strong></h2><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">Lead the design of features within your area end to end, creating intuitive user flows, interactions, and states.</p></li><li><p style=\"min-height:1.5em\">Conduct user research, participate in customer interviews, and run usability tests to gather feedback and inform design decisions.</p></li><li><p style=\"min-height:1.5em\">Create visual designs and interactive prototypes to test ideas and improve usability.</p></li><li><p style=\"min-height:1.5em\">Build interactive prototypes in code and accessible, production-ready front-end components using HTML, CSS, JavaScript or TypeScript, and React.</p></li><li><p style=\"min-height:1.5em\">Use AI-powered tools to support research, design exploration, prototyping, and front-end development.</p></li><li><p style=\"min-height:1.5em\">Design AI and agentic experiences that build user trust, transparency, and control, following responsible AI and data practices.</p></li><li><p style=\"min-height:1.5em\">Work with Product Managers and Engineers to turn validated designs into production-ready features that balance customer needs, technical feasibility, and business goals.</p></li><li><p style=\"min-height:1.5em\">Use and contribute to Neon One’s design system in both design files and code, including new components, variants, and usage guidance, and keep design and code in sync.</p></li><li><p style=\"min-height:1.5em\">Apply WCAG 2.1 AA standards in every design and component, including keyboard navigation, focus management, and screen reader support.</p></li><li><p style=\"min-height:1.5em\">Review and refine implemented designs to maintain visual consistency, usability, and quality.</p></li><li><p style=\"min-height:1.5em\">Collaborate with cross-functional teams, share design decisions, and incorporate feedback to continuously improve the product.</p></li></ul><p style=\"min-height:1.5em\"></p><div style=\"min-height:1.2em;margin-top:0px;margin-bottom:0px\"> </div><h2><strong>Must Haves</strong></h2><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">3+ years of experience in product design, design engineering, or a hybrid design and front-end development role.</p></li><li><p style=\"min-height:1.5em\">Strong design skills across user flows, interaction design, visual design, and prototyping.</p></li><li><p style=\"min-height:1.5em\">Working proficiency in HTML, CSS, and JavaScript or TypeScript, with experience in modern frameworks such as React or Vue.</p></li><li><p style=\"min-height:1.5em\">Familiarity with version control and code review.</p></li><li><p style=\"min-height:1.5em\">Experience with Figma or similar tools, and experience using and contributing to design systems and component libraries in both design files and code.</p></li><li><p style=\"min-height:1.5em\">Hands-on experience using AI tools, including AI coding tools, to support design and development.</p></li><li><p style=\"min-height:1.5em\">Foundational UX research skills, including usability testing and incorporating feedback into design decisions.</p></li><li><p style=\"min-height:1.5em\">Working knowledge of accessibility standards (WCAG) and assistive technology testing.</p></li><li><p style=\"min-height:1.5em\">A portfolio demonstrating end-to-end process, from research through shipped outcomes, including work built in code.</p></li><li><p style=\"min-height:1.5em\">Strong communication and collaboration skills, with the ability to work effectively with Product Managers and Engineers.<br /></p><p style=\"min-height:1.5em\"></p></li></ul><h2><strong>Nice to Haves</strong></h2><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">Experience in the nonprofit industry.</p></li><li><p style=\"min-height:1.5em\">Experience working in a B2B SaaS environment.</p></li></ul><p style=\"min-height:1.5em\"></p><h2><strong>Why Join Neon One?</strong></h2><p style=\"min-height:1.5em\">At Neon One, our values are how we show up every day. We make good happen by putting empathy and passion at the center of our work, using technology to uplift mission-driven organizations. We stand for our customers, act with care and intention in every decision, own the solution, and grow together. We innovate fearlessly, always exploring new ways to support our community and each other.</p><p style=\"min-height:1.5em\"></p><h2><strong>How We Hire</strong></h2><p style=\"min-height:1.5em\">We use AI tools to support our recruitment process, including helping us organize applications and identify early matches based on role criteria. That said, every rejection decision is made by a human. We encourage candidates to apply authentically and avoid relying solely on AI-generated responses, especially during interviews.<br /><br />This posting is for a current, open position within <strong>Neon One</strong>.<br /><br />This opportunity is offered through HighlightTA, the on-demand talent team supporting Neon One’s growth.<br /></p><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\"><strong>Connect with us and learn more:</strong><br /><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.linkedin.com/company/neonone/\"><u>Neon One on LinkedIn</u></a></p><p style=\"min-height:1.5em\"><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.linkedin.com/company/highlightta/\"><u>HighlightTA on LinkedIn</u></a></p>",
+  "descriptionPlain": "ABOUT NEON ONE\n\nAt Neon One, we believe that technology is the key to building vibrant communities of generosity. As a leader in nonprofit software since 2004, we create intuitive solutions that help small and mid-sized nonprofits connect with people, build trust, and make good happen every day.\n\nOur culture is powered by empathy, innovation, and a shared mission to empower organizations making a difference. We operate with a customer-first mindset, take pride in extraordinary results, and grow together by supporting each other and embracing bold new ideas. If you’re passionate about using your skills to drive real impact and want to thrive in a collaborative, fully remote environment, Neon One is the place for you.\n\n\n\n\n\nABOUT THE ROLE \n\nThe Product Designer will help design and build user-friendly experiences across Neon One’s products. Working closely with Product Managers and Engineers, you’ll take features from early research and design through prototyping and implementation.\n\nThis role combines product design with front-end development. You’ll use customer feedback, design systems, and AI-powered tools to create intuitive, accessible, and consistent product experiences.\n\n\n\nKEY RESPONSIBILITIES\n\n - Lead the design of features within your area end to end, creating intuitive user flows, interactions, and states.\n\n - Conduct user research, participate in customer interviews, and run usability tests to gather feedback and inform design decisions.\n\n - Create visual designs and interactive prototypes to test ideas and improve usability.\n\n - Build interactive prototypes in code and accessible, production-ready front-end components using HTML, CSS, JavaScript or TypeScript, and React.\n\n - Use AI-powered tools to support research, design exploration, prototyping, and front-end development.\n\n - Design AI and agentic experiences that build user trust, transparency, and control, following responsible AI and data practices.\n\n - Work with Product Managers and Engineers to turn validated designs into production-ready features that balance customer needs, technical feasibility, and business goals.\n\n - Use and contribute to Neon One’s design system in both design files and code, including new components, variants, and usage guidance, and keep design and code in sync.\n\n - Apply WCAG 2.1 AA standards in every design and component, including keyboard navigation, focus management, and screen reader support.\n\n - Review and refine implemented designs to maintain visual consistency, usability, and quality.\n\n - Collaborate with cross-functional teams, share design decisions, and incorporate feedback to continuously improve the product.\n\n\n\n \n\n\nMUST HAVES\n\n - 3+ years of experience in product design, design engineering, or a hybrid design and front-end development role.\n\n - Strong design skills across user flows, interaction design, visual design, and prototyping.\n\n - Working proficiency in HTML, CSS, and JavaScript or TypeScript, with experience in modern frameworks such as React or Vue.\n\n - Familiarity with version control and code review.\n\n - Experience with Figma or similar tools, and experience using and contributing to design systems and component libraries in both design files and code.\n\n - Hands-on experience using AI tools, including AI coding tools, to support design and development.\n\n - Foundational UX research skills, including usability testing and incorporating feedback into design decisions.\n\n - Working knowledge of accessibility standards (WCAG) and assistive technology testing.\n\n - A portfolio demonstrating end-to-end process, from research through shipped outcomes, including work built in code.\n\n - Strong communication and collaboration skills, with the ability to work effectively with Product Managers and Engineers.\n   \n   \n   \n\n\nNICE TO HAVES\n\n - Experience in the nonprofit industry.\n\n - Experience working in a B2B SaaS environment.\n\n\n\n\nWHY JOIN NEON ONE?\n\nAt Neon One, our values are how we show up every day. We make good happen by putting empathy and passion at the center of our work, using technology to uplift mission-driven organizations. We stand for our customers, act with care and intention in every decision, own the solution, and grow together. We innovate fearlessly, always exploring new ways to support our community and each other.\n\n\n\n\nHOW WE HIRE\n\nWe use AI tools to support our recruitment process, including helping us organize applications and identify early matches based on role criteria. That said, every rejection decision is made by a human. We encourage candidates to apply authentically and avoid relying solely on AI-generated responses, especially during interviews.\n\nThis posting is for a current, open position within Neon One.\n\nThis opportunity is offered through HighlightTA, the on-demand talent team supporting Neon One’s growth.\n\n\n\n\nConnect with us and learn more:\nNeon One on LinkedIn https://www.linkedin.com/company/neonone/\n\nHighlightTA on LinkedIn https://www.linkedin.com/company/highlightta/",
+  "compensation": {
+    "compensationTierSummary": "$105K – $120K • Multiple Ranges",
+    "scrapeableCompensationSalarySummary": "$105K - $120K",
+    "compensationTiers": [
+      {
+        "id": "36e74e8e-ddd9-4145-ab1d-e6aefab1fd45",
+        "tierSummary": "$105K – $120K",
+        "title": "United States",
+        "additionalInformation": null,
+        "components": [
+          {
+            "id": "abdbeec0-71d5-4dd0-961c-fb9b9e589ed6",
+            "summary": "$105K – $120K",
+            "compensationType": "Salary",
+            "interval": "1 YEAR",
+            "currencyCode": "USD",
+            "minValue": 105000,
+            "maxValue": 120000
+          }
+        ]
+      },
+      {
+        "id": "8c19abcb-3dce-4bf8-90fc-4d44ae001c71",
+        "tierSummary": "CA$140K – CA$160K",
+        "title": "Canada",
+        "additionalInformation": null,
+        "components": [
+          {
+            "id": "ef0323d5-73bf-42d7-afec-a43e53766460",
+            "summary": "CA$140K – CA$160K",
+            "compensationType": "Salary",
+            "interval": "1 YEAR",
+            "currencyCode": "CAD",
+            "minValue": 140000,
+            "maxValue": 160000
+          }
+        ]
+      }
+    ],
+    "summaryComponents": [
+      {
+        "compensationType": "Salary",
+        "interval": "1 YEAR",
+        "currencyCode": "USD",
+        "minValue": 105000,
+        "maxValue": 120000
+      }
+    ]
+  }
+}

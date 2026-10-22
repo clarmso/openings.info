@@ -23,7 +23,7 @@
     }
   ],
   "id": 8842584002,
-  "updated_at": "2026-10-15T15:24:46-04:00",
+  "updated_at": "2026-10-21T14:07:33-04:00",
   "requisition_id": "7038",
   "title": "Director, Legal - Employment",
   "company_name": "GitLab",
@@ -42,6 +42,13 @@
     }
   ],
   "offices": [
+    {
+      "id": 4040905002,
+      "name": "Ireland",
+      "location": null,
+      "child_ids": [],
+      "parent_id": 4019553002
+    },
     {
       "id": 4040908002,
       "name": "United Kingdom",

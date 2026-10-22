@@ -1,0 +1,108 @@
+{
+  "absolute_url": "https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6228068004",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": true,
+      "requires_processing_consent": false,
+      "requires_retention_consent": true,
+      "retention_period": 730,
+      "demographic_data_consent_applies": true
+    }
+  ],
+  "internal_job_id": 5230022004,
+  "location": {
+    "name": "United Kingdom, Liverpool"
+  },
+  "metadata": [
+    {
+      "id": 4367803004,
+      "name": "Cost Center",
+      "value": "GAMES4GB60-GBG5001092 SIEE - FQA Compat",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4167524004,
+      "name": "Career Page - Office Location",
+      "value": "United Kingdom, Liverpool",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4167525004,
+      "name": "Career Page - Department",
+      "value": null,
+      "value_type": "single_select"
+    },
+    {
+      "id": 9377282004,
+      "name": "Career Page - Sub Department",
+      "value": null,
+      "value_type": "single_select"
+    },
+    {
+      "id": 20089613004,
+      "name": "Career Page - Studio Project",
+      "value": null,
+      "value_type": "single_select"
+    },
+    {
+      "id": 4395289004,
+      "name": "Worker Type",
+      "value": "Employee",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4404049004,
+      "name": "Country",
+      "value": "United Kingdom",
+      "value_type": "single_select"
+    },
+    {
+      "id": 9262269004,
+      "name": "Job Family",
+      "value": "QA Testing",
+      "value_type": "short_text"
+    },
+    {
+      "id": 9262270004,
+      "name": "Job Family Group",
+      "value": "Content Operations",
+      "value_type": "short_text"
+    },
+    {
+      "id": 21724118004,
+      "name": "Bungie Geo Pay",
+      "value": null,
+      "value_type": "single_select"
+    }
+  ],
+  "id": 6228068004,
+  "updated_at": "2026-10-21T14:55:35-04:00",
+  "requisition_id": "R-125871",
+  "title": "PFQE (QA) Tester - Temporary 3m Contract - potential to extend",
+  "company_name": "PlayStation Global",
+  "first_published": "2026-10-21T09:21:51-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;Why Sony Interactive Entertainment?&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Sony Interactive Entertainment isn’t just the Best Place to Play — it’s also the Best Place to Work. Sony Interactive Entertainment (SIE) is the company behind the PlayStation brand. As a subsidiary of Sony Group Corporation, we’re part of a proud legacy of innovation and excellence. SIE is a dynamic technology company, delivering cutting-edge hardware and network services to more than 100 million people and an entertainment leader, home to some of the most beloved and recognizable intellectual properties (IP) in the world. Our role at SIE is to create and nurture the experiences under the PlayStation brand, a name synonymous with entertainment excellence and creativity.&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;Important Information:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;This is a &lt;strong&gt;3-month&lt;/strong&gt; fixed term contract, &lt;strong&gt;which potentially could be extended if the project requires&lt;/strong&gt;&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Hours of Work:&amp;nbsp; &lt;/strong&gt;Shift cover between &lt;strong&gt;8am – 7pm&lt;/strong&gt;. You will be working a &lt;strong&gt;4 on 4 off shift&lt;/strong&gt; pattern&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Start Dates&lt;/strong&gt; will be Dec 2026 &amp;amp; Jan 2027 - when the project kicks off, and we expect the hiring process to start in Nov - which will be two stages for those selected and then on-boarding.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;Role Overview:&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Ever noticed an issue with your games console and wanted to provide a solution that will help millions of consumers? This is the job for you.&lt;/p&gt;\n&lt;p&gt;Throughout the year we regularly conduct Software updates to the PS5 which require robust testing. You will investigate, diagnose, and provide accurate reporting for a variety of tests.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Based out of our Liverpool City Centre Office&lt;/strong&gt; we are looking for passionate and enthusiastic testers to join the team and make a difference to our players experience.&lt;/p&gt;\n&lt;p&gt;&lt;u&gt;We offer on-the job training, so you won’t need prior experience in gaming/testing, as long as you are keen to learn.&lt;/u&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;What you’ll be doing:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Complete all required checks, as specified by regional project leader &amp;amp; report any/all problems found in firmware.&lt;/li&gt;\n&lt;li&gt;Check released and newly submitted titles on firmware currently under development.&lt;/li&gt;\n&lt;li&gt;Test new firmware features, prototype/pre-production hardware and peripherals.&lt;/li&gt;\n&lt;li&gt;Ensure all bugs are identified and thoroughly investigated.&lt;/li&gt;\n&lt;li&gt;Ensure all bug information, including classification, is accurately recorded and legibly written in preparation for the Team Leader to sign off and submit.&lt;/li&gt;\n&lt;li&gt;Check existing bugs against newer builds of firmware, making the Team Leader aware of any bugs found that may belong to another department.&lt;/li&gt;\n&lt;li&gt;Follow and complete all test cases provided &amp;amp; ensure all relevant PFQE procedures are followed.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;What we are looking for: &lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&lt;u&gt;Communication/Collaboration:&lt;/u&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Style and Impact- The ability to adapt behaviour appropriately to a range of personality and cultures.&lt;/li&gt;\n&lt;li&gt;Inclusivity - The ability to work collaboratively with others to achieve common goals.&lt;/li&gt;\n&lt;li&gt;Handling Change - Able to adapt and thrive in a fast-paced environment.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;u&gt;Technical Ability:&lt;/u&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Having an understanding of gaming console(s) is an advantage, however not vital – as long as you feel you have a technical and curious attitude, we can offer training and development.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt; &lt;/strong&gt;Understanding of PC/Laptop usage – MS Office (Outlook, Word, xls)&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;Benefits:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Discretionary bonus opportunity&lt;/li&gt;\n&lt;li&gt;Private Medical Insurance&lt;/li&gt;\n&lt;li&gt;Dental Scheme&lt;/li&gt;\n&lt;li&gt;25 days holiday per year&lt;/li&gt;\n&lt;li&gt;On Site Gym&lt;/li&gt;\n&lt;li&gt;Subsidised Café&lt;/li&gt;\n&lt;li&gt;Free soft drinks&lt;/li&gt;\n&lt;li&gt;On site bar&lt;/li&gt;\n&lt;li&gt;Access to cycle garage and showers&lt;/li&gt;\n&lt;/ul&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p class=&quot;p1&quot;&gt;Please note, Sony Interactive Entertainment conducts background checks at the offer stage for all new employees (which may include criminal background checks for some roles) and will need to process personal information to support these checks.&lt;/p&gt;\n&lt;p class=&quot;p1&quot;&gt;Please refer to our&amp;nbsp;&lt;a href=&quot;https://www.playstation.com/legal/careers-privacy-notice/&quot; target=&quot;_blank&quot;&gt;Candidate Privacy Notice&lt;/a&gt;&amp;nbsp;for more information about what personal information we collect, how we use it, who we share it with, and your data protection rights.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Equal Opportunity Statement:&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&lt;em&gt;Sony is an Equal Opportunity Employer. All persons will receive consideration for employment without regard to gender (including gender identity, gender expression and gender reassignment), race (including colour, nationality, ethnic or national origin), religion or belief, marital or civil partnership status, disability, age, sexual orientation, pregnancy, maternity or parental status, trade union membership or membership in any other legally protected category.&lt;/em&gt;&lt;/p&gt;\n&lt;p&gt;&lt;em&gt;We strive to create an inclusive environment, empower employees and embrace diversity. We encourage everyone to respond.&amp;nbsp;&lt;/em&gt;&lt;/p&gt;\n&lt;p&gt;&lt;em&gt;Sony Interactive Entertainment is a Fair Chance employer and qualified applicants with arrest and conviction records will be considered for employment.&lt;/em&gt;&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;",
+  "departments": [
+    {
+      "id": 4037203004,
+      "name": "Global Developer Technology Group",
+      "child_ids": [],
+      "parent_id": 4037137004
+    }
+  ],
+  "offices": [
+    {
+      "id": 4030615004,
+      "name": "GBR-Liverpool-Old Hall Street",
+      "location": null,
+      "child_ids": [],
+      "parent_id": 4011922004
+    }
+  ],
+  "ai_disclaimer": "<p><strong>Use of AI in Recruiting&nbsp;</strong></p><p><br></p><p>We use artificial intelligence and other automated tools to assist with certain aspects of our recruiting process, including reviewing applications and supporting candidate evaluation. For example, we use Greenhouse's AI-powered Talent Matching tool to compare information in your application against job-related qualifications and criteria established by our recruiting team. More information about <a href=\"https://www.greenhouse.com/\" target=\"_blank\">Greenhouse</a>, including about its features and its Privacy Policy, may be found at its website. These tools assist our recruiting team and do not make hiring decisions.&nbsp;</p><p><br></p>",
+  "include_ai_disclaimer": true,
+  "ai_opt_out_request_url": "http://app4.greenhouse.io/ai_opt_out_request/job_post/6228068004/ai_opt_out"
+}
