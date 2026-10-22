@@ -153,6 +153,22 @@ def _is_canada_job(platform, job, is_remote=False):
             _mentions_canada_broad(*texts) and not is_remote
         )
 
+    if platform == "teamtailor":
+        jp = job.get("_jobposting") or {}
+        country_codes = []
+        texts = []
+        for loc in jp.get("jobLocation") or []:
+            addr = (loc.get("address") or {})
+            country_codes.append(addr.get("addressCountry"))
+            texts.extend([addr.get("addressLocality"), addr.get("addressRegion")])
+        if any(str(c or "").strip().upper() == "CA" for c in country_codes):
+            return True
+        for req in jp.get("applicantLocationRequirements") or []:
+            texts.append(req.get("name"))
+        return _mentions_canada_explicit(*texts) or (
+            _mentions_canada_broad(*texts) and not is_remote
+        )
+
     return False
 
 
@@ -213,6 +229,16 @@ def _canada_signal_texts(platform, job):
     if platform == "rippling":
         return [job.get("name"), *(job.get("workLocations") or [])]
 
+    if platform == "teamtailor":
+        jp = job.get("_jobposting") or {}
+        texts = [job.get("title")]
+        for loc in jp.get("jobLocation") or []:
+            addr = (loc.get("address") or {})
+            texts.extend([addr.get("addressLocality"), addr.get("addressRegion"), addr.get("addressCountry")])
+        for req in jp.get("applicantLocationRequirements") or []:
+            texts.append(req.get("name"))
+        return texts
+
     return []
 
 
@@ -225,6 +251,10 @@ CAREERS_URL_BY_PLATFORM = {
     "smartrecruiters": "https://careers.smartrecruiters.com/{slug}/",
     "gem": "https://jobs.gem.com/{slug}",
     "rippling": "https://ats.rippling.com/{slug}/jobs",
+    # `slug` for teamtailor is already the site's full hostname (see
+    # src/crawl.PLATFORMS["teamtailor"]); Teamtailor's own JSON Feed home_page_url
+    # consistently points at "/jobs" on that host.
+    "teamtailor": "https://{slug}/jobs",
 }
 
 
@@ -306,6 +336,8 @@ def _posted_at(platform, job):
         return _parse_timestamp(job.get("first_published_at") or job.get("created_at"))
     if platform == "rippling":
         return _parse_timestamp(job.get("createdOn"))
+    if platform == "teamtailor":
+        return _parse_timestamp(job.get("date_published"))
     return None
 
 
@@ -404,6 +436,19 @@ def _all_locations(platform, job):
     if platform == "rippling":
         return list(dict.fromkeys(loc for loc in job.get("workLocations") or [] if loc))
 
+    if platform == "teamtailor":
+        jp = job.get("_jobposting") or {}
+        parts = []
+        for loc in jp.get("jobLocation") or []:
+            addr = (loc.get("address") or {})
+            text = ", ".join(
+                p for p in (addr.get("addressLocality"), addr.get("addressRegion"), addr.get("addressCountry"))
+                if p
+            )
+            if text:
+                parts.append(text)
+        return list(dict.fromkeys(parts))
+
     return []
 
 
@@ -453,6 +498,12 @@ def _extract(platform, job):
     if platform == "rippling":
         location = "; ".join(_all_locations(platform, job))
         return job.get("name"), job.get("url"), job.get("companyName"), location, _mode_from_text(location)
+    if platform == "teamtailor":
+        jp = job.get("_jobposting") or {}
+        location = "; ".join(_all_locations(platform, job))
+        mode = "Remote" if jp.get("jobLocationType") == "TELECOMMUTE" else _mode_from_text(location)
+        name = (jp.get("hiringOrganization") or {}).get("name")
+        return job.get("title"), job.get("url"), name, location, mode
     return None, None, None, "", ""
 
 

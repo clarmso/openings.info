@@ -35,7 +35,7 @@ OPEN_JOBS_STATE_DIR = os.path.join("state", "open_jobs")
 SUPPORTED_PLATFORMS = {
     "greenhouse", "lever", "ashby", "workable", "recruitee",
     "smartrecruiters", "gem", "rippling", "breezy", "bamboohr",
-    "personio", "trakstar",
+    "personio", "trakstar", "teamtailor",
 }
 
 CAREERS_URL_BY_PLATFORM = {
@@ -51,6 +51,7 @@ CAREERS_URL_BY_PLATFORM = {
     "bamboohr": "https://{slug}.bamboohr.com/careers",
     "personio": "https://{slug}.jobs.personio.de/",
     "trakstar": "https://{slug}.hire.trakstar.com/",
+    "teamtailor": "https://{slug}/jobs",
 }
 
 
@@ -191,6 +192,21 @@ def _is_remote_job(platform, job):
         location = ", ".join(job.get("workLocations") or [])
         return _mode_from_text(location) == "Remote"
 
+    if platform == "teamtailor":
+        jp = job.get("_jobposting") or {}
+        if jp.get("jobLocationType") == "TELECOMMUTE":
+            return True
+        locations = []
+        for loc in jp.get("jobLocation") or []:
+            addr = (loc.get("address") or {})
+            locations.append(
+                ", ".join(
+                    p for p in (addr.get("addressLocality"), addr.get("addressRegion"), addr.get("addressCountry"))
+                    if p
+                )
+            )
+        return _mode_from_text(", ".join(locations)) == "Remote"
+
     return False
 
 
@@ -266,6 +282,22 @@ def _is_canada_job(platform, job):
             _mentions_canada_broad(*texts) and not is_remote
         )
 
+    if platform == "teamtailor":
+        jp = job.get("_jobposting") or {}
+        country_codes = []
+        texts = []
+        for loc in jp.get("jobLocation") or []:
+            addr = (loc.get("address") or {})
+            country_codes.append(addr.get("addressCountry"))
+            texts.extend([addr.get("addressLocality"), addr.get("addressRegion")])
+        if any(str(c or "").strip().upper() == "CA" for c in country_codes):
+            return True
+        for req in jp.get("applicantLocationRequirements") or []:
+            texts.append(req.get("name"))
+        return _mentions_canada_explicit(*texts) or (
+            _mentions_canada_broad(*texts) and not is_remote
+        )
+
     return False
 
 
@@ -327,6 +359,7 @@ def _scan_company_jobs(slug, platform):
                 job.get("company_name")
                 or job.get("companyName")
                 or (job.get("company") or {}).get("name")
+                or ((job.get("_jobposting") or {}).get("hiringOrganization") or {}).get("name")
             )
 
     return sample_name, job_count, canada_job_count, remote_job_count

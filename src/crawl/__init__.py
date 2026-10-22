@@ -118,6 +118,19 @@ PLATFORMS = {
         "date_field": "pubDate",
         "date_format": DateFormat.RFC_2822,
     },
+    "teamtailor": {
+        # Every Teamtailor-hosted career site - whether on a custom domain
+        # (e.g. careers.lotusflare.com) or the default *.teamtailor.com
+        # subdomain - publishes a public, unauthenticated JSON Feed at
+        # /jobs.json (discoverable via the site's .well-known/api-catalog
+        # link). Since there's no fixed subdomain pattern, the company
+        # "slug" for this platform is the site's full hostname.
+        "url": "https://{}/jobs.json",
+        "jobs_key": "items",
+        "id_field": "id",
+        "date_field": "date_published",
+        "date_format": DateFormat.ISO,
+    },
 }
 
 
