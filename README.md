@@ -16,6 +16,7 @@ This repo queries the job boards of selected companies and saves the job posting
 * [BambooHR](https://bamboohr.com) — JSON API at `<company>.bamboohr.com/careers/list`; no posting date field, so jobs are filed under the current year
 * [Personio](https://personio.com) — XML feed at `<company>.jobs.personio.de/xml`
 * [Trakstar](https://trakstar.com) (formerly Recruiterbox) — RSS/XML feed at `<company>.hire.trakstar.com/jobfeeds/<company>`
+* [Teamtailor](https://www.teamtailor.com) — public JSON Feed at `<company-career-domain>/jobs.json`; no universal subdomain, so the slug is the site's full custom hostname (e.g. `careers.lotusflare.com`)
 
 ### Sources
 
