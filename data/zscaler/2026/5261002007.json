@@ -12,7 +12,7 @@
   ],
   "internal_job_id": 4691513007,
   "location": {
-    "name": "Mohali, IND"
+    "name": "Bangalore, IND; Pune, IND"
   },
   "metadata": [
     {
@@ -41,7 +41,7 @@
     }
   ],
   "id": 5261002007,
-  "updated_at": "2026-10-16T11:27:41-04:00",
+  "updated_at": "2026-10-22T05:20:28-04:00",
   "requisition_id": "260915_B35089",
   "title": "Business Support Analyst",
   "company_name": "Zscaler",
@@ -61,9 +61,9 @@
   ],
   "offices": [
     {
-      "id": 4009753007,
-      "name": "Office - Mohali, India",
-      "location": "Mohali, IND",
+      "id": 4009751007,
+      "name": "Office - Bangalore, India",
+      "location": "Bangalore, IND",
       "child_ids": [],
       "parent_id": 4009663007
     }

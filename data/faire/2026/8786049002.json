@@ -23,7 +23,7 @@
     }
   ],
   "id": 8786049002,
-  "updated_at": "2026-09-08T15:34:38-04:00",
+  "updated_at": "2026-10-22T13:14:34-04:00",
   "requisition_id": "1483",
   "title": "Strategy & Operations Senior Lead, Brand Growth",
   "company_name": "Faire",
@@ -42,13 +42,6 @@
     }
   ],
   "offices": [
-    {
-      "id": 4043067002,
-      "name": "New York City, NY",
-      "location": "New York, New York, United States",
-      "child_ids": [],
-      "parent_id": 4049474002
-    },
     {
       "id": 4000970002,
       "name": "San Francisco, CA",

@@ -44,15 +44,6 @@
         "additionalInformation": "This role is eligible to participate in Benchling's commission plan, it is common for employees in this role to receive total on-target earnings of $280,000 to $400,000.",
         "components": [
           {
-            "id": "d3c64225-a442-4e64-bfdc-0cf84f815e1d",
-            "summary": "$140K – $200K",
-            "compensationType": "Salary",
-            "interval": "1 YEAR",
-            "currencyCode": "USD",
-            "minValue": 140000,
-            "maxValue": 200000
-          },
-          {
             "id": "f30aa4c8-1b6e-4398-b4fd-ed774c1ac312",
             "summary": "Offers Equity",
             "compensationType": "EquityPercentage",
@@ -69,18 +60,20 @@
             "currencyCode": "USD",
             "minValue": null,
             "maxValue": null
+          },
+          {
+            "id": "d3c64225-a442-4e64-bfdc-0cf84f815e1d",
+            "summary": "$140K – $200K",
+            "compensationType": "Salary",
+            "interval": "1 YEAR",
+            "currencyCode": "USD",
+            "minValue": 140000,
+            "maxValue": 200000
           }
         ]
       }
     ],
     "summaryComponents": [
-      {
-        "compensationType": "Salary",
-        "interval": "1 YEAR",
-        "currencyCode": "USD",
-        "minValue": 140000,
-        "maxValue": 200000
-      },
       {
         "compensationType": "EquityPercentage",
         "interval": "NONE",
@@ -94,6 +87,13 @@
         "currencyCode": "USD",
         "minValue": null,
         "maxValue": null
+      },
+      {
+        "compensationType": "Salary",
+        "interval": "1 YEAR",
+        "currencyCode": "USD",
+        "minValue": 140000,
+        "maxValue": 200000
       }
     ]
   }

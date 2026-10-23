@@ -41,7 +41,7 @@
     }
   ],
   "id": 8649147002,
-  "updated_at": "2026-10-16T14:31:45-04:00",
+  "updated_at": "2026-10-22T13:31:55-04:00",
   "requisition_id": "JR107917",
   "title": "Principal GTM Onboarding Manager",
   "company_name": "ZoomInfo Technologies LLC",
@@ -59,9 +59,9 @@
   ],
   "offices": [
     {
-      "id": 4016432002,
-      "name": "Waltham",
-      "location": "Waltham, Massachusetts, United States",
+      "id": 4103800002,
+      "name": "Remote-US-NV",
+      "location": null,
       "child_ids": [],
       "parent_id": null
     }

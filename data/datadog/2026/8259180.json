@@ -12,7 +12,7 @@
   ],
   "internal_job_id": 3573741,
   "location": {
-    "name": "Boston, Massachusetts, USA; Denver, Colorado, USA; New York, New York, USA; San Francisco, California, USA"
+    "name": "Boston, Massachusetts, USA; Chicago, Illinois, USA; Denver, Colorado, USA; New York, New York, USA; San Francisco, California, USA"
   },
   "metadata": [
     {
@@ -69,7 +69,7 @@
     }
   ],
   "id": 8259180,
-  "updated_at": "2026-10-09T11:40:11-04:00",
+  "updated_at": "2026-10-22T15:52:27-04:00",
   "requisition_id": "R21956",
   "title": "Product Solutions Architect - FinOps",
   "company_name": "Datadog",
@@ -92,6 +92,13 @@
       "location": "Boston, MA, United States",
       "child_ids": [],
       "parent_id": 78117
+    },
+    {
+      "id": 61864,
+      "name": "Chicago",
+      "location": "Chicago, Illinois, United States",
+      "child_ids": [],
+      "parent_id": 78119
     },
     {
       "id": 61865,

@@ -16,32 +16,10 @@
   "id": "am9icG9zdDqrYIp6uZudoV_eTkIt5bZy",
   "internal_job_id": "am9iOhcFoZSOx04iGYoxKuOyiOA",
   "location": {
-    "name": ""
+    "name": "Canada - Remote"
   },
   "location_type": "remote",
   "offices": [
-    {
-      "child_ids": [],
-      "child_office_external_ids": [],
-      "id": "4576",
-      "location": {
-        "name": ""
-      },
-      "name": "Canada",
-      "parent_id": null,
-      "parent_office_external_id": null
-    },
-    {
-      "child_ids": [],
-      "child_office_external_ids": [],
-      "id": "bG9jOmIoFbWVTfnk2DjH_q9paRU",
-      "location": {
-        "name": "Toronto, Canada"
-      },
-      "name": "Toronto",
-      "parent_id": null,
-      "parent_office_external_id": null
-    },
     {
       "child_ids": [],
       "child_office_external_ids": [],
@@ -100,6 +78,17 @@
     {
       "child_ids": [],
       "child_office_external_ids": [],
+      "id": "4576",
+      "location": {
+        "name": ""
+      },
+      "name": "Canada",
+      "parent_id": null,
+      "parent_office_external_id": null
+    },
+    {
+      "child_ids": [],
+      "child_office_external_ids": [],
       "id": "bG9jOrYKsOiM6lzmjxTFMNNPtwA",
       "location": {
         "name": "Canada - Remote"
@@ -127,6 +116,17 @@
         "name": "Canada - Remote"
       },
       "name": "Truro",
+      "parent_id": null,
+      "parent_office_external_id": null
+    },
+    {
+      "child_ids": [],
+      "child_office_external_ids": [],
+      "id": "bG9jOmIoFbWVTfnk2DjH_q9paRU",
+      "location": {
+        "name": "Toronto, Canada"
+      },
+      "name": "Toronto",
       "parent_id": null,
       "parent_office_external_id": null
     }

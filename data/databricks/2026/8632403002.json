@@ -31,7 +31,7 @@
     }
   ],
   "id": 8632403002,
-  "updated_at": "2026-10-06T06:42:19-04:00",
+  "updated_at": "2026-10-22T14:23:53-04:00",
   "requisition_id": "SLSQ327R541",
   "title": "Alliance RVP, McKinsey",
   "company_name": "Databricks",
@@ -49,11 +49,13 @@
   ],
   "offices": [
     {
-      "id": 4000514002,
-      "name": "San Francisco, California",
-      "location": "San Francisco, California",
-      "child_ids": [],
-      "parent_id": 4033534002
+      "id": 4006260002,
+      "name": "Florida",
+      "location": "Florida",
+      "child_ids": [
+        4058274002
+      ],
+      "parent_id": 4056357002
     }
   ],
   "ai_disclaimer": null,

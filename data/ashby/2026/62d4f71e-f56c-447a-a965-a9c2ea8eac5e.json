@@ -16,29 +16,9 @@
           "addressLocality": ""
         }
       }
-    },
-    {
-      "location": "Ireland",
-      "address": {
-        "postalAddress": {
-          "addressRegion": "",
-          "addressCountry": "Ireland",
-          "addressLocality": ""
-        }
-      }
-    },
-    {
-      "location": "Netherlands",
-      "address": {
-        "postalAddress": {
-          "addressRegion": "",
-          "addressCountry": "Netherlands",
-          "addressLocality": "Amsterdam"
-        }
-      }
     }
   ],
-  "publishedAt": "2026-09-18T19:59:44.600+00:00",
+  "publishedAt": "2026-10-22T13:06:02.787+00:00",
   "isListed": true,
   "isRemote": true,
   "workplaceType": "Remote",
@@ -65,15 +45,6 @@
         "additionalInformation": null,
         "components": [
           {
-            "id": "e5c7cb90-3631-46cb-ba47-d7a9cd9b2e61",
-            "summary": "Tier 1 (Ireland, Netherlands, Germany, France, Denmark) €85K – €105K",
-            "compensationType": "Salary",
-            "interval": "1 YEAR",
-            "currencyCode": "EUR",
-            "minValue": 85000,
-            "maxValue": 105000
-          },
-          {
             "id": "5c80a165-0cee-4fc4-b313-1aec275b279c",
             "summary": "Offers Equity",
             "compensationType": "EquityPercentage",
@@ -81,6 +52,15 @@
             "currencyCode": null,
             "minValue": null,
             "maxValue": null
+          },
+          {
+            "id": "e5c7cb90-3631-46cb-ba47-d7a9cd9b2e61",
+            "summary": "Tier 1 (Ireland, Netherlands, Germany, France, Denmark) €85K – €105K",
+            "compensationType": "Salary",
+            "interval": "1 YEAR",
+            "currencyCode": "EUR",
+            "minValue": 85000,
+            "maxValue": 105000
           }
         ]
       },
@@ -165,17 +145,17 @@
     ],
     "summaryComponents": [
       {
+        "compensationType": "EquityPercentage",
+        "minValue": null,
+        "maxValue": null,
+        "interval": "1 YEAR"
+      },
+      {
         "minValue": 45000,
         "maxValue": 105000,
         "currencyCode": "EUR",
         "interval": "1 YEAR",
         "compensationType": "Salary"
-      },
-      {
-        "compensationType": "EquityPercentage",
-        "minValue": null,
-        "maxValue": null,
-        "interval": "1 YEAR"
       }
     ]
   }

@@ -1,0 +1,108 @@
+{
+  "absolute_url": "https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6185512004",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": true,
+      "requires_processing_consent": false,
+      "requires_retention_consent": true,
+      "retention_period": 1460,
+      "demographic_data_consent_applies": true
+    }
+  ],
+  "internal_job_id": 5212149004,
+  "location": {
+    "name": "United States, San Mateo, CA"
+  },
+  "metadata": [
+    {
+      "id": 4367803004,
+      "name": "Cost Center",
+      "value": "GAMES4US70-USL2950036 ICDS Engineering & Services",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4167524004,
+      "name": "Career Page - Office Location",
+      "value": "United States, San Mateo, CA",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4167525004,
+      "name": "Career Page - Department",
+      "value": "Software Engineering & Services",
+      "value_type": "single_select"
+    },
+    {
+      "id": 9377282004,
+      "name": "Career Page - Sub Department",
+      "value": null,
+      "value_type": "single_select"
+    },
+    {
+      "id": 20089613004,
+      "name": "Career Page - Studio Project",
+      "value": null,
+      "value_type": "single_select"
+    },
+    {
+      "id": 4395289004,
+      "name": "Worker Type",
+      "value": "Employee",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4404049004,
+      "name": "Country",
+      "value": "United States of America",
+      "value_type": "single_select"
+    },
+    {
+      "id": 9262269004,
+      "name": "Job Family",
+      "value": "Software Development Engineering",
+      "value_type": "short_text"
+    },
+    {
+      "id": 9262270004,
+      "name": "Job Family Group",
+      "value": "Engineering",
+      "value_type": "short_text"
+    },
+    {
+      "id": 21724118004,
+      "name": "Bungie Geo Pay",
+      "value": null,
+      "value_type": "single_select"
+    }
+  ],
+  "id": 6185512004,
+  "updated_at": "2026-10-22T14:32:59-04:00",
+  "requisition_id": "R-125392",
+  "title": "Senior Principal Engineer, Data & Machine Learning",
+  "company_name": "PlayStation Global",
+  "first_published": "2026-09-10T16:52:24-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;Why Sony Interactive Entertainment?&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Sony Interactive Entertainment isn’t just the Best Place to Play — it’s also the Best Place to Work. Sony Interactive Entertainment (SIE) is the company behind the PlayStation brand. As a subsidiary of Sony Group Corporation, we’re part of a proud legacy of innovation and excellence. SIE is a dynamic technology company, delivering cutting-edge hardware and network services to more than 100 million people and an entertainment leader, home to some of the most beloved and recognizable intellectual properties (IP) in the world. Our role at SIE is to create and nurture the experiences under the PlayStation brand, a name synonymous with entertainment excellence and creativity.&lt;/p&gt;&lt;/div&gt;&lt;h3&gt;&lt;strong&gt;Sr. Principal Engineer, Data &amp;amp; Machine Learning&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;&lt;strong&gt;San Mateo, CA&lt;/strong&gt;&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;Why PlayStation Data &amp;amp; Intelligence&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;PlayStation reaches more than 100+ million people. Behind those experiences is one of the largest consumer data estates in entertainment: tens of petabytes under management and trillions of telemetry events a year, powering personalization, experimentation, partner analytics and enterprise decisions across the company.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;We are in the middle of a multi-year shift in how that data creates value. Today intelligence often arrives after the moment has passed. Our goal is a connected intelligence layer where trusted context about players, content, partners and the business is built once, reused everywhere, activated at the point of decision, and improved by evidence about what happened next. That includes serving AI models and agents with the same governed meaning, quality and permissions we give to people.&lt;/p&gt;\n&lt;p&gt;This role helps shape how that is built across PlayStation.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;The Role&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;We are looking for a Senior Principal Engineer, Data &amp;amp; Machine Learning to serve as chief architect for our Data &amp;amp; Intelligence organization and as the senior technical authority for how SIE builds, reuses and activates trusted data and intelligence.&lt;/p&gt;\n&lt;p&gt;This is one of SIE’s most senior individual-contributor roles. You will report directly to the Vice President of the organization, sit on the leadership team alongside the Sr. Directors who run our two delivery portfolios, chair our architecture review forum, and lead a community of Principal Engineers anchored to the major architectural seams. You will have no direct reports by design; your leverage comes from the architecture, the standards and the decisions the whole organization builds against.&lt;/p&gt;\n&lt;p&gt;This is a hands-on role. You will author architectures and reference implementations, prototype uncertain approaches, review the designs and code that matter most, and step in directly when a technical problem puts an important outcome at risk.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;What You’ll Own&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;You will set the architecture for, and drive reuse across, the initiatives that define the next three years of data and intelligence at PlayStation:&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;&lt;strong&gt;A single, reusable understanding of the player. &lt;/strong&gt;The context, lifecycle and lifetime-value intelligence that powers experiences and decisions across PlayStation, built once and reused rather than rebuilt per use case.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Content and game understanding. &lt;/strong&gt;Intelligence about titles, experiences and how players engage with them, connected through engagement and content graphs to improve discovery, personalization and new AI experiences.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Creator and partner intelligence. &lt;/strong&gt;Reusable title, launch and lifecycle intelligence available to partners at the point of decision, before launch, while live and after.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Unified measurement. &lt;/strong&gt;Experimentation, attribution and causal measurement so the company knows what changed an outcome, by how much, and what to do next.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Activation. &lt;/strong&gt;Real-time signals, activation data products and APIs that deliver trusted context into the systems that personalize and act.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Semantic and conversational intelligence. &lt;/strong&gt;A shared layer of business meaning and metrics that people, analytical tools and AI agents can query and trust.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Enterprise decision data. &lt;/strong&gt;Decision-grade finance and supply-chain data that accelerates transformation programs across SIE.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Trusted foundations and golden paths. &lt;/strong&gt;Data contracts, certification, lineage, unified events and standard publish-to-consume paths, with trust designed into the lifecycle; and launch data readiness so priority launches have their signals and measures from day one.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;What You’ll Do&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Translate our multi-year Data &amp;amp; Intelligence strategy into a coherent technical strategy and target architecture, with clear principles for trusted data products, ML systems, shared intelligence, evaluation, activation and lifecycle management.&lt;/li&gt;\n&lt;li&gt;Chair the architecture review forum: set its charter and cadence, publish decisions, track adoption and hold the line on non-conforming designs.&lt;/li&gt;\n&lt;li&gt;Own the boundary decisions between platform capabilities built for reuse and domain delivery, and keep them stable.&lt;/li&gt;\n&lt;li&gt;Define and ratify the standards teams build against: data contracts, golden paths, model evaluation and experimentation, observability, reliability, cost and lifecycle management.&lt;/li&gt;\n&lt;li&gt;Lead the technical direction of our hardest cross-organizational initiatives; author proposals, reference designs and prototypes that establish a credible path from concept to production.&lt;/li&gt;\n&lt;li&gt;Work directly with engineering and data science teams to remove critical blockers, so that decisions become usable capabilities rather than architecture on paper.&lt;/li&gt;\n&lt;li&gt;Partner with security, privacy, legal, governance and responsible-AI teams to embed controls throughout the data and ML lifecycle, including the responsible use of proprietary data, third-party and foundation models, and externally hosted AI services.&lt;/li&gt;\n&lt;li&gt;Identify duplicative capabilities, drive rationalization and retirement, and improve interoperability across SIE’s data and ML landscape.&lt;/li&gt;\n&lt;li&gt;Advise senior executives on major technical investments, tradeoffs, emerging capabilities and long-term risk; produce the written recommendations that drive annual planning.&lt;/li&gt;\n&lt;li&gt;Connect technical investment to named consumers, decisions and measurable outcomes; define how we measure adoption, reuse, time-to-action, quality, reliability, safety and cost.&lt;/li&gt;\n&lt;li&gt;Lead a community of Principal Engineers; mentor Principal, Staff and Senior engineers, architects, ML engineers and data scientists.&lt;/li&gt;\n&lt;li&gt;Represent SIE’s data and machine learning direction in senior leadership forums, partner organizations and, where appropriate, the broader industry.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;&lt;strong&gt;What We’re Looking For&lt;/strong&gt;&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;15+ years in software, data or machine learning engineering, including 9+ years leading the architecture and delivery of large-scale, complex systems.&lt;/li&gt;\n&lt;li&gt;A track record of authoring architectures, standards or platforms that were adopted across multiple organizations and stayed in use.&lt;/li&gt;\n&lt;li&gt;Experience taking data, ML or decisioning systems serving tens of millions of consumers into production and operating them at scale.&lt;/li&gt;\n&lt;li&gt;Experience chairing, or being the deciding technical voice in, an architecture review forum spanning multiple engineering organizations.&lt;/li&gt;\n&lt;li&gt;Deep expertise in at least two of: reusable data products, semantic and metadata layers and data contracts; ML platforms, lifecycle management, evaluation and decisioning; real-time signals, distributed inference and activation platforms; experimentation and causal measurement; generative AI, retrieval and agentic systems; responsible AI, privacy and technical governance.&lt;/li&gt;\n&lt;li&gt;Strong command of distributed systems, cloud, data architecture, APIs, security, reliability, observability and performance engineering.&lt;/li&gt;\n&lt;li&gt;Demonstrated ability to influence senior executives, engineering and product leaders, and cross-functional partners without direct authority.&lt;/li&gt;\n&lt;li&gt;Outstanding written communication. This role leads through documents.&lt;/li&gt;\n&lt;li&gt;Experience mentoring Staff, Principal or similarly senior technical professionals.&lt;/li&gt;\n&lt;li&gt;Master’s degree in Computer Science, Machine Learning, Engineering or a related discipline, or equivalent experience.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;Nice to Have&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Data and ML applied in gaming, entertainment, media, digital commerce or another large-scale consumer ecosystem.&lt;/li&gt;\n&lt;li&gt;Personalization, recommendations, customer intelligence, content intelligence, experimentation or predictive decisioning at scale.&lt;/li&gt;\n&lt;li&gt;Shared data or ML platforms serving multiple products and organizational domains.&lt;/li&gt;\n&lt;li&gt;Feature, vector, graph, semantic or knowledge platforms; AI gateways and LLMOps.&lt;/li&gt;\n&lt;li&gt;Experience translating research or emerging technology into production capabilities.&lt;/li&gt;\n&lt;li&gt;Contributions to the field through open source, patents, publications, standards or conference talks.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;Why You’ll Love This Role&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Set the technical direction for data and intelligence across PlayStation.&lt;/li&gt;\n&lt;li&gt;Own the architecture behind experiences reaching more than 100 million people.&lt;/li&gt;\n&lt;li&gt;Report directly to the VP and sit on the organization’s leadership team.&lt;/li&gt;\n&lt;li&gt;Build once, reuse everywhere: the mandate is to end duplicated work, not add to it.&lt;/li&gt;\n&lt;li&gt;Work with strong Principal and Staff engineers, data scientists and product leaders across the company.&lt;/li&gt;\n&lt;li&gt;Stay hands-on at the most senior IC level.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;#LI-KS1&lt;/p&gt;&lt;div class=&quot;content-pay-transparency&quot;&gt;&lt;div class=&quot;pay-input&quot;&gt;&lt;div class=&quot;description&quot;&gt;&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;At SIE, we consider several factors when setting each role’s base pay range, including the competitive benchmarking data for the market and geographic location.&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;br&gt;Please note that the base pay range may vary in line with our hybrid working policy and individual base pay will be determined based on job-related factors which may include knowledge, skills, experience, and location.&amp;nbsp;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;br&gt;In addition, this role &lt;/span&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;is eligible&lt;/span&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt; for SIE’s top-tier benefits package that includes medical, dental, vision, matching 401(k), paid time off, wellness program and coveted employee discounts for Sony products. &lt;/span&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;This role also may be eligible for a bonus package.&lt;/span&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt; Click&amp;nbsp;&lt;/span&gt;&lt;a href=&quot;https://careers.playstation.com/benefits&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;here&lt;/strong&gt;&lt;/a&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt; to learn more.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;title&quot;&gt;The estimated base pay range for this role is listed below.&lt;/div&gt;&lt;div class=&quot;pay-range&quot;&gt;&lt;span&gt;$304,200&lt;/span&gt;&lt;span class=&quot;divider&quot;&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;$456,200 USD&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p class=&quot;p1&quot;&gt;Please note, Sony Interactive Entertainment conducts background checks at the offer stage for all new employees (which may include criminal background checks for some roles) and will need to process personal information to support these checks.&lt;/p&gt;\n&lt;p class=&quot;p1&quot;&gt;Please refer to our&amp;nbsp;&lt;a href=&quot;https://www.playstation.com/legal/careers-privacy-notice/&quot; target=&quot;_blank&quot;&gt;Candidate Privacy Notice&lt;/a&gt;&amp;nbsp;for more information about what personal information we collect, how we use it, who we share it with, and your data protection rights.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Equal Opportunity Statement:&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&lt;em&gt;Sony is an Equal Opportunity Employer. All persons will receive consideration for employment without regard to gender (including gender identity, gender expression and gender reassignment), race (including colour, nationality, ethnic or national origin), religion or belief, marital or civil partnership status, disability, age, sexual orientation, pregnancy, maternity or parental status, trade union membership or membership in any other legally protected category.&lt;/em&gt;&lt;/p&gt;\n&lt;p&gt;&lt;em&gt;We strive to create an inclusive environment, empower employees and embrace diversity. We encourage everyone to respond.&amp;nbsp;&lt;/em&gt;&lt;/p&gt;\n&lt;p&gt;&lt;em&gt;Sony Interactive Entertainment is a Fair Chance employer and qualified applicants with arrest and conviction records will be considered for employment.&lt;/em&gt;&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;",
+  "departments": [
+    {
+      "id": 4065072004,
+      "name": "Information Capital and Data Services (ICDS)",
+      "child_ids": [],
+      "parent_id": 4065067004
+    }
+  ],
+  "offices": [
+    {
+      "id": 4012034004,
+      "name": "USA-CA-San Mateo",
+      "location": null,
+      "child_ids": [],
+      "parent_id": 4089335004
+    }
+  ],
+  "ai_disclaimer": "<p><strong>Use of AI in Recruiting&nbsp;</strong></p><p><br></p><p>We use artificial intelligence and other automated tools to assist with certain aspects of our recruiting process, including reviewing applications and supporting candidate evaluation. For example, we use Greenhouse's AI-powered Talent Matching tool to compare information in your application against job-related qualifications and criteria established by our recruiting team. More information about <a href=\"https://www.greenhouse.com/\" target=\"_blank\">Greenhouse</a>, including about its features and its Privacy Policy, may be found at its website. These tools assist our recruiting team and do not make hiring decisions.&nbsp;</p><p><br></p>",
+  "include_ai_disclaimer": true,
+  "ai_opt_out_request_url": "http://app4.greenhouse.io/ai_opt_out_request/job_post/6185512004/ai_opt_out"
+}

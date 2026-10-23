@@ -1,0 +1,148 @@
+{
+  "absolute_url": "https://www.mongodb.com/careers/job/?gh_jid=8313598",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": false,
+      "requires_processing_consent": false,
+      "requires_retention_consent": false,
+      "retention_period": null,
+      "demographic_data_consent_applies": true
+    }
+  ],
+  "internal_job_id": 3594508,
+  "location": {
+    "name": "Palo Alto"
+  },
+  "metadata": [
+    {
+      "id": 22194060,
+      "name": "Position ID",
+      "value": "T10007547",
+      "value_type": "short_text"
+    },
+    {
+      "id": 24918,
+      "name": "Department ID",
+      "value": "D85027-IT PMO",
+      "value_type": "single_select"
+    },
+    {
+      "id": 22194061,
+      "name": "Team",
+      "value": "385-IT PMO",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4914027,
+      "name": "Region",
+      "value": "North America",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4137836,
+      "name": "Working Model Eligibility",
+      "value": [
+        "2-Flexible"
+      ],
+      "value_type": "multi_select"
+    },
+    {
+      "id": 4914029,
+      "name": "Job Level",
+      "value": "People Manager",
+      "value_type": "single_select"
+    },
+    {
+      "id": 24109,
+      "name": "Employment Type",
+      "value": "Full-time",
+      "value_type": "single_select"
+    },
+    {
+      "id": 1073551,
+      "name": "Job Type",
+      "value": "Standard",
+      "value_type": "single_select"
+    },
+    {
+      "id": 988684,
+      "name": "JD Link",
+      "value": "TBD",
+      "value_type": "url"
+    },
+    {
+      "id": 5525802,
+      "name": "Baseline Budgeted Salary",
+      "value": null,
+      "value_type": "currency_range"
+    },
+    {
+      "id": 5525816,
+      "name": "Other Large Market Budgeted Salary",
+      "value": null,
+      "value_type": "currency_range"
+    },
+    {
+      "id": 13324394,
+      "name": "Job Post Range (United States)",
+      "value": {
+        "unit": "USD",
+        "max_value": "253000.0",
+        "min_value": "129000.0"
+      },
+      "value_type": "currency_range"
+    },
+    {
+      "id": 40497768,
+      "name": "Job Post Range (Canada)",
+      "value": {
+        "unit": "USD",
+        "max_value": "0.0",
+        "min_value": "0.0"
+      },
+      "value_type": "currency_range"
+    },
+    {
+      "id": 57694516,
+      "name": "Job Post Range (Poland)",
+      "value": null,
+      "value_type": "currency_range"
+    },
+    {
+      "id": 64002488,
+      "name": "Job Post Range (Italy)",
+      "value": null,
+      "value_type": "currency_range"
+    }
+  ],
+  "id": 8313598,
+  "updated_at": "2026-10-22T14:25:18-04:00",
+  "requisition_id": "3273594508",
+  "title": "Director, Chief of Staff",
+  "company_name": "MongoDB",
+  "first_published": "2026-10-22T13:02:10-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;p&gt;Transform your career by becoming the Chief of Staff (CoS) to MongoDB’s Chief Information Officer, working directly with executives and the leadership team across MongoDB, including but not limited to within the IT organization.&amp;nbsp;&lt;/p&gt;\n&lt;h3&gt;The Role&lt;/h3&gt;\n&lt;p&gt;The Chief of Staff to the CIO is a senior operator who multiplies the CIO’s impact.&amp;nbsp; You will run the operating rhythm of the Office of the CIO, lead the IT Program Management Office (ITPMO) that governs the IT portfolio and drive strategic program execution.&lt;/p&gt;\n&lt;p&gt;You possess the ability to blend strategic direction with hands-on tactical execution: shaping the CIO’s agenda, translating IT strategy into plans and measurable outcomes, and making sure decisions are made on time and followed through. You will operate as a versatile, right-hand to help manage initiatives, demonstrating excellent program management and organizational skills, building the mechanisms that help IT scale.&lt;/p&gt;\n&lt;p&gt;We are looking to speak to candidates who are based in Palo Alto, CA for our hybrid working model.&lt;/p&gt;\n&lt;h3&gt;What You’ll Do&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;CIO leverage and prioritization: Shape and manage the CIO’s agenda, ensuring time and focus go to the highest-value priorities; Act as a trusted advisor and thought partner, framing decisions with clear options and trade-offs&lt;/li&gt;\n&lt;li&gt;Operating rhythm: Design and run the IT operating cadence, including IT leadership team meetings, QBRs, planning cycles, offsites, and executive and board readouts; Build workback plans, track commitments, and surface risks early&lt;/li&gt;\n&lt;li&gt;Strategy and planning: Partner with CIO Leadership team to translate IT strategy into annual and quarterly objectives, OKRs, and plans, and track progress against them&lt;/li&gt;\n&lt;li&gt;Influence direction:&amp;nbsp; You will collaborate, influence and align your peers towards the objectives that we are driving in terms of IT strategy and will not hesitate in pushing back, questioning assumptions and influencing direction without authority&lt;/li&gt;\n&lt;li&gt;ITPMO and portfolio governance: Lead the ITPMO and maintain a single view of the IT portfolio: status, risks, dependencies, value, and alignment to company priorities; Run intake, prioritization, and governance forums with clear decision and escalation paths&lt;/li&gt;\n&lt;li&gt;Strategic program execution: Oversee CIO-sponsored, cross-pillar programs and special projects; Partner with DRIs to define, resource, and deliver them, and to remove blockers and hold owners accountable&lt;/li&gt;\n&lt;li&gt;Financial and resource partnership: Partner with Finance and IT leaders on budget, forecasting, headcount, and vendor and SaaS spend; Give leadership transparency into investment and the return on strategic initiatives&lt;/li&gt;\n&lt;li&gt;People priorities and HR partnership: Partner with the HR Business Leader on the execution of the highest priorities, adoption of organizational changes, leadership transitions, and other business priorities, without owning the underlying people strategy; You will handle sensitive and confidential information with sound judgment,and maturity while anticipating what the organization will need next&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;Executive communications: Draft and quality-check CIO and leadership communications, including board materials, all-hands content, and IT-wide updates; Guide change management for major initiatives&lt;/li&gt;\n&lt;li&gt;Cross-functional alignment: Partner with Chiefs of Staff and leaders across the executive team and business units; Represent the CIO where appropriate and manage through influence&lt;/li&gt;\n&lt;li&gt;Team leadership: Lead and develop the ITPMO team (program management, strategy and operations, portfolio analytics) and the Executive Administrators supporting the IT VPs; Set standards for executive support, drive consistency and coverage across the team, and build a culture of accountability and discretion&lt;/li&gt;\n&lt;li&gt;Continuous improvement: Define delivery standards and ways of working, and use data and AI-enabled tools to make governance, reporting, and executive support faster and more scalable&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;What You’ll Bring&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;10+ years of experience in management consulting, strategy and operations, IT/enterprise program or portfolio management, or chief of staff roles, ideally at a high-growth technology company&lt;/li&gt;\n&lt;li&gt;Experience leading a team, including managers or professionals in program management and/or executive support, with a track record of developing talent&lt;/li&gt;\n&lt;li&gt;Experience supporting or advising senior executives, and credibility operating in executive forums; You can influence without authority&lt;/li&gt;\n&lt;li&gt;Proven ability to design and run governance frameworks, operating cadences, and decision processes, and to manage complex, cross-functional programs end to end&lt;/li&gt;\n&lt;li&gt;Financial acumen: comfort with budgets, forecasting, and investment prioritization&lt;/li&gt;\n&lt;li&gt;Exceptional written and verbal communication, including board-ready materials that turn complex information into clear recommendations&lt;/li&gt;\n&lt;li&gt;Strong analytical and systems-thinking skills; you use data to guide trade-offs and design for scale&lt;/li&gt;\n&lt;li&gt;High EQ, low ego, and sound judgment. You build trust quickly and&amp;nbsp; handle confidential information with discretion&lt;/li&gt;\n&lt;li&gt;AI-fluent: you apply AI and automation in your own work and in how your teams operate&lt;/li&gt;\n&lt;li&gt;Familiarity with IT delivery and technology portfolios (e.g., enterprise applications, infrastructure, security, SaaS), and with agile and change management practices, is a plus&lt;/li&gt;\n&lt;li&gt;Flexible schedule; occasional domestic or international travel; Bachelor’s degree required; MBA a plus&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;What Success Looks Like&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;The CIO’s time and focus are aligned to the highest-value priorities, and decisions happen on schedule&lt;/li&gt;\n&lt;li&gt;IT’s strategic initiatives are governed through one transparent portfolio, with clear status, risks, and ownership&lt;/li&gt;\n&lt;li&gt;IT investments align to company objectives and OKRs, with improved cost transparency and delivery predictability&lt;/li&gt;\n&lt;li&gt;The ITPMO is recognized across the company for execution excellence&lt;/li&gt;\n&lt;li&gt;IT VPs receive consistent, high-quality executive support&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;What This Is Not&lt;/h3&gt;\n&lt;p&gt;This is not a project management role or an administrative role. It is a senior operator role for someone who wants to be at the center of how a world-class IT organization runs and scales.&lt;/p&gt;\n&lt;h3&gt;About MongoDB&lt;/h3&gt;\n&lt;p&gt;MongoDB is built for change, empowering our customers and our people to innovate at the speed of the market. We have redefined the data platform for the AI era, enabling builders to create, transform, and disrupt industries with software. MongoDB’s unified data platform, the most widely available, globally distributed data platform on the market, helps organizations modernize legacy workloads, embrace innovation, and unleash AI. Our cloud-native platform, MongoDB Atlas, is the only globally distributed, multi-cloud data platform and is available across AWS, Google Cloud, and Microsoft Azure.&lt;/p&gt;\n&lt;p&gt;With offices worldwide and over 67,000 customers, including AI-native startups and approximately 75% of the Fortune 100, relying on MongoDB for their most important applications, we’re powering the next era of software.&lt;/p&gt;\n&lt;p&gt;Our compass at MongoDB is our &lt;a href=&quot;https://www.mongodb.com/company&quot;&gt;Leadership Commitment,&lt;/a&gt; guiding how and why we make decisions, show up for each other, and win. It’s what makes us MongoDB.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;To drive the personal growth and business impact of our employees, we’re committed to developing a supportive and enriching culture for everyone. &lt;a href=&quot;https://www.mongodb.com/company/blog/culture/employee-benefits-that-make-a-difference-at-mongodb&quot;&gt;From employee affinity groups, to fertility assistance and a generous parental leave policy&lt;/a&gt;, we value our employees’ wellbeing and want to support them along every step of their professional and personal journeys.&lt;a href=&quot;https://www.mongodb.com/blog/channel/culture&quot;&gt; Learn more about what it’s like to work at MongoDB&lt;/a&gt;, and help us make an impact on the world!&lt;/p&gt;\n&lt;p&gt;MongoDB is committed to providing any necessary accommodations for individuals with disabilities within our application and interview process. To request an accommodation due to a disability, please inform your recruiter.&lt;/p&gt;\n&lt;p&gt;MongoDB, Inc. provides equal employment opportunities to all employees and applicants for employment and prohibits discrimination and harassment of any type and makes all hiring decisions without regard to race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state or local laws.&lt;/p&gt;\n&lt;p&gt;Req ID: 3273594508&lt;/p&gt;&lt;div class=&quot;content-pay-transparency&quot;&gt;&lt;div class=&quot;pay-input&quot;&gt;&lt;div class=&quot;description&quot;&gt;&lt;p&gt;MongoDB’s base salary range for this role is posted below. Compensation at the time of offer is unique to each candidate and based on a variety of factors such as skill set, experience, qualifications, and work location. Salary is one part of MongoDB’s total compensation and benefits package. Other benefits for eligible employees may include: equity, participation in the employee stock purchase program, flexible paid time off, 20 weeks fully-paid gender-neutral parental leave, fertility and adoption assistance, 401(k) plan, mental health counseling, access to transgender-inclusive health insurance coverage, and health benefits offerings. Please note, the base salary range listed below and the benefits in this paragraph are only applicable to U.S.-based candidates.&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;title&quot;&gt;MongoDB’s base salary range for this role in the U.S. is:&lt;/div&gt;&lt;div class=&quot;pay-range&quot;&gt;&lt;span&gt;$0.01&lt;/span&gt;&lt;span class=&quot;divider&quot;&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;$0.01 USD&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;",
+  "departments": [
+    {
+      "id": 289355,
+      "name": "IT PMO",
+      "child_ids": [],
+      "parent_id": 298006
+    }
+  ],
+  "offices": [
+    {
+      "id": 3961,
+      "name": "Palo Alto",
+      "location": "Palo Alto, CA, United States",
+      "child_ids": [],
+      "parent_id": 23657
+    }
+  ],
+  "ai_disclaimer": null,
+  "include_ai_disclaimer": false,
+  "ai_opt_out_request_url": null
+}

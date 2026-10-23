@@ -6,8 +6,19 @@
   "employmentType": "FullTime",
   "location": "Remote - US",
   "shouldDisplayCompensationOnJobPostings": true,
-  "secondaryLocations": [],
-  "publishedAt": "2026-08-26T00:16:59.671+00:00",
+  "secondaryLocations": [
+    {
+      "location": "Remote - Canada",
+      "address": {
+        "postalAddress": {
+          "addressRegion": "",
+          "addressCountry": "Canada",
+          "addressLocality": ""
+        }
+      }
+    }
+  ],
+  "publishedAt": "2026-10-22T18:30:00.784+00:00",
   "isListed": true,
   "isRemote": true,
   "workplaceType": "Remote",
@@ -27,13 +38,13 @@
     "scrapeableCompensationSalarySummary": "$170K - $230K",
     "compensationTiers": [
       {
-        "id": "cf87d3c9-a0f7-422b-9487-28d84327fb16",
+        "id": "b276ba47-2101-461a-bb60-c03023b08a45",
         "tierSummary": "OTE $170K – $200K • Offers Equity",
         "title": "US Average",
         "additionalInformation": null,
         "components": [
           {
-            "id": "a3decacb-78e4-4034-92c5-7cb0f6df7d33",
+            "id": "3ff07b27-80db-4d06-bc6e-6ecad39f374d",
             "summary": "OTE $170K – $200K",
             "compensationType": "Salary",
             "interval": "1 YEAR",
@@ -42,7 +53,7 @@
             "maxValue": 200000
           },
           {
-            "id": "896710b6-7e1a-49b9-8579-2d46d62a351f",
+            "id": "f77867e7-77e1-4853-b0fb-6072e7d29ba9",
             "summary": "Offers Equity",
             "compensationType": "EquityPercentage",
             "interval": "NONE",
@@ -53,13 +64,13 @@
         ]
       },
       {
-        "id": "f0d59a8d-5e6f-4d2d-82ee-b8182d7b040e",
+        "id": "ce5bce75-9112-4d66-b6b2-5a30a01e3750",
         "tierSummary": "OTE $195K – $230K • Offers Equity",
         "title": "SF/NY",
         "additionalInformation": null,
         "components": [
           {
-            "id": "7a46806a-9e4f-4da4-9a14-80f79f993519",
+            "id": "22418292-cc41-4d6f-96c4-f7c81c98f209",
             "summary": "Offers Equity",
             "compensationType": "EquityPercentage",
             "interval": "NONE",
@@ -68,13 +79,39 @@
             "maxValue": null
           },
           {
-            "id": "d2fa8708-8c3e-4c5d-b5be-c6675cfae2df",
+            "id": "0a60168a-f9a3-43c3-8f79-6b93ef7ec58d",
             "summary": "OTE $195K – $230K",
             "compensationType": "Salary",
             "interval": "1 YEAR",
             "currencyCode": "USD",
             "minValue": 195000,
             "maxValue": 230000
+          }
+        ]
+      },
+      {
+        "id": "864bb56b-e501-44ef-bb29-40e9bec5b59b",
+        "tierSummary": "OTE CA$170K – CA$200K • Offers Equity",
+        "title": "CAD",
+        "additionalInformation": null,
+        "components": [
+          {
+            "id": "fb0d7d94-cc11-426d-bd23-504b91c8d3f0",
+            "summary": "Offers Equity",
+            "compensationType": "EquityPercentage",
+            "interval": "NONE",
+            "currencyCode": null,
+            "minValue": null,
+            "maxValue": null
+          },
+          {
+            "id": "af3975d1-1f90-4759-843a-fe76ad51c70c",
+            "summary": "OTE CA$170K – CA$200K",
+            "compensationType": "Salary",
+            "interval": "1 YEAR",
+            "currencyCode": "CAD",
+            "minValue": 170000,
+            "maxValue": 200000
           }
         ]
       }

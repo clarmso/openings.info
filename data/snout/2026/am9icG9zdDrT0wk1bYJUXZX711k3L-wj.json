@@ -16,21 +16,10 @@
   "id": "am9icG9zdDrT0wk1bYJUXZX711k3L-wj",
   "internal_job_id": "am9iOg6hb0j90XBBYtLVmTFbv24",
   "location": {
-    "name": "Dallas, United States"
+    "name": "Atlanta, United States"
   },
   "location_type": "remote",
   "offices": [
-    {
-      "child_ids": [],
-      "child_office_external_ids": [],
-      "id": "bG9jOsreMVKGJ5Wf-z8TlZ-31k4",
-      "location": {
-        "name": "Dallas, United States"
-      },
-      "name": "Texas",
-      "parent_id": null,
-      "parent_office_external_id": null
-    },
     {
       "child_ids": [],
       "child_office_external_ids": [],
@@ -39,6 +28,17 @@
         "name": "Atlanta, United States"
       },
       "name": "Georgia",
+      "parent_id": null,
+      "parent_office_external_id": null
+    },
+    {
+      "child_ids": [],
+      "child_office_external_ids": [],
+      "id": "bG9jOsreMVKGJ5Wf-z8TlZ-31k4",
+      "location": {
+        "name": "Dallas, United States"
+      },
+      "name": "Texas",
       "parent_id": null,
       "parent_office_external_id": null
     }

@@ -288,15 +288,6 @@
         "additionalInformation": null,
         "components": [
           {
-            "id": "0fc4735b-142c-43ec-844e-81d177a930e6",
-            "summary": "Annual Compensation £134,600",
-            "compensationType": "Salary",
-            "interval": "1 YEAR",
-            "currencyCode": "GBP",
-            "minValue": 134600,
-            "maxValue": 134600
-          },
-          {
             "id": "d81f4dbb-5e0a-4777-9324-f3a4e2f1f6f1",
             "summary": "Offers Equity",
             "compensationType": "EquityPercentage",
@@ -304,6 +295,15 @@
             "currencyCode": null,
             "minValue": null,
             "maxValue": null
+          },
+          {
+            "id": "0fc4735b-142c-43ec-844e-81d177a930e6",
+            "summary": "Annual Compensation £134,600",
+            "compensationType": "Salary",
+            "interval": "1 YEAR",
+            "currencyCode": "GBP",
+            "minValue": 134600,
+            "maxValue": 134600
           }
         ]
       },
@@ -314,15 +314,6 @@
         "additionalInformation": null,
         "components": [
           {
-            "id": "739df1fc-ac88-476d-ab23-be1d1982a3b7",
-            "summary": "Offers Equity",
-            "compensationType": "EquityPercentage",
-            "interval": "NONE",
-            "currencyCode": null,
-            "minValue": null,
-            "maxValue": null
-          },
-          {
             "id": "038343b8-520d-470d-84d5-3331194a7d76",
             "summary": "Annual Compensation CA$253,500",
             "compensationType": "Salary",
@@ -330,6 +321,15 @@
             "currencyCode": "CAD",
             "minValue": 253500,
             "maxValue": 253500
+          },
+          {
+            "id": "739df1fc-ac88-476d-ab23-be1d1982a3b7",
+            "summary": "Offers Equity",
+            "compensationType": "EquityPercentage",
+            "interval": "NONE",
+            "currencyCode": null,
+            "minValue": null,
+            "maxValue": null
           }
         ]
       },
@@ -340,15 +340,6 @@
         "additionalInformation": null,
         "components": [
           {
-            "id": "ed9baa5f-3ba3-4420-b69f-46ee1375bfa0",
-            "summary": "Offers Equity",
-            "compensationType": "EquityPercentage",
-            "interval": "NONE",
-            "currencyCode": null,
-            "minValue": null,
-            "maxValue": null
-          },
-          {
             "id": "72ab3749-7554-4891-a721-24579717fccd",
             "summary": "Annual Compensation €157,350",
             "compensationType": "Salary",
@@ -356,6 +347,15 @@
             "currencyCode": "EUR",
             "minValue": 157350,
             "maxValue": 157350
+          },
+          {
+            "id": "ed9baa5f-3ba3-4420-b69f-46ee1375bfa0",
+            "summary": "Offers Equity",
+            "compensationType": "EquityPercentage",
+            "interval": "NONE",
+            "currencyCode": null,
+            "minValue": null,
+            "maxValue": null
           }
         ]
       }

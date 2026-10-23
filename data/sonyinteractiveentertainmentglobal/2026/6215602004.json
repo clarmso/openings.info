@@ -1,0 +1,108 @@
+{
+  "absolute_url": "https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6215602004",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": true,
+      "requires_processing_consent": false,
+      "requires_retention_consent": true,
+      "retention_period": 730,
+      "demographic_data_consent_applies": true
+    }
+  ],
+  "internal_job_id": 5225128004,
+  "location": {
+    "name": "United Kingdom, London"
+  },
+  "metadata": [
+    {
+      "id": 4367803004,
+      "name": "Cost Center",
+      "value": "GAMES1GB60-GBB1000006 Services-GB-Planning",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4167524004,
+      "name": "Career Page - Office Location",
+      "value": "United Kingdom, London",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4167525004,
+      "name": "Career Page - Department",
+      "value": "Business Intelligence",
+      "value_type": "single_select"
+    },
+    {
+      "id": 9377282004,
+      "name": "Career Page - Sub Department",
+      "value": null,
+      "value_type": "single_select"
+    },
+    {
+      "id": 20089613004,
+      "name": "Career Page - Studio Project",
+      "value": null,
+      "value_type": "single_select"
+    },
+    {
+      "id": 4395289004,
+      "name": "Worker Type",
+      "value": "Employee",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4404049004,
+      "name": "Country",
+      "value": "United Kingdom",
+      "value_type": "single_select"
+    },
+    {
+      "id": 9262269004,
+      "name": "Job Family",
+      "value": "Business Intelligence",
+      "value_type": "short_text"
+    },
+    {
+      "id": 9262270004,
+      "name": "Job Family Group",
+      "value": "Information Technology",
+      "value_type": "short_text"
+    },
+    {
+      "id": 21724118004,
+      "name": "Bungie Geo Pay",
+      "value": null,
+      "value_type": "single_select"
+    }
+  ],
+  "id": 6215602004,
+  "updated_at": "2026-10-22T11:12:07-04:00",
+  "requisition_id": "R-125603",
+  "title": "Senior BI & Visualisation Developer",
+  "company_name": "PlayStation Global",
+  "first_published": "2026-10-16T09:09:16-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;Why Sony Interactive Entertainment?&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Sony Interactive Entertainment isn’t just the Best Place to Play — it’s also the Best Place to Work. Sony Interactive Entertainment (SIE) is the company behind the PlayStation brand. As a subsidiary of Sony Group Corporation, we’re part of a proud legacy of innovation and excellence. SIE is a dynamic technology company, delivering cutting-edge hardware and network services to more than 100 million people and an entertainment leader, home to some of the most beloved and recognizable intellectual properties (IP) in the world. Our role at SIE is to create and nurture the experiences under the PlayStation brand, a name synonymous with entertainment excellence and creativity.&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;About the Role&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;We are seeking a Senior Business Intelligence Specialist to lead the development of high-impact&lt;/p&gt;\n&lt;p&gt;analytical solutions and cohesive data experiences that drive insight to action at scale.&lt;/p&gt;\n&lt;p&gt;Operating at the intersection of business, analytics, and engineering, this role leads the translation of&lt;/p&gt;\n&lt;p&gt;complex data challenges into scalable, intuitive solutions. The Sr BI Specialist serves as a senior full stack&lt;/p&gt;\n&lt;p&gt;BI developer and subject matter expert within a business domain, partnering closely with the BI&lt;/p&gt;\n&lt;p&gt;Manager, Central BI Team, and Data Engineering to set technical direction, mentor junior team&lt;/p&gt;\n&lt;p&gt;members, and ensure solutions are designed and deployed in accordance with best practices and&lt;/p&gt;\n&lt;p&gt;enterprise standards.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Key Responsibilities&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Analytics Strategy &amp;amp; Delivery&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;• Partner with BI Managers to shape and drive the analytics vision, strategy, and roadmap;&lt;/p&gt;\n&lt;p&gt;independently lead workstreams and influence prioritization in alignment with organizational&lt;/p&gt;\n&lt;p&gt;objectives.&lt;/p&gt;\n&lt;p&gt;• Translate ambiguous business questions and problems into structured, scalable analytics&lt;/p&gt;\n&lt;p&gt;solutions.&lt;/p&gt;\n&lt;p&gt;• Rapidly prototype analytics solutions to gather early stakeholder feedback and iterate&lt;/p&gt;\n&lt;p&gt;efficiently, reducing time-to-insight; serve as a model for agile delivery practices across the&lt;/p&gt;\n&lt;p&gt;team.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Solution Design &amp;amp; Development&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;• Partner with Data Engineering to architect and implement end-to-end BI solutions — from&lt;/p&gt;\n&lt;p&gt;data ingestion and modeling to visualization — setting technical standards and design&lt;/p&gt;\n&lt;p&gt;patterns that scale across the team and enterprise.&lt;/p&gt;\n&lt;p&gt;• Build performant, maintainable dashboards and reports using modern BI tooling (e.g.,&lt;/p&gt;\n&lt;p&gt;DOMO, Tableau, Looker).&lt;/p&gt;\n&lt;p&gt;• Own and optimize domain data models that underpin reliable, consistent reporting; conduct&lt;/p&gt;\n&lt;p&gt;peer reviews to ensure quality and maintainability across the team’s solutions.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Standardization &amp;amp; Scalability&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;• Proactively drive standardization of analytics solutions; lead initiatives with the Central BI&lt;/p&gt;\n&lt;p&gt;Team to scale them into enterprise-wide capabilities.&lt;/p&gt;\n&lt;p&gt;• Lead the development of reusable components, templates, and frameworks for the shared&lt;/p&gt;\n&lt;p&gt;analytics library, guide adoption across the BI team.&lt;/p&gt;\n&lt;p&gt;• Champion consistent KPI definitions and reporting standards within the business domain.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Data Governance &amp;amp; Quality&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;• Align on domain-specific data models and KPI definitions in close collaboration with the&lt;/p&gt;\n&lt;p&gt;Central BI Team and business stakeholders.&lt;/p&gt;\n&lt;p&gt;• Work with the Central BI Team and Data Engineering to proactively identify, troubleshoot,&lt;/p&gt;\n&lt;p&gt;and resolve data quality issues; lead root cause analyses and own remediation plans to&lt;/p&gt;\n&lt;p&gt;prevent recurrence.&lt;/p&gt;\n&lt;p&gt;• Ensure data lineage, documentation, and governance practices are created and maintained&lt;/p&gt;\n&lt;p&gt;for all owned solutions.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Stakeholder Engagement&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;• Act as a trusted analytics partner to business stakeholders, translating data insights into&lt;/p&gt;\n&lt;p&gt;clear, actionable narratives.&lt;/p&gt;\n&lt;p&gt;• Lead demos, training sessions, and enablement workshops; develop scalable self-service&lt;/p&gt;\n&lt;p&gt;programs to drive broad adoption of BI tools and solutions.&lt;/p&gt;\n&lt;p&gt;• Gather and synthesize stakeholder feedback to continuously improve analytics products;&lt;/p&gt;\n&lt;p&gt;translate feedback into prioritized enhancements on the team roadmap.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Qualifications&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Education &amp;amp; Experience&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;• Bachelor&#39;s degree in Computer Science, Information Systems, Statistics, Business Analytics, or&lt;/p&gt;\n&lt;p&gt;a related field (or equivalent practical experience).&lt;/p&gt;\n&lt;p&gt;• 8+ years of hands-on experience in Business Intelligence, Data Analytics, or a closely related&lt;/p&gt;\n&lt;p&gt;role, with demonstrated growth in scope and complexity.&lt;/p&gt;\n&lt;p&gt;• Demonstrated track record of delivering enterprise-scale analytics solutions that directly&lt;/p&gt;\n&lt;p&gt;influenced strategic business decisions and measurable outcomes.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Technical Skills&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;• Expert-level proficiency across one or more major BI platforms — DOMO, Tableau, Looker,&lt;/p&gt;\n&lt;p&gt;etc.&lt;/p&gt;\n&lt;p&gt;• Expert level SQL skills — complex queries, window functions, CTEs, query optimization.&lt;/p&gt;\n&lt;p&gt;• Experience with cloud data platforms (e.g., Snowflake, Azure Synapse, BigQuery, Databricks).&lt;/p&gt;\n&lt;p&gt;• Expertise in data modeling concepts: star/snowflake schemas, dimensional modeling,&lt;/p&gt;\n&lt;p&gt;semantic layers, and performance tuning at scale.&lt;/p&gt;\n&lt;p&gt;• Experience with Python or R for data wrangling and exploratory analysis.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Analytical &amp;amp; Business Acumen&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;• Strong ability to decompose complex business problems into clear analytics requirements.&lt;/p&gt;\n&lt;p&gt;• Experience defining and documenting KPIs and business metrics in collaboration with&lt;/p&gt;\n&lt;p&gt;stakeholders.&lt;/p&gt;\n&lt;p&gt;• Proven ability to present data-driven insights to both technical and non-technical audiences.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Collaboration &amp;amp; Soft Skills&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;• Strong communication skills — written, verbal, and visual storytelling.&lt;/p&gt;\n&lt;p&gt;• Comfortable navigating ambiguity and working iteratively with stakeholders.&lt;/p&gt;\n&lt;p&gt;• Strong cross-functional collaboration skills; experience working with a COE is a plus.&lt;/p&gt;\n&lt;p&gt;• Self-starter with a continuous improvement mindset and attention to detail.&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p class=&quot;p1&quot;&gt;Please note, Sony Interactive Entertainment conducts background checks at the offer stage for all new employees (which may include criminal background checks for some roles) and will need to process personal information to support these checks.&lt;/p&gt;\n&lt;p class=&quot;p1&quot;&gt;Please refer to our&amp;nbsp;&lt;a href=&quot;https://www.playstation.com/legal/careers-privacy-notice/&quot; target=&quot;_blank&quot;&gt;Candidate Privacy Notice&lt;/a&gt;&amp;nbsp;for more information about what personal information we collect, how we use it, who we share it with, and your data protection rights.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Equal Opportunity Statement:&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&lt;em&gt;Sony is an Equal Opportunity Employer. All persons will receive consideration for employment without regard to gender (including gender identity, gender expression and gender reassignment), race (including colour, nationality, ethnic or national origin), religion or belief, marital or civil partnership status, disability, age, sexual orientation, pregnancy, maternity or parental status, trade union membership or membership in any other legally protected category.&lt;/em&gt;&lt;/p&gt;\n&lt;p&gt;&lt;em&gt;We strive to create an inclusive environment, empower employees and embrace diversity. We encourage everyone to respond.&amp;nbsp;&lt;/em&gt;&lt;/p&gt;\n&lt;p&gt;&lt;em&gt;Sony Interactive Entertainment is a Fair Chance employer and qualified applicants with arrest and conviction records will be considered for employment.&lt;/em&gt;&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;",
+  "departments": [
+    {
+      "id": 4072502004,
+      "name": "Admin (PDS)",
+      "child_ids": [],
+      "parent_id": 4037174004
+    }
+  ],
+  "offices": [
+    {
+      "id": 4011923004,
+      "name": "GBR-London-10GMS",
+      "location": "London, England, United Kingdom",
+      "child_ids": [],
+      "parent_id": 4011922004
+    }
+  ],
+  "ai_disclaimer": "<p><strong>Use of AI in Recruiting&nbsp;</strong></p><p><br></p><p>We use artificial intelligence and other automated tools to assist with certain aspects of our recruiting process, including reviewing applications and supporting candidate evaluation. For example, we use Greenhouse's AI-powered Talent Matching tool to compare information in your application against job-related qualifications and criteria established by our recruiting team. More information about <a href=\"https://www.greenhouse.com/\" target=\"_blank\">Greenhouse</a>, including about its features and its Privacy Policy, may be found at its website. These tools assist our recruiting team and do not make hiring decisions.&nbsp;</p><p><br></p>",
+  "include_ai_disclaimer": true,
+  "ai_opt_out_request_url": "http://app4.greenhouse.io/ai_opt_out_request/job_post/6215602004/ai_opt_out"
+}

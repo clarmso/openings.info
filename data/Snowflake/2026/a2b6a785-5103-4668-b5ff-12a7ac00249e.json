@@ -6,7 +6,18 @@
   "employmentType": "FullTime",
   "location": "US-WA-Bellevue",
   "shouldDisplayCompensationOnJobPostings": true,
-  "secondaryLocations": [],
+  "secondaryLocations": [
+    {
+      "location": "US-CA-Dublin",
+      "address": {
+        "postalAddress": {
+          "addressRegion": "California",
+          "addressCountry": "United States",
+          "addressLocality": "Dublin"
+        }
+      }
+    }
+  ],
   "publishedAt": "2026-10-19T19:34:59.695+00:00",
   "isListed": true,
   "isRemote": true,

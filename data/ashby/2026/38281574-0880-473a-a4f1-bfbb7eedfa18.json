@@ -6,7 +6,18 @@
   "employmentType": "FullTime",
   "location": "Remote - US",
   "shouldDisplayCompensationOnJobPostings": true,
-  "secondaryLocations": [],
+  "secondaryLocations": [
+    {
+      "location": "Remote - Canada",
+      "address": {
+        "postalAddress": {
+          "addressRegion": "",
+          "addressCountry": "Canada",
+          "addressLocality": ""
+        }
+      }
+    }
+  ],
   "publishedAt": "2026-06-24T17:01:01.324+00:00",
   "isListed": true,
   "isRemote": true,

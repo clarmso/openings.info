@@ -70,15 +70,6 @@
         "additionalInformation": null,
         "components": [
           {
-            "id": "df31d904-f819-4857-be1b-d38204d28730",
-            "summary": "SF & NYC $172K – $189K",
-            "compensationType": "Salary",
-            "interval": "1 YEAR",
-            "currencyCode": "USD",
-            "minValue": 172000,
-            "maxValue": 189000
-          },
-          {
             "id": "a32a9b48-5bd1-4a32-a686-6dbf27b260ce",
             "summary": "Offers Equity",
             "compensationType": "EquityPercentage",
@@ -86,6 +77,15 @@
             "currencyCode": null,
             "minValue": null,
             "maxValue": null
+          },
+          {
+            "id": "df31d904-f819-4857-be1b-d38204d28730",
+            "summary": "SF & NYC $172K – $189K",
+            "compensationType": "Salary",
+            "interval": "1 YEAR",
+            "currencyCode": "USD",
+            "minValue": 172000,
+            "maxValue": 189000
           }
         ]
       },

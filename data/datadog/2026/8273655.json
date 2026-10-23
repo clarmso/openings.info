@@ -30,7 +30,7 @@
     {
       "id": 498252,
       "name": "Cost Center",
-      "value": "General and Administrative - Business Operations",
+      "value": "General and Administrative - Deal Desk",
       "value_type": "single_select"
     },
     {
@@ -65,7 +65,7 @@
     }
   ],
   "id": 8273655,
-  "updated_at": "2026-10-21T06:17:14-04:00",
+  "updated_at": "2026-10-22T07:01:44-04:00",
   "requisition_id": "R22023",
   "title": "Senior Deal Desk Analyst - Dublin",
   "company_name": "Datadog",

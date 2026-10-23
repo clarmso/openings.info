@@ -95,15 +95,6 @@
         "additionalInformation": null,
         "components": [
           {
-            "id": "bcdf2008-edd8-48c7-abd4-f144db974b34",
-            "summary": "OTE £95K – £115K",
-            "compensationType": "Salary",
-            "interval": "1 YEAR",
-            "currencyCode": "GBP",
-            "minValue": 95000,
-            "maxValue": 115000
-          },
-          {
             "id": "53c82863-59d1-491e-97f2-64234c4c533c",
             "summary": "Offers Equity",
             "compensationType": "EquityPercentage",
@@ -111,6 +102,15 @@
             "currencyCode": null,
             "minValue": null,
             "maxValue": null
+          },
+          {
+            "id": "bcdf2008-edd8-48c7-abd4-f144db974b34",
+            "summary": "OTE £95K – £115K",
+            "compensationType": "Salary",
+            "interval": "1 YEAR",
+            "currencyCode": "GBP",
+            "minValue": 95000,
+            "maxValue": 115000
           }
         ]
       },
@@ -143,17 +143,17 @@
     ],
     "summaryComponents": [
       {
+        "compensationType": "EquityPercentage",
+        "minValue": null,
+        "maxValue": null,
+        "interval": "1 YEAR"
+      },
+      {
         "compensationType": "Salary",
         "interval": "1 YEAR",
         "currencyCode": "GBP",
         "minValue": 95000,
         "maxValue": 115000
-      },
-      {
-        "compensationType": "EquityPercentage",
-        "minValue": null,
-        "maxValue": null,
-        "interval": "1 YEAR"
       }
     ]
   }

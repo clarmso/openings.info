@@ -23,7 +23,7 @@
     }
   ],
   "id": 5106199008,
-  "updated_at": "2026-08-21T12:49:54-04:00",
+  "updated_at": "2026-10-22T21:32:17-04:00",
   "requisition_id": "260494",
   "title": "Real Estate Portfolio Manager",
   "company_name": "Anthropic",
@@ -40,6 +40,13 @@
     }
   ],
   "offices": [
+    {
+      "id": 4001219008,
+      "name": "New York City, NY",
+      "location": "New York, New York, United States",
+      "child_ids": [],
+      "parent_id": null
+    },
     {
       "id": 4001218008,
       "name": "San Francisco, CA",

@@ -23,33 +23,22 @@
     {
       "child_ids": [],
       "child_office_external_ids": [],
-      "id": "232297",
+      "id": "242110",
       "location": {
         "name": "United States - Remote"
       },
-      "name": "Atlanta",
+      "name": "Phoenix",
       "parent_id": null,
       "parent_office_external_id": null
     },
     {
       "child_ids": [],
       "child_office_external_ids": [],
-      "id": "72753",
-      "location": {
-        "name": ""
-      },
-      "name": "United States",
-      "parent_id": null,
-      "parent_office_external_id": null
-    },
-    {
-      "child_ids": [],
-      "child_office_external_ids": [],
-      "id": "232296",
+      "id": "242111",
       "location": {
         "name": "United States - Remote"
       },
-      "name": "Boston",
+      "name": "Tampa",
       "parent_id": null,
       "parent_office_external_id": null
     },
@@ -78,28 +67,6 @@
     {
       "child_ids": [],
       "child_office_external_ids": [],
-      "id": "242110",
-      "location": {
-        "name": "United States - Remote"
-      },
-      "name": "Phoenix",
-      "parent_id": null,
-      "parent_office_external_id": null
-    },
-    {
-      "child_ids": [],
-      "child_office_external_ids": [],
-      "id": "242111",
-      "location": {
-        "name": "United States - Remote"
-      },
-      "name": "Tampa",
-      "parent_id": null,
-      "parent_office_external_id": null
-    },
-    {
-      "child_ids": [],
-      "child_office_external_ids": [],
       "id": "242112",
       "location": {
         "name": "United States - Remote"
@@ -116,6 +83,39 @@
         "name": "United States - Remote"
       },
       "name": "Rochester",
+      "parent_id": null,
+      "parent_office_external_id": null
+    },
+    {
+      "child_ids": [],
+      "child_office_external_ids": [],
+      "id": "232297",
+      "location": {
+        "name": "United States - Remote"
+      },
+      "name": "Atlanta",
+      "parent_id": null,
+      "parent_office_external_id": null
+    },
+    {
+      "child_ids": [],
+      "child_office_external_ids": [],
+      "id": "72753",
+      "location": {
+        "name": ""
+      },
+      "name": "United States",
+      "parent_id": null,
+      "parent_office_external_id": null
+    },
+    {
+      "child_ids": [],
+      "child_office_external_ids": [],
+      "id": "232296",
+      "location": {
+        "name": "United States - Remote"
+      },
+      "name": "Boston",
       "parent_id": null,
       "parent_office_external_id": null
     }

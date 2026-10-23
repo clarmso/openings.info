@@ -4,14 +4,13 @@
   "categories": {
     "commitment": "Full-time",
     "department": "Product",
-    "location": "San Francisco, CA",
+    "location": "Pittsburgh, PA",
     "team": "Product & Technical Program Mgmt",
     "allLocations": [
-      "San Francisco, CA",
-      "Toronto, ON",
       "Pittsburgh, PA",
+      "Toronto, ON",
       "Dallas, TX",
-      "Remote US"
+      "San Francisco, CA"
     ]
   },
   "createdAt": 1775667822483,

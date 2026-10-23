@@ -16,21 +16,10 @@
   "id": "am9icG9zdDqK3Y3edgszLUM3R-jXi0N1",
   "internal_job_id": "am9iOkNtFN0WTxHPEXEmj9Yawrg",
   "location": {
-    "name": "New York, United States"
+    "name": "Toronto, Canada"
   },
   "location_type": "remote",
   "offices": [
-    {
-      "child_ids": [],
-      "child_office_external_ids": [],
-      "id": "14820",
-      "location": {
-        "name": "New York, United States"
-      },
-      "name": "New York",
-      "parent_id": null,
-      "parent_office_external_id": null
-    },
     {
       "child_ids": [],
       "child_office_external_ids": [],
@@ -39,6 +28,17 @@
         "name": "Toronto, Canada"
       },
       "name": "Toronto (8 Spadina Ave)",
+      "parent_id": null,
+      "parent_office_external_id": null
+    },
+    {
+      "child_ids": [],
+      "child_office_external_ids": [],
+      "id": "14820",
+      "location": {
+        "name": "New York, United States"
+      },
+      "name": "New York",
       "parent_id": null,
       "parent_office_external_id": null
     }

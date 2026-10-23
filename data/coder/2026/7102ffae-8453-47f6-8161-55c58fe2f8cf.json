@@ -33,15 +33,6 @@
         "additionalInformation": null,
         "components": [
           {
-            "id": "d0628415-9c24-48fe-ab1c-d8f969f93f1d",
-            "summary": "Offers Bonus",
-            "compensationType": "Bonus",
-            "interval": "1 YEAR",
-            "currencyCode": "GBP",
-            "minValue": null,
-            "maxValue": null
-          },
-          {
             "id": "757db5b9-8bb7-49af-a931-ef110118146a",
             "summary": "£116K – £157K",
             "compensationType": "Salary",
@@ -58,18 +49,20 @@
             "currencyCode": null,
             "minValue": null,
             "maxValue": null
+          },
+          {
+            "id": "d0628415-9c24-48fe-ab1c-d8f969f93f1d",
+            "summary": "Offers Bonus",
+            "compensationType": "Bonus",
+            "interval": "1 YEAR",
+            "currencyCode": "GBP",
+            "minValue": null,
+            "maxValue": null
           }
         ]
       }
     ],
     "summaryComponents": [
-      {
-        "compensationType": "Bonus",
-        "interval": "1 YEAR",
-        "currencyCode": "GBP",
-        "minValue": null,
-        "maxValue": null
-      },
       {
         "compensationType": "Salary",
         "interval": "1 YEAR",
@@ -81,6 +74,13 @@
         "compensationType": "EquityPercentage",
         "interval": "NONE",
         "currencyCode": null,
+        "minValue": null,
+        "maxValue": null
+      },
+      {
+        "compensationType": "Bonus",
+        "interval": "1 YEAR",
+        "currencyCode": "GBP",
         "minValue": null,
         "maxValue": null
       }

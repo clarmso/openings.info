@@ -50,7 +50,7 @@
     {
       "id": 4914029,
       "name": "Job Level",
-      "value": "People Manager",
+      "value": "Professional - IC",
       "value_type": "single_select"
     },
     {
@@ -117,7 +117,7 @@
     }
   ],
   "id": 8071475,
-  "updated_at": "2026-10-16T17:59:16-04:00",
+  "updated_at": "2026-10-22T12:00:14-04:00",
   "requisition_id": "2273497173",
   "title": "Lead, Platform Engineering",
   "company_name": "MongoDB",

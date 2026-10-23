@@ -6,7 +6,18 @@
   "employmentType": "FullTime",
   "location": "Remote - European Union",
   "shouldDisplayCompensationOnJobPostings": true,
-  "secondaryLocations": [],
+  "secondaryLocations": [
+    {
+      "location": "United Kingdom",
+      "address": {
+        "postalAddress": {
+          "addressRegion": "",
+          "addressCountry": "United Kingdom",
+          "addressLocality": ""
+        }
+      }
+    }
+  ],
   "publishedAt": "2026-07-03T00:19:40.901+00:00",
   "isListed": true,
   "isRemote": true,
@@ -86,15 +97,6 @@
         "additionalInformation": null,
         "components": [
           {
-            "id": "5f81a8f3-5156-4d44-a166-e01567469a7f",
-            "summary": "Offers Equity",
-            "compensationType": "EquityPercentage",
-            "interval": "NONE",
-            "currencyCode": null,
-            "minValue": null,
-            "maxValue": null
-          },
-          {
             "id": "d68d2427-ae5a-4b73-adf1-0d11c63c5569",
             "summary": "Tier 3 (Ukraine, Lithuania, Romania, Bulgaria, etc) €62K – €81K",
             "compensationType": "Salary",
@@ -102,6 +104,15 @@
             "currencyCode": "EUR",
             "minValue": 62000,
             "maxValue": 81000
+          },
+          {
+            "id": "5f81a8f3-5156-4d44-a166-e01567469a7f",
+            "summary": "Offers Equity",
+            "compensationType": "EquityPercentage",
+            "interval": "NONE",
+            "currencyCode": null,
+            "minValue": null,
+            "maxValue": null
           }
         ]
       },

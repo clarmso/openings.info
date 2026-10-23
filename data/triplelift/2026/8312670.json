@@ -1,0 +1,68 @@
+{
+  "absolute_url": "https://triplelift.com/careers-posts/?gh_jid=8312670",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": false,
+      "requires_processing_consent": false,
+      "requires_retention_consent": false,
+      "retention_period": null,
+      "demographic_data_consent_applies": false
+    }
+  ],
+  "internal_job_id": 3583893,
+  "location": {
+    "name": "Zürich, Zürich, Switzerland"
+  },
+  "metadata": null,
+  "id": 8312670,
+  "updated_at": "2026-10-23T01:54:52-04:00",
+  "requisition_id": "2026048",
+  "title": "Senior Data Scientist",
+  "company_name": "TripleLift ",
+  "first_published": "2026-10-22T10:33:51-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;div class=&quot;content-intro&quot;&gt;&lt;div id=&quot;message-list_1792703120.166779&quot;&gt;\n&lt;div&gt;\n&lt;div&gt;\n&lt;div&gt;\n&lt;div&gt;\n&lt;div&gt;\n&lt;div&gt;\n&lt;div&gt;\n&lt;div&gt;\n&lt;div&gt;\n&lt;div&gt;\n&lt;div&gt;TripleLift is the Creative SSP powered by TL Spark, our agentic intelligence layer. We orchestrate creative, supply, audience, and measurement into a single outcome-driven system across the open internet, retail media, and CTV. Our platform enables brands and agencies to drive measurable performance while helping publishers maximize yield and preserve high-quality user experiences.&lt;/div&gt;\n&lt;/div&gt;\n&lt;/div&gt;\n&lt;/div&gt;\n&lt;/div&gt;\n&lt;/div&gt;\n&lt;/div&gt;\n&lt;/div&gt;\n&lt;/div&gt;\n&lt;/div&gt;\n&lt;/div&gt;\n&lt;/div&gt;&lt;/div&gt;&lt;h2&gt;&lt;strong&gt;Overview&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;The Data Scientist / Machine Learning Engineer plays a critical role in improving the performance of TripleLift’s bidding algorithms and developing scalable machine learning solutions that drive better outcomes for our customers. Within the Data Science team, this role combines statistical analysis, experimentation, and machine learning engineering to uncover market insights, optimize bidding performance, and build production-ready systems.&lt;/p&gt;\n&lt;p&gt;In this position, you will partner closely with engineering, product management, and business stakeholders to identify opportunities, test hypotheses, and translate data-driven insights into measurable business impact. This is an exciting opportunity for someone who enjoys solving complex problems, working with large-scale datasets, and building reliable machine learning systems in a collaborative, fast-paced environment.&lt;/p&gt;\n&lt;h2&gt;&lt;strong&gt;Responsibilities&lt;/strong&gt;&lt;/h2&gt;\n&lt;ul&gt;\n&lt;li&gt;Design and run experiments to improve bidding algorithm performance and maximize outcomes for TripleLift’s customers.&lt;/li&gt;\n&lt;li&gt;Apply statistical analysis and advanced analytics techniques to understand market dynamics and deliver actionable insights and recommendations.&lt;/li&gt;\n&lt;li&gt;Develop, implement, and maintain scalable, production-ready machine learning pipelines and systems, applying best practices in ML engineering.&lt;/li&gt;\n&lt;li&gt;Collaborate with engineering, product management, and business stakeholders to identify opportunities, solve challenges, and drive data-informed decisions.&lt;/li&gt;\n&lt;li&gt;Monitor and evaluate deep learning and machine learning systems to ensure performance, reliability, and effectiveness in production environments.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h2&gt;&lt;strong&gt;Core Technologies&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;The Data Science team uses a wide range of technologies to solve complex problems and support scalable data science and machine learning solutions. We believe in using the right tools for the right job and continually evaluating new technologies as our needs evolve.&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;&lt;strong&gt;Languages:&lt;/strong&gt; Python&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Frameworks and Tools:&lt;/strong&gt; Spark, Airflow, Databricks, ONNX, Docker&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Databases and Data Storage:&lt;/strong&gt; MySQL, Snowflake, Amazon S3, Parquet&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Cloud Infrastructure:&lt;/strong&gt; Amazon Web Services (AWS)&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Machine Learning Libraries:&lt;/strong&gt; TensorFlow, PyTorch, Scikit-learn, Spark&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Monitoring and Visualization:&lt;/strong&gt; Prometheus, Grafana&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h2&gt;&lt;strong&gt;Education &amp;amp; Requirements&lt;/strong&gt;&lt;/h2&gt;\n&lt;ul&gt;\n&lt;li&gt;A degree in a technical or quantitative field is preferred. Candidates with relevant professional experience and degrees in other disciplines will also be considered.&lt;/li&gt;\n&lt;li&gt;At least five years of professional experience in data science and/or machine learning within a collaborative work environment.&lt;/li&gt;\n&lt;li&gt;At least two years of professional experience developing data science and machine learning models in a programmatic advertising environment.&lt;/li&gt;\n&lt;li&gt;Strong foundation in statistical analysis, deep learning, and machine learning techniques.&lt;/li&gt;\n&lt;li&gt;Hands-on experience with TensorFlow or PyTorch to prototype models for high-volume, distributed systems.&lt;/li&gt;\n&lt;li&gt;Experience monitoring and measuring statistical model performance using tools such as Prometheus and Grafana, including building dashboards and alerts to identify performance issues and ensure models function effectively.&lt;/li&gt;\n&lt;li&gt;Strong organizational, communication, and attention-to-detail skills.&lt;/li&gt;\n&lt;li&gt;Ability to work efficiently and independently with minimal oversight.&lt;/li&gt;\n&lt;li&gt;Openness to feedback and constructive criticism, with a commitment to continuous learning and professional development.&lt;/li&gt;\n&lt;li&gt;Strong work ethic and a demonstrated commitment to delivering high-quality work&lt;/li&gt;\n&lt;/ul&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;At TripleLift, we believe great work starts with great people. We foster a culture built on collaboration, curiosity, and a shared commitment to making each other better. We move with urgency, challenge convention, and continuously innovate to elevate digital advertising. We value people who bring new perspectives, take ownership, and work together to drive meaningful impact. Learn more about TripleLift and our culture on our &lt;a href=&quot;https://www.linkedin.com/company/triplelift/life/tripleliftpeopleculturecommunity&quot; target=&quot;_blank&quot;&gt;LinkedIn Life page&lt;/a&gt;.&lt;/p&gt;\n&lt;p&gt;Please review our &lt;a href=&quot;https://triplelift.com/privacy/&quot; target=&quot;_blank&quot;&gt;Privacy Policy&lt;/a&gt; for information about how TripleLift handles personal information.&lt;/p&gt;\n&lt;p&gt;&lt;em&gt;TripleLift does not accept unsolicited resumes from recruitment search firms. Any resume submitted without a signed agreement in place will become the property of TripleLift, and no fee will be due.&lt;/em&gt;&lt;/p&gt;&lt;/div&gt;",
+  "departments": [
+    {
+      "id": 338904,
+      "name": "Technology",
+      "child_ids": [],
+      "parent_id": null
+    }
+  ],
+  "offices": [
+    {
+      "id": 4451,
+      "name": "New York",
+      "location": "New York, New York, United States",
+      "child_ids": [],
+      "parent_id": 87353
+    },
+    {
+      "id": 83867,
+      "name": "Pune",
+      "location": "Pune, Maharashtra, India",
+      "child_ids": [],
+      "parent_id": 83538
+    },
+    {
+      "id": 86951,
+      "name": "Toronto",
+      "location": "Toronto, Ontario, Canada",
+      "child_ids": [],
+      "parent_id": 87353
+    },
+    {
+      "id": 85661,
+      "name": "Zürich",
+      "location": "Zürich, Zürich, Switzerland",
+      "child_ids": [],
+      "parent_id": 83537
+    }
+  ],
+  "ai_disclaimer": null,
+  "include_ai_disclaimer": null,
+  "ai_opt_out_request_url": null
+}

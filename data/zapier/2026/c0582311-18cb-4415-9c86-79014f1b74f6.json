@@ -29,6 +29,15 @@
         "additionalInformation": null,
         "components": [
           {
+            "id": "81f316d9-5577-4ad0-a9a1-aace4a56fdfa",
+            "summary": "Offers Equity",
+            "compensationType": "EquityPercentage",
+            "interval": "NONE",
+            "currencyCode": null,
+            "minValue": null,
+            "maxValue": null
+          },
+          {
             "id": "fec0749d-5acf-4461-8404-5a4913225feb",
             "summary": "€92.6K – €139K",
             "compensationType": "Salary",
@@ -45,20 +54,18 @@
             "currencyCode": "EUR",
             "minValue": null,
             "maxValue": null
-          },
-          {
-            "id": "81f316d9-5577-4ad0-a9a1-aace4a56fdfa",
-            "summary": "Offers Equity",
-            "compensationType": "EquityPercentage",
-            "interval": "NONE",
-            "currencyCode": null,
-            "minValue": null,
-            "maxValue": null
           }
         ]
       }
     ],
     "summaryComponents": [
+      {
+        "compensationType": "EquityPercentage",
+        "interval": "NONE",
+        "currencyCode": null,
+        "minValue": null,
+        "maxValue": null
+      },
       {
         "compensationType": "Salary",
         "interval": "1 YEAR",
@@ -70,13 +77,6 @@
         "compensationType": "Bonus",
         "interval": "1 YEAR",
         "currencyCode": "EUR",
-        "minValue": null,
-        "maxValue": null
-      },
-      {
-        "compensationType": "EquityPercentage",
-        "interval": "NONE",
-        "currencyCode": null,
         "minValue": null,
         "maxValue": null
       }

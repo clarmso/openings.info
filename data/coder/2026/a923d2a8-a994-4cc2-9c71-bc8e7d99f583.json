@@ -101,6 +101,15 @@
         "additionalInformation": "SEs are on base salary/30% variable split.",
         "components": [
           {
+            "id": "d39fe402-4538-4db9-b539-3db9a16d5656",
+            "summary": "Offers Equity",
+            "compensationType": "EquityPercentage",
+            "interval": "NONE",
+            "currencyCode": null,
+            "minValue": null,
+            "maxValue": null
+          },
+          {
             "id": "08eb39ac-82f9-449a-b677-88911a6bfc9a",
             "summary": "Offers Commission",
             "compensationType": "Commission",
@@ -117,15 +126,6 @@
             "currencyCode": "USD",
             "minValue": 175000,
             "maxValue": 236000
-          },
-          {
-            "id": "d39fe402-4538-4db9-b539-3db9a16d5656",
-            "summary": "Offers Equity",
-            "compensationType": "EquityPercentage",
-            "interval": "NONE",
-            "currencyCode": null,
-            "minValue": null,
-            "maxValue": null
           }
         ]
       }

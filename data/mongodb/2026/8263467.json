@@ -1,0 +1,152 @@
+{
+  "absolute_url": "https://www.mongodb.com/careers/job/?gh_jid=8263467",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": false,
+      "requires_processing_consent": false,
+      "requires_retention_consent": false,
+      "retention_period": null,
+      "demographic_data_consent_applies": true
+    }
+  ],
+  "internal_job_id": 3575477,
+  "location": {
+    "name": "United States"
+  },
+  "metadata": [
+    {
+      "id": 22194060,
+      "name": "Position ID",
+      "value": "10005356",
+      "value_type": "short_text"
+    },
+    {
+      "id": 24918,
+      "name": "Department ID",
+      "value": "D22103-Durability and Availability",
+      "value_type": "single_select"
+    },
+    {
+      "id": 22194061,
+      "name": "Team",
+      "value": "T10551-Replication Blue",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4914027,
+      "name": "Region",
+      "value": "North America",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4137836,
+      "name": "Working Model Eligibility",
+      "value": [
+        "1-In Office"
+      ],
+      "value_type": "multi_select"
+    },
+    {
+      "id": 4914029,
+      "name": "Job Level",
+      "value": "Professional - IC",
+      "value_type": "single_select"
+    },
+    {
+      "id": 24109,
+      "name": "Employment Type",
+      "value": "Full-time",
+      "value_type": "single_select"
+    },
+    {
+      "id": 1073551,
+      "name": "Job Type",
+      "value": "Standard",
+      "value_type": "single_select"
+    },
+    {
+      "id": 988684,
+      "name": "JD Link",
+      "value": "https://docs.google.com/document/d/1Ex04L6yzAmjQrfgSnXm6OTZvjcmw69jxgq06hzXxSUE/edit?usp=sharing",
+      "value_type": "url"
+    },
+    {
+      "id": 5525802,
+      "name": "Baseline Budgeted Salary",
+      "value": {
+        "unit": "USD",
+        "max_value": "225000.0",
+        "min_value": "157000.0"
+      },
+      "value_type": "currency_range"
+    },
+    {
+      "id": 5525816,
+      "name": "Other Large Market Budgeted Salary",
+      "value": null,
+      "value_type": "currency_range"
+    },
+    {
+      "id": 13324394,
+      "name": "Job Post Range (United States)",
+      "value": {
+        "unit": "USD",
+        "max_value": "273000.0",
+        "min_value": "101000.0"
+      },
+      "value_type": "currency_range"
+    },
+    {
+      "id": 40497768,
+      "name": "Job Post Range (Canada)",
+      "value": {
+        "unit": "USD",
+        "max_value": "0.0",
+        "min_value": "0.0"
+      },
+      "value_type": "currency_range"
+    },
+    {
+      "id": 57694516,
+      "name": "Job Post Range (Poland)",
+      "value": null,
+      "value_type": "currency_range"
+    },
+    {
+      "id": 64002488,
+      "name": "Job Post Range (Italy)",
+      "value": null,
+      "value_type": "currency_range"
+    }
+  ],
+  "id": 8263467,
+  "updated_at": "2026-10-22T14:02:37-04:00",
+  "requisition_id": "3273575477",
+  "title": "Senior Software Engineer, Workload Resilience",
+  "company_name": "MongoDB",
+  "first_published": "2026-10-22T14:02:37-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;p&gt;The Workload Resilience team is focused on improving the availability of MongoDB through solutions in the data plane. We build out the core server workload management infrastructure so that MongoDB can properly queue, load shed, and make decisions to stabilize performance during situations where system resources are beginning to become constrained. We are the team behind the recent release of &lt;a href=&quot;https://www.mongodb.com/docs/atlas/intelligent-workload-management/?interface=atlas-ui&quot;&gt;Intelligent Workload Management&lt;/a&gt;, a new product feature that introduces dynamic rate limiting and operation prioritizations when the database is overloaded.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;We are an agile team looking for an engineer who is excited about shipping incremental improvements quickly and strong obsessions with customer impact and operational excellence.&lt;/p&gt;\n&lt;p&gt;We are looking to speak to candidates who are based near one of our MongoDB Offices for our hybrid working model.&lt;/p&gt;\n&lt;h3&gt;Candidate Profile&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Minimum 5 years of experience in programming, debugging, and performance tuning distributed and/or highly concurrent low-level software systems. Experience in C++ and/or Rust is preferable.&lt;/li&gt;\n&lt;li&gt;Strong operational excellence fundamentals, with a focus on refining tools, team processes, and culture to deliver high-quality and reliable software consistently&lt;/li&gt;\n&lt;li&gt;Strong systems fundamentals, including multi-threaded programming and performance profiling&lt;/li&gt;\n&lt;li&gt;Excellent verbal and written technical communication skills and a desire to collaborate with colleagues and mentor junior engineers and interns.&lt;/li&gt;\n&lt;li&gt;Experience with distributed system concepts such as fault tolerance, consistency, and availability&lt;/li&gt;\n&lt;li&gt;Experience with writing software to observe and mitigate overload scenarios for highly performant and concurrent systems&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;Position Expectations&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Write production-ready database code in C++, Rust, or possibly another low-level language&lt;/li&gt;\n&lt;li&gt;Write unit tests and integration tests in C++, Rust, Javascript, and Python to demonstrate application correctness&lt;/li&gt;\n&lt;li&gt;Investigate the availability and performance characteristics of the server and write regression tests&lt;/li&gt;\n&lt;li&gt;Implement and continuously improve server workload policies to rate limit, prioritize, and make decisions about incoming and in-progress operations to maximize database availability and performance while the system is overloaded&lt;/li&gt;\n&lt;li&gt;Improve the workload and system observability/diagnostics of the core server.&lt;/li&gt;\n&lt;li&gt;Diagnose availability, performance and correctness test failures, identify bugs and/or deficiencies in existing code, and fix them&lt;/li&gt;\n&lt;li&gt;Interview candidates for software engineering positions&lt;/li&gt;\n&lt;li&gt;Proactively and continuously improve our operational readiness including monitoring and observability, incidence management and rollout processes.&lt;/li&gt;\n&lt;li&gt;Collaborate with stakeholders and engineering teams across the company to jointly work on large initiatives&lt;/li&gt;\n&lt;li&gt;Mentor new and junior engineers on the team, participating in helping facilitate technical growth in the team&lt;/li&gt;\n&lt;li&gt;Lead projects through writing scope and technical design documents, and be able to appropriately estimate and plan out execution streams across contributors&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;Success Measures&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;In the first month, you will have understood the high level architecture of MongoDB and fixed a few bugs&lt;/li&gt;\n&lt;li&gt;In three months, you will have contributed to the development of a project slated for the next major release of MongoDB. You will have taken on code review responsibilities and are involved in reviewing the design for new features&lt;/li&gt;\n&lt;li&gt;In six months, you will be leading the development of a new feature and helping to mentor new engineers on the team&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;About MongoDB&lt;/h3&gt;\n&lt;p&gt;MongoDB is built for change, empowering our customers and our people to innovate at the speed of the market. We have redefined the data platform for the AI era, enabling builders to create, transform, and disrupt industries with software. MongoDB’s unified data platform, the most widely available, globally distributed data platform on the market, helps organizations modernize legacy workloads, embrace innovation, and unleash AI. Our cloud-native platform, MongoDB Atlas, is the only globally distributed, multi-cloud data platform and is available across AWS, Google Cloud, and Microsoft Azure.&lt;/p&gt;\n&lt;p&gt;With offices worldwide and over 67,000 customers, including AI-native startups and approximately 75% of the Fortune 100, relying on MongoDB for their most important applications, we’re powering the next era of software.&lt;/p&gt;\n&lt;p&gt;Our compass at MongoDB is our &lt;a href=&quot;https://www.mongodb.com/company&quot;&gt;Leadership Commitment,&lt;/a&gt; guiding how and why we make decisions, show up for each other, and win. It’s what makes us MongoDB.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;To drive the personal growth and business impact of our employees, we’re committed to developing a supportive and enriching culture for everyone. &lt;a href=&quot;https://www.mongodb.com/company/blog/culture/employee-benefits-that-make-a-difference-at-mongodb&quot;&gt;From employee affinity groups, to fertility assistance and a generous parental leave policy&lt;/a&gt;, we value our employees’ wellbeing and want to support them along every step of their professional and personal journeys.&lt;a href=&quot;https://www.mongodb.com/blog/channel/culture&quot;&gt; Learn more about what it’s like to work at MongoDB&lt;/a&gt;, and help us make an impact on the world!&lt;/p&gt;\n&lt;p&gt;MongoDB is committed to providing any necessary accommodations for individuals with disabilities within our application and interview process. To request an accommodation due to a disability, please inform your recruiter.&lt;/p&gt;\n&lt;p&gt;MongoDB, Inc. provides equal employment opportunities to all employees and applicants for employment and prohibits discrimination and harassment of any type and makes all hiring decisions without regard to race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state or local laws.&lt;/p&gt;\n&lt;p&gt;Req ID: 3273575477&lt;/p&gt;&lt;div class=&quot;content-pay-transparency&quot;&gt;&lt;div class=&quot;pay-input&quot;&gt;&lt;div class=&quot;description&quot;&gt;&lt;p&gt;MongoDB’s base salary range for this role is posted below. Compensation at the time of offer is unique to each candidate and based on a variety of factors such as skill set, experience, qualifications, and work location. Salary is one part of MongoDB’s total compensation and benefits package. Other benefits for eligible employees may include: equity, participation in the employee stock purchase program, flexible paid time off, 20 weeks fully-paid gender-neutral parental leave, fertility and adoption assistance, 401(k) plan, mental health counseling, access to transgender-inclusive health insurance coverage, and health benefits offerings. Please note, the base salary range listed below and the benefits in this paragraph are only applicable to U.S.-based candidates.&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;title&quot;&gt;MongoDB’s base salary range for this role in the U.S. is:&lt;/div&gt;&lt;div class=&quot;pay-range&quot;&gt;&lt;span&gt;$101,000&lt;/span&gt;&lt;span class=&quot;divider&quot;&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;$273,000 USD&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;",
+  "departments": [
+    {
+      "id": 406857,
+      "name": "Durability and Availability",
+      "child_ids": [],
+      "parent_id": 371021
+    }
+  ],
+  "offices": [
+    {
+      "id": 3960,
+      "name": "New York City",
+      "location": "New York, NY, United States",
+      "child_ids": [],
+      "parent_id": 23657
+    }
+  ],
+  "ai_disclaimer": null,
+  "include_ai_disclaimer": false,
+  "ai_opt_out_request_url": null
+}

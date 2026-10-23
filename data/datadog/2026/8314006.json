@@ -1,0 +1,99 @@
+{
+  "absolute_url": "https://careers.datadoghq.com/detail/8314006/?gh_jid=8314006",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": false,
+      "requires_processing_consent": false,
+      "requires_retention_consent": false,
+      "retention_period": null,
+      "demographic_data_consent_applies": false
+    }
+  ],
+  "internal_job_id": 3594615,
+  "location": {
+    "name": "New York, New York, USA"
+  },
+  "metadata": [
+    {
+      "id": 33310,
+      "name": "Time Type",
+      "value": "Full time",
+      "value_type": "single_select"
+    },
+    {
+      "id": 166208,
+      "name": "Area - Engineering",
+      "value": "Product Management",
+      "value_type": "single_select"
+    },
+    {
+      "id": 498252,
+      "name": "Cost Center",
+      "value": "Engineering - Product Management",
+      "value_type": "single_select"
+    },
+    {
+      "id": 516515,
+      "name": "Geography",
+      "value": "North America",
+      "value_type": "single_select"
+    },
+    {
+      "id": 9593635,
+      "name": "Early Career Time Type",
+      "value": null,
+      "value_type": "single_select"
+    },
+    {
+      "id": 29446322,
+      "name": "Pay Transparency Range",
+      "value": null,
+      "value_type": "currency_range"
+    },
+    {
+      "id": 31273219,
+      "name": "Does this role require access to ITAR-controlled data?",
+      "value": null,
+      "value_type": "single_select"
+    },
+    {
+      "id": 58619948,
+      "name": "IC or MG",
+      "value": "MG",
+      "value_type": "single_select"
+    }
+  ],
+  "id": 8314006,
+  "updated_at": "2026-10-22T12:01:31-04:00",
+  "requisition_id": "R22211",
+  "title": "Group Product Manager - Code Security",
+  "company_name": "Datadog",
+  "first_published": "2026-10-22T12:01:31-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;h3 data-renderer-start-pos=&quot;39&quot; data-local-id=&quot;1fd4ecbbb228&quot;&gt;&lt;strong data-renderer-mark=&quot;true&quot;&gt;About Datadog:&lt;/strong&gt;&lt;/h3&gt;\n&lt;p data-renderer-start-pos=&quot;55&quot; data-local-id=&quot;b93d3310ee19&quot;&gt;We&#39;re on a mission to build the best platform in the world to defend the enterprise from code-to-cloud-to-runtime. Used by thousands of companies globally, Datadog security products uniquely leverage Datadog’s unified security and observability platform so Security, DevOps and SRE can collaborate rapidly and seamlessly to deliver better detection, prioritization and remediation. Our product and engineering culture values pragmatism, honesty, and simplicity to solve hard problems the right way.&lt;/p&gt;\n&lt;p data-renderer-start-pos=&quot;55&quot; data-local-id=&quot;b93d3310ee19&quot;&gt;&lt;em&gt;At Datadog, we place value in our office culture - the relationships and collaboration it builds, and the creativity it brings to the table. We operate as a hybrid workplace to ensure our Datadogs can create a work-life harmony that best fits them.&lt;/em&gt;&lt;/p&gt;\n&lt;h3 data-renderer-start-pos=&quot;557&quot; data-local-id=&quot;98163fba1659&quot;&gt;&lt;strong data-renderer-mark=&quot;true&quot;&gt;The Opportunity:&lt;/strong&gt;&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li data-renderer-start-pos=&quot;575&quot; data-local-id=&quot;63ca9e4a84e0&quot;&gt;In this competitive market, the Group Product Manager for Code Security will play a mission-critical role in providing product and strategy leadership to grow Datadog’s market share through differentiation, innovation and compelling customer value.&lt;br&gt;&lt;br&gt;&lt;/li&gt;\n&lt;li data-renderer-start-pos=&quot;825&quot; data-local-id=&quot;a8e61e8c6196&quot;&gt;This leader will lead a talented and growing team of product managers and work with world class engineers to build and grow multiple Code Security products that play an essential role for our customers’ code security programs, and growing Datadog into a security industry leader.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3 data-renderer-start-pos=&quot;1108&quot; data-local-id=&quot;8defe86feafe&quot;&gt;&lt;strong data-renderer-mark=&quot;true&quot;&gt;You Will:&amp;nbsp;&lt;/strong&gt;&lt;/h3&gt;\n&lt;ul class=&quot;ak-ul&quot; data-local-id=&quot;22e980195779&quot; data-indent-level=&quot;1&quot;&gt;\n&lt;li&gt;\n&lt;p data-renderer-start-pos=&quot;1122&quot; data-local-id=&quot;197d84e11e5c&quot;&gt;Run and grow multiple Code Security products to meet revenue and business targets with the goal of building a multi-hundred million dollar annual business.&lt;/p&gt;\n&lt;/li&gt;\n&lt;li&gt;\n&lt;p data-renderer-start-pos=&quot;1281&quot; data-local-id=&quot;5acde711d45a&quot;&gt;Lead and own product strategy and roadmap for accountable security products, fully aligned to revenue and business goals and with compelling differentiation and customer value.&lt;/p&gt;\n&lt;/li&gt;\n&lt;li&gt;\n&lt;p data-renderer-start-pos=&quot;1461&quot; data-local-id=&quot;97af92b94e2f&quot;&gt;Ensure predictable roadmap execution across direct and partner teams to achieve product and business outcomes required to meet the revenue and business goals.&lt;/p&gt;\n&lt;/li&gt;\n&lt;li&gt;\n&lt;p data-renderer-start-pos=&quot;1623&quot; data-local-id=&quot;daa5121b82db&quot;&gt;Analyze and develop pricing and packaging strategies to maximize revenue through attaching deep understanding of market dynamics and other strategic leverage points.&lt;/p&gt;\n&lt;/li&gt;\n&lt;li&gt;\n&lt;p data-renderer-start-pos=&quot;1792&quot; data-local-id=&quot;f0b4052aaaa1&quot;&gt;Drive &lt;span class=&quot;acronym-highlight&quot;&gt;GTM&lt;/span&gt; strategy with GTM partner teams to achieve revenue and business goals&lt;/p&gt;\n&lt;/li&gt;\n&lt;li&gt;\n&lt;p data-renderer-start-pos=&quot;1875&quot; data-local-id=&quot;eae4a94c6c4e&quot;&gt;Fulfill the role as the product-leader representative across accountable product lines with analyst, press and customer communities&lt;/p&gt;\n&lt;/li&gt;\n&lt;li&gt;\n&lt;p data-renderer-start-pos=&quot;2010&quot; data-local-id=&quot;97506cb3775b&quot;&gt;Manage and grow individual contributor (IC) Product Managers, ensuring they are motivated, delivering high quality work and finding high fulfillment.&lt;/p&gt;\n&lt;/li&gt;\n&lt;li&gt;\n&lt;p data-renderer-start-pos=&quot;2163&quot; data-local-id=&quot;d2611c30332e&quot;&gt;Model and contribute to a culture of learning and collaboration across product management and the broader organization&lt;/p&gt;\n&lt;/li&gt;\n&lt;li&gt;\n&lt;p data-renderer-start-pos=&quot;2285&quot; data-local-id=&quot;4f7b3fa6ff87&quot;&gt;Raise the bar of PM leadership through leadership in strategy development, roadmap planning and execution, GTM and overall product-leader responsibilities.&lt;/p&gt;\n&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3 data-renderer-start-pos=&quot;2446&quot; data-local-id=&quot;325fbc6f1b51&quot;&gt;&lt;strong data-renderer-mark=&quot;true&quot;&gt;You Are:&lt;/strong&gt;&lt;/h3&gt;\n&lt;ul class=&quot;ak-ul&quot; data-local-id=&quot;fe948b0e096a&quot; data-indent-level=&quot;1&quot;&gt;\n&lt;li&gt;\n&lt;p data-renderer-start-pos=&quot;2458&quot; data-local-id=&quot;7657c0f26dbb&quot;&gt;An experienced leader in Product Management with demonstrated business growth and customer adoption success in the &lt;span class=&quot;acronym-highlight&quot;&gt;CNAPP&lt;/span&gt;, data and AI security markets.&lt;/p&gt;\n&lt;/li&gt;\n&lt;li&gt;\n&lt;p data-renderer-start-pos=&quot;2613&quot; data-local-id=&quot;2a6a00305381&quot;&gt;A seasoned team leader with experience directly managing product management teams and mentoring talent into sustained high performers.&amp;nbsp;&lt;/p&gt;\n&lt;/li&gt;\n&lt;li&gt;\n&lt;p data-renderer-start-pos=&quot;2752&quot; data-local-id=&quot;c686e58cb0ab&quot;&gt;Passionate about GTM and have demonstrated success in developing GTM programs and achieving GTM targets with counterparts in sales, sales engineering, channels, marketing and customer success.&amp;nbsp;&lt;/p&gt;\n&lt;/li&gt;\n&lt;li&gt;\n&lt;p data-renderer-start-pos=&quot;2949&quot; data-local-id=&quot;52c8c6a898a6&quot;&gt;Excellent at cross-functional alignment and ensuring all partner organizations are fully aligned and committed to delivering what is needed to achieve roadmap and business goals.&lt;/p&gt;\n&lt;/li&gt;\n&lt;li&gt;\n&lt;p data-renderer-start-pos=&quot;3131&quot; data-local-id=&quot;79dc76e8d998&quot;&gt;Highly skilled in pricing and packaging strategies to maximize revenue potential and strategic advantage.&lt;/p&gt;\n&lt;/li&gt;\n&lt;li&gt;\n&lt;p data-renderer-start-pos=&quot;3240&quot; data-local-id=&quot;9e2d92186e51&quot;&gt;Highly customer-centric and a convincing champion of the needs of the customer to deliver a compelling, high value and high quality customer experience across all phases of the customer lifecycle&lt;/p&gt;\n&lt;/li&gt;\n&lt;li&gt;\n&lt;p data-renderer-start-pos=&quot;3439&quot; data-local-id=&quot;543451a792cd&quot;&gt;Demonstrated technical knowledge to be able to discuss technical concepts with customers and engineering counterparts&lt;/p&gt;\n&lt;/li&gt;\n&lt;li&gt;\n&lt;p data-renderer-start-pos=&quot;3560&quot; data-local-id=&quot;5bd6d64592c4&quot;&gt;A compelling presenter with excellent verbal and written communication skills with a proven track record of presenting and defending your ideas to executive, technical and non-technical audiences, as well as external audiences including industry analysts.&lt;/p&gt;\n&lt;/li&gt;\n&lt;li&gt;\n&lt;p data-renderer-start-pos=&quot;3819&quot; data-local-id=&quot;907376d8b71f&quot;&gt;Highly data-driven with an advanced analytical aptitude that can draw critical insights through synthesizing market, competitive, usage, pipeline and other data sources.&lt;/p&gt;\n&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;em&gt;Datadog values people from all walks of life. We understand not everyone will meet all the above qualifications on day one. That&#39;s okay. If you’re passionate about technology and want to grow your skills, we encourage you to apply.&lt;/em&gt;&lt;/p&gt;\n&lt;h3 data-renderer-start-pos=&quot;3994&quot; data-local-id=&quot;eec81eda2749&quot;&gt;&lt;strong data-renderer-mark=&quot;true&quot;&gt;Why You Should Apply:&amp;nbsp;&lt;/strong&gt;&lt;/h3&gt;\n&lt;ul class=&quot;ak-ul&quot; data-local-id=&quot;4262d14098dd&quot; data-indent-level=&quot;1&quot;&gt;\n&lt;li&gt;\n&lt;p data-renderer-start-pos=&quot;4020&quot; data-local-id=&quot;d6130c8a07df&quot;&gt;Generous and competitive &lt;a class=&quot;_2hGPVj98eZ _2i3C1kYbGa _2kH23qT6kp _1ubuxoD6gn _34b3D2vc3e _1NDpvb6wH8 _2wtOC9vc3e _3e11vU6wH8 _0hSAgbHZdu _00uqCYyL8i _3xtjKN0Rl6 _0H9qDF6wH8 _24h04i2Njc _1mT5xdRAKS _0bjKvDcjp5 _0WKd3G4z3T _23rrnHo10F _1UtDYzM7Tp _32C2rkyL8i _0i9AWA0Rl6 _0mm6KQ6wH8 _10n1R5M7Tp _0DCa9Ds4Fm _3932vv0Rl6 _02cRtH6wH8 _1B4rbIo10F _0clgaMM7Tp _3WzCGis4Fm _0NqVRt0Rl6 _3BKYwu6wH8 _3sFUREDdj4 _0CMRbkAwSC _2nTuUYWfPD _3ADzdEWfPD _1warJ9WfPD _4scvAwWyeI&quot; href=&quot;https://www.datadoghq.com/global-benefits/&quot; data-renderer-mark=&quot;true&quot; data-is-router-link=&quot;false&quot; data-testid=&quot;link-with-safety&quot;&gt;&lt;u data-renderer-mark=&quot;true&quot;&gt;global&lt;/u&gt;&lt;/a&gt; and &lt;a class=&quot;_2hGPVj98eZ _2i3C1kYbGa _2kH23qT6kp _1ubuxoD6gn _34b3D2vc3e _1NDpvb6wH8 _2wtOC9vc3e _3e11vU6wH8 _0hSAgbHZdu _00uqCYyL8i _3xtjKN0Rl6 _0H9qDF6wH8 _24h04i2Njc _1mT5xdRAKS _0bjKvDcjp5 _0WKd3G4z3T _23rrnHo10F _1UtDYzM7Tp _32C2rkyL8i _0i9AWA0Rl6 _0mm6KQ6wH8 _10n1R5M7Tp _0DCa9Ds4Fm _3932vv0Rl6 _02cRtH6wH8 _1B4rbIo10F _0clgaMM7Tp _3WzCGis4Fm _0NqVRt0Rl6 _3BKYwu6wH8 _3sFUREDdj4 _0CMRbkAwSC _2nTuUYWfPD _3ADzdEWfPD _1warJ9WfPD _4scvAwWyeI&quot; href=&quot;https://www.datadoghq.com/us-benefits/&quot; data-renderer-mark=&quot;true&quot; data-is-router-link=&quot;false&quot; data-testid=&quot;link-with-safety&quot;&gt;&lt;u data-renderer-mark=&quot;true&quot;&gt;US benefits&lt;/u&gt;&lt;/a&gt;&lt;/p&gt;\n&lt;/li&gt;\n&lt;li&gt;\n&lt;p data-renderer-start-pos=&quot;4071&quot; data-local-id=&quot;a821c80dc9cb&quot;&gt;New hire stock equity (RSUs) and employee stock purchase plan&lt;/p&gt;\n&lt;/li&gt;\n&lt;li&gt;\n&lt;p data-renderer-start-pos=&quot;4136&quot; data-local-id=&quot;ecee1ad841d3&quot;&gt;Continuous career development and pathing opportunities&amp;nbsp;&lt;/p&gt;\n&lt;/li&gt;\n&lt;li&gt;\n&lt;p data-renderer-start-pos=&quot;4196&quot; data-local-id=&quot;18b80b91fe4a&quot;&gt;Product training to develop an in-depth understanding of our product and space&lt;/p&gt;\n&lt;/li&gt;\n&lt;li&gt;\n&lt;p data-renderer-start-pos=&quot;4278&quot; data-local-id=&quot;cee8d28a9cef&quot;&gt;Internal mentor and buddy program cross-departmentally&lt;/p&gt;\n&lt;/li&gt;\n&lt;li&gt;\n&lt;p data-renderer-start-pos=&quot;4336&quot; data-local-id=&quot;b8503a4dd75c&quot;&gt;Friendly and inclusive workplace culture&lt;/p&gt;\n&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;em&gt;Benefits and Growth listed above may vary based on the country of your employment and the nature of your employment with Datadog.&lt;/em&gt;&lt;/p&gt;\n&lt;p style=&quot;color: white;&quot;&gt;#LI-Hybrid&lt;/p&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;hr&gt;\n&lt;p&gt;&lt;strong&gt;About Datadog:&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Datadog is the leading observability and security platform for the AI era, providing businesses with unified visibility across the technology stack to manage complexity at scale. It brings applications, infrastructure, data, models, and security into one place, using AI to detect and resolve issues before they impact customers. Trusted globally by Fortune 500 companies and high-growth AI leaders, Datadog enables businesses to move faster with clarity and confidence. Learn more about #DatadogLife on &lt;a href=&quot;https://www.instagram.com/datadoghq/?hl=en&quot; target=&quot;_blank&quot;&gt;Instagram&lt;/a&gt;, &lt;a href=&quot;https://www.linkedin.com/company/datadog&quot; target=&quot;_blank&quot;&gt;LinkedIn,&lt;/a&gt; and &lt;a href=&quot;https://learn.datadoghq.com/&quot; target=&quot;_blank&quot;&gt;Datadog Learning Center. &lt;/a&gt;&lt;/p&gt;\n&lt;hr&gt;\n&lt;p data-renderer-start-pos=&quot;215&quot;&gt;&lt;strong data-renderer-mark=&quot;true&quot;&gt;Equal Opportunity at Datadog:&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Datadog is proud to offer &lt;a href=&quot;https://www.eeoc.gov/sites/default/files/2023-06/22-088_EEOC_KnowYourRights6.12ScreenRdr.pdf&quot; target=&quot;_blank&quot;&gt;equal employment opportunity&lt;/a&gt; to everyone regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity, veteran status, and other characteristics protected by law. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. Here are our &lt;a href=&quot;https://www.datadoghq.com/legal/candidate-legal-notices/&quot; target=&quot;_blank&quot;&gt;Candidate Legal Notices&lt;/a&gt; for your reference.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;Datadog endeavors to make our Careers Page accessible to all users. If you would like to contact us regarding the accessibility of our website or need assistance completing the application process, please complete &lt;a href=&quot;https://docs.google.com/forms/d/e/1FAIpQLSeoJeduEZ2NdZF_65uZmWUrCM-zee7yADXX1s6Xr9zAGq8iKA/viewform&quot; target=&quot;_blank&quot;&gt;this form&lt;/a&gt;. This form is for accommodation requests only and cannot be used to inquire about the status of applications.&amp;nbsp;&lt;/p&gt;\n&lt;p data-renderer-start-pos=&quot;662&quot;&gt;&lt;strong data-renderer-mark=&quot;true&quot;&gt;Privacy and AI Guidelines:&lt;/strong&gt;&lt;/p&gt;\n&lt;p data-renderer-start-pos=&quot;662&quot;&gt;Any information you submit to Datadog as part of your application will be processed in accordance with Datadog’s&amp;nbsp;&lt;a class=&quot;c-link&quot; href=&quot;https://www.datadoghq.com/legal/applicant-candidate-privacy/&quot; target=&quot;_blank&quot; data-stringify-link=&quot;https://www.datadoghq.com/legal/applicant-candidate-privacy/&quot; data-sk=&quot;tooltip_parent&quot;&gt;Applicant and Candidate Privacy Notice&lt;/a&gt;. For information on our AI policy, please visit &lt;a href=&quot;https://www.datadoghq.com/legal/interviewing-at-datadog-ai-guidelines/&quot; target=&quot;_blank&quot;&gt;Interviewing at Datadog AI Guidelines&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;",
+  "departments": [
+    {
+      "id": 72255,
+      "name": "Product Management",
+      "child_ids": [],
+      "parent_id": 9022
+    }
+  ],
+  "offices": [
+    {
+      "id": 5664,
+      "name": "New York",
+      "location": "New York, NY, United States",
+      "child_ids": [
+        81327,
+        76746
+      ],
+      "parent_id": 73429
+    }
+  ],
+  "ai_disclaimer": null,
+  "include_ai_disclaimer": null,
+  "ai_opt_out_request_url": null
+}

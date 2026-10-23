@@ -135,9 +135,9 @@
   ],
   "offices": [
     {
-      "id": 3962,
-      "name": "Dublin",
-      "location": "Dublin, Ireland",
+      "id": 346315,
+      "name": "IRL_Cork",
+      "location": null,
       "child_ids": [],
       "parent_id": 23658
     }

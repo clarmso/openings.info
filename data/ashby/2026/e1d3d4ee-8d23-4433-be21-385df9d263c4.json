@@ -120,15 +120,6 @@
         "additionalInformation": null,
         "components": [
           {
-            "id": "b2d3cb3f-f399-44ab-874b-ea921a2bac24",
-            "summary": "Estimated Base Salary £95K – £120K",
-            "compensationType": "Salary",
-            "interval": "1 YEAR",
-            "currencyCode": "GBP",
-            "minValue": 95000,
-            "maxValue": 120000
-          },
-          {
             "id": "4fc62eb7-a67f-4012-8ee2-37cd10a3ddd6",
             "summary": "Offers Equity",
             "compensationType": "EquityPercentage",
@@ -136,6 +127,15 @@
             "currencyCode": null,
             "minValue": null,
             "maxValue": null
+          },
+          {
+            "id": "b2d3cb3f-f399-44ab-874b-ea921a2bac24",
+            "summary": "Estimated Base Salary £95K – £120K",
+            "compensationType": "Salary",
+            "interval": "1 YEAR",
+            "currencyCode": "GBP",
+            "minValue": 95000,
+            "maxValue": 120000
           }
         ]
       },
@@ -172,15 +172,6 @@
         "additionalInformation": null,
         "components": [
           {
-            "id": "8299edf5-1a3a-4e0a-adf5-c80a65bdabee",
-            "summary": "Estimated Base Salary €95K – €120K",
-            "compensationType": "Salary",
-            "interval": "1 YEAR",
-            "currencyCode": "EUR",
-            "minValue": 95000,
-            "maxValue": 120000
-          },
-          {
             "id": "686728ef-e733-42d5-b9f8-e76188af680c",
             "summary": "Offers Equity",
             "compensationType": "EquityPercentage",
@@ -188,6 +179,15 @@
             "currencyCode": null,
             "minValue": null,
             "maxValue": null
+          },
+          {
+            "id": "8299edf5-1a3a-4e0a-adf5-c80a65bdabee",
+            "summary": "Estimated Base Salary €95K – €120K",
+            "compensationType": "Salary",
+            "interval": "1 YEAR",
+            "currencyCode": "EUR",
+            "minValue": 95000,
+            "maxValue": 120000
           }
         ]
       },
@@ -224,15 +224,6 @@
         "additionalInformation": null,
         "components": [
           {
-            "id": "1e70c1e6-63d1-4eba-8c2b-e5a850afdf71",
-            "summary": "Estimated Base Salary €75K – €90K",
-            "compensationType": "Salary",
-            "interval": "1 YEAR",
-            "currencyCode": "EUR",
-            "minValue": 75000,
-            "maxValue": 90000
-          },
-          {
             "id": "ebf8c886-a730-4fa7-8817-52b94add25dc",
             "summary": "Offers Equity",
             "compensationType": "EquityPercentage",
@@ -240,23 +231,32 @@
             "currencyCode": null,
             "minValue": null,
             "maxValue": null
+          },
+          {
+            "id": "1e70c1e6-63d1-4eba-8c2b-e5a850afdf71",
+            "summary": "Estimated Base Salary €75K – €90K",
+            "compensationType": "Salary",
+            "interval": "1 YEAR",
+            "currencyCode": "EUR",
+            "minValue": 75000,
+            "maxValue": 90000
           }
         ]
       }
     ],
     "summaryComponents": [
       {
+        "compensationType": "EquityPercentage",
+        "minValue": null,
+        "maxValue": null,
+        "interval": "1 YEAR"
+      },
+      {
         "minValue": 90000,
         "maxValue": 120000,
         "currencyCode": "GBP",
         "interval": "1 YEAR",
         "compensationType": "Salary"
-      },
-      {
-        "compensationType": "EquityPercentage",
-        "minValue": null,
-        "maxValue": null,
-        "interval": "1 YEAR"
       }
     ]
   }

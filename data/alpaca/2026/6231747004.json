@@ -1,0 +1,66 @@
+{
+  "absolute_url": "https://job-boards.greenhouse.io/alpaca/jobs/6231747004",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": false,
+      "requires_processing_consent": false,
+      "requires_retention_consent": false,
+      "retention_period": null,
+      "demographic_data_consent_applies": false
+    }
+  ],
+  "internal_job_id": 5231335004,
+  "location": {
+    "name": "Remote Americas"
+  },
+  "metadata": null,
+  "id": 6231747004,
+  "updated_at": "2026-10-22T22:08:34-04:00",
+  "requisition_id": "N260207",
+  "title": "Senior Software Engineer - Identity",
+  "company_name": "Alpaca ",
+  "first_published": "2026-10-22T22:08:34-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;Who We Are:&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Alpaca is a US-headquartered, global leader in agent-first brokerage infrastructure&amp;nbsp;&lt;/strong&gt;for stocks, ETFs, options, crypto, fixed income, 24/5 trading, and more.&lt;br&gt;&lt;br&gt;Amongst our subsidiaries, Alpaca is a licensed financial services company, serving hundreds of financial institutions across 40 countries with our institutional-grade APIs. This includes broker-dealers, investment advisors, wealth managers, hedge funds, and crypto exchanges, totalling over 10 million brokerage accounts.&lt;br&gt;&lt;br&gt;Our global team is a diverse group of experienced engineers, traders, and brokerage professionals who are working to achieve our mission of opening financial services to everyone on the planet. We&#39;re deeply committed to open-source contributions and fostering a vibrant community, continuously enhancing our award-winning, developer-friendly API and the robust infrastructure behind it.&lt;br&gt;&lt;br&gt;&lt;strong&gt;Alpaca is proudly backed by $400 million in funding from top-tier global investors including Portage Ventures, Spark Capital, Tribe Capital, Social Leverage, Horizons Ventures, Opera Tech Ventures, SBI Group, Derayah Financial, Unbound, Peak XV, Elefund, and Y Combinator.&lt;/strong&gt;&lt;br&gt;&lt;br&gt;&lt;strong&gt;Our Team Members:&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;We&#39;re a dynamic team of 400+ globally distributed members who thrive working from our favorite places around the world, with teammates spanning the USA, Canada, Japan, Hungary, Nigeria, Brazil, the UK, and beyond!&lt;br&gt;&lt;br&gt;We&#39;re searching for passionate individuals eager to contribute to Alpaca&#39;s rapid growth. If you align with our core values—Stay Curious, Have Empathy, and Be Accountable—and are ready to make a significant impact, we encourage you to apply.&lt;/p&gt;&lt;/div&gt;&lt;h3&gt;&lt;strong&gt;Your Role:&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;&lt;strong&gt;As a senior software engineer, you will help build and scale the systems and services that form Alpaca&#39;s foundation and empower millions of users who trade billions of dollars worth of assets.&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;The identity team is responsible for building a modern platform for onboarding users, verifying their identity, evaluating risk, and managing their trading accounts. These people, businesses, and accounts are foundational components of the Alpaca system, and we need to build new capabilities while achieving very high automation rates. We are expanding the platform to handle identity verification on a global basis and to support our growing set of account types.&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;We are looking for senior engineers who are keen on providing quality solutions, have great fundamentals, have proven experience building and architecting at scale, and are not afraid of challenging conventions or voicing their opinions. In this role, you will have the autonomy to design and implement solutions to achieve defined goals while actively participating in defining those goals. An understanding of cloud-based modern architecture, infrastructure, and orchestration practices is also a great asset we are actively looking for.&lt;/strong&gt;&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;Things You Get To Do:&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;&lt;strong&gt;Contribute to a core system that millions of end users will rely on&lt;/strong&gt;&lt;strong&gt;Help us create a global financial identity verification and risk management service&lt;/strong&gt;&lt;strong&gt;Implement backend services and work on designing an architecture where reliability matters&lt;/strong&gt;&lt;strong&gt;Take ownership of tasks, identify and address technical challenges proactively, and propose innovative solutions&lt;/strong&gt;&lt;strong&gt;Contribute to architectural decisions, offering insights and suggestions for designing scalable and reliable systems&lt;/strong&gt;&lt;strong&gt;Work with other teams to improve how our systems interact with theirs and improve Alpaca systems in general&lt;/strong&gt;&lt;strong&gt;Maintain good software quality and test coverage&lt;/strong&gt;&lt;strong&gt;Participate in code reviews&lt;/strong&gt;&lt;strong&gt;Troubleshooting on incidents and reported bugs&lt;/strong&gt;&lt;strong&gt;You may be asked to be on-call to assist with engineering projects that are timely in nature&lt;/strong&gt;&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;Who You Are (Must-Haves):&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;&lt;strong&gt;Strong problem-solving skills paired with a proactive mindset&lt;/strong&gt;&lt;strong&gt;Ability to turn business requirements into a flexible implementation model&lt;/strong&gt;&lt;strong&gt;Excellent communication and collaboration skills&lt;/strong&gt;&lt;strong&gt;Ability to work independently and as part of a team&lt;/strong&gt;&lt;strong&gt;A preference for simple and elegant solutions&lt;/strong&gt;&lt;strong&gt;At least 3 years of experience working on systems at scale&lt;/strong&gt;&lt;strong&gt;Proven experience in building and maintaining microservices&lt;/strong&gt;&lt;strong&gt;Strong coding skills, preferably in Go&lt;/strong&gt;&lt;strong&gt;Ability to write clean, well-tested, and maintainable code&lt;/strong&gt;&lt;strong&gt;Experience with domain-driven design and event-driven design&lt;/strong&gt;&lt;strong&gt;Ability to debug issues or, better yet, foresee problems and avoid them entirely&lt;/strong&gt;&lt;strong&gt;Familiarity with containerization and orchestration technologies, especially Kubernetes&lt;/strong&gt;&lt;strong&gt;Experience with cloud platforms, preferably Google Cloud Platform&lt;/strong&gt;&lt;strong&gt;Experience with relational databases, preferably PostgreSQL&lt;/strong&gt;&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;Who You Might Be (Nice-to-Haves):&amp;nbsp;&amp;nbsp;&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;&lt;strong&gt;Experience in the finance industry&lt;/strong&gt;&lt;strong&gt;Experience with financial identity management, e.g. KYC&lt;/strong&gt;&lt;strong&gt;Experience with messaging queues and message brokers&lt;/strong&gt;&lt;strong&gt;Experience integrating with external services&lt;/strong&gt;&lt;strong&gt;Experience working remotely&lt;/strong&gt;&lt;strong&gt;Experience working at a startup&lt;/strong&gt;&lt;strong&gt;DevOps mindset is an asset&lt;/strong&gt;&lt;/p&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;h3&gt;&lt;strong&gt;How We Take Care of You:&lt;/strong&gt;&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li style=&quot;font-weight: 400; text-align: justify;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Competitive Salary &amp;amp; Stock Options&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;text-align: justify;&quot;&gt;Health Benefits&lt;/li&gt;\n&lt;li style=&quot;font-weight: 400; text-align: justify;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;New Hire Home-Office Setup: One-time USD $500&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-weight: 400; text-align: justify;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Monthly Stipend: USD $150 per month via a Brex Card&lt;/span&gt;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;em&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Alpaca is proud to be an equal opportunity workplace dedicated to pursuing and hiring a diverse workforce.&lt;br&gt;&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;font-size: 8pt;&quot;&gt;&lt;a href=&quot;https://files.alpaca.markets/disclosures/AlpacaRecruitmentPrivacyPolicy.pdf&quot;&gt;&lt;em&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Recruitment Privacy Policy&lt;/span&gt;&lt;/em&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;",
+  "departments": [
+    {
+      "id": 4041733004,
+      "name": "Engineering",
+      "child_ids": [
+        4056293004,
+        4056295004,
+        4056296004,
+        4056294004
+      ],
+      "parent_id": null
+    }
+  ],
+  "offices": [
+    {
+      "id": 4025501004,
+      "name": "Remote - North America ",
+      "location": "North America",
+      "child_ids": [],
+      "parent_id": null
+    },
+    {
+      "id": 4025505004,
+      "name": "Remote - South America",
+      "location": "South America ",
+      "child_ids": [],
+      "parent_id": null
+    },
+    {
+      "id": 4031051004,
+      "name": "Remote - United States",
+      "location": null,
+      "child_ids": [],
+      "parent_id": null
+    }
+  ],
+  "ai_disclaimer": "<p>We use Greenhouse’s AI-powered Talent Matching tool to compare your application against our job requirements.</p>",
+  "include_ai_disclaimer": true,
+  "ai_opt_out_request_url": "http://app4.greenhouse.io/ai_opt_out_request/job_post/6231747004/ai_opt_out"
+}

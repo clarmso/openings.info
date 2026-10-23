@@ -23,7 +23,7 @@
     }
   ],
   "id": 5407418008,
-  "updated_at": "2026-08-28T15:56:10-04:00",
+  "updated_at": "2026-10-22T11:39:14-04:00",
   "requisition_id": "267136",
   "title": "Head of Policy Design, Societal Harms",
   "company_name": "Anthropic",
@@ -44,6 +44,13 @@
       "id": 4001218008,
       "name": "San Francisco, CA",
       "location": "San Francisco, California, United States",
+      "child_ids": [],
+      "parent_id": null
+    },
+    {
+      "id": 4011228008,
+      "name": "Washington, D.C.",
+      "location": "Washington, District of Columbia, United States",
       "child_ids": [],
       "parent_id": null
     }

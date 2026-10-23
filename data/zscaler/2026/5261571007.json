@@ -41,7 +41,7 @@
     }
   ],
   "id": 5261571007,
-  "updated_at": "2026-10-14T23:51:10-04:00",
+  "updated_at": "2026-10-22T19:30:51-04:00",
   "requisition_id": "261005_B27022",
   "title": "Software Development Engineer - Java + Distributed Systems",
   "company_name": "Zscaler",
@@ -139,9 +139,9 @@
   ],
   "offices": [
     {
-      "id": 4009753007,
-      "name": "Office - Mohali, India",
-      "location": "Mohali, IND",
+      "id": 4009752007,
+      "name": "Office - Hyderabad, India",
+      "location": "Hyderabad, IND",
       "child_ids": [],
       "parent_id": 4009663007
     }

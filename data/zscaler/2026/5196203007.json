@@ -41,7 +41,7 @@
     }
   ],
   "id": 5196203007,
-  "updated_at": "2026-10-16T17:34:45-04:00",
+  "updated_at": "2026-10-22T14:32:16-04:00",
   "requisition_id": "260725_B96354",
   "title": "Senior Director, CEO Communications",
   "company_name": "Zscaler",
@@ -98,20 +98,6 @@
       "id": 4058983007,
       "name": "Office - Santa Clara, USA",
       "location": "Santa Clara, California, USA",
-      "child_ids": [],
-      "parent_id": 4007290007
-    },
-    {
-      "id": 4045536007,
-      "name": "Remote - California, USA",
-      "location": "Remote - California, USA",
-      "child_ids": [],
-      "parent_id": 4007290007
-    },
-    {
-      "id": 4045543007,
-      "name": "Remote - Washington, USA",
-      "location": "Remote - Washington, USA",
       "child_ids": [],
       "parent_id": 4007290007
     }
