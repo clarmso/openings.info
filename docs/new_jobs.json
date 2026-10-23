@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-22T08:32:28Z",
-  "total_new_jobs": 514,
+  "generated_at": "2026-10-23T08:28:46Z",
+  "total_new_jobs": 545,
   "companies": [
     {
       "slug": "1password",
@@ -8,22 +8,64 @@
       "careers_url": "https://jobs.ashbyhq.com/1password",
       "jobs": [
         {
-          "title": "Developer, Device Trust Reliability",
-          "url": "https://jobs.ashbyhq.com/1password/443f9ef6-13a7-4edb-ace5-16be7e630041",
+          "title": ".NET Developer, SaaS Manager",
+          "url": "https://jobs.ashbyhq.com/1password/005d4b48-d31e-449f-90b7-83313f98a907",
           "location": "Remote (United States | Canada)",
           "mode": "Remote",
           "canada": true
         },
         {
-          "title": "Frontend Developer, Device Security",
-          "url": "https://jobs.ashbyhq.com/1password/e9f8842c-3ed3-4b89-bd55-f59cff9773cb",
+          "title": "Developer Intern, Data Security - Winter 2027",
+          "url": "https://jobs.ashbyhq.com/1password/8af1359a-c8a2-492b-b567-ae8ae184a8a1",
           "location": "Remote (United States | Canada)",
           "mode": "Remote",
           "canada": true
         },
         {
-          "title": "Junior Security Engineer",
-          "url": "https://jobs.ashbyhq.com/1password/49f0fe51-fcdc-46d8-a046-35f357b0cf6e",
+          "title": "Developer Intern, Extension Excellence - Winter 2027",
+          "url": "https://jobs.ashbyhq.com/1password/7f1732a6-5317-4319-82b9-67c62e88d491",
+          "location": "Remote (United States | Canada)",
+          "mode": "Remote",
+          "canada": true
+        },
+        {
+          "title": "Developer Intern, Front-End Platform - Winter 2027",
+          "url": "https://jobs.ashbyhq.com/1password/71a3afd1-12b3-4f55-a3bd-fc4e7c46ee37",
+          "location": "Remote (United States | Canada)",
+          "mode": "Remote",
+          "canada": true
+        },
+        {
+          "title": "Developer Intern, Machine Identity - Winter 2027",
+          "url": "https://jobs.ashbyhq.com/1password/6a6869a7-98d2-43e3-b9b5-b68fa4daeb9f",
+          "location": "Remote (United States | Canada)",
+          "mode": "Remote",
+          "canada": true
+        },
+        {
+          "title": "Developer Intern, Provisioning - Winter 2027",
+          "url": "https://jobs.ashbyhq.com/1password/c5289ef1-e919-4672-85c5-ee3112f9ddb9",
+          "location": "Remote (United States | Canada)",
+          "mode": "Remote",
+          "canada": true
+        },
+        {
+          "title": "Developer Intern, Vault Team - Winter 2027",
+          "url": "https://jobs.ashbyhq.com/1password/b2726ac7-dd0d-42f3-93a5-139e18c90779",
+          "location": "Remote (United States | Canada)",
+          "mode": "Remote",
+          "canada": true
+        },
+        {
+          "title": "Director of Product, AI Growth",
+          "url": "https://jobs.ashbyhq.com/1password/8151254c-b7d1-4653-87b1-7afeba176898",
+          "location": "Remote (United States | Canada)",
+          "mode": "Remote",
+          "canada": true
+        },
+        {
+          "title": "Security Intern, Threat Operations - Winter 2027",
+          "url": "https://jobs.ashbyhq.com/1password/aac7eea6-ed7c-4871-bbf2-7cb2d5138847",
           "location": "Remote (United States | Canada)",
           "mode": "Remote",
           "canada": true
@@ -71,11 +113,11 @@
       "careers_url": "https://job-boards.greenhouse.io/alayacare",
       "jobs": [
         {
-          "title": "Associate People Business Partner",
-          "url": "https://alayacare.com/open-positions?gh_jid=8903199002",
-          "location": "Toronto, Canada",
+          "title": "Senior Managed Services Specialist",
+          "url": "https://alayacare.com/open-positions?gh_jid=8909297002",
+          "location": "United States",
           "mode": "On-site",
-          "canada": true
+          "canada": false
         }
       ]
     },
@@ -92,11 +134,18 @@
           "canada": true
         },
         {
-          "title": "Senior DevOps Engineer",
-          "url": "https://job-boards.greenhouse.io/alpaca/jobs/6186916004",
-          "location": "Remote - Japan - APAC",
+          "title": "Senior Cashiering Associate",
+          "url": "https://job-boards.greenhouse.io/alpaca/jobs/6231661004",
+          "location": "Remote - Americas",
           "mode": "Remote",
-          "canada": false
+          "canada": true
+        },
+        {
+          "title": "Senior Full-Stack Engineer - Internal Tools",
+          "url": "https://job-boards.greenhouse.io/alpaca/jobs/6233042004",
+          "location": "Remote - North America - South America",
+          "mode": "Remote",
+          "canada": true
         },
         {
           "title": "Senior SRE - APAC",
@@ -106,9 +155,16 @@
           "canada": false
         },
         {
-          "title": "Staff Software Engineer - Platform",
-          "url": "https://job-boards.greenhouse.io/alpaca/jobs/6229457004",
-          "location": "Remote- Europe/ Americas",
+          "title": "Senior Software Engineer - Identity",
+          "url": "https://job-boards.greenhouse.io/alpaca/jobs/6231747004",
+          "location": "Remote Americas",
+          "mode": "Remote",
+          "canada": true
+        },
+        {
+          "title": "Senior Software Engineer - Payments ",
+          "url": "https://job-boards.greenhouse.io/alpaca/jobs/6231660004",
+          "location": "Remote - Americas",
           "mode": "Remote",
           "canada": true
         }
@@ -120,6 +176,20 @@
       "careers_url": "https://job-boards.greenhouse.io/anthropic",
       "jobs": [
         {
+          "title": "Applied AI Architect, Public Sector (Federal Civilan)",
+          "url": "https://job-boards.greenhouse.io/anthropic/jobs/5455627008",
+          "location": "San Francisco, CA | New York City, NY",
+          "mode": "On-site",
+          "canada": false
+        },
+        {
+          "title": "Applied AI Architect, Public Sector (GovTech)",
+          "url": "https://job-boards.greenhouse.io/anthropic/jobs/5460211008",
+          "location": "Washington, DC",
+          "mode": "On-site",
+          "canada": false
+        },
+        {
           "title": "Audit Operations Lead",
           "url": "https://job-boards.greenhouse.io/anthropic/jobs/5459290008",
           "location": "San Francisco, CA",
@@ -127,9 +197,16 @@
           "canada": false
         },
         {
-          "title": "Corporate Development, Deal Lead",
-          "url": "https://job-boards.greenhouse.io/anthropic/jobs/5459016008",
-          "location": "San Francisco, CA",
+          "title": "Communications Manager, The Anthropic Institute",
+          "url": "https://job-boards.greenhouse.io/anthropic/jobs/5461534008",
+          "location": "San Francisco, CA | New York City, NY",
+          "mode": "On-site",
+          "canada": false
+        },
+        {
+          "title": "Corporate Accounting",
+          "url": "https://job-boards.greenhouse.io/anthropic/jobs/5451768008",
+          "location": "San Francisco, CA | Seattle, WA",
           "mode": "On-site",
           "canada": false
         },
@@ -148,9 +225,9 @@
           "canada": false
         },
         {
-          "title": "Enterprise Account Executive, DNB",
-          "url": "https://job-boards.greenhouse.io/anthropic/jobs/5440855008",
-          "location": "London, UK",
+          "title": "Enterprise Account Executive, Federal Civilian Sales - Federal Financials",
+          "url": "https://job-boards.greenhouse.io/anthropic/jobs/5461663008",
+          "location": "Washington, DC",
           "mode": "On-site",
           "canada": false
         },
@@ -169,57 +246,15 @@
           "canada": false
         },
         {
-          "title": "Finance & Strategy, Compute Network",
-          "url": "https://job-boards.greenhouse.io/anthropic/jobs/5443875008",
-          "location": "San Francisco, CA",
-          "mode": "On-site",
-          "canada": false
-        },
-        {
-          "title": "Financial Data and Controls Lead, Billing Platform",
-          "url": "https://job-boards.greenhouse.io/anthropic/jobs/5459274008",
+          "title": "Head of Sales Excellence & Methodology",
+          "url": "https://job-boards.greenhouse.io/anthropic/jobs/5459272008",
           "location": "San Francisco, CA | New York City, NY",
           "mode": "On-site",
           "canada": false
         },
         {
-          "title": "GTM Programs Manager, GTM Initiatives ",
-          "url": "https://job-boards.greenhouse.io/anthropic/jobs/5454518008",
-          "location": "Remote-Friendly (Travel-Required) | San Francisco, CA | New York City, NY",
-          "mode": "Remote",
-          "canada": false
-        },
-        {
-          "title": "International Compensation Partner",
-          "url": "https://job-boards.greenhouse.io/anthropic/jobs/5452859008",
-          "location": "Dublin, IE",
-          "mode": "On-site",
-          "canada": false
-        },
-        {
-          "title": "International Compensation Partner",
-          "url": "https://job-boards.greenhouse.io/anthropic/jobs/5458322008",
-          "location": "London, UK",
-          "mode": "On-site",
-          "canada": false
-        },
-        {
-          "title": "Manager, Applied AI Cyber Specialists",
-          "url": "https://job-boards.greenhouse.io/anthropic/jobs/5454442008",
-          "location": "San Francisco, CA | New York City, NY",
-          "mode": "On-site",
-          "canada": false
-        },
-        {
-          "title": "Manager, Cybersecurity Sales Specialist",
-          "url": "https://job-boards.greenhouse.io/anthropic/jobs/5456812008",
-          "location": "San Francisco, CA | Seattle, WA | New York City, NY | Washington, DC",
-          "mode": "On-site",
-          "canada": false
-        },
-        {
-          "title": "Manager, Sales Development, Enterprise",
-          "url": "https://job-boards.greenhouse.io/anthropic/jobs/5454142008",
+          "title": "Partner Enablement Lead, Beneficial Deployments",
+          "url": "https://job-boards.greenhouse.io/anthropic/jobs/5456939008",
           "location": "San Francisco, CA | New York City, NY",
           "mode": "On-site",
           "canada": false
@@ -232,16 +267,30 @@
           "canada": false
         },
         {
-          "title": "Research Engineer, Chip Design RL",
-          "url": "https://job-boards.greenhouse.io/anthropic/jobs/5459098008",
-          "location": "San Francisco, CA",
+          "title": "Regional Research Economist, Economic Research",
+          "url": "https://job-boards.greenhouse.io/anthropic/jobs/5460515008",
+          "location": "Sydney, Australia",
           "mode": "On-site",
           "canada": false
         },
         {
-          "title": "Security Engineer / Research Engineer, RL Security",
-          "url": "https://job-boards.greenhouse.io/anthropic/jobs/5458420008",
-          "location": "San Francisco, CA | New York City, NY | Seattle, WA",
+          "title": "Regional Research Economist, Economic Research",
+          "url": "https://job-boards.greenhouse.io/anthropic/jobs/5460519008",
+          "location": "Seoul, South Korea",
+          "mode": "On-site",
+          "canada": false
+        },
+        {
+          "title": "Regional Research Economist, Economic Research",
+          "url": "https://job-boards.greenhouse.io/anthropic/jobs/5460521008",
+          "location": "Tokyo, Japan",
+          "mode": "On-site",
+          "canada": false
+        },
+        {
+          "title": "Research Engineer, Chip Design RL",
+          "url": "https://job-boards.greenhouse.io/anthropic/jobs/5459098008",
+          "location": "San Francisco, CA",
           "mode": "On-site",
           "canada": false
         },
@@ -253,8 +302,8 @@
           "canada": false
         },
         {
-          "title": "Staff+ Software Engineer, Platform Safety",
-          "url": "https://job-boards.greenhouse.io/anthropic/jobs/5458794008",
+          "title": "Technical Editor ",
+          "url": "https://job-boards.greenhouse.io/anthropic/jobs/5443997008",
           "location": "San Francisco, CA | New York City, NY",
           "mode": "On-site",
           "canada": false
@@ -281,10 +330,10 @@
       "careers_url": "https://careers.smartrecruiters.com/AristaNetworks/",
       "jobs": [
         {
-          "title": "Major Account Manager",
-          "url": "https://jobs.smartrecruiters.com/AristaNetworks/744000156534229",
-          "location": "Riyadh, Riyadh Province, Saudi Arabia",
-          "mode": "Hybrid",
+          "title": "Electrical Manufacturing NPI Engineer",
+          "url": "https://jobs.smartrecruiters.com/AristaNetworks/744000157245139",
+          "location": "Sydney, NSW, Australia",
+          "mode": "On-site",
           "canada": false
         },
         {
@@ -295,9 +344,30 @@
           "canada": false
         },
         {
+          "title": "Major Account Manager",
+          "url": "https://jobs.smartrecruiters.com/AristaNetworks/744000157227219",
+          "location": "Santa Clara, CA, United States",
+          "mode": "Remote",
+          "canada": false
+        },
+        {
           "title": "Major Account Manager ",
           "url": "https://jobs.smartrecruiters.com/AristaNetworks/744000156888642",
           "location": "Pittsburgh, PA, United States",
+          "mode": "On-site",
+          "canada": false
+        },
+        {
+          "title": "Manager, Electrical New Product Engineering (ENPIE)",
+          "url": "https://jobs.smartrecruiters.com/AristaNetworks/744000157176379",
+          "location": "Santa Clara, CA, United States",
+          "mode": "On-site",
+          "canada": false
+        },
+        {
+          "title": "Mechanical Engineer",
+          "url": "https://jobs.smartrecruiters.com/AristaNetworks/744000157227879",
+          "location": "Santa Clara, CA, United States",
           "mode": "On-site",
           "canada": false
         },
@@ -321,6 +391,41 @@
           "location": "Delhi, DL, India",
           "mode": "On-site",
           "canada": false
+        },
+        {
+          "title": "Senior Systems Engineer (Pre Sales)",
+          "url": "https://jobs.smartrecruiters.com/AristaNetworks/744000157086892",
+          "location": "Mumbai, MH, India",
+          "mode": "On-site",
+          "canada": false
+        },
+        {
+          "title": "Senior Systems Engineer (Pre Sales)",
+          "url": "https://jobs.smartrecruiters.com/AristaNetworks/744000157089169",
+          "location": "Bengaluru, KA, India",
+          "mode": "On-site",
+          "canada": false
+        },
+        {
+          "title": "Software Engineer ",
+          "url": "https://jobs.smartrecruiters.com/AristaNetworks/744000157069639",
+          "location": "Bengaluru, KA, India",
+          "mode": "On-site",
+          "canada": false
+        },
+        {
+          "title": "Sr Director, Hardware Engineering - Sydney",
+          "url": "https://jobs.smartrecruiters.com/AristaNetworks/744000157211799",
+          "location": "Sydney, NSW, Australia",
+          "mode": "On-site",
+          "canada": false
+        },
+        {
+          "title": "Thermal Test Engineer",
+          "url": "https://jobs.smartrecruiters.com/AristaNetworks/744000157230186",
+          "location": "Santa Clara, CA, United States",
+          "mode": "On-site",
+          "canada": false
         }
       ]
     },
@@ -337,25 +442,25 @@
           "canada": true
         },
         {
+          "title": "Manager of Strategic Customer Success",
+          "url": "https://jobs.ashbyhq.com/ashby/7a3ff629-6c67-4aa5-bea4-f1d88b3b4777",
+          "location": "Remote - US; Remote - Canada",
+          "mode": "Remote",
+          "canada": true
+        },
+        {
+          "title": "Mid-Market Customer Success Manager - EMEA",
+          "url": "https://jobs.ashbyhq.com/ashby/62d4f71e-f56c-447a-a965-a9c2ea8eac5e",
+          "location": "Remote - European Union; United Kingdom",
+          "mode": "Remote",
+          "canada": false
+        },
+        {
           "title": "Mid-Market Implementation Specialist - EMEA",
           "url": "https://jobs.ashbyhq.com/ashby/e1d3d4ee-8d23-4433-be21-385df9d263c4",
           "location": "Remote - European Union; United Kingdom; Belgium; Germany; Hamburg; Ireland; Spain; Netherlands; Portugal; France",
           "mode": "Remote",
           "canada": false
-        },
-        {
-          "title": "Renewal Manager, SMB - Americas",
-          "url": "https://jobs.ashbyhq.com/ashby/ce9f0432-7abf-4911-b644-69d0fb08d67f",
-          "location": "Remote - US; Remote - Canada",
-          "mode": "Remote",
-          "canada": true
-        },
-        {
-          "title": "SMB Customer Success Manager - Americas",
-          "url": "https://jobs.ashbyhq.com/ashby/dd3601fc-3a21-467b-aaff-43fceb65864b",
-          "location": "Remote - US; Remote - Canada",
-          "mode": "Remote",
-          "canada": true
         },
         {
           "title": "Senior Product Manager",
@@ -365,22 +470,8 @@
           "canada": true
         },
         {
-          "title": "Snr. Marketing Manager, Enterprise ABM - EMEA",
-          "url": "https://jobs.ashbyhq.com/ashby/ae0bf8c6-f327-48de-9902-9f509667d02d",
-          "location": "Remote - European Union; United Kingdom; Ireland; Netherlands; London; France; Berlin",
-          "mode": "Remote",
-          "canada": false
-        },
-        {
           "title": "Staff Product Manager",
           "url": "https://jobs.ashbyhq.com/ashby/40320f3a-9d7d-4d53-a30e-a1bf7d74793b",
-          "location": "Remote - US; Remote - Canada",
-          "mode": "Remote",
-          "canada": true
-        },
-        {
-          "title": "Startup Customer Success Manager - Americas",
-          "url": "https://jobs.ashbyhq.com/ashby/a07aeb2d-3113-4ab4-866d-60004d1d25de",
           "location": "Remote - US; Remote - Canada",
           "mode": "Remote",
           "canada": true
@@ -400,10 +491,31 @@
       "careers_url": "https://jobs.ashbyhq.com/benchling",
       "jobs": [
         {
+          "title": "Global Program Manager",
+          "url": "https://jobs.ashbyhq.com/benchling/9ff817e6-9274-4613-9ac3-1bc012b7ff8a",
+          "location": "San Francisco, CA; Boston, MA",
+          "mode": "Hybrid",
+          "canada": false
+        },
+        {
+          "title": "Leader, Majors Sales",
+          "url": "https://jobs.ashbyhq.com/benchling/419cd5e2-4bac-44cf-a808-3a240d877a7e",
+          "location": "New York, NY; Philadelphia, PA",
+          "mode": "Remote",
+          "canada": false
+        },
+        {
           "title": "Leader, Majors Sales",
           "url": "https://jobs.ashbyhq.com/benchling/e3c5a5f9-66f4-4763-864f-569caa5bf2c8",
           "location": "San Francisco, CA; Boston, MA",
           "mode": "Hybrid",
+          "canada": false
+        },
+        {
+          "title": "Solution Consultant - R&D",
+          "url": "https://jobs.ashbyhq.com/benchling/9bc4ad8e-3446-4345-bc61-b079c62f2090",
+          "location": "Tarrytown, NY",
+          "mode": "Remote",
           "canada": false
         }
       ]
@@ -414,18 +526,32 @@
       "careers_url": "https://jobs.ashbyhq.com/benevity",
       "jobs": [
         {
-          "title": "Senior Tax Analyst - 15 Month Term",
-          "url": "https://jobs.ashbyhq.com/benevity/52c37614-4d48-4547-a24d-a763d784345e",
+          "title": "External Communications Manager",
+          "url": "https://jobs.ashbyhq.com/benevity/57de361d-61ba-4058-adae-1dda3ff6cf75",
           "location": "Toronto, Ontario",
           "mode": "Hybrid",
           "canada": true
         },
         {
-          "title": "Senior Tax Analyst - 15 Month Term",
-          "url": "https://jobs.ashbyhq.com/benevity/f16b14b4-749d-4b27-8e7c-7aa971ec1004",
+          "title": "External Communications Manager",
+          "url": "https://jobs.ashbyhq.com/benevity/64dccc36-6d3a-41cc-b5b5-397f3d5b49d0",
           "location": "Calgary, Alberta; Vancouver, British Columbia",
           "mode": "Hybrid",
           "canada": true
+        }
+      ]
+    },
+    {
+      "slug": "beyondtrust",
+      "name": "BeyondTrust",
+      "careers_url": "https://job-boards.greenhouse.io/beyondtrust",
+      "jobs": [
+        {
+          "title": "Inside Solutions Engineer",
+          "url": "https://job-boards.greenhouse.io/beyondtrust/jobs/8305807",
+          "location": "Remote Germany",
+          "mode": "Remote",
+          "canada": false
         }
       ]
     },
@@ -449,16 +575,30 @@
       "careers_url": "https://job-boards.greenhouse.io/block",
       "jobs": [
         {
-          "title": "Compliance Technology Program Lead",
-          "url": "http://block.xyz/careers/jobs/5440263008?gh_jid=5440263008",
+          "title": "Head of Workforce Optimization",
+          "url": "http://block.xyz/careers/jobs/5459471008?gh_jid=5459471008",
           "location": "Bay Area, CA, United States of America",
           "mode": "On-site",
           "canada": false
         },
         {
-          "title": "Lifecycle Marketing Manager",
-          "url": "http://block.xyz/careers/jobs/5456569008?gh_jid=5456569008",
-          "location": "Bay Area, CA, United States of America",
+          "title": "Mid Market Account Executive ",
+          "url": "http://block.xyz/careers/jobs/5461047008?gh_jid=5461047008",
+          "location": "London, United Kingdom",
+          "mode": "On-site",
+          "canada": false
+        },
+        {
+          "title": "Retention Account Manager, SMB",
+          "url": "http://block.xyz/careers/jobs/5456921008?gh_jid=5456921008",
+          "location": "San Francisco, CA, United States of America",
+          "mode": "On-site",
+          "canada": false
+        },
+        {
+          "title": "Senior Analyst, Pricing & Monetization",
+          "url": "http://block.xyz/careers/jobs/5453346008?gh_jid=5453346008",
+          "location": "New York, NY, United States of America",
           "mode": "On-site",
           "canada": false
         },
@@ -470,9 +610,23 @@
           "canada": false
         },
         {
-          "title": "Senior Software Engineer — Employee Experience Engineering (EXE)",
-          "url": "http://block.xyz/careers/jobs/5453088008?gh_jid=5453088008",
-          "location": "Bay Area, CA, United States of America",
+          "title": "Senior Sales Account Executive ",
+          "url": "http://block.xyz/careers/jobs/5461050008?gh_jid=5461050008",
+          "location": "London, United Kingdom",
+          "mode": "On-site",
+          "canada": false
+        },
+        {
+          "title": "Territory Account Executive, Manhattan Beach",
+          "url": "http://block.xyz/careers/jobs/5444049008?gh_jid=5444049008",
+          "location": "Los Angeles, CA, United States of America",
+          "mode": "On-site",
+          "canada": false
+        },
+        {
+          "title": "Territory Account Executive, South Jersey",
+          "url": "http://block.xyz/careers/jobs/5436151008?gh_jid=5436151008",
+          "location": "Jersey City, NJ, United States of America",
           "mode": "On-site",
           "canada": false
         },
@@ -503,13 +657,6 @@
           "location": "London, England",
           "mode": "On-site",
           "canada": false
-        },
-        {
-          "title": "Support Analyst II",
-          "url": "https://job-boards.greenhouse.io/carta/jobs/8039149003",
-          "location": "London, England",
-          "mode": "On-site",
-          "canada": false
         }
       ]
     },
@@ -526,24 +673,17 @@
           "canada": false
         },
         {
-          "title": "Commercial Account Executive (Austin, TX or Raleigh, NC)",
-          "url": "https://boards.greenhouse.io/cloudflare/jobs/8304060?gh_jid=8304060",
+          "title": "Customer Security Compliance Specialist",
+          "url": "https://boards.greenhouse.io/cloudflare/jobs/8311164?gh_jid=8311164",
           "location": "Hybrid",
           "mode": "Hybrid",
           "canada": false
         },
         {
-          "title": "Customer Experience Manager - Dutch or Swedish Speaking",
-          "url": "https://boards.greenhouse.io/cloudflare/jobs/8300499?gh_jid=8300499",
-          "location": "Hybrid",
-          "mode": "Hybrid",
-          "canada": false
-        },
-        {
-          "title": "Enterprise Account Executive, Thailand",
-          "url": "https://boards.greenhouse.io/cloudflare/jobs/8304855?gh_jid=8304855",
-          "location": "Hybrid",
-          "mode": "Hybrid",
+          "title": "Data Scientist",
+          "url": "https://boards.greenhouse.io/cloudflare/jobs/8275927?gh_jid=8275927",
+          "location": "In-Office",
+          "mode": "On-site",
           "canada": false
         },
         {
@@ -568,36 +708,8 @@
           "canada": false
         },
         {
-          "title": "Principal Engineer",
-          "url": "https://boards.greenhouse.io/cloudflare/jobs/8288769?gh_jid=8288769",
-          "location": "Hybrid",
-          "mode": "Hybrid",
-          "canada": false
-        },
-        {
-          "title": "Program Lead Strategic CDN Accounts GTM",
-          "url": "https://boards.greenhouse.io/cloudflare/jobs/8279302?gh_jid=8279302",
-          "location": "Hybrid",
-          "mode": "Hybrid",
-          "canada": false
-        },
-        {
-          "title": "Senior Account Executive, Digital Native",
-          "url": "https://boards.greenhouse.io/cloudflare/jobs/7421848?gh_jid=7421848",
-          "location": "Hybrid",
-          "mode": "Hybrid",
-          "canada": false
-        },
-        {
-          "title": "Senior Commercial Account Executive (San Francisco)",
-          "url": "https://boards.greenhouse.io/cloudflare/jobs/8303996?gh_jid=8303996",
-          "location": "Hybrid",
-          "mode": "Hybrid",
-          "canada": false
-        },
-        {
-          "title": "Senior Customer Engineer, Majors - NE",
-          "url": "https://boards.greenhouse.io/cloudflare/jobs/8300941?gh_jid=8300941",
+          "title": "Product Cost Analyst",
+          "url": "https://boards.greenhouse.io/cloudflare/jobs/8305918?gh_jid=8305918",
           "location": "Hybrid",
           "mode": "Hybrid",
           "canada": false
@@ -606,6 +718,41 @@
           "title": "Senior Digital Native Named Account Executive - Seattle",
           "url": "https://boards.greenhouse.io/cloudflare/jobs/8256872?gh_jid=8256872",
           "location": "Distributed",
+          "mode": "On-site",
+          "canada": false
+        },
+        {
+          "title": "Senior Manager, Demand Marketing",
+          "url": "https://boards.greenhouse.io/cloudflare/jobs/8304438?gh_jid=8304438",
+          "location": "Distributed",
+          "mode": "On-site",
+          "canada": false
+        },
+        {
+          "title": "Senior Recruiter",
+          "url": "https://boards.greenhouse.io/cloudflare/jobs/8280097?gh_jid=8280097",
+          "location": "Hybrid",
+          "mode": "Hybrid",
+          "canada": false
+        },
+        {
+          "title": "Senior Recruiter",
+          "url": "https://boards.greenhouse.io/cloudflare/jobs/8280109?gh_jid=8280109",
+          "location": "Hybrid",
+          "mode": "Hybrid",
+          "canada": false
+        },
+        {
+          "title": "Senior Software Engineer, Agentic Commerce",
+          "url": "https://boards.greenhouse.io/cloudflare/jobs/8312254?gh_jid=8312254",
+          "location": "In-Office",
+          "mode": "On-site",
+          "canada": false
+        },
+        {
+          "title": "Software Engineer, Agentic Commerce",
+          "url": "https://boards.greenhouse.io/cloudflare/jobs/8312256?gh_jid=8312256",
+          "location": "In-Office",
           "mode": "On-site",
           "canada": false
         },
@@ -624,37 +771,9 @@
       "careers_url": "https://job-boards.greenhouse.io/clutch",
       "jobs": [
         {
-          "title": "Automotive Production Administrative Assistant",
-          "url": "https://job-boards.greenhouse.io/clutch/jobs/6229435004",
-          "location": "Enfield, Nova Scotia, Canada",
-          "mode": "On-site",
-          "canada": true
-        },
-        {
-          "title": "Lead, Lot Attendant",
-          "url": "https://job-boards.greenhouse.io/clutch/jobs/6229437004",
-          "location": "Halifax, Nova Scotia, Canada",
-          "mode": "On-site",
-          "canada": true
-        },
-        {
-          "title": "Licensed Automotive Technician – Competitive Hourly Rate + $3,000 Signing Bonus",
-          "url": "https://job-boards.greenhouse.io/clutch/jobs/6229438004",
+          "title": "Apprentice Automotive Service Technician Level 2-3",
+          "url": "https://job-boards.greenhouse.io/clutch/jobs/6232101004",
           "location": "Mississauga, Ontario, Canada",
-          "mode": "On-site",
-          "canada": true
-        },
-        {
-          "title": "Red Seal Licensed Automotive Technician (Hourly)",
-          "url": "https://job-boards.greenhouse.io/clutch/jobs/6229432004",
-          "location": "Halifax, Nova Scotia, Canada",
-          "mode": "On-site",
-          "canada": true
-        },
-        {
-          "title": "Senior Data Scientist, Financial Services",
-          "url": "https://job-boards.greenhouse.io/clutch/jobs/6229691004",
-          "location": "Toronto",
           "mode": "On-site",
           "canada": true
         },
@@ -662,20 +781,6 @@
           "title": "Staff Platform Engineer",
           "url": "https://job-boards.greenhouse.io/clutch/jobs/6231219004",
           "location": "Toronto, ON ",
-          "mode": "On-site",
-          "canada": true
-        },
-        {
-          "title": "Strategy & Operations, Financial Services",
-          "url": "https://job-boards.greenhouse.io/clutch/jobs/6229693004",
-          "location": "Toronto",
-          "mode": "On-site",
-          "canada": true
-        },
-        {
-          "title": "Vehicle Shuttler",
-          "url": "https://job-boards.greenhouse.io/clutch/jobs/6230144004",
-          "location": "Bayers Lake, Nova Scotia, Canada",
           "mode": "On-site",
           "canada": true
         }
@@ -687,9 +792,30 @@
       "careers_url": "https://jobs.ashbyhq.com/cohere",
       "jobs": [
         {
-          "title": "Senior Software Engineer, Agent Infrastructure",
+          "title": "Manager, Executive Assistants, Revenue (EST)",
+          "url": "https://jobs.ashbyhq.com/cohere/be14b338-eac9-4099-9599-1e15cfdd11be",
+          "location": "New York; Toronto",
+          "mode": "On-site",
+          "canada": true
+        },
+        {
+          "title": "Senior Staff Data Engineer",
+          "url": "https://jobs.ashbyhq.com/cohere/4ef5101e-b083-49cd-808a-54c754d159e5",
+          "location": "Toronto; San Francisco; Canada; United States; New York; Ottawa; Montreal",
+          "mode": "Hybrid",
+          "canada": true
+        },
+        {
+          "title": "Staff/Senior Staff Software Engineer, Agent Infrastructure",
           "url": "https://jobs.ashbyhq.com/cohere/529b2dd6-4be3-49db-97cd-781f4897540b",
           "location": "Toronto; Canada; United States",
+          "mode": "Remote",
+          "canada": true
+        },
+        {
+          "title": "VP of Sales - Public Sector",
+          "url": "https://jobs.ashbyhq.com/cohere/49a6485c-c449-4e07-8001-cafc97a39a13",
+          "location": "Toronto; Calgary; Winnipeg; Canada; London; Vancouver; United Kingdom; Halifax; Edmonton; Ottawa; Montreal",
           "mode": "Remote",
           "canada": true
         }
@@ -701,9 +827,9 @@
       "careers_url": "https://job-boards.greenhouse.io/coursera",
       "jobs": [
         {
-          "title": "Commissions Analyst",
-          "url": "https://job-boards.greenhouse.io/coursera/jobs/6223709004",
-          "location": "United States",
+          "title": "Customer Success Specialist (Turkish Speaking) - 11-Month Fixed-Term Contract",
+          "url": "https://job-boards.greenhouse.io/coursera/jobs/6231935004",
+          "location": "Dublin, Ireland",
           "mode": "On-site",
           "canada": false
         },
@@ -715,16 +841,16 @@
           "canada": false
         },
         {
-          "title": "Staff Product Manager",
-          "url": "https://job-boards.greenhouse.io/coursera/jobs/6228334004",
-          "location": "Dublin, Ireland",
+          "title": "Renewals Manager, EMEA",
+          "url": "https://job-boards.greenhouse.io/coursera/jobs/6225376004",
+          "location": "United Arab Emirates",
           "mode": "On-site",
           "canada": false
         },
         {
-          "title": "Udemy Senior Sales & Solutions Engineer",
-          "url": "https://job-boards.greenhouse.io/coursera/jobs/6222291004",
-          "location": "Japan",
+          "title": "Senior Workplace Associate",
+          "url": "https://job-boards.greenhouse.io/coursera/jobs/6232063004",
+          "location": "Dublin, Ireland",
           "mode": "On-site",
           "canada": false
         }
@@ -739,6 +865,13 @@
           "title": "Customer Support Specialist",
           "url": "https://jobs.ashbyhq.com/cube/62ff14bf-6fa3-48a4-bb77-074414e57cee",
           "location": "Manila",
+          "mode": "Hybrid",
+          "canada": false
+        },
+        {
+          "title": "Junior Content Capture Analyst – Web Scraping",
+          "url": "https://jobs.ashbyhq.com/cube/94497c55-242d-4b30-a386-8f0882954c3c",
+          "location": "Colombo",
           "mode": "Hybrid",
           "canada": false
         }
@@ -757,30 +890,9 @@
           "canada": false
         },
         {
-          "title": "Enterprise Account Executive -  Consumer and Distribution ",
-          "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8899915002",
-          "location": "London, United Kingdom",
-          "mode": "On-site",
-          "canada": false
-        },
-        {
           "title": "Genie Global Sales Leader",
           "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8821955002",
           "location": "United States",
-          "mode": "On-site",
-          "canada": false
-        },
-        {
-          "title": "Lead Solutions Architect – MedTech (Strategic Account)",
-          "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8885043002",
-          "location": "Amsterdam, Netherlands",
-          "mode": "On-site",
-          "canada": false
-        },
-        {
-          "title": "Manager, Forward Deployed Engineering",
-          "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8899736002",
-          "location": "Munich, Germany",
           "mode": "On-site",
           "canada": false
         },
@@ -792,16 +904,16 @@
           "canada": false
         },
         {
-          "title": "Public Sector Field Enablement Manager",
-          "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8824166002",
-          "location": "Northeast - United States; Southeast - United States; United States",
+          "title": "New Business Enterprise Account Executive (Public Sector) ",
+          "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8899931002",
+          "location": "London, United Kingdom",
           "mode": "On-site",
           "canada": false
         },
         {
-          "title": "Senior Solutions Architect - Digital Natives",
-          "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8885049002",
-          "location": "Sweden",
+          "title": "Scale Solution Engineer",
+          "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8779031002",
+          "location": "Heredia, Costa Rica",
           "mode": "On-site",
           "canada": false
         },
@@ -813,6 +925,13 @@
           "canada": false
         },
         {
+          "title": "Senior Staff Software Engineer, AI Runtime",
+          "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8909305002",
+          "location": "Mountain View, California; San Francisco, California",
+          "mode": "On-site",
+          "canada": false
+        },
+        {
           "title": "Solutions Architect - Consumer Packaged Goods (CPG)",
           "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8780675002",
           "location": "Connecticut; Delaware; Florida; Maryland; New Jersey; Northeast - United States; Remote - Georgia; Remote - New York; Remote - North Carolina; Remote - Pennsylvania; Remote - Virginia; Remote - Washington D.C.; South Carolina; Southeast - United States",
@@ -820,9 +939,16 @@
           "canada": false
         },
         {
-          "title": "Sr. Recruiter",
-          "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8872760002",
-          "location": "Belgrade, Serbia; London, United Kingdom",
+          "title": "Solutions Architect - Financial Services (Hunter) ",
+          "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8884587002",
+          "location": "Georgia; Illinois; Massachusetts; New Jersey; New York; North Carolina; Texas; Washington, D.C.",
+          "mode": "On-site",
+          "canada": false
+        },
+        {
+          "title": "Sr. Technical Program Manager, FDE - LATAM",
+          "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8684079002",
+          "location": "USCA",
           "mode": "On-site",
           "canada": false
         },
@@ -834,16 +960,37 @@
           "canada": false
         },
         {
-          "title": "Strategic Core Account Executive",
-          "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8902939002",
-          "location": "Remote - Virginia; Remote - Washington D.C.",
-          "mode": "Remote",
-          "canada": false
-        },
-        {
           "title": "Strategic Core Account Executive - Automotive",
           "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8903089002",
           "location": "Baden-Württemberg, Germany",
+          "mode": "On-site",
+          "canada": false
+        },
+        {
+          "title": "Strategic Core Account Executive - Insurance",
+          "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8903095002",
+          "location": "Zürich, Switzerland",
+          "mode": "On-site",
+          "canada": false
+        },
+        {
+          "title": "Strategic Core Account Executive - Life Sciences",
+          "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8888920002",
+          "location": "Zürich, Switzerland",
+          "mode": "On-site",
+          "canada": false
+        },
+        {
+          "title": "Strategic Core Account Executive - Retail",
+          "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8903091002",
+          "location": "North Rhine-Westphalia, Germany",
+          "mode": "On-site",
+          "canada": false
+        },
+        {
+          "title": "Strategic Enterprise Account Executive, Media",
+          "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8905733002",
+          "location": "Paris, France",
           "mode": "On-site",
           "canada": false
         }
@@ -862,22 +1009,29 @@
           "canada": false
         },
         {
-          "title": "Director, Enterprise Sales",
-          "url": "https://careers.datadoghq.com/detail/8303221/?gh_jid=8303221",
-          "location": "San Francisco, California, USA",
+          "title": "Deal Desk Analyst",
+          "url": "https://careers.datadoghq.com/detail/8301039/?gh_jid=8301039",
+          "location": "Singapore, Singapore",
           "mode": "On-site",
           "canada": false
         },
         {
-          "title": "Enterprise Customer Success Manager - Boston/New York",
-          "url": "https://careers.datadoghq.com/detail/8282212/?gh_jid=8282212",
-          "location": "Boston, Massachusetts, USA; New York, New York, USA",
+          "title": "FP&A Analyst GTM",
+          "url": "https://careers.datadoghq.com/detail/8312438/?gh_jid=8312438",
+          "location": "New York, New York, USA",
           "mode": "On-site",
           "canada": false
         },
         {
-          "title": "Learning Technology Specialist",
-          "url": "https://careers.datadoghq.com/detail/8282537/?gh_jid=8282537",
+          "title": "Field Enablement Manager",
+          "url": "https://careers.datadoghq.com/detail/8300636/?gh_jid=8300636",
+          "location": "Singapore, Singapore",
+          "mode": "On-site",
+          "canada": false
+        },
+        {
+          "title": "Group Product Manager - Code Security",
+          "url": "https://careers.datadoghq.com/detail/8314006/?gh_jid=8314006",
           "location": "New York, New York, USA",
           "mode": "On-site",
           "canada": false
@@ -918,10 +1072,10 @@
           "canada": false
         },
         {
-          "title": "Sales Development Representative - Summer 2027 Graduates (Boston)",
-          "url": "https://careers.datadoghq.com/detail/8287316/?gh_jid=8287316",
-          "location": "Boston, Massachusetts, USA",
-          "mode": "On-site",
+          "title": "Regional Manager, Sales Engineering - AI Accounts",
+          "url": "https://careers.datadoghq.com/detail/8284998/?gh_jid=8284998",
+          "location": "California, USA, Remote; Illinois, USA, Remote; Massachusetts, USA, Remote; New York, USA, Remote",
+          "mode": "Remote",
           "canada": false
         },
         {
@@ -932,16 +1086,16 @@
           "canada": false
         },
         {
-          "title": "Senior Software Engineer - Distributed Systems (ODP Governance)",
-          "url": "https://careers.datadoghq.com/detail/8305790/?gh_jid=8305790",
-          "location": "Paris, France",
+          "title": "Senior Software Engineer - Alerting Platform Automation",
+          "url": "https://careers.datadoghq.com/detail/8303351/?gh_jid=8303351",
+          "location": "Nantes, France; Paris, France",
           "mode": "On-site",
           "canada": false
         },
         {
-          "title": "Staff Software Engineer - Watchdog Anomaly Detection",
-          "url": "https://careers.datadoghq.com/detail/8304107/?gh_jid=8304107",
-          "location": "New York, New York, USA",
+          "title": "Senior Software Engineer - Distributed Systems (ODP Governance)",
+          "url": "https://careers.datadoghq.com/detail/8305790/?gh_jid=8305790",
+          "location": "Paris, France",
           "mode": "On-site",
           "canada": false
         }
@@ -953,23 +1107,9 @@
       "careers_url": "https://jobs.ashbyhq.com/docker",
       "jobs": [
         {
-          "title": "Executive Assistant",
-          "url": "https://jobs.ashbyhq.com/docker/ae36c575-cf76-46d5-b9be-3226333debb4",
-          "location": "United States",
-          "mode": "Remote",
-          "canada": false
-        },
-        {
-          "title": "Executive Assistant ",
-          "url": "https://jobs.ashbyhq.com/docker/6aa3ae03-ad79-4f3d-a930-1588be0ddec7",
-          "location": "United States",
-          "mode": "Remote",
-          "canada": false
-        },
-        {
-          "title": "Principal Product Manager, AI Gateway",
-          "url": "https://jobs.ashbyhq.com/docker/51ef5fd5-27a3-46a3-9b46-e9cece51831c",
-          "location": "San Francisco, CA or Seattle, WA",
+          "title": "Principal Forward Deployed Engineer",
+          "url": "https://jobs.ashbyhq.com/docker/f50260bc-5da2-475d-bc4b-172ad7c5aa01",
+          "location": "San Francisco, CA; San Jose, CA; Seattle, WA",
           "mode": "Remote",
           "canada": false
         },
@@ -1000,6 +1140,13 @@
           "location": "United States",
           "mode": "On-site",
           "canada": false
+        },
+        {
+          "title": "Sr. Technical Account Manager - Americas",
+          "url": "https://job-boards.greenhouse.io/dragos/jobs/5450935008",
+          "location": "United States",
+          "mode": "On-site",
+          "canada": false
         }
       ]
     },
@@ -1008,20 +1155,6 @@
       "name": "Dropbox",
       "careers_url": "https://job-boards.greenhouse.io/dropbox",
       "jobs": [
-        {
-          "title": "Executive Assistant to the Chief Business Officer",
-          "url": "https://jobs.dropbox.com/listing/8286535?gh_jid=8286535",
-          "location": "Remote - US: Select locations",
-          "mode": "Remote",
-          "canada": false
-        },
-        {
-          "title": "Executive Assistant to the Chief Business Officer",
-          "url": "https://jobs.dropbox.com/listing/8286536?gh_jid=8286536",
-          "location": "Remote - Canada: Select locations",
-          "mode": "Remote",
-          "canada": true
-        },
         {
           "title": "Learning Experience Designer",
           "url": "https://jobs.dropbox.com/listing/8296377?gh_jid=8296377",
@@ -1042,13 +1175,6 @@
           "location": "Remote - Canada: Select locations",
           "mode": "Remote",
           "canada": true
-        },
-        {
-          "title": "Senior Technical Solutions Specialist",
-          "url": "https://jobs.dropbox.com/listing/8285045?gh_jid=8285045",
-          "location": "Remote - Australia: Select locations",
-          "mode": "Remote",
-          "canada": false
         }
       ]
     },
@@ -1058,30 +1184,79 @@
       "careers_url": "https://job-boards.greenhouse.io/elastic",
       "jobs": [
         {
-          "title": "Enterprise Account Executive - Mid-Atlantic",
-          "url": "https://jobs.elastic.co/jobs?gh_jid=8303149&gh_jid=8303149",
+          "title": "Director of Product Management, Observability",
+          "url": "https://jobs.elastic.co/jobs?gh_jid=8301538&gh_jid=8301538",
           "location": "United States",
           "mode": "On-site",
           "canada": false
         },
         {
-          "title": "Enterprise Account Executive - Southeast",
-          "url": "https://jobs.elastic.co/jobs?gh_jid=8303147&gh_jid=8303147",
+          "title": "Director of Product Management, Observability",
+          "url": "https://jobs.elastic.co/jobs?gh_jid=8312168&gh_jid=8312168",
+          "location": "Canada",
+          "mode": "On-site",
+          "canada": true
+        },
+        {
+          "title": "Director of Product Management, Observability",
+          "url": "https://jobs.elastic.co/jobs?gh_jid=8312171&gh_jid=8312171",
+          "location": "United Kingdom",
+          "mode": "On-site",
+          "canada": false
+        },
+        {
+          "title": "Director of Product Management, Observability",
+          "url": "https://jobs.elastic.co/jobs?gh_jid=8312175&gh_jid=8312175",
+          "location": "Spain",
+          "mode": "On-site",
+          "canada": false
+        },
+        {
+          "title": "Director of Product Management, Observability",
+          "url": "https://jobs.elastic.co/jobs?gh_jid=8312178&gh_jid=8312178",
+          "location": "Greece",
+          "mode": "On-site",
+          "canada": false
+        },
+        {
+          "title": "Director of Product Management, Observability",
+          "url": "https://jobs.elastic.co/jobs?gh_jid=8312179&gh_jid=8312179",
+          "location": "Poland",
+          "mode": "On-site",
+          "canada": false
+        },
+        {
+          "title": "Director of Product Management, Observability",
+          "url": "https://jobs.elastic.co/jobs?gh_jid=8312184&gh_jid=8312184",
+          "location": "Ireland",
+          "mode": "On-site",
+          "canada": false
+        },
+        {
+          "title": "Enterprise Account Executive ",
+          "url": "https://jobs.elastic.co/jobs?gh_jid=8281059&gh_jid=8281059",
+          "location": "Singapore",
+          "mode": "On-site",
+          "canada": false
+        },
+        {
+          "title": "Mid Market Account Executive - Bay Area, CA",
+          "url": "https://jobs.elastic.co/jobs?gh_jid=8314855&gh_jid=8314855",
           "location": "United States",
           "mode": "On-site",
           "canada": false
         },
         {
-          "title": "Inside Account Executive (Hunter)",
-          "url": "https://jobs.elastic.co/jobs?gh_jid=8303268&gh_jid=8303268",
+          "title": "Mid Market Account Executive - West",
+          "url": "https://jobs.elastic.co/jobs?gh_jid=8314830&gh_jid=8314830",
           "location": "United States",
           "mode": "On-site",
           "canada": false
         },
         {
-          "title": "Mid Market Account Executive",
-          "url": "https://jobs.elastic.co/jobs?gh_jid=8281119&gh_jid=8281119",
-          "location": "Germany",
+          "title": "Mid Market Account Executive, Southeast (Expand)",
+          "url": "https://jobs.elastic.co/jobs?gh_jid=8314795&gh_jid=8314795",
+          "location": "United States",
           "mode": "On-site",
           "canada": false
         },
@@ -1121,9 +1296,16 @@
           "canada": false
         },
         {
+          "title": "Principal, Marketing Analytics",
+          "url": "https://jobs.elastic.co/jobs?gh_jid=8281506&gh_jid=8281506",
+          "location": "United States",
+          "mode": "On-site",
+          "canada": false
+        },
+        {
           "title": "Sales Specialist - Security",
           "url": "https://jobs.elastic.co/jobs?gh_jid=8303381&gh_jid=8303381",
-          "location": "Belgium",
+          "location": "The Netherlands",
           "mode": "On-site",
           "canada": false
         },
@@ -1170,6 +1352,13 @@
           "canada": false
         },
         {
+          "title": "Senior Java Engineer - Distributed Systems, Serverless - Elasticsearch",
+          "url": "https://jobs.elastic.co/jobs?gh_jid=8315564&gh_jid=8315564",
+          "location": "Switzerland",
+          "mode": "On-site",
+          "canada": false
+        },
+        {
           "title": "Senior Software Engineer - Control Plane (Hosted Foundations / Applications) ",
           "url": "https://jobs.elastic.co/jobs?gh_jid=8274400&gh_jid=8274400",
           "location": "Poland",
@@ -1205,6 +1394,13 @@
           "canada": true
         },
         {
+          "title": "Senior Software Engineer - IAM - Control Plane - Platform",
+          "url": "https://jobs.elastic.co/jobs?gh_jid=8108689&gh_jid=8108689",
+          "location": "United States",
+          "mode": "On-site",
+          "canada": false
+        },
+        {
           "title": "Senior Software Engineer - Platform Billing Core",
           "url": "https://jobs.elastic.co/jobs?gh_jid=8249255&gh_jid=8249255",
           "location": "United States",
@@ -1219,23 +1415,30 @@
           "canada": false
         },
         {
-          "title": "Senior Solution Architect - Denmark",
-          "url": "https://jobs.elastic.co/jobs?gh_jid=7960047&gh_jid=7960047",
-          "location": "Denmark",
-          "mode": "On-site",
-          "canada": false
-        },
-        {
-          "title": "Software Engineer II (Networking) - Platform Infra",
-          "url": "https://jobs.elastic.co/jobs?gh_jid=8303806&gh_jid=8303806",
-          "location": "United States",
-          "mode": "On-site",
-          "canada": false
-        },
-        {
           "title": "Software Engineer II - Control Plane (Hosted Foundations / Applications)",
           "url": "https://jobs.elastic.co/jobs?gh_jid=8274383&gh_jid=8274383",
           "location": "United States",
+          "mode": "On-site",
+          "canada": false
+        },
+        {
+          "title": "Software Engineering Manager - IAM Team - Control Plane - Platform",
+          "url": "https://jobs.elastic.co/jobs?gh_jid=8301329&gh_jid=8301329",
+          "location": "Spain",
+          "mode": "On-site",
+          "canada": false
+        },
+        {
+          "title": "Software Engineering Manager - IAM Team - Control Plane - Platform",
+          "url": "https://jobs.elastic.co/jobs?gh_jid=8314209&gh_jid=8314209",
+          "location": "Portugal",
+          "mode": "On-site",
+          "canada": false
+        },
+        {
+          "title": "Software Engineering Manager - IAM Team - Control Plane - Platform",
+          "url": "https://jobs.elastic.co/jobs?gh_jid=8314211&gh_jid=8314211",
+          "location": "Greece",
           "mode": "On-site",
           "canada": false
         }
@@ -1303,20 +1506,6 @@
       "careers_url": "https://job-boards.greenhouse.io/geotab",
       "jobs": [
         {
-          "title": "AI Solutions Developer (Remote)",
-          "url": "https://job-boards.greenhouse.io/geotab/jobs/5453886008",
-          "location": "Oakville, Ontario - Canada",
-          "mode": "On-site",
-          "canada": true
-        },
-        {
-          "title": "AI Solutions Developer (Remote)",
-          "url": "https://job-boards.greenhouse.io/geotab/jobs/5453888008",
-          "location": "Atlanta, Georgia - USA; Las Vegas, Nevada - USA",
-          "mode": "On-site",
-          "canada": false
-        },
-        {
           "title": "Business Development Associate",
           "url": "https://job-boards.greenhouse.io/geotab/jobs/5436964008",
           "location": "Burnaby, British Columbia - Canada; Oakville, Ontario - Canada",
@@ -1327,6 +1516,13 @@
           "title": "Business Development Associate",
           "url": "https://job-boards.greenhouse.io/geotab/jobs/5436966008",
           "location": "Atlanta, Georgia - USA; Las Vegas, Nevada - USA",
+          "mode": "On-site",
+          "canada": false
+        },
+        {
+          "title": "Full Sales Cycle Representative",
+          "url": "https://job-boards.greenhouse.io/geotab/jobs/5232317008",
+          "location": "Warsaw, Poland - Poland",
           "mode": "On-site",
           "canada": false
         },
@@ -1366,46 +1562,11 @@
           "canada": false
         },
         {
-          "title": "Senior Vehicle Systems Engineering",
-          "url": "https://job-boards.greenhouse.io/geotab/jobs/5453368008",
-          "location": "Waterloo, Ontario - Canada",
-          "mode": "On-site",
-          "canada": true
-        },
-        {
-          "title": "Site Reliability Engineering",
-          "url": "https://job-boards.greenhouse.io/geotab/jobs/5453858008",
-          "location": "Atlanta, Georgia - USA; Detroit, Michigan - USA; Las Vegas, Nevada - USA",
+          "title": "Solutions Engineer - Thailand (12-month contract) ",
+          "url": "https://job-boards.greenhouse.io/geotab/jobs/5456424008",
+          "location": "Bangkok, Thailand - Thailand",
           "mode": "On-site",
           "canada": false
-        },
-        {
-          "title": "Software Developer",
-          "url": "https://job-boards.greenhouse.io/geotab/jobs/5418735008",
-          "location": "Oakville, Ontario - Canada",
-          "mode": "On-site",
-          "canada": true
-        },
-        {
-          "title": "Vehicle Systems Engineering",
-          "url": "https://job-boards.greenhouse.io/geotab/jobs/5446132008",
-          "location": "Waterloo, Ontario - Canada",
-          "mode": "On-site",
-          "canada": true
-        }
-      ]
-    },
-    {
-      "slug": "getmaple",
-      "name": "Getmaple",
-      "careers_url": "https://jobs.lever.co/getmaple",
-      "jobs": [
-        {
-          "title": "Registered Nurse Contractors",
-          "url": "https://jobs.lever.co/getmaple/989bb2bf-0933-424e-a6fc-3395989d380b",
-          "location": "Toronto, Ontario",
-          "mode": "Remote",
-          "canada": true
         }
       ]
     },
@@ -1415,30 +1576,16 @@
       "careers_url": "https://job-boards.greenhouse.io/gitlab",
       "jobs": [
         {
-          "title": "Commercial Account Executive",
-          "url": "https://job-boards.greenhouse.io/gitlab/jobs/8831322002",
-          "location": "Remote, France",
+          "title": "Contract Talent Acquisition Sourcer, Sales (APJ)",
+          "url": "https://job-boards.greenhouse.io/gitlab/jobs/8904961002",
+          "location": "Remote, Australia; Remote, Singapore",
           "mode": "Remote",
           "canada": false
         },
         {
-          "title": "Corporate Development Director",
-          "url": "https://job-boards.greenhouse.io/gitlab/jobs/8872259002",
-          "location": "Remote Ireland; Remote, France; Remote, Germany; Remote, Israel; Remote, Netherlands; Remote, Spain; Remote, United Kingdom",
-          "mode": "Remote",
-          "canada": false
-        },
-        {
-          "title": "Partner Program Manager",
-          "url": "https://job-boards.greenhouse.io/gitlab/jobs/8907028002",
-          "location": "Remote, United States",
-          "mode": "Remote",
-          "canada": false
-        },
-        {
-          "title": "Renewals Manager EMEA",
-          "url": "https://job-boards.greenhouse.io/gitlab/jobs/8885115002",
-          "location": "Remote Ireland",
+          "title": "Enterprise Account Executive - South Korea",
+          "url": "https://job-boards.greenhouse.io/gitlab/jobs/8887322002",
+          "location": "Remote, South Korea",
           "mode": "Remote",
           "canada": false
         },
@@ -1446,6 +1593,13 @@
           "title": "Senior Director, Dedicated Infrastructure & Platforms",
           "url": "https://job-boards.greenhouse.io/gitlab/jobs/8883597002",
           "location": "Remote, Canada; Remote, United Kingdom; Remote, United States",
+          "mode": "Remote",
+          "canada": true
+        },
+        {
+          "title": "Senior Ecosystem Operations Manager",
+          "url": "https://job-boards.greenhouse.io/gitlab/jobs/8907680002",
+          "location": "Remote, Canada; Remote, United States",
           "mode": "Remote",
           "canada": true
         },
@@ -1464,6 +1618,20 @@
           "canada": false
         },
         {
+          "title": "Senior Solutions Architect - SLED (West)",
+          "url": "https://job-boards.greenhouse.io/gitlab/jobs/8907130002",
+          "location": "Remote, United States",
+          "mode": "Remote",
+          "canada": false
+        },
+        {
+          "title": "Solutions Architect - SLED (East)",
+          "url": "https://job-boards.greenhouse.io/gitlab/jobs/8907111002",
+          "location": "Remote, United States",
+          "mode": "Remote",
+          "canada": false
+        },
+        {
           "title": "Sr. Manager, Solutions Architect - SMB",
           "url": "https://job-boards.greenhouse.io/gitlab/jobs/8886626002",
           "location": "Remote, United States",
@@ -1471,59 +1639,10 @@
           "canada": false
         },
         {
-          "title": "Strategic Account Executive - Chicago    ",
-          "url": "https://job-boards.greenhouse.io/gitlab/jobs/8895511002",
+          "title": "Staff Global Partner Programs Manager",
+          "url": "https://job-boards.greenhouse.io/gitlab/jobs/8907028002",
           "location": "Remote, United States",
           "mode": "Remote",
-          "canada": false
-        }
-      ]
-    },
-    {
-      "slug": "gopuff",
-      "name": "Gopuff",
-      "careers_url": "https://jobs.lever.co/gopuff",
-      "jobs": [
-        {
-          "title": "Junior Operations Supervisor",
-          "url": "https://jobs.lever.co/gopuff/42674feb-ec04-480a-b0e4-0e5e140db4a1",
-          "location": "Bermondsey, London, England",
-          "mode": "On-site",
-          "canada": false
-        },
-        {
-          "title": "Process Lead, Hioaks, #255",
-          "url": "https://jobs.lever.co/gopuff/5a87ed6a-762e-4fb3-9612-17e060cb5348",
-          "location": "Richmond, VA",
-          "mode": "On-site",
-          "canada": false
-        }
-      ]
-    },
-    {
-      "slug": "hackerone",
-      "name": "Hackerone",
-      "careers_url": "https://jobs.ashbyhq.com/hackerone",
-      "jobs": [
-        {
-          "title": "Applications Engineer, GTM Systems",
-          "url": "https://jobs.ashbyhq.com/hackerone/f323570e-5924-4502-8344-e75beddf1c29",
-          "location": "Pune",
-          "mode": "On-site",
-          "canada": false
-        },
-        {
-          "title": "Content Marketing Manager",
-          "url": "https://jobs.ashbyhq.com/hackerone/6af1868c-0cca-447e-b468-aeb37ac0437a",
-          "location": "Austin",
-          "mode": "Remote",
-          "canada": false
-        },
-        {
-          "title": "Senior Applications Engineer, GTM Systems",
-          "url": "https://jobs.ashbyhq.com/hackerone/03cb3481-b992-40a3-87c1-1ff7804663f4",
-          "location": "Pune",
-          "mode": "On-site",
           "canada": false
         }
       ]
@@ -1533,6 +1652,20 @@
       "name": "Harness ",
       "careers_url": "https://job-boards.greenhouse.io/harnessinc",
       "jobs": [
+        {
+          "title": "Engineering Manager, Software Engineering - CD",
+          "url": "https://www.harness.io/company/jobs/apply?gh_jid=5252771007&gh_jid=5252771007",
+          "location": "Bengaluru, Karnataka, India",
+          "mode": "On-site",
+          "canada": false
+        },
+        {
+          "title": "Senior Manager, Software Engineer - CD ",
+          "url": "https://www.harness.io/company/jobs/apply?gh_jid=5270901007&gh_jid=5270901007",
+          "location": "Bengaluru, Karnataka, India",
+          "mode": "On-site",
+          "canada": false
+        },
         {
           "title": "Senior Manager, Software Engineering",
           "url": "https://www.harness.io/company/jobs/apply?gh_jid=5258603007&gh_jid=5258603007",
@@ -1548,18 +1681,46 @@
       "careers_url": "https://jobs.ashbyhq.com/HighlightTA",
       "jobs": [
         {
-          "title": "Marketing Manager",
-          "url": "https://jobs.ashbyhq.com/HighlightTA/667925f7-e773-4f61-950b-392b7077b32c",
-          "location": "Waterloo, Ontario",
-          "mode": "Remote",
-          "canada": true
-        },
-        {
           "title": "Product Designer ",
           "url": "https://jobs.ashbyhq.com/HighlightTA/e7a3a849-06f4-4328-9b6c-0d7d343da535",
           "location": "United States; Canada",
           "mode": "Remote",
           "canada": true
+        }
+      ]
+    },
+    {
+      "slug": "honeycomb",
+      "name": "Honeycomb.io",
+      "careers_url": "https://job-boards.greenhouse.io/honeycomb",
+      "jobs": [
+        {
+          "title": "Staff Product Manager",
+          "url": "https://job-boards.greenhouse.io/honeycomb/jobs/5449365008",
+          "location": "Remote - United States",
+          "mode": "Remote",
+          "canada": false
+        },
+        {
+          "title": "Staff Product Manager",
+          "url": "https://job-boards.greenhouse.io/honeycomb/jobs/5449367008",
+          "location": "Remote - Canada",
+          "mode": "Remote",
+          "canada": true
+        }
+      ]
+    },
+    {
+      "slug": "hootsuite",
+      "name": "Hootsuite",
+      "careers_url": "https://job-boards.greenhouse.io/hootsuite",
+      "jobs": [
+        {
+          "title": "Senior Account Manager",
+          "url": "https://job-boards.greenhouse.io/hootsuite/jobs/8312189",
+          "location": "Tokyo, Japan",
+          "mode": "On-site",
+          "canada": false
         }
       ]
     },
@@ -1611,9 +1772,9 @@
       "careers_url": "https://jobs.ashbyhq.com/industrious",
       "jobs": [
         {
-          "title": "Member Experience Manager - Chicago",
-          "url": "https://jobs.ashbyhq.com/industrious/360d2bd5-2298-4cd3-b441-caada3a675d5",
-          "location": "Chicago",
+          "title": "Hospitality Associate",
+          "url": "https://jobs.ashbyhq.com/industrious/7f5a5c3a-d29d-4d4f-8c7a-378b3ab5c70b",
+          "location": "San Francisco",
           "mode": "On-site",
           "canada": false
         },
@@ -1646,20 +1807,6 @@
           "canada": false
         },
         {
-          "title": "Senior Software Engineer - Ads Manager",
-          "url": "https://instacart.careers/job/?gh_jid=8304487",
-          "location": "Canada - Remote (ON, AB, BC, or NS Only)",
-          "mode": "Remote",
-          "canada": true
-        },
-        {
-          "title": "Senior Software Engineer II - Enterprise Foundations",
-          "url": "https://instacart.careers/job/?gh_jid=8304279",
-          "location": "United States - Remote",
-          "mode": "Remote",
-          "canada": false
-        },
-        {
           "title": "Social Content Producer",
           "url": "https://instacart.careers/job/?gh_jid=8304832",
           "location": "United States - Remote",
@@ -1674,16 +1821,16 @@
       "careers_url": "https://jobs.ashbyhq.com/jane",
       "jobs": [
         {
-          "title": "Market Owner, CAN Manual Therapy & Mental Health",
-          "url": "https://jobs.ashbyhq.com/jane/b887ca1c-c794-4777-aeb9-ee368da6d199",
+          "title": "Graphic Designer (12-Month Contract)",
+          "url": "https://jobs.ashbyhq.com/jane/acc3f39e-86ea-4be9-ab21-e7b9127eeba3",
           "location": "Canada",
           "mode": "Remote",
           "canada": true
         },
         {
-          "title": "Senior Development Manager - Developer Acceleration",
-          "url": "https://jobs.ashbyhq.com/jane/325082ad-699b-4d0f-b023-bec1c545b254",
-          "location": "Canada",
+          "title": "Software Development Manager - Growth",
+          "url": "https://jobs.ashbyhq.com/jane/6ecf2fa5-646b-4d08-9a5d-8b99e03ed91d",
+          "location": "Canada/US",
           "mode": "Remote",
           "canada": true
         },
@@ -1709,16 +1856,16 @@
           "canada": true
         },
         {
-          "title": "Senior Analyst, Customer Analytics (12-month contract)",
-          "url": "https://jobs.ashbyhq.com/jobber/17dd4ce1-6776-4b13-bea1-b81dfe9d3b11",
-          "location": "Toronto; Vancouver; Kitchener-Waterloo; Edmonton",
+          "title": "Principal Product Marketing Manager",
+          "url": "https://jobs.ashbyhq.com/jobber/21a9e078-cffc-468a-89c1-4edea5008088",
+          "location": "Toronto",
           "mode": "Hybrid",
           "canada": true
         },
         {
-          "title": "Senior Front-End Developer",
-          "url": "https://jobs.ashbyhq.com/jobber/59777fd4-a3fa-441b-ab82-a3f74f2a5add",
-          "location": "Edmonton; Vancouver; Kitchener-Waterloo; Toronto",
+          "title": "Senior Analyst, Customer Analytics (12-month contract)",
+          "url": "https://jobs.ashbyhq.com/jobber/17dd4ce1-6776-4b13-bea1-b81dfe9d3b11",
+          "location": "Toronto; Vancouver; Kitchener-Waterloo; Edmonton",
           "mode": "Hybrid",
           "canada": true
         }
@@ -1735,33 +1882,33 @@
           "location": "New York, New York",
           "mode": "On-site",
           "canada": false
-        },
-        {
-          "title": "Senior Software Engineer, Backend",
-          "url": "https://boards.greenhouse.io/justworks/jobs/8179751?gh_jid=8179751",
-          "location": "New York, New York",
-          "mode": "On-site",
-          "canada": false
-        },
-        {
-          "title": "Software Engineer, Backend",
-          "url": "https://boards.greenhouse.io/justworks/jobs/8179714?gh_jid=8179714",
-          "location": "New York, New York",
-          "mode": "On-site",
-          "canada": false
         }
       ]
     },
     {
-      "slug": "kepler",
-      "name": "Kepler",
-      "careers_url": "https://jobs.lever.co/kepler",
+      "slug": "koho",
+      "name": "Koho",
+      "careers_url": "https://jobs.ashbyhq.com/koho",
       "jobs": [
         {
-          "title": "IT Intern (January 2027) (4 months)",
-          "url": "https://jobs.lever.co/kepler/ccb93343-3e2f-485d-bccf-5e34512bf4cb",
-          "location": "Toronto, Ontario",
-          "mode": "On-site",
+          "title": "Director, Loss Mitigation Operations",
+          "url": "https://jobs.ashbyhq.com/koho/d51a70e2-c11d-4a78-9f85-5246642351ac",
+          "location": "KOHO (CAN)",
+          "mode": "Remote",
+          "canada": true
+        },
+        {
+          "title": "Senior Accounting Manager",
+          "url": "https://jobs.ashbyhq.com/koho/dd2dfdb4-165c-4ab3-bf9e-be1cb7aead0f",
+          "location": "KOHO (CAN)",
+          "mode": "Remote",
+          "canada": true
+        },
+        {
+          "title": "Senior Product Manager, Collections & Recoveries",
+          "url": "https://jobs.ashbyhq.com/koho/5d77b21d-680a-4f2a-a9a5-8c90d9e6f971",
+          "location": "KOHO (CAN)",
+          "mode": "Remote",
           "canada": true
         }
       ]
@@ -1772,23 +1919,86 @@
       "careers_url": "https://job-boards.greenhouse.io/konradgroup",
       "jobs": [
         {
-          "title": "Data Analyst",
-          "url": "https://www.konrad.com/careers/job/8038699003?gh_jid=8038699003",
-          "location": "Gurgaon",
+          "title": "Associate Consultant",
+          "url": "https://www.konrad.com/careers/job/8041469003?gh_jid=8041469003",
+          "location": "New York",
           "mode": "On-site",
           "canada": false
         },
         {
-          "title": "Data Architect & Team Lead",
-          "url": "https://www.konrad.com/careers/job/8038829003?gh_jid=8038829003",
-          "location": "Toronto",
+          "title": "Associate Consultant",
+          "url": "https://www.konrad.com/careers/job/8041533003?gh_jid=8041533003",
+          "location": "London",
           "mode": "On-site",
-          "canada": true
+          "canada": false
         },
         {
-          "title": "Project Coordinator - Digital delivery",
-          "url": "https://www.konrad.com/careers/job/8038682003?gh_jid=8038682003",
-          "location": "Gurgaon",
+          "title": "Associate UI/UX Designer",
+          "url": "https://www.konrad.com/careers/job/8041479003?gh_jid=8041479003",
+          "location": "New York",
+          "mode": "On-site",
+          "canada": false
+        },
+        {
+          "title": "Consultant",
+          "url": "https://www.konrad.com/careers/job/8041485003?gh_jid=8041485003",
+          "location": "New York",
+          "mode": "On-site",
+          "canada": false
+        },
+        {
+          "title": "Consultant",
+          "url": "https://www.konrad.com/careers/job/8041618003?gh_jid=8041618003",
+          "location": "London",
+          "mode": "On-site",
+          "canada": false
+        },
+        {
+          "title": "Manager",
+          "url": "https://www.konrad.com/careers/job/8041502003?gh_jid=8041502003",
+          "location": "New York",
+          "mode": "On-site",
+          "canada": false
+        },
+        {
+          "title": "Manager",
+          "url": "https://www.konrad.com/careers/job/8041622003?gh_jid=8041622003",
+          "location": "London",
+          "mode": "On-site",
+          "canada": false
+        },
+        {
+          "title": "Senior Consultant",
+          "url": "https://www.konrad.com/careers/job/8041508003?gh_jid=8041508003",
+          "location": "New York",
+          "mode": "On-site",
+          "canada": false
+        },
+        {
+          "title": "Senior Consultant",
+          "url": "https://www.konrad.com/careers/job/8041624003?gh_jid=8041624003",
+          "location": "London",
+          "mode": "On-site",
+          "canada": false
+        },
+        {
+          "title": "Senior Manager",
+          "url": "https://www.konrad.com/careers/job/8041519003?gh_jid=8041519003",
+          "location": "New York",
+          "mode": "On-site",
+          "canada": false
+        },
+        {
+          "title": "Senior UI/UX Designer",
+          "url": "https://www.konrad.com/careers/job/8041514003?gh_jid=8041514003",
+          "location": "New York",
+          "mode": "On-site",
+          "canada": false
+        },
+        {
+          "title": "UI/UX Designer",
+          "url": "https://www.konrad.com/careers/job/8041488003?gh_jid=8041488003",
+          "location": "New York",
           "mode": "On-site",
           "canada": false
         }
@@ -1800,48 +2010,6 @@
       "careers_url": "https://jobs.ashbyhq.com/lightspeedhq",
       "jobs": [
         {
-          "title": "Analytics Engineer",
-          "url": "https://jobs.ashbyhq.com/lightspeedhq/404091b2-8ae7-4977-85b2-6198be93aca9",
-          "location": "Montreal",
-          "mode": "Hybrid",
-          "canada": true
-        },
-        {
-          "title": "Analytics Engineer",
-          "url": "https://jobs.ashbyhq.com/lightspeedhq/bebf18c5-3437-4ab3-86db-d065b0611445",
-          "location": "Remote in Canada",
-          "mode": "Remote",
-          "canada": true
-        },
-        {
-          "title": "Engénieur(e) Analytics",
-          "url": "https://jobs.ashbyhq.com/lightspeedhq/9c16720e-af8b-4bc4-9f6c-fba16bb3a06e",
-          "location": "Montreal",
-          "mode": "Hybrid",
-          "canada": true
-        },
-        {
-          "title": "Field Account Executive",
-          "url": "https://jobs.ashbyhq.com/lightspeedhq/84eb986c-d816-4636-99ab-affec018fe66",
-          "location": "London",
-          "mode": "On-site",
-          "canada": false
-        },
-        {
-          "title": "Graphiste débutant(e)",
-          "url": "https://jobs.ashbyhq.com/lightspeedhq/27609237-9858-4787-a58f-53be17da74a8",
-          "location": "Montreal",
-          "mode": "Hybrid",
-          "canada": true
-        },
-        {
-          "title": "Junior Graphic Designer",
-          "url": "https://jobs.ashbyhq.com/lightspeedhq/0fae6116-5c27-472a-9cb9-49da5692a336",
-          "location": "Montreal",
-          "mode": "Hybrid",
-          "canada": true
-        },
-        {
           "title": "Motion Designer (Permanent work from home)",
           "url": "https://jobs.ashbyhq.com/lightspeedhq/07d6351c-c382-4dd0-bcc9-fab0b1d8c438",
           "location": "Manila",
@@ -1849,11 +2017,25 @@
           "canada": false
         },
         {
-          "title": "ServiceNow Developer",
-          "url": "https://jobs.ashbyhq.com/lightspeedhq/a044bcfd-59a4-42f1-a7f0-a01f570051eb",
-          "location": "Remote in Canada",
+          "title": "Payments Risk Analyst",
+          "url": "https://jobs.ashbyhq.com/lightspeedhq/78c77612-4106-4cc8-a617-77ef0854fb40",
+          "location": "Belfast",
+          "mode": "Hybrid",
+          "canada": false
+        }
+      ]
+    },
+    {
+      "slug": "linus-health",
+      "name": "Linus Health",
+      "careers_url": "https://ats.rippling.com/linus-health/jobs",
+      "jobs": [
+        {
+          "title": "Clinical Program Manager ",
+          "url": "https://ats.rippling.com/linus-health/jobs/c044d769-da9e-4cca-b796-2141bf33f9c7",
+          "location": "Remote (Boston , MA, US)",
           "mode": "Remote",
-          "canada": true
+          "canada": false
         }
       ]
     },
@@ -1900,10 +2082,38 @@
       ]
     },
     {
+      "slug": "livekit",
+      "name": "Livekit",
+      "careers_url": "https://jobs.ashbyhq.com/livekit",
+      "jobs": [
+        {
+          "title": "Security Engineer, Infrastructure Security",
+          "url": "https://jobs.ashbyhq.com/livekit/03f4997e-8c86-4067-b929-8b3f16a9de35",
+          "location": "United States (Remote); Canada (Remote)",
+          "mode": "Remote",
+          "canada": true
+        },
+        {
+          "title": "Security Engineer, Vulnerability Management & Security Operations",
+          "url": "https://jobs.ashbyhq.com/livekit/f0c49b41-8390-4c8e-8f52-478bb043dbfe",
+          "location": "United States (Remote); Canada (Remote)",
+          "mode": "Remote",
+          "canada": true
+        }
+      ]
+    },
+    {
       "slug": "loopio",
       "name": "Loopio",
       "careers_url": "https://jobs.ashbyhq.com/loopio",
       "jobs": [
+        {
+          "title": "Enterprise Account Executive",
+          "url": "https://jobs.ashbyhq.com/loopio/ee7f4f7c-42f1-40b3-8fde-a0bb741ac976",
+          "location": "Toronto, ON Hub",
+          "mode": "Remote",
+          "canada": true
+        },
         {
           "title": "Senior Software Developer",
           "url": "https://jobs.ashbyhq.com/loopio/faffd0f5-7d27-47f9-ab93-94e8aa57006c",
@@ -1961,9 +2171,9 @@
           "canada": false
         },
         {
-          "title": "Associate Commerical Growth Account Executive",
-          "url": "https://www.mongodb.com/careers/job/?gh_jid=8287148",
-          "location": "Barcelona",
+          "title": "Director, Chief of Staff",
+          "url": "https://www.mongodb.com/careers/job/?gh_jid=8313598",
+          "location": "Palo Alto",
           "mode": "On-site",
           "canada": false
         },
@@ -1975,11 +2185,11 @@
           "canada": false
         },
         {
-          "title": "Manager, Client Platform Engineering",
-          "url": "https://www.mongodb.com/careers/job/?gh_jid=8300746",
-          "location": "Palo Alto; San Francisco",
+          "title": "Inside Account Executive",
+          "url": "https://www.mongodb.com/careers/job/?gh_jid=8314019",
+          "location": "Toronto",
           "mode": "On-site",
-          "canada": false
+          "canada": true
         },
         {
           "title": "Manager, Solutions Architecture",
@@ -1989,23 +2199,9 @@
           "canada": false
         },
         {
-          "title": "Regulatory Compliance Program Manager",
-          "url": "https://www.mongodb.com/careers/job/?gh_jid=8300961",
-          "location": "Dublin, Ireland",
-          "mode": "On-site",
-          "canada": false
-        },
-        {
-          "title": "Senior Manager, Event Operations",
-          "url": "https://www.mongodb.com/careers/job/?gh_jid=8190019",
-          "location": "Dublin, Ireland",
-          "mode": "On-site",
-          "canada": false
-        },
-        {
-          "title": "Senior Software Engineer",
-          "url": "https://www.mongodb.com/careers/job/?gh_jid=8300359",
-          "location": "New York City",
+          "title": "Senior Forward Deployment Engineer",
+          "url": "https://www.mongodb.com/careers/job/?gh_jid=8304146",
+          "location": "Austin; Boston; Dallas; Denver; Houston; Los Angeles; Nashville; New York City; Palo Alto; Philadelphia; San Francisco; Seattle; United States",
           "mode": "On-site",
           "canada": false
         },
@@ -2017,9 +2213,23 @@
           "canada": false
         },
         {
-          "title": "Senior Software Engineer, Query",
-          "url": "https://www.mongodb.com/careers/job/?gh_jid=8300245",
-          "location": "Cork, Ireland; Dublin, Ireland",
+          "title": "Senior Software Engineer, Replication",
+          "url": "https://www.mongodb.com/careers/job/?gh_jid=8263247",
+          "location": "United States",
+          "mode": "On-site",
+          "canada": false
+        },
+        {
+          "title": "Senior Software Engineer, Workload Resilience",
+          "url": "https://www.mongodb.com/careers/job/?gh_jid=8263467",
+          "location": "United States",
+          "mode": "On-site",
+          "canada": false
+        },
+        {
+          "title": "Senior Solutions Architect (Pre-Sales)",
+          "url": "https://www.mongodb.com/careers/job/?gh_jid=8311246",
+          "location": "New York City",
           "mode": "On-site",
           "canada": false
         }
@@ -2036,27 +2246,6 @@
           "location": "Remote Canada; Remote US",
           "mode": "Remote",
           "canada": true
-        },
-        {
-          "title": "Contract Staff Software Engineer - (Firefox) C++,Storage Encryption",
-          "url": "https://job-boards.greenhouse.io/mozilla/jobs/8247430",
-          "location": "Remote Canada; Remote Germany; Remote UK",
-          "mode": "Remote",
-          "canada": true
-        },
-        {
-          "title": "Contract Staff Software Engineer-Bug Burndown",
-          "url": "https://job-boards.greenhouse.io/mozilla/jobs/8303335",
-          "location": "Remote UK",
-          "mode": "Remote",
-          "canada": false
-        },
-        {
-          "title": "Contract Staff Software Engineer-Bug Burndown",
-          "url": "https://job-boards.greenhouse.io/mozilla/jobs/8303336",
-          "location": "Remote Germany",
-          "mode": "Remote",
-          "canada": false
         },
         {
           "title": "Firefox Enterprise Partnership Lead (DACH)",
@@ -2087,37 +2276,58 @@
           "canada": false
         },
         {
-          "title": "Senior Contract C++ / JavaScript Software Engineer Firefox (Browser Engine)",
-          "url": "https://job-boards.greenhouse.io/mozilla/jobs/8287978",
+          "title": "Senior Software Engineer, Privacy",
+          "url": "https://job-boards.greenhouse.io/mozilla/jobs/8301275",
           "location": "Remote Germany",
           "mode": "Remote",
           "canada": false
         },
         {
-          "title": "Senior Contract C++ / JavaScript Software Engineer Firefox (Browser Engine)",
-          "url": "https://job-boards.greenhouse.io/mozilla/jobs/8287979",
+          "title": "Senior Software Engineer, Privacy",
+          "url": "https://job-boards.greenhouse.io/mozilla/jobs/8315198",
           "location": "Remote France",
           "mode": "Remote",
           "canada": false
         },
         {
-          "title": "Senior Contract C++ / JavaScript Software Engineer Firefox (Browser Engine)",
-          "url": "https://job-boards.greenhouse.io/mozilla/jobs/8287980",
+          "title": "Senior Software Engineer, Privacy",
+          "url": "https://job-boards.greenhouse.io/mozilla/jobs/8315203",
           "location": "Remote UK",
           "mode": "Remote",
           "canada": false
         },
         {
-          "title": "Senior Manager, Accounting & Finance",
-          "url": "https://job-boards.greenhouse.io/mozilla/jobs/8302972",
-          "location": "Remote US",
+          "title": "Senior Software Engineer, Privacy",
+          "url": "https://job-boards.greenhouse.io/mozilla/jobs/8315204",
+          "location": "Remote Finland",
           "mode": "Remote",
           "canada": false
         },
         {
-          "title": "Senior Manager, Accounting & Finance",
-          "url": "https://job-boards.greenhouse.io/mozilla/jobs/8302988",
-          "location": "Remote",
+          "title": "Senior Software Engineer, Privacy",
+          "url": "https://job-boards.greenhouse.io/mozilla/jobs/8315221",
+          "location": "Remote Belgium",
+          "mode": "Remote",
+          "canada": false
+        },
+        {
+          "title": "Senior Software Engineer, Privacy",
+          "url": "https://job-boards.greenhouse.io/mozilla/jobs/8315278",
+          "location": "Remote Spain",
+          "mode": "Remote",
+          "canada": false
+        },
+        {
+          "title": "Senior Software Engineer, Privacy",
+          "url": "https://job-boards.greenhouse.io/mozilla/jobs/8315350",
+          "location": "Remote Netherlands",
+          "mode": "Remote",
+          "canada": false
+        },
+        {
+          "title": "Senior Software Engineer, Privacy",
+          "url": "https://job-boards.greenhouse.io/mozilla/jobs/8315412",
+          "location": "Remote Sweden",
           "mode": "Remote",
           "canada": false
         },
@@ -2134,20 +2344,69 @@
           "location": "Remote France",
           "mode": "Remote",
           "canada": false
-        }
-      ]
-    },
-    {
-      "slug": "nango",
-      "name": "Nango",
-      "careers_url": "https://jobs.ashbyhq.com/nango",
-      "jobs": [
+        },
         {
-          "title": "Senior+ Full-Stack Engineer",
-          "url": "https://jobs.ashbyhq.com/nango/aa8125b8-1b0e-42dc-8c8e-2d69eabe0524",
-          "location": "USA; Chile; UK; Uruguay; Switzerland; Brazil; Canada; Mexico; Argentina; Europe",
+          "title": "Staff Site Reliability Engineer, Tools & Systems",
+          "url": "https://job-boards.greenhouse.io/mozilla/jobs/8278949",
+          "location": "Remote Canada",
           "mode": "Remote",
           "canada": true
+        },
+        {
+          "title": "Staff Site Reliability Engineer, Tools & Systems",
+          "url": "https://job-boards.greenhouse.io/mozilla/jobs/8315175",
+          "location": "Remote France",
+          "mode": "Remote",
+          "canada": false
+        },
+        {
+          "title": "Staff Site Reliability Engineer, Tools & Systems",
+          "url": "https://job-boards.greenhouse.io/mozilla/jobs/8315181",
+          "location": "Remote Germany",
+          "mode": "Remote",
+          "canada": false
+        },
+        {
+          "title": "Staff Site Reliability Engineer, Tools & Systems",
+          "url": "https://job-boards.greenhouse.io/mozilla/jobs/8315185",
+          "location": "Remote UK",
+          "mode": "Remote",
+          "canada": false
+        },
+        {
+          "title": "Staff Site Reliability Engineer, Tools & Systems",
+          "url": "https://job-boards.greenhouse.io/mozilla/jobs/8315189",
+          "location": "Remote Finland",
+          "mode": "Remote",
+          "canada": false
+        },
+        {
+          "title": "Staff Site Reliability Engineer, Tools & Systems",
+          "url": "https://job-boards.greenhouse.io/mozilla/jobs/8315191",
+          "location": "Remote Belgium",
+          "mode": "Remote",
+          "canada": false
+        },
+        {
+          "title": "Staff Site Reliability Engineer, Tools & Systems",
+          "url": "https://job-boards.greenhouse.io/mozilla/jobs/8315192",
+          "location": "Remote Spain",
+          "mode": "Remote",
+          "canada": false
+        },
+        {
+          "title": "Staff Site Reliability Engineer, Tools & Systems",
+          "url": "https://job-boards.greenhouse.io/mozilla/jobs/8315195",
+          "location": "Remote Netherlands",
+          "mode": "Remote",
+          "canada": false
+        },
+        {
+          "title": "Staff Site Reliability Engineer, Tools & Systems",
+          "url": "https://job-boards.greenhouse.io/mozilla/jobs/8315197",
+          "location": "Remote Sweden",
+          "mode": "Remote",
+          "canada": false
         }
       ]
     },
@@ -2160,13 +2419,6 @@
           "title": "District Sales Manager- Vancouver",
           "url": "https://jobs.ashbyhq.com/neofinancial/85cc48da-bb92-482a-8180-07210528932d",
           "location": "Vancouver, BC",
-          "mode": "On-site",
-          "canada": true
-        },
-        {
-          "title": "Sales Team Lead - Abbotsford ",
-          "url": "https://jobs.ashbyhq.com/neofinancial/b49e7961-2fe1-4b89-9840-0b4fd886d92b",
-          "location": "Abbotsford, BC",
           "mode": "On-site",
           "canada": true
         }
@@ -2213,16 +2465,16 @@
           "canada": false
         },
         {
-          "title": "People Consultant ",
-          "url": "https://www.okta.com/company/careers/opportunity/8303758?gh_jid=8303758",
-          "location": "Chicago, Illinois",
+          "title": "Program Manager, Climate",
+          "url": "https://www.okta.com/company/careers/opportunity/8305851?gh_jid=8305851",
+          "location": "Bellevue, Washington; Chicago, Illinois",
           "mode": "On-site",
           "canada": false
         },
         {
-          "title": "Sales Development Representative (Singapore)",
-          "url": "https://www.okta.com/company/careers/opportunity/8304868?gh_jid=8304868",
-          "location": "Singapore",
+          "title": "Sales Development Representative",
+          "url": "https://www.okta.com/company/careers/opportunity/8302473?gh_jid=8302473",
+          "location": "Tokyo, Japan",
           "mode": "On-site",
           "canada": false
         },
@@ -2234,23 +2486,9 @@
           "canada": false
         },
         {
-          "title": "Senior People Consultant ",
-          "url": "https://www.okta.com/company/careers/opportunity/8303756?gh_jid=8303756",
-          "location": "San Francisco, California",
-          "mode": "On-site",
-          "canada": false
-        },
-        {
-          "title": "Senior People Consultant ",
-          "url": "https://www.okta.com/company/careers/opportunity/8303765?gh_jid=8303765",
-          "location": "Chicago, Illinois",
-          "mode": "On-site",
-          "canada": false
-        },
-        {
-          "title": "Senior Regional Alliances Manager",
-          "url": "https://www.okta.com/company/careers/opportunity/8305257?gh_jid=8305257",
-          "location": "Sydney, Australia",
+          "title": "Senior People Consultant EMEA",
+          "url": "https://www.okta.com/company/careers/opportunity/8303054?gh_jid=8303054",
+          "location": "Dublin, Ireland",
           "mode": "On-site",
           "canada": false
         },
@@ -2269,9 +2507,23 @@
           "canada": false
         },
         {
-          "title": "Specialist AI GTM Strategy and Activation - Technical Market Engagement",
-          "url": "https://www.okta.com/company/careers/opportunity/8304001?gh_jid=8304001",
-          "location": "Bellevue, Washington; Chicago, Illinois; San Francisco, California",
+          "title": "Senior Technical Consultant, Okta",
+          "url": "https://www.okta.com/company/careers/opportunity/8289693?gh_jid=8289693",
+          "location": "Washington, DC",
+          "mode": "On-site",
+          "canada": false
+        },
+        {
+          "title": "Senior Technology Specialist, Executive Support",
+          "url": "https://www.okta.com/company/careers/opportunity/8306620?gh_jid=8306620",
+          "location": "San Francisco, California",
+          "mode": "On-site",
+          "canada": false
+        },
+        {
+          "title": "Solutions Engineer, Okta (Enterprise West)",
+          "url": "https://www.okta.com/company/careers/opportunity/8312752?gh_jid=8312752",
+          "location": "Bellevue, Washington; San Francisco, California",
           "mode": "On-site",
           "canada": false
         },
@@ -2283,31 +2535,24 @@
           "canada": true
         },
         {
-          "title": "Staff Security Risk Analyst",
-          "url": "https://www.okta.com/company/careers/opportunity/8299856?gh_jid=8299856",
-          "location": "Toronto, Ontario, Canada",
-          "mode": "On-site",
-          "canada": true
-        },
-        {
-          "title": "Staff Security Risk Analyst  ",
-          "url": "https://www.okta.com/company/careers/opportunity/8299852?gh_jid=8299852",
-          "location": "Bellevue, Washington; Chicago, Illinois; New York, New York; San Francisco, California; Seattle, Washington; Washington, DC",
+          "title": "Technical Content Manager",
+          "url": "https://www.okta.com/company/careers/opportunity/8164832?gh_jid=8164832",
+          "location": "Chicago, Illinois; New York, New York; San Francisco, California; Washington, DC",
           "mode": "On-site",
           "canada": false
-        },
+        }
+      ]
+    },
+    {
+      "slug": "oscilar",
+      "name": "Oscilar",
+      "careers_url": "https://jobs.ashbyhq.com/oscilar",
+      "jobs": [
         {
-          "title": "Staff, Third Party Risk Management",
-          "url": "https://www.okta.com/company/careers/opportunity/8299845?gh_jid=8299845",
-          "location": "Bellevue, Washington; Chicago, Illinois; New York, New York; San Francisco, California; Seattle, Washington; Washington, DC",
-          "mode": "On-site",
-          "canada": false
-        },
-        {
-          "title": "Sustainability Data, Reporting & Automation Sr Data Analyst",
-          "url": "https://www.okta.com/company/careers/opportunity/8300397?gh_jid=8300397",
-          "location": "Dublin, Ireland",
-          "mode": "On-site",
+          "title": "Sr. Director of Agents Growth",
+          "url": "https://jobs.ashbyhq.com/oscilar/97bb170d-2eba-4177-980a-37db7260223c",
+          "location": "Remote",
+          "mode": "Remote",
           "canada": false
         }
       ]
@@ -2332,10 +2577,45 @@
       "careers_url": "https://jobs.ashbyhq.com/oyster",
       "jobs": [
         {
-          "title": "Service Delivery Automation Analyst",
-          "url": "https://jobs.ashbyhq.com/oyster/c3161b23-af44-4cdf-b822-e4e281634e89",
-          "location": "EMEA; Hungary; Portugal; Spain; Poland",
+          "title": "Lead Partner Marketing Manager ",
+          "url": "https://jobs.ashbyhq.com/oyster/0d6fef86-5e4b-4bca-aff7-8dd7ae2e0519",
+          "location": "Global; Portugal; Spain; Brazil; Colombia; South Africa; Canada",
           "mode": "Remote",
+          "canada": true
+        }
+      ]
+    },
+    {
+      "slug": "palantir",
+      "name": "Palantir",
+      "careers_url": "https://jobs.lever.co/palantir",
+      "jobs": [
+        {
+          "title": "Deployment Strategist, Internship - Warp Speed",
+          "url": "https://jobs.lever.co/palantir/69ab7e24-8f5d-426e-84f7-6d3b2d4a7efd",
+          "location": "New York, NY",
+          "mode": "On-site",
+          "canada": false
+        },
+        {
+          "title": "Deployment Strategist, New Grad - Warp Speed",
+          "url": "https://jobs.lever.co/palantir/37780e70-c7af-45e1-9be7-071df201c387",
+          "location": "New York, NY",
+          "mode": "On-site",
+          "canada": false
+        },
+        {
+          "title": "Forward Deployed Software Engineer, Internship - Warp Speed",
+          "url": "https://jobs.lever.co/palantir/b3d81928-6c26-432f-8a0a-36602c2eefcb",
+          "location": "New York, NY",
+          "mode": "On-site",
+          "canada": false
+        },
+        {
+          "title": "Forward Deployed Software Engineer, New Grad - Warp Speed",
+          "url": "https://jobs.lever.co/palantir/66b495eb-aaf9-4bf9-a759-41854534add7",
+          "location": "New York, NY",
+          "mode": "On-site",
           "canada": false
         }
       ]
@@ -2345,20 +2625,6 @@
       "name": "PlayStation Global",
       "careers_url": "https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal",
       "jobs": [
-        {
-          "title": "Director, Head of EMEA Operations",
-          "url": "https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6226476004",
-          "location": "United Kingdom, London",
-          "mode": "On-site",
-          "canada": false
-        },
-        {
-          "title": "Lead Data Engineer",
-          "url": "https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6222405004",
-          "location": "United Kingdom, London",
-          "mode": "On-site",
-          "canada": false
-        },
         {
           "title": "Lead Global D2C Excellence & Transformation Manager",
           "url": "https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6223199004",
@@ -2384,6 +2650,48 @@
           "title": "Senior Director, Merchandising & Editorial",
           "url": "https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6176306004",
           "location": "United States, San Mateo, CA",
+          "mode": "On-site",
+          "canada": false
+        },
+        {
+          "title": "Senior Materials Level Artist",
+          "url": "https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6229772004",
+          "location": "Canada, Remote",
+          "mode": "Remote",
+          "canada": true
+        },
+        {
+          "title": "Software Development Engineer in Test II ",
+          "url": "https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6145091004",
+          "location": "United States, San Mateo, CA",
+          "mode": "On-site",
+          "canada": false
+        },
+        {
+          "title": "Staff Technical Change Manager",
+          "url": "https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6226453004",
+          "location": "United States, Los Angeles, CA",
+          "mode": "On-site",
+          "canada": false
+        }
+      ]
+    },
+    {
+      "slug": "plume",
+      "name": "Plume",
+      "careers_url": "https://job-boards.greenhouse.io/plume",
+      "jobs": [
+        {
+          "title": "Site Reliability Engineer",
+          "url": "https://www.plume.com/career-opportunities/?gh_jid=8899720002",
+          "location": "Ljubljana, Slovenia",
+          "mode": "On-site",
+          "canada": false
+        },
+        {
+          "title": "Technical Program Manager",
+          "url": "https://www.plume.com/career-opportunities/?gh_jid=8899752002",
+          "location": "Ljubljana, Slovenia",
           "mode": "On-site",
           "canada": false
         }
@@ -2423,18 +2731,25 @@
           "canada": false
         },
         {
-          "title": "Patient Experience Representative",
-          "url": "https://app.careerpuck.com/job-board/prenuvo/job/4745202005?gh_jid=4745202005",
-          "location": "Vancouver, British Colombia, Canada",
-          "mode": "On-site",
+          "title": "Nurse Practitioner, Results Review (Remote - Contractor, 3-months)",
+          "url": "https://app.careerpuck.com/job-board/prenuvo/job/4745719005?gh_jid=4745719005",
+          "location": "Remote, USA",
+          "mode": "Remote",
+          "canada": false
+        },
+        {
+          "title": "Senior Software Engineer II - Agentic SDLC",
+          "url": "https://app.careerpuck.com/job-board/prenuvo/job/4742458005?gh_jid=4742458005",
+          "location": "Remote, Canada",
+          "mode": "Remote",
           "canada": true
         },
         {
-          "title": "Patient Experience Representative",
-          "url": "https://app.careerpuck.com/job-board/prenuvo/job/4745203005?gh_jid=4745203005",
-          "location": "Toronto, Ontario, Canada",
-          "mode": "On-site",
-          "canada": true
+          "title": "Senior Software Engineer II - Agentic SDLC",
+          "url": "https://app.careerpuck.com/job-board/prenuvo/job/4742463005?gh_jid=4742463005",
+          "location": "Remote, USA",
+          "mode": "Remote",
+          "canada": false
         }
       ]
     },
@@ -2444,11 +2759,11 @@
       "careers_url": "https://job-boards.greenhouse.io/reddit",
       "jobs": [
         {
-          "title": "Client Account Manager, Mid-Market Sales (Goods)",
-          "url": "https://job-boards.greenhouse.io/reddit/jobs/8303790",
-          "location": "Toronto, Canada",
+          "title": "Creative Strategist (M&E/Retail)",
+          "url": "https://job-boards.greenhouse.io/reddit/jobs/8191664",
+          "location": "Los Angeles, CA",
           "mode": "On-site",
-          "canada": true
+          "canada": false
         },
         {
           "title": "Principal Data Scientist, User Ecosystem",
@@ -2465,29 +2780,8 @@
           "canada": false
         },
         {
-          "title": "Senior Machine Learning Engineer, Ads ML Efficiency",
-          "url": "https://job-boards.greenhouse.io/reddit/jobs/8304463",
-          "location": "Remote - United States",
-          "mode": "Remote",
-          "canada": false
-        },
-        {
-          "title": "Senior Software Engineer, Web Platform",
-          "url": "https://job-boards.greenhouse.io/reddit/jobs/8303798",
-          "location": "Remote - United States",
-          "mode": "Remote",
-          "canada": false
-        },
-        {
           "title": "Staff Backend Engineer, User Safety",
           "url": "https://job-boards.greenhouse.io/reddit/jobs/8204924",
-          "location": "Remote - United States",
-          "mode": "Remote",
-          "canada": false
-        },
-        {
-          "title": "Staff Product Manager, Youth",
-          "url": "https://job-boards.greenhouse.io/reddit/jobs/8238227",
           "location": "Remote - United States",
           "mode": "Remote",
           "canada": false
@@ -2507,20 +2801,6 @@
       "careers_url": "https://jobs.ashbyhq.com/redpanda-data",
       "jobs": [
         {
-          "title": "Forward Deployed Engineer - US Remote",
-          "url": "https://jobs.ashbyhq.com/redpanda-data/99f62ac7-2a13-4382-ba6e-76fb12c4fd7f",
-          "location": "US - Remote",
-          "mode": "Remote",
-          "canada": false
-        },
-        {
-          "title": "Senior Software Engineer, UI Platform",
-          "url": "https://jobs.ashbyhq.com/redpanda-data/59973d5a-290f-4d8b-ae27-eb433ef35772",
-          "location": "Warsaw, Poland - Hybrid",
-          "mode": "Hybrid",
-          "canada": false
-        },
-        {
           "title": "Senior Technical Engagement Manager",
           "url": "https://jobs.ashbyhq.com/redpanda-data/7fa05bc1-b3b6-4a9c-95e9-3aded4773ad2",
           "location": "US/Canada - Eastern Region",
@@ -2530,10 +2810,31 @@
       ]
     },
     {
+      "slug": "relayfi",
+      "name": "Relayfi",
+      "careers_url": "https://jobs.ashbyhq.com/relayfi",
+      "jobs": [
+        {
+          "title": "Marketing Operations Manager",
+          "url": "https://jobs.ashbyhq.com/relayfi/41a887e7-428b-41b2-9a0a-fcde53ba3292",
+          "location": "Toronto, ON",
+          "mode": "Hybrid",
+          "canada": true
+        }
+      ]
+    },
+    {
       "slug": "ServiceNow",
       "name": "ServiceNow",
       "careers_url": "https://careers.smartrecruiters.com/ServiceNow/",
       "jobs": [
+        {
+          "title": "Advisory Solution Consultant",
+          "url": "https://jobs.smartrecruiters.com/ServiceNow/744000157383989",
+          "location": "Canberra, AUST CAPITAL TERR, Australia",
+          "mode": "Hybrid",
+          "canada": false
+        },
         {
           "title": "Advisory Solution Consultant - Presales",
           "url": "https://jobs.smartrecruiters.com/ServiceNow/744000156852469",
@@ -2556,6 +2857,13 @@
           "canada": false
         },
         {
+          "title": "Area VP, Solution Consulting",
+          "url": "https://jobs.smartrecruiters.com/ServiceNow/744000157201979",
+          "location": "Santa Clara, CALIFORNIA, United States",
+          "mode": "On-site",
+          "canada": false
+        },
+        {
           "title": "Automation, Integration & AI Technology Consultant",
           "url": "https://jobs.smartrecruiters.com/ServiceNow/744000156844142",
           "location": "Sao Paulo, SAO PAULO, Brazil",
@@ -2563,38 +2871,24 @@
           "canada": false
         },
         {
-          "title": "Business Development Representative (Armis)",
-          "url": "https://jobs.smartrecruiters.com/ServiceNow/744000156563295",
-          "location": "Amsterdam, , Netherlands",
+          "title": "Client Director, Korea",
+          "url": "https://jobs.smartrecruiters.com/ServiceNow/744000157139509",
+          "location": "Seoul, , Korea, republic of",
           "mode": "Hybrid",
           "canada": false
         },
         {
-          "title": "Client Director - Health Life Sciences",
-          "url": "https://jobs.smartrecruiters.com/ServiceNow/744000156609039",
-          "location": "New York City, New York, United States",
-          "mode": "Remote",
-          "canada": false
-        },
-        {
-          "title": "Customer Success Executive ",
-          "url": "https://jobs.smartrecruiters.com/ServiceNow/744000156592909",
-          "location": "Riyadh, , Saudi Arabia",
+          "title": "Commercial Growth AE - Dutch Speaking ",
+          "url": "https://jobs.smartrecruiters.com/ServiceNow/744000157066256",
+          "location": "Dublin, , Ireland",
           "mode": "On-site",
           "canada": false
         },
         {
-          "title": "Customer Success Executive - HC/LS",
-          "url": "https://jobs.smartrecruiters.com/ServiceNow/744000156638359",
-          "location": "Addison, Texas, United States",
-          "mode": "Remote",
-          "canada": false
-        },
-        {
-          "title": "Director of Expert Services, ITAM and ITOM ",
-          "url": "https://jobs.smartrecruiters.com/ServiceNow/744000156658664",
-          "location": "New York, New York, United States",
-          "mode": "Remote",
+          "title": "Director of Engineering - AI Control Tower",
+          "url": "https://jobs.smartrecruiters.com/ServiceNow/744000157212959",
+          "location": "Santa Clara, California, United States",
+          "mode": "Hybrid",
           "canada": false
         },
         {
@@ -2634,36 +2928,43 @@
         },
         {
           "title": "Enterprise Account Exec",
-          "url": "https://jobs.smartrecruiters.com/ServiceNow/744000156653059",
+          "url": "https://jobs.smartrecruiters.com/ServiceNow/744000157163439",
           "location": "San Diego, CALIFORNIA, United States",
           "mode": "Remote",
           "canada": false
         },
         {
-          "title": "Enterprise Account Exec Higher Education UK South ",
-          "url": "https://jobs.smartrecruiters.com/ServiceNow/744000156732830",
-          "location": "Staines, , United Kingdom",
-          "mode": "On-site",
-          "canada": false
-        },
-        {
-          "title": "Enterprise Account Executive",
-          "url": "https://jobs.smartrecruiters.com/ServiceNow/744000156589168",
-          "location": "Oslo, , Norway",
-          "mode": "On-site",
-          "canada": false
-        },
-        {
-          "title": "Executive Assistant",
-          "url": "https://jobs.smartrecruiters.com/ServiceNow/744000156669109",
-          "location": "Los Angeles, California, United States",
+          "title": "Enterprise Account Exec - Mid-Atlantic (Armis/Veza)",
+          "url": "https://jobs.smartrecruiters.com/ServiceNow/744000157195334",
+          "location": "Silver Spring, MARYLAND, United States",
           "mode": "Remote",
           "canada": false
         },
         {
-          "title": "Executive Assistant",
-          "url": "https://jobs.smartrecruiters.com/ServiceNow/744000156669509",
-          "location": "Newport Beach, California, United States",
+          "title": "Enterprise Account Exec - Mid-Atlantic (Armis/Veza)",
+          "url": "https://jobs.smartrecruiters.com/ServiceNow/744000157196049",
+          "location": "Philadelphia, Pennsylvania, United States",
+          "mode": "Remote",
+          "canada": false
+        },
+        {
+          "title": "Enterprise Account Exec - Mid-Atlantic (Armis/Veza)",
+          "url": "https://jobs.smartrecruiters.com/ServiceNow/744000157196159",
+          "location": "Raleigh, North Carolina, United States",
+          "mode": "Remote",
+          "canada": false
+        },
+        {
+          "title": "Enterprise Account Exec - Mid-Atlantic (Armis/Veza)",
+          "url": "https://jobs.smartrecruiters.com/ServiceNow/744000157196509",
+          "location": "Arlington, Virginia, United States",
+          "mode": "Remote",
+          "canada": false
+        },
+        {
+          "title": "Enterprise Account Exec - Mid-Atlantic (Armis/Veza)",
+          "url": "https://jobs.smartrecruiters.com/ServiceNow/744000157196599",
+          "location": "Baltimore, Maryland, United States",
           "mode": "Remote",
           "canada": false
         },
@@ -2689,45 +2990,17 @@
           "canada": false
         },
         {
-          "title": "HRBP Director, GTM Sales",
-          "url": "https://jobs.smartrecruiters.com/ServiceNow/744000156654619",
-          "location": "Austin, Texas, United States",
+          "title": "Forward Deployed Solution Engineer – Applied AI FDE",
+          "url": "https://jobs.smartrecruiters.com/ServiceNow/744000157188820",
+          "location": "London, GREATER LONDON, United Kingdom",
           "mode": "Remote",
           "canada": false
         },
         {
-          "title": "Machine Learning Engineer",
-          "url": "https://jobs.smartrecruiters.com/ServiceNow/744000156637254",
-          "location": "Santa Clara, CALIFORNIA, United States",
+          "title": "Principal Engagement Manager",
+          "url": "https://jobs.smartrecruiters.com/ServiceNow/744000157261318",
+          "location": "Singapore, Singapore, Singapore",
           "mode": "Hybrid",
-          "canada": false
-        },
-        {
-          "title": "Manager, FinOps - Private Cloud Capacity",
-          "url": "https://jobs.smartrecruiters.com/ServiceNow/744000156628380",
-          "location": "Kirkland, Washington, United States",
-          "mode": "Hybrid",
-          "canada": false
-        },
-        {
-          "title": "NPI Director- Operations Readiness ",
-          "url": "https://jobs.smartrecruiters.com/ServiceNow/744000156569294",
-          "location": "San Diego, California, United States",
-          "mode": "Hybrid",
-          "canada": false
-        },
-        {
-          "title": "PS, Solution Architect /Forward Deployment Engineer  ( Armis/ Veza)",
-          "url": "https://jobs.smartrecruiters.com/ServiceNow/744000156617679",
-          "location": "New York, NEW YORK, United States",
-          "mode": "Remote",
-          "canada": false
-        },
-        {
-          "title": "Principal Design Technologist, Design Systems & Applied AI ",
-          "url": "https://jobs.smartrecruiters.com/ServiceNow/744000156671000",
-          "location": "Santa Clara, CALIFORNIA, United States",
-          "mode": "On-site",
           "canada": false
         },
         {
@@ -2745,37 +3018,44 @@
           "canada": false
         },
         {
-          "title": "Senior Advisory Presales Solution Consultant, Financial Services",
-          "url": "https://jobs.smartrecruiters.com/ServiceNow/744000156536609",
+          "title": "Senior Commercial Growth AE ",
+          "url": "https://jobs.smartrecruiters.com/ServiceNow/744000157079064",
           "location": "Staines, , United Kingdom",
-          "mode": "Hybrid",
-          "canada": false
-        },
-        {
-          "title": "Senior Database Engineer",
-          "url": "https://jobs.smartrecruiters.com/ServiceNow/744000156659319",
-          "location": "Santa Clara, California, United States",
-          "mode": "Hybrid",
-          "canada": false
-        },
-        {
-          "title": "Senior Labour Relations Manager -  Germany and Austria",
-          "url": "https://jobs.smartrecruiters.com/ServiceNow/744000156522325",
-          "location": "Munich, , Germany",
           "mode": "On-site",
           "canada": false
         },
         {
-          "title": "Senior ML Engineer ",
-          "url": "https://jobs.smartrecruiters.com/ServiceNow/744000156579079",
-          "location": "Santa Clara, CALIFORNIA, United States",
+          "title": "Senior Commercial Growth AE Nordic Speaking ",
+          "url": "https://jobs.smartrecruiters.com/ServiceNow/744000157066344",
+          "location": "Dublin, , Ireland",
           "mode": "On-site",
           "canada": false
         },
         {
-          "title": "Senior Product Designer, CRM & Industries Workflows (Technology)",
-          "url": "https://jobs.smartrecruiters.com/ServiceNow/744000156671559",
-          "location": "San Diego, CALIFORNIA, United States",
+          "title": "Senior Ethics & Compliance Strategic Program Manager ",
+          "url": "https://jobs.smartrecruiters.com/ServiceNow/744000157164608",
+          "location": "Boston, Massachusetts, United States",
+          "mode": "Remote",
+          "canada": false
+        },
+        {
+          "title": "Senior Manager, Partner Technology Architecture",
+          "url": "https://jobs.smartrecruiters.com/ServiceNow/744000157202329",
+          "location": "Chicago, Illinois, United States",
+          "mode": "Remote",
+          "canada": false
+        },
+        {
+          "title": "Senior Manager, Partner Technology Architecture",
+          "url": "https://jobs.smartrecruiters.com/ServiceNow/744000157202629",
+          "location": "New York, New York, United States",
+          "mode": "Remote",
+          "canada": false
+        },
+        {
+          "title": "Senior Partner & Field Marketing Manager ",
+          "url": "https://jobs.smartrecruiters.com/ServiceNow/744000157141184",
+          "location": "Staines, , United Kingdom",
           "mode": "Hybrid",
           "canada": false
         },
@@ -2794,10 +3074,10 @@
           "canada": false
         },
         {
-          "title": "Senior Staff Inbound Product Manager",
-          "url": "https://jobs.smartrecruiters.com/ServiceNow/744000156543661",
-          "location": "Mountain View, California, United States",
-          "mode": "On-site",
+          "title": "Senior Site Reliability Engineer - Federal",
+          "url": "https://jobs.smartrecruiters.com/ServiceNow/744000157201202",
+          "location": "Santa Clara, CALIFORNIA, United States",
+          "mode": "Hybrid",
           "canada": false
         },
         {
@@ -2822,13 +3102,6 @@
           "canada": false
         },
         {
-          "title": "Senior Staff Product Success Architect",
-          "url": "https://jobs.smartrecruiters.com/ServiceNow/744000156657507",
-          "location": "San Diego, California, United States",
-          "mode": "Remote",
-          "canada": false
-        },
-        {
           "title": "Senior Staff Software Engineer - Platform Access Control - Security",
           "url": "https://jobs.smartrecruiters.com/ServiceNow/744000156894349",
           "location": "Santa Clara, CALIFORNIA, United States",
@@ -2836,15 +3109,22 @@
           "canada": false
         },
         {
-          "title": "Software Engineer - Federal",
-          "url": "https://jobs.smartrecruiters.com/ServiceNow/744000156619374",
-          "location": "Santa Clara, CALIFORNIA, United States",
+          "title": "Senior Staff Software Engineer, Agentic Systems - Moveworks",
+          "url": "https://jobs.smartrecruiters.com/ServiceNow/744000157146370",
+          "location": "Mountain View, CALIFORNIA, United States",
           "mode": "On-site",
           "canada": false
         },
         {
           "title": "Solution Architect, Public Sector India",
           "url": "https://jobs.smartrecruiters.com/ServiceNow/744000157048299",
+          "location": "Gurgaon, , India",
+          "mode": "On-site",
+          "canada": false
+        },
+        {
+          "title": "Solution Architect, Public Sector India",
+          "url": "https://jobs.smartrecruiters.com/ServiceNow/744000157376639",
           "location": "Gurgaon, , India",
           "mode": "On-site",
           "canada": false
@@ -2871,17 +3151,52 @@
           "canada": false
         },
         {
-          "title": "Sr Mgr, Solution Consulting Finance, Procurement, Legal",
-          "url": "https://jobs.smartrecruiters.com/ServiceNow/744000156663719",
-          "location": "Denver, Colorado, United States",
+          "title": "Sr CRM Account Executive - Federal Civilian",
+          "url": "https://jobs.smartrecruiters.com/ServiceNow/744000157233759",
+          "location": "Washington, District of Columbia, United States",
           "mode": "Remote",
           "canada": false
         },
         {
-          "title": "Sr Software Engineer",
-          "url": "https://jobs.smartrecruiters.com/ServiceNow/744000156660857",
-          "location": "Santa Clara, CALIFORNIA, United States",
+          "title": "Sr Enterprise Account Exec ( Armis / Veza )",
+          "url": "https://jobs.smartrecruiters.com/ServiceNow/744000157222315",
+          "location": "Orlando, Florida, United States",
+          "mode": "Remote",
+          "canada": false
+        },
+        {
+          "title": "Sr Enterprise Account Exec ( Armis / Veza )",
+          "url": "https://jobs.smartrecruiters.com/ServiceNow/744000157223599",
+          "location": "Silver Spring, MARYLAND, United States",
+          "mode": "Remote",
+          "canada": false
+        },
+        {
+          "title": "Sr Enterprise Account Exec ( Armis / Veza ) ",
+          "url": "https://jobs.smartrecruiters.com/ServiceNow/744000157162946",
+          "location": "Washington, District of Columbia, United States",
+          "mode": "Remote",
+          "canada": false
+        },
+        {
+          "title": "Sr Executive Assistant",
+          "url": "https://jobs.smartrecruiters.com/ServiceNow/744000157230694",
+          "location": "West Palm Beach, Florida, United States",
           "mode": "On-site",
+          "canada": false
+        },
+        {
+          "title": "Sr Software Engineer",
+          "url": "https://jobs.smartrecruiters.com/ServiceNow/744000157402489",
+          "location": "Hyderabad, , India",
+          "mode": "On-site",
+          "canada": false
+        },
+        {
+          "title": "Sr Software Engineer",
+          "url": "https://jobs.smartrecruiters.com/ServiceNow/744000157408989",
+          "location": "Hyderabad, , India",
+          "mode": "Hybrid",
           "canada": false
         },
         {
@@ -2899,20 +3214,6 @@
           "canada": false
         },
         {
-          "title": "Sr. Manager, Solution Design & Realization ",
-          "url": "https://jobs.smartrecruiters.com/ServiceNow/744000156664564",
-          "location": "Chicago, ILLINOIS, United States",
-          "mode": "Remote",
-          "canada": false
-        },
-        {
-          "title": "Sr. Solution Sales Executive - Data & Analytics - Healthcare (Payer)",
-          "url": "https://jobs.smartrecruiters.com/ServiceNow/744000156641589",
-          "location": "Chicago, Illinois, United States",
-          "mode": "Remote",
-          "canada": false
-        },
-        {
           "title": "Staff AI Product Manager",
           "url": "https://jobs.smartrecruiters.com/ServiceNow/744000156861272",
           "location": "Hyderabad, Telangana, India",
@@ -2927,24 +3228,17 @@
           "canada": true
         },
         {
-          "title": "Staff Compliance Analyst",
-          "url": "https://jobs.smartrecruiters.com/ServiceNow/744000156604309",
-          "location": "West Palm Beach, Florida, United States",
-          "mode": "Remote",
-          "canada": false
-        },
-        {
-          "title": "Staff Inbound Product Manager",
-          "url": "https://jobs.smartrecruiters.com/ServiceNow/744000156718589",
-          "location": "Hyderabad, Telangana, India",
+          "title": "Staff Inbound Product Manager - AI Specialist Evals and Quality Standards ",
+          "url": "https://jobs.smartrecruiters.com/ServiceNow/744000157087019",
+          "location": "Bangalore, Karnataka, India",
           "mode": "Hybrid",
           "canada": false
         },
         {
-          "title": "Staff Machine Learning Engineer",
-          "url": "https://jobs.smartrecruiters.com/ServiceNow/744000156574956",
-          "location": "Santa Clara, CALIFORNIA, United States",
-          "mode": "On-site",
+          "title": "Staff Inbound Product Manager - Hill Climbing Product and Customer Instance Program",
+          "url": "https://jobs.smartrecruiters.com/ServiceNow/744000157087789",
+          "location": "Bangalore, Karnataka, India",
+          "mode": "Hybrid",
           "canada": false
         },
         {
@@ -2962,16 +3256,9 @@
           "canada": false
         },
         {
-          "title": "Staff Software Engineer - Moveworks",
-          "url": "https://jobs.smartrecruiters.com/ServiceNow/744000156713569",
-          "location": "Bangalore, Karnataka, India",
-          "mode": "On-site",
-          "canada": false
-        },
-        {
-          "title": "Staff Software Engineer, AI-Native Developer Platform",
-          "url": "https://jobs.smartrecruiters.com/ServiceNow/744000156592815",
-          "location": "Santa Clara, California, United States",
+          "title": "Staff Software Engineer",
+          "url": "https://jobs.smartrecruiters.com/ServiceNow/744000157405961",
+          "location": "Dublin, , Ireland",
           "mode": "Hybrid",
           "canada": false
         },
@@ -2990,24 +3277,17 @@
           "canada": false
         },
         {
-          "title": "Technical Architect, Engage Central Platform",
-          "url": "https://jobs.smartrecruiters.com/ServiceNow/744000156622794",
-          "location": "Orlando, Florida, United States",
+          "title": "Technical Program Manager, Vulnerability, Configuration & Attack Surface Management",
+          "url": "https://jobs.smartrecruiters.com/ServiceNow/744000157200260",
+          "location": "Santa Clara, California, United States",
           "mode": "Remote",
           "canada": false
         },
         {
-          "title": "Technical Product Manager, Legal AI and Platforms ",
-          "url": "https://jobs.smartrecruiters.com/ServiceNow/744000156648956",
-          "location": "Chicago, ILLINOIS, United States",
+          "title": "Technical Program Manager, Vulnerability, Configuration & Attack Surface Management",
+          "url": "https://jobs.smartrecruiters.com/ServiceNow/744000157203719",
+          "location": "West Palm Beach, Florida, United States",
           "mode": "Remote",
-          "canada": false
-        },
-        {
-          "title": "Technical Writer",
-          "url": "https://jobs.smartrecruiters.com/ServiceNow/744000156653779",
-          "location": "Washington, District of Columbia, United States",
-          "mode": "Hybrid",
           "canada": false
         }
       ]
@@ -3018,6 +3298,13 @@
       "careers_url": "https://jobs.ashbyhq.com/Snowflake",
       "jobs": [
         {
+          "title": "AI/ML Consulting Manager",
+          "url": "https://jobs.ashbyhq.com/Snowflake/be98e986-1fef-4ea9-8921-442137354ed8",
+          "location": "AU-Sydney",
+          "mode": "On-site",
+          "canada": false
+        },
+        {
           "title": "Cloud Support Engineer - Japanese Speaking",
           "url": "https://jobs.ashbyhq.com/Snowflake/1e128d1a-b3d5-4ff3-8b34-60a81165d27f",
           "location": "CA-Ontario-Toronto",
@@ -3025,17 +3312,24 @@
           "canada": true
         },
         {
-          "title": "Commercial Account Executive - Acquisition ",
-          "url": "https://jobs.ashbyhq.com/Snowflake/d2089f20-d05d-40e5-8b3b-c3047184cf24",
-          "location": "NL-Amsterdam",
-          "mode": "On-site",
+          "title": "Engineering Manager/Tech Lead Manager - Runtime Engineering",
+          "url": "https://jobs.ashbyhq.com/Snowflake/819f71d8-ee5f-429b-948d-46669a760edb",
+          "location": "US-CA-Menlo Park; US-WA-Bellevue",
+          "mode": "Hybrid",
           "canada": false
         },
         {
-          "title": "EMEA Solution Engineering Manager - Observability",
-          "url": "https://jobs.ashbyhq.com/Snowflake/97f6fdcf-c8ce-4125-a59c-c152bab6351d",
-          "location": "GB-London; DE-Munich-MSO; FR-Paris",
-          "mode": "On-site",
+          "title": "Executive Assistant, Product",
+          "url": "https://jobs.ashbyhq.com/Snowflake/04be3e08-3cca-415b-bd61-f19f2971c88d",
+          "location": "US-WA-Bellevue",
+          "mode": "Hybrid",
+          "canada": false
+        },
+        {
+          "title": "Forward Deployed Engineer, Frontier Engineering",
+          "url": "https://jobs.ashbyhq.com/Snowflake/e054c37d-8940-4cf6-b166-d5741991ad12",
+          "location": "NZ-New Zealand-Remote",
+          "mode": "Remote",
           "canada": false
         },
         {
@@ -3053,30 +3347,16 @@
           "canada": false
         },
         {
-          "title": "Principal Software Enginner - Parameters & Experimentation",
-          "url": "https://jobs.ashbyhq.com/Snowflake/22e84b77-4bc4-4a31-99fb-f325ed9a9590",
-          "location": "US-CA-Menlo Park",
-          "mode": "On-site",
-          "canada": false
-        },
-        {
-          "title": "Senior Director, WW Deal Desk",
-          "url": "https://jobs.ashbyhq.com/Snowflake/fd243b3a-c1ec-4af9-a829-75bbe961cfe9",
-          "location": "US-CA-Dublin; US-CA-Menlo Park",
-          "mode": "On-site",
+          "title": "Sales Enablement, Principal",
+          "url": "https://jobs.ashbyhq.com/Snowflake/2c5d5816-8a14-49b8-b6d7-6ec66b3595b0",
+          "location": "US-IL-Chicago-MSO; US-GA-Atlanta; US-CA-Menlo Park; US-WA-Bellevue; US-CO-Denver",
+          "mode": "Hybrid",
           "canada": false
         },
         {
           "title": "Senior Infrastructure Engineer, Observe by Snowflake",
           "url": "https://jobs.ashbyhq.com/Snowflake/143a2248-564b-4cfa-85f5-d47bac911d74",
           "location": "US-CA-Menlo Park",
-          "mode": "On-site",
-          "canada": false
-        },
-        {
-          "title": "Senior Manager, People Technology",
-          "url": "https://jobs.ashbyhq.com/Snowflake/a3cce5e4-b67c-49a9-95bd-26915ac3e7f4",
-          "location": "US-CA-Menlo Park; US-CA-Dublin",
           "mode": "On-site",
           "canada": false
         },
@@ -3088,8 +3368,15 @@
           "canada": false
         },
         {
-          "title": "Senior Product Manager - Streamlit",
-          "url": "https://jobs.ashbyhq.com/Snowflake/b071b406-6bd0-4def-ba95-380b1cbf6de5",
+          "title": "Senior Software Engineer (Fullstack, Frontend-Focused)",
+          "url": "https://jobs.ashbyhq.com/Snowflake/5aa98590-e2bf-4f0a-a3b9-1795c6e22509",
+          "location": "IN-Bangalore-MSO",
+          "mode": "On-site",
+          "canada": false
+        },
+        {
+          "title": "Senior Software Engineer - Marketplace ",
+          "url": "https://jobs.ashbyhq.com/Snowflake/6aa02c13-d9db-4624-b4ce-cc467562e2ed",
           "location": "US-CA-Menlo Park",
           "mode": "Hybrid",
           "canada": false
@@ -3099,20 +3386,6 @@
           "url": "https://jobs.ashbyhq.com/Snowflake/2f1fa81b-78ac-4b86-bd7c-48a3c2d3ab97",
           "location": "US-CA-Menlo Park",
           "mode": "On-site",
-          "canada": false
-        },
-        {
-          "title": "Sr. Project Manager - Migrations",
-          "url": "https://jobs.ashbyhq.com/Snowflake/f0dfa3f8-0bed-4e4b-97ff-825eb19fa894",
-          "location": "US-NY-New York; US-IL-Chicago-MSO; Seattle, WA",
-          "mode": "Remote",
-          "canada": false
-        },
-        {
-          "title": "Staff Designated Support Engineer",
-          "url": "https://jobs.ashbyhq.com/Snowflake/bf4bfa34-8f2b-4af4-b94e-5fb70d99ec15",
-          "location": "IE-Dublin-WW; NL-Amsterdam",
-          "mode": "Hybrid",
           "canada": false
         }
       ]
@@ -3137,10 +3410,10 @@
       "careers_url": "https://jobs.lever.co/sophos",
       "jobs": [
         {
-          "title": "Senior HRIS Analyst (India/Philippines)",
-          "url": "https://jobs.lever.co/sophos/5a9f4393-2bd2-4434-97ee-ef34d1f3d4c4",
-          "location": "India; Philippines",
-          "mode": "Remote",
+          "title": "Manager, Sales Development (1 year FTC)",
+          "url": "https://jobs.lever.co/sophos/6cedb815-b7d8-4974-9c6c-2b9c34c7d4e2",
+          "location": "Manchester, United Kingdom",
+          "mode": "Hybrid",
           "canada": false
         }
       ]
@@ -3172,11 +3445,25 @@
       "careers_url": "https://job-boards.greenhouse.io/stackadapt",
       "jobs": [
         {
-          "title": "Account Manager, Toronto",
-          "url": "https://job-boards.greenhouse.io/stackadapt/jobs/4417779009",
+          "title": "Manager, Client Analytics Partnerships",
+          "url": "https://job-boards.greenhouse.io/stackadapt/jobs/4452783009",
+          "location": "Singapore",
+          "mode": "On-site",
+          "canada": false
+        },
+        {
+          "title": "Senior Analyst, Verticals & Performance",
+          "url": "https://job-boards.greenhouse.io/stackadapt/jobs/4463815009",
           "location": "Toronto",
           "mode": "On-site",
           "canada": true
+        },
+        {
+          "title": "Senior Manager, Client Analytics Partner",
+          "url": "https://job-boards.greenhouse.io/stackadapt/jobs/4463649009",
+          "location": "United Kingdom",
+          "mode": "On-site",
+          "canada": false
         }
       ]
     },
@@ -3200,13 +3487,6 @@
       "careers_url": "https://job-boards.greenhouse.io/sumologic",
       "jobs": [
         {
-          "title": "Sales Development Representative ",
-          "url": "https://job-boards.greenhouse.io/sumologic/jobs/8302961",
-          "location": "London, England, United Kingdom",
-          "mode": "On-site",
-          "canada": false
-        },
-        {
           "title": "Technical Account Engineer I",
           "url": "https://job-boards.greenhouse.io/sumologic/jobs/8305881",
           "location": "Noida, Uttar Pradesh, India",
@@ -3228,6 +3508,13 @@
       "careers_url": "https://jobs.ashbyhq.com/supabase",
       "jobs": [
         {
+          "title": "Customer Solution Architect (AU, NZ, SG)",
+          "url": "https://jobs.ashbyhq.com/supabase/dca463e6-b6d0-4003-a30b-e0970a8dcee2",
+          "location": "Remote, APAC",
+          "mode": "Remote",
+          "canada": false
+        },
+        {
           "title": "Engineering Manager - Spark",
           "url": "https://jobs.ashbyhq.com/supabase/c6d89ec0-76ee-4de7-92d0-2e0262e9e025",
           "location": "Remote, Global",
@@ -3238,27 +3525,6 @@
           "title": "GRC Analyst ",
           "url": "https://jobs.ashbyhq.com/supabase/13478d3f-0093-458f-9f84-af71e66db03f",
           "location": "Remote, Global",
-          "mode": "Remote",
-          "canada": true
-        },
-        {
-          "title": "Growth Marketer, Creators & Channels",
-          "url": "https://jobs.ashbyhq.com/supabase/d6af503b-acc4-40c9-83d8-d4fe0dcc2dd5",
-          "location": "Remote, AMER",
-          "mode": "Remote",
-          "canada": true
-        },
-        {
-          "title": "Head of New Media",
-          "url": "https://jobs.ashbyhq.com/supabase/62dfb104-ae18-46ce-a9ef-836f024c3d6d",
-          "location": "Remote, AMER",
-          "mode": "Remote",
-          "canada": true
-        },
-        {
-          "title": "Partnerships Manager, Ecosystem",
-          "url": "https://jobs.ashbyhq.com/supabase/f0f277ac-b96c-478a-81ca-7bd80612533f",
-          "location": "Remote, AMER",
           "mode": "Remote",
           "canada": true
         },
@@ -3277,6 +3543,13 @@
       "careers_url": "https://jobs.ashbyhq.com/Superhuman%20Platform%20Inc",
       "jobs": [
         {
+          "title": "Data Engineer, Business Units - Go",
+          "url": "https://jobs.ashbyhq.com/Superhuman%20Platform%20Inc/5e66c634-84e5-4d70-820f-361bf8d4a525",
+          "location": "Hub - San Francisco; Hub - Seattle",
+          "mode": "Hybrid",
+          "canada": false
+        },
+        {
           "title": "Data Scientist, Mail",
           "url": "https://jobs.ashbyhq.com/Superhuman%20Platform%20Inc/05d1a089-1b49-40ba-a261-4eb157209838",
           "location": "Hub - San Francisco; Hub - New York; Hub - Seattle",
@@ -3284,23 +3557,44 @@
           "canada": false
         },
         {
-          "title": "Senior Lifecycle Marketing Manager",
-          "url": "https://jobs.ashbyhq.com/Superhuman%20Platform%20Inc/58e42e51-c75e-4cc2-afaf-7cb4755deaa6",
+          "title": "Senior Manager, Strategic Finance (Consumer Growth & Topline)",
+          "url": "https://jobs.ashbyhq.com/Superhuman%20Platform%20Inc/8dee1453-38df-41f5-bde1-4457d1fa97c0",
           "location": "Hub - San Francisco",
-          "mode": "Remote",
-          "canada": false
-        },
-        {
-          "title": "Senior Lifecycle Marketing Manager",
-          "url": "https://jobs.ashbyhq.com/Superhuman%20Platform%20Inc/c216a73a-61a5-4b9f-bd0c-dfb897e3a7f9",
-          "location": "Hub - San Francisco",
-          "mode": "Remote",
+          "mode": "Hybrid",
           "canada": false
         },
         {
           "title": "Social Media Manager",
           "url": "https://jobs.ashbyhq.com/Superhuman%20Platform%20Inc/5f603d39-2395-4817-99e7-4ebc3fa47ce4",
           "location": "Hub - San Francisco",
+          "mode": "Hybrid",
+          "canada": false
+        }
+      ]
+    },
+    {
+      "slug": "surveymonkey",
+      "name": "Surveymonkey",
+      "careers_url": "https://jobs.ashbyhq.com/surveymonkey",
+      "jobs": [
+        {
+          "title": "New Business Account Executive",
+          "url": "https://jobs.ashbyhq.com/surveymonkey/18e3b451-5632-4a41-8b45-c6e2f280d919",
+          "location": "Ottawa",
+          "mode": "Hybrid",
+          "canada": true
+        },
+        {
+          "title": "New Business Account Executive",
+          "url": "https://jobs.ashbyhq.com/surveymonkey/51e6f692-3d2a-4b82-9406-9735fb1e7e71",
+          "location": "Canada - Remote",
+          "mode": "Remote",
+          "canada": true
+        },
+        {
+          "title": "New Business Account Executive",
+          "url": "https://jobs.ashbyhq.com/surveymonkey/bd77d9af-a22f-4007-be92-2dd89058c296",
+          "location": "Dublin",
           "mode": "Hybrid",
           "canada": false
         }
@@ -3347,6 +3641,13 @@
           "canada": false
         },
         {
+          "title": "Agentic AI Principal ",
+          "url": "https://www.thoughtworks.com/careers/jobs/8312185?gh_jid=8312185",
+          "location": "Amsterdam, Netherlands",
+          "mode": "On-site",
+          "canada": false
+        },
+        {
           "title": "Agentic AI Principal (m/f/d)",
           "url": "https://www.thoughtworks.com/careers/jobs/8305955?gh_jid=8305955",
           "location": "Munich, Germany",
@@ -3375,9 +3676,9 @@
           "canada": false
         },
         {
-          "title": "Director of Enterprise AI and Data Strategy",
-          "url": "https://www.thoughtworks.com/careers/jobs/8210552?gh_jid=8210552",
-          "location": "London, United Kingdom",
+          "title": "Graduate Systems Support Engineer",
+          "url": "https://www.thoughtworks.com/careers/jobs/8305353?gh_jid=8305353",
+          "location": "Singapore, Singapore",
           "mode": "On-site",
           "canada": false
         },
@@ -3396,31 +3697,38 @@
       "careers_url": "https://job-boards.greenhouse.io/tripadvisor",
       "jobs": [
         {
-          "title": "Customer Care Specialist (Swedish Market)",
-          "url": "https://job-boards.greenhouse.io/tripadvisor/jobs/8303008",
+          "title": "Inside Sales Representative | Portuguese Market (Based in Barcelona)",
+          "url": "https://job-boards.greenhouse.io/tripadvisor/jobs/8305456",
           "location": "Barcelona",
           "mode": "On-site",
           "canada": false
         },
         {
-          "title": "Inside Sales Representative | Portuguese Market (Based in Barcelona)",
-          "url": "https://job-boards.greenhouse.io/tripadvisor/jobs/8305456",
-          "location": "Barcelona",
+          "title": "Marketing Specialist",
+          "url": "https://job-boards.greenhouse.io/tripadvisor/jobs/8312112",
+          "location": "Hamburg, Germany",
           "mode": "On-site",
           "canada": false
         }
       ]
     },
     {
-      "slug": "trulioo",
-      "name": "Trulioo",
-      "careers_url": "https://jobs.ashbyhq.com/trulioo",
+      "slug": "triplelift",
+      "name": "TripleLift ",
+      "careers_url": "https://job-boards.greenhouse.io/triplelift",
       "jobs": [
         {
-          "title": "Director, Enterprise Sales (North America)",
-          "url": "https://jobs.ashbyhq.com/trulioo/4f130540-04f5-4bdd-a879-a031f7873eb9",
-          "location": "San Diego, CA; New York, NY; San Francisco, CA",
-          "mode": "Remote",
+          "title": "Senior Data Scientist",
+          "url": "https://triplelift.com/careers-posts/?gh_jid=8286795",
+          "location": "Pune, Maharashtra, India",
+          "mode": "On-site",
+          "canada": false
+        },
+        {
+          "title": "Senior Data Scientist",
+          "url": "https://triplelift.com/careers-posts/?gh_jid=8312670",
+          "location": "Zürich, Zürich, Switzerland",
+          "mode": "On-site",
           "canada": false
         }
       ]
@@ -3431,8 +3739,15 @@
       "careers_url": "https://job-boards.greenhouse.io/twilio",
       "jobs": [
         {
-          "title": "Executive Business Partner",
-          "url": "https://job-boards.greenhouse.io/twilio/jobs/8301926",
+          "title": "Account Executive 4",
+          "url": "https://job-boards.greenhouse.io/twilio/jobs/8249615",
+          "location": "Remote - US",
+          "mode": "Remote",
+          "canada": false
+        },
+        {
+          "title": "Americas Sales Business Partner Manager",
+          "url": "https://job-boards.greenhouse.io/twilio/jobs/8304419",
           "location": "Remote - US",
           "mode": "Remote",
           "canada": false
@@ -3445,8 +3760,29 @@
           "canada": false
         },
         {
+          "title": "Senior Field Marketing Manager - DACH",
+          "url": "https://job-boards.greenhouse.io/twilio/jobs/8306461",
+          "location": "Remote - United Kingdom",
+          "mode": "Remote",
+          "canada": false
+        },
+        {
+          "title": "Senior Field Marketing Manager - North",
+          "url": "https://job-boards.greenhouse.io/twilio/jobs/8306459",
+          "location": "Remote - United Kingdom",
+          "mode": "Remote",
+          "canada": false
+        },
+        {
           "title": "Technical Account Manager",
           "url": "https://job-boards.greenhouse.io/twilio/jobs/8300856",
+          "location": "Remote - Colombia",
+          "mode": "Remote",
+          "canada": false
+        },
+        {
+          "title": "Technical Support Expert 2",
+          "url": "https://job-boards.greenhouse.io/twilio/jobs/8280711",
           "location": "Remote - Colombia",
           "mode": "Remote",
           "canada": false
@@ -3466,30 +3802,16 @@
           "canada": false
         },
         {
-          "title": "Sr. Product Manager, Premium Content Experience",
-          "url": "https://job-boards.greenhouse.io/twitch/jobs/8903099002",
+          "title": "Undergrad Software Engineering Intern (Grad Year: Spring 2028)",
+          "url": "https://job-boards.greenhouse.io/twitch/jobs/8886748002",
           "location": "San Francisco, CA",
           "mode": "On-site",
           "canada": false
         },
         {
-          "title": "Sr. Product Manager, Premium Content Experience",
-          "url": "https://job-boards.greenhouse.io/twitch/jobs/8903135002",
-          "location": "Los Angeles, CA",
-          "mode": "On-site",
-          "canada": false
-        },
-        {
-          "title": "Sr. Product Manager, Premium Content Experience",
-          "url": "https://job-boards.greenhouse.io/twitch/jobs/8903136002",
-          "location": "Seattle, WA",
-          "mode": "On-site",
-          "canada": false
-        },
-        {
-          "title": "Sr. Product Manager, Premium Content Experience",
-          "url": "https://job-boards.greenhouse.io/twitch/jobs/8903142002",
-          "location": "New York City",
+          "title": "Undergrad Software Engineering Intern (Grad Year: Winter 2027)",
+          "url": "https://job-boards.greenhouse.io/twitch/jobs/8886605002",
+          "location": "San Francisco, CA",
           "mode": "On-site",
           "canada": false
         }
@@ -3501,18 +3823,39 @@
       "careers_url": "https://jobs.ashbyhq.com/vClusterLabs",
       "jobs": [
         {
-          "title": "Engineering Tech Lead (Product Security)",
-          "url": "https://jobs.ashbyhq.com/vClusterLabs/3dc34e16-8854-4a09-b829-f8c97328e636",
-          "location": "Remote; Canada; EMEA",
-          "mode": "Remote",
-          "canada": true
-        },
-        {
-          "title": "Enterprise Account Executive",
-          "url": "https://jobs.ashbyhq.com/vClusterLabs/acc888cc-65f3-4430-b88b-552ac56a6d93",
-          "location": "Remote; USA - New York City",
+          "title": "Senior Product Designer",
+          "url": "https://jobs.ashbyhq.com/vClusterLabs/e67564fd-b699-42b5-819d-67361e5038f3",
+          "location": "Remote; EMEA",
           "mode": "Remote",
           "canada": false
+        }
+      ]
+    },
+    {
+      "slug": "voltus",
+      "name": "Voltus",
+      "careers_url": "https://jobs.lever.co/voltus",
+      "jobs": [
+        {
+          "title": "Partnerships Sales Director",
+          "url": "https://jobs.lever.co/voltus/64739191-a1f2-4a87-86dc-a68d9509979e",
+          "location": "Remote",
+          "mode": "Remote",
+          "canada": false
+        }
+      ]
+    },
+    {
+      "slug": "waabi",
+      "name": "Waabi",
+      "careers_url": "https://jobs.lever.co/waabi",
+      "jobs": [
+        {
+          "title": "Senior / Staff Technical Program Manager, Platform Software",
+          "url": "https://jobs.lever.co/waabi/c3aba94e-3718-42e3-a4d5-a17a062929ab",
+          "location": "San Francisco, CA; Toronto, ON; Pittsburgh, PA; Remote US & Canada",
+          "mode": "Hybrid",
+          "canada": true
         }
       ]
     },
@@ -3543,25 +3886,32 @@
           "canada": true
         },
         {
+          "title": "Associate, Physical Security",
+          "url": "https://jobs.ashbyhq.com/wealthsimple/6bfc1ef3-b1c7-4266-9594-1bbb8e4dffd7",
+          "location": "Toronto Headquarters",
+          "mode": "On-site",
+          "canada": true
+        },
+        {
           "title": "Quantitative Trader",
           "url": "https://jobs.ashbyhq.com/wealthsimple/8da0f3ad-887f-4517-b150-9e92adb0f30c",
           "location": "Remote (Canada); Remote (US)",
           "mode": "Remote",
           "canada": true
-        }
-      ]
-    },
-    {
-      "slug": "wikimedia",
-      "name": "Wikimedia Foundation",
-      "careers_url": "https://job-boards.greenhouse.io/wikimedia",
-      "jobs": [
+        },
         {
-          "title": "Wikimania Scholarships and Event Coordinator ",
-          "url": "https://job-boards.greenhouse.io/wikimedia/jobs/8287113",
-          "location": "Remote",
+          "title": "Senior Associate,  Business Lending",
+          "url": "https://jobs.ashbyhq.com/wealthsimple/9e46b33a-fb0a-4b41-9669-7bf83d2c759c",
+          "location": "Remote (Canada)",
           "mode": "Remote",
-          "canada": false
+          "canada": true
+        },
+        {
+          "title": "Senior Specialist, Growth Marketing - Wealthsimple Business",
+          "url": "https://jobs.ashbyhq.com/wealthsimple/67d3aca1-fe22-491c-847f-31021b10c6e1",
+          "location": "Remote (Canada)",
+          "mode": "Remote",
+          "canada": true
         }
       ]
     },
@@ -3571,6 +3921,13 @@
       "careers_url": "https://careers.smartrecruiters.com/wise/",
       "jobs": [
         {
+          "title": "API Integration Support Engineer",
+          "url": "https://jobs.smartrecruiters.com/Wise/744000157209949",
+          "location": "Austin, , United States",
+          "mode": "On-site",
+          "canada": false
+        },
+        {
           "title": "Backend Engineer - Send Experience",
           "url": "https://jobs.smartrecruiters.com/Wise/744000156862144",
           "location": "London, , United Kingdom",
@@ -3578,15 +3935,15 @@
           "canada": false
         },
         {
-          "title": "Channel Sales Manager - APAC",
-          "url": "https://jobs.smartrecruiters.com/Wise/744000156724589",
-          "location": "Singapore, , Singapore",
+          "title": "Business Customer Support Specialist",
+          "url": "https://jobs.smartrecruiters.com/Wise/744000157194135",
+          "location": "São Paulo, , Brazil",
           "mode": "Hybrid",
           "canada": false
         },
         {
           "title": "Channel Sales Manager - North America",
-          "url": "https://jobs.smartrecruiters.com/Wise/744000156612079",
+          "url": "https://jobs.smartrecruiters.com/Wise/744000157217349",
           "location": "Austin, , United States",
           "mode": "Hybrid",
           "canada": false
@@ -3599,44 +3956,16 @@
           "canada": false
         },
         {
-          "title": "Customer Support Specialist",
-          "url": "https://jobs.smartrecruiters.com/Wise/744000156873870",
+          "title": "Country Regulatory Compliance Officer - India",
+          "url": "https://jobs.smartrecruiters.com/Wise/744000157072698",
           "location": "Hyderabad, , India",
           "mode": "On-site",
           "canada": false
         },
         {
-          "title": "Customer Support Specialist (Spanish Speaker - Nightime - 1 am shift)",
-          "url": "https://jobs.smartrecruiters.com/Wise/744000156538110",
-          "location": "São Paulo, , Brazil",
-          "mode": "Remote",
-          "canada": false
-        },
-        {
-          "title": "Customer Support Specialist (Spanish Speaker)",
-          "url": "https://jobs.smartrecruiters.com/Wise/744000156540279",
-          "location": "São Paulo, , Brazil",
-          "mode": "Hybrid",
-          "canada": false
-        },
-        {
-          "title": "Customer Support Specialist (Spanish Speaker) - 11 am - 07:12 pm",
-          "url": "https://jobs.smartrecruiters.com/Wise/744000156540324",
-          "location": "São Paulo, , Brazil",
-          "mode": "Hybrid",
-          "canada": false
-        },
-        {
-          "title": "Design & Research Operations Graduate",
-          "url": "https://jobs.smartrecruiters.com/Wise/744000156554310",
-          "location": "London, , United Kingdom",
-          "mode": "On-site",
-          "canada": false
-        },
-        {
-          "title": "Engineering Lead - Embedded Solutions",
-          "url": "https://jobs.smartrecruiters.com/Wise/744000156498446",
-          "location": "London, , United Kingdom",
+          "title": "Customer Support Specialist",
+          "url": "https://jobs.smartrecruiters.com/Wise/744000156873870",
+          "location": "Hyderabad, , India",
           "mode": "On-site",
           "canada": false
         },
@@ -3648,8 +3977,8 @@
           "canada": false
         },
         {
-          "title": "Engineering Lead - Recommend",
-          "url": "https://jobs.smartrecruiters.com/Wise/744000156550055",
+          "title": "Engineering Lead - Wise for Enterprise",
+          "url": "https://jobs.smartrecruiters.com/Wise/744000157068979",
           "location": "London, , United Kingdom",
           "mode": "On-site",
           "canada": false
@@ -3658,27 +3987,6 @@
           "title": "Engineering Operations Manager",
           "url": "https://jobs.smartrecruiters.com/Wise/744000156805019",
           "location": "London, , United Kingdom",
-          "mode": "On-site",
-          "canada": false
-        },
-        {
-          "title": "FinCrime Investigator - AML Investigations",
-          "url": "https://jobs.smartrecruiters.com/Wise/744000156618548",
-          "location": "São Paulo, , Brazil",
-          "mode": "On-site",
-          "canada": false
-        },
-        {
-          "title": "FinCrime Investigator - AML Investigations",
-          "url": "https://jobs.smartrecruiters.com/Wise/744000156706068",
-          "location": "Kuala Lumpur, , Malaysia",
-          "mode": "On-site",
-          "canada": false
-        },
-        {
-          "title": "FinCrime Operations Analyst - AML Investigations",
-          "url": "https://jobs.smartrecruiters.com/Wise/744000156717279",
-          "location": "Hyderabad, , India",
           "mode": "On-site",
           "canada": false
         },
@@ -3697,66 +4005,10 @@
           "canada": false
         },
         {
-          "title": "FinCrime Quality Senior Specialist",
-          "url": "https://jobs.smartrecruiters.com/Wise/744000156610250",
-          "location": "Austin, , United States",
-          "mode": "On-site",
-          "canada": false
-        },
-        {
-          "title": "Fullstack Engineer - Scam Prevention",
-          "url": "https://jobs.smartrecruiters.com/Wise/744000156541999",
-          "location": "Budapest, , Hungary",
-          "mode": "On-site",
-          "canada": false
-        },
-        {
-          "title": "Global Complaints Team Lead",
-          "url": "https://jobs.smartrecruiters.com/Wise/744000156590578",
-          "location": "Budapest, , Hungary",
-          "mode": "On-site",
-          "canada": false
-        },
-        {
-          "title": "Global Compliance Monitoring & Testing Manager",
-          "url": "https://jobs.smartrecruiters.com/Wise/744000156725279",
-          "location": "Hyderabad, , India",
-          "mode": "On-site",
-          "canada": false
-        },
-        {
           "title": "Global Compliance Monitoring & Testing Manager",
           "url": "https://jobs.smartrecruiters.com/Wise/744000157009855",
           "location": "Hyderabad, , India",
           "mode": "Hybrid",
-          "canada": false
-        },
-        {
-          "title": "Graduate Content Designer",
-          "url": "https://jobs.smartrecruiters.com/Wise/744000156555689",
-          "location": "London, , United Kingdom",
-          "mode": "On-site",
-          "canada": false
-        },
-        {
-          "title": "Graduate Product Designer",
-          "url": "https://jobs.smartrecruiters.com/Wise/744000156555328",
-          "location": "London, , United Kingdom",
-          "mode": "Hybrid",
-          "canada": false
-        },
-        {
-          "title": "Graduate UX Researcher",
-          "url": "https://jobs.smartrecruiters.com/Wise/744000156556099",
-          "location": "London, , United Kingdom",
-          "mode": "On-site",
-          "canada": false
-        },
-        {
-          "title": "Head of BAAM Governance",
-          "url": "https://jobs.smartrecruiters.com/Wise/744000156562350",
-          "location": "London, , United Kingdom",
-          "mode": "On-site",
           "canada": false
         },
         {
@@ -3774,16 +4026,16 @@
           "canada": false
         },
         {
-          "title": "Internal Audit Manager - Fincrime",
-          "url": "https://jobs.smartrecruiters.com/Wise/744000156702999",
-          "location": "Singapore, , Singapore",
-          "mode": "On-site",
-          "canada": false
-        },
-        {
           "title": "Internal Comms Designer",
           "url": "https://jobs.smartrecruiters.com/Wise/744000156814169",
           "location": "London, , United Kingdom",
+          "mode": "Hybrid",
+          "canada": false
+        },
+        {
+          "title": "Israel Hybrid Specialist",
+          "url": "https://jobs.smartrecruiters.com/Wise/744000157157279",
+          "location": "Budapest, , Hungary",
           "mode": "Hybrid",
           "canada": false
         },
@@ -3795,23 +4047,9 @@
           "canada": false
         },
         {
-          "title": "Localisation Specialist",
-          "url": "https://jobs.smartrecruiters.com/Wise/744000156540949",
-          "location": "Singapore, , Singapore",
-          "mode": "On-site",
-          "canada": false
-        },
-        {
-          "title": "Operations Team Lead – FinCrime (AML Investigations)",
-          "url": "https://jobs.smartrecruiters.com/Wise/744000156733303",
-          "location": "Budapest, , Hungary",
-          "mode": "Hybrid",
-          "canada": false
-        },
-        {
-          "title": "Partner Operations Manager",
-          "url": "https://jobs.smartrecruiters.com/Wise/744000156609978",
-          "location": "Austin, , United States",
+          "title": "Network Engineer - Platform Integrations EMEA",
+          "url": "https://jobs.smartrecruiters.com/Wise/744000157103979",
+          "location": "Tallinn, , Estonia",
           "mode": "Hybrid",
           "canada": false
         },
@@ -3837,51 +4075,37 @@
           "canada": false
         },
         {
-          "title": "Platform Engineer - Compute ",
-          "url": "https://jobs.smartrecruiters.com/Wise/744000156559959",
+          "title": "Regional CRM Manager",
+          "url": "https://jobs.smartrecruiters.com/Wise/744000157183299",
           "location": "London, , United Kingdom",
           "mode": "On-site",
           "canada": false
         },
         {
-          "title": "Sales Associate / Coordinator",
-          "url": "https://jobs.smartrecruiters.com/Wise/744000156508219",
-          "location": "London, , United Kingdom",
+          "title": "SAR Quality assurance specialist",
+          "url": "https://jobs.smartrecruiters.com/Wise/744000157193069",
+          "location": "Austin, , United States",
+          "mode": "On-site",
+          "canada": false
+        },
+        {
+          "title": "Safeguarding Controller - APAC",
+          "url": "https://jobs.smartrecruiters.com/Wise/744000157387959",
+          "location": "Singapore, , Singapore",
           "mode": "Hybrid",
           "canada": false
         },
         {
-          "title": "Senior Analytics Manager - Credit Risk",
-          "url": "https://jobs.smartrecruiters.com/Wise/744000156574069",
+          "title": "Senior Analytics Manager",
+          "url": "https://jobs.smartrecruiters.com/Wise/744000157392359",
           "location": "London, , United Kingdom",
-          "mode": "Hybrid",
-          "canada": false
-        },
-        {
-          "title": "Senior Backend Engineer – Contacts",
-          "url": "https://jobs.smartrecruiters.com/Wise/744000156524929",
-          "location": "Tallinn, , Estonia",
-          "mode": "Hybrid",
+          "mode": "On-site",
           "canada": false
         },
         {
           "title": "Senior Digital Analyst (Data Activation)",
           "url": "https://jobs.smartrecruiters.com/Wise/744000156834059",
           "location": "London, , United Kingdom",
-          "mode": "Hybrid",
-          "canada": false
-        },
-        {
-          "title": "Senior Full-Stack Software Engineer - Account Integrity - Java, React",
-          "url": "https://jobs.smartrecruiters.com/Wise/744000156558844",
-          "location": "London, , United Kingdom",
-          "mode": "On-site",
-          "canada": false
-        },
-        {
-          "title": "Senior Fullstack Engineer - Customer Risk Assessment",
-          "url": "https://jobs.smartrecruiters.com/Wise/744000156710054",
-          "location": "Tallinn, , Estonia",
           "mode": "Hybrid",
           "canada": false
         },
@@ -3900,9 +4124,16 @@
           "canada": false
         },
         {
-          "title": "Senior Recruiter",
-          "url": "https://jobs.smartrecruiters.com/Wise/744000156540156",
+          "title": "Senior Product Analyst",
+          "url": "https://jobs.smartrecruiters.com/Wise/744000157387429",
           "location": "Hyderabad, , India",
+          "mode": "On-site",
+          "canada": false
+        },
+        {
+          "title": "Senior Product Analyst - AUP (Fraud Squad)",
+          "url": "https://jobs.smartrecruiters.com/Wise/744000157112015",
+          "location": "Tallinn, , Estonia",
           "mode": "On-site",
           "canada": false
         },
@@ -3914,23 +4145,30 @@
           "canada": false
         },
         {
-          "title": "Senior Software Engineer - AML - Java",
-          "url": "https://jobs.smartrecruiters.com/Wise/744000156558804",
+          "title": "Senior Software Developer II - Wise for Banks",
+          "url": "https://jobs.smartrecruiters.com/Wise/744000157081419",
           "location": "London, , United Kingdom",
-          "mode": "On-site",
+          "mode": "Hybrid",
+          "canada": false
+        },
+        {
+          "title": "Senior Software Developer for Cash Management Team ",
+          "url": "https://jobs.smartrecruiters.com/Wise/744000157078812",
+          "location": "London, , United Kingdom",
+          "mode": "Hybrid",
+          "canada": false
+        },
+        {
+          "title": "Senior Software Developer for WP ",
+          "url": "https://jobs.smartrecruiters.com/Wise/744000157074950",
+          "location": "London, , United Kingdom",
+          "mode": "Hybrid",
           "canada": false
         },
         {
           "title": "Senior Software Engineer - Rules Platform",
           "url": "https://jobs.smartrecruiters.com/Wise/744000156787429",
           "location": "Tallinn, , Estonia",
-          "mode": "On-site",
-          "canada": false
-        },
-        {
-          "title": "Senior Software Engineer I - Risk Control & Governance",
-          "url": "https://jobs.smartrecruiters.com/Wise/744000156643839",
-          "location": "London, , United Kingdom",
           "mode": "On-site",
           "canada": false
         },
@@ -3949,10 +4187,24 @@
           "canada": false
         },
         {
-          "title": "Senior Software Engineer II - Account Integrity",
-          "url": "https://jobs.smartrecruiters.com/Wise/744000156563169",
+          "title": "Senior Software Engineer I - Wise for Enterprise - Banks",
+          "url": "https://jobs.smartrecruiters.com/Wise/744000157078266",
           "location": "London, , United Kingdom",
-          "mode": "On-site",
+          "mode": "Hybrid",
+          "canada": false
+        },
+        {
+          "title": "Senior Software Engineer II - Cash Management",
+          "url": "https://jobs.smartrecruiters.com/Wise/744000157092770",
+          "location": "London, , United Kingdom",
+          "mode": "Remote",
+          "canada": false
+        },
+        {
+          "title": "Senior Software Engineer II - Wise for Enterprise",
+          "url": "https://jobs.smartrecruiters.com/Wise/744000157093419",
+          "location": "London, , United Kingdom",
+          "mode": "Remote",
           "canada": false
         },
         {
@@ -3966,20 +4218,6 @@
           "title": "Senior/Principal Implementation Manager - Servicing",
           "url": "https://jobs.smartrecruiters.com/Wise/744000156769604",
           "location": "London, , United Kingdom",
-          "mode": "Hybrid",
-          "canada": false
-        },
-        {
-          "title": "Software Engineer - Spend ",
-          "url": "https://jobs.smartrecruiters.com/Wise/744000156718399",
-          "location": "Singapore, , Singapore",
-          "mode": "On-site",
-          "canada": false
-        },
-        {
-          "title": "Sr Technical Account Manager - North America",
-          "url": "https://jobs.smartrecruiters.com/Wise/744000156656153",
-          "location": "Austin, , United States",
           "mode": "Hybrid",
           "canada": false
         },
@@ -4019,20 +4257,6 @@
       "careers_url": "https://job-boards.greenhouse.io/zoominfo",
       "jobs": [
         {
-          "title": "Research Specialist II",
-          "url": "https://www.zoominfo.com/careers?gh_jid=8883348002",
-          "location": "Bengaluru, Karnataka, India",
-          "mode": "On-site",
-          "canada": false
-        },
-        {
-          "title": "SMB New Business Account Executive",
-          "url": "https://www.zoominfo.com/careers?gh_jid=8875730002",
-          "location": "London, United Kingdom",
-          "mode": "On-site",
-          "canada": false
-        },
-        {
           "title": "Sales Development Representative II",
           "url": "https://www.zoominfo.com/careers?gh_jid=8906446002",
           "location": "Bethesda, Maryland, United States; Vancouver, Washington, United States; Waltham, Massachusetts, United States",
@@ -4068,6 +4292,20 @@
           "canada": false
         },
         {
+          "title": "Account Executive - Majors",
+          "url": "https://job-boards.greenhouse.io/zscaler/jobs/5263129007",
+          "location": "Mumbai, IND",
+          "mode": "On-site",
+          "canada": false
+        },
+        {
+          "title": "Account Executive, Majors (製造業)",
+          "url": "https://job-boards.greenhouse.io/zscaler/jobs/5216531007",
+          "location": "Tokyo, JPN",
+          "mode": "On-site",
+          "canada": false
+        },
+        {
           "title": "Commercial Sales Engineer - East",
           "url": "https://job-boards.greenhouse.io/zscaler/jobs/5268700007",
           "location": "Remote - Massachusetts, USA; Remote - New Jersey, USA; Remote - New York, USA; Remote - Virginia, USA",
@@ -4089,24 +4327,17 @@
           "canada": false
         },
         {
+          "title": "Manager, Sales Engineering - SMB",
+          "url": "https://job-boards.greenhouse.io/zscaler/jobs/5268698007",
+          "location": "Remote - USA",
+          "mode": "Remote",
+          "canada": false
+        },
+        {
           "title": "Partner Business Manager",
           "url": "https://job-boards.greenhouse.io/zscaler/jobs/5244301007",
           "location": "City of London Corporation, GBR",
           "mode": "On-site",
-          "canada": false
-        },
-        {
-          "title": "Principal Software Engineer - Intelligent Data Platform",
-          "url": "https://job-boards.greenhouse.io/zscaler/jobs/5255854007",
-          "location": "Santa Clara, California, USA",
-          "mode": "On-site",
-          "canada": false
-        },
-        {
-          "title": "Principal Strategy Architect",
-          "url": "https://job-boards.greenhouse.io/zscaler/jobs/5268023007",
-          "location": "Remote - USA",
-          "mode": "Remote",
           "canada": false
         },
         {
@@ -4131,6 +4362,34 @@
           "canada": false
         },
         {
+          "title": "Senior Director, Finance Business Transformation",
+          "url": "https://job-boards.greenhouse.io/zscaler/jobs/5268019007",
+          "location": "Santa Clara, California, USA",
+          "mode": "On-site",
+          "canada": false
+        },
+        {
+          "title": "Senior Information Security Engineer",
+          "url": "https://job-boards.greenhouse.io/zscaler/jobs/5202103007",
+          "location": "Remote - Costa Rica",
+          "mode": "Remote",
+          "canada": false
+        },
+        {
+          "title": "Senior Manager Finance Business Transformation, PMO",
+          "url": "https://job-boards.greenhouse.io/zscaler/jobs/5270823007",
+          "location": "Santa Clara, California, USA",
+          "mode": "On-site",
+          "canada": false
+        },
+        {
+          "title": "Senior Manager, Content & Operations, Global Customer Advocacy",
+          "url": "https://job-boards.greenhouse.io/zscaler/jobs/5267163007",
+          "location": "Remote - USA",
+          "mode": "Remote",
+          "canada": false
+        },
+        {
           "title": "Senior Manager, Software Development Engineering",
           "url": "https://job-boards.greenhouse.io/zscaler/jobs/5269992007",
           "location": "Santa Clara, California, USA",
@@ -4142,6 +4401,13 @@
           "url": "https://job-boards.greenhouse.io/zscaler/jobs/5235796007",
           "location": "Remote - UK",
           "mode": "Remote",
+          "canada": false
+        },
+        {
+          "title": "Senior Technical Courseware Developer",
+          "url": "https://job-boards.greenhouse.io/zscaler/jobs/5267167007",
+          "location": "Bangalore, IND; Hyderabad, IND; Mohali, IND; Pune, IND",
+          "mode": "On-site",
           "canada": false
         },
         {
@@ -4159,17 +4425,17 @@
           "canada": false
         },
         {
-          "title": "Sr. Site Reliability Engineer",
-          "url": "https://job-boards.greenhouse.io/zscaler/jobs/5200385007",
-          "location": "Crystal City, Virginia, USA",
+          "title": "Sr. Staff Software Development Engineer",
+          "url": "https://job-boards.greenhouse.io/zscaler/jobs/5253937007",
+          "location": "Santa Clara, California, USA",
           "mode": "On-site",
           "canada": false
         },
         {
-          "title": "Staff Site Reliability Engineer",
-          "url": "https://job-boards.greenhouse.io/zscaler/jobs/5200278007",
-          "location": "Crystal City, Virginia, USA",
-          "mode": "On-site",
+          "title": "Staff Threat Researcher",
+          "url": "https://job-boards.greenhouse.io/zscaler/jobs/5270247007",
+          "location": "Remote - UK",
+          "mode": "Remote",
           "canada": false
         }
       ]
