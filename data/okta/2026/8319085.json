@@ -1,0 +1,96 @@
+{
+  "absolute_url": "https://www.okta.com/company/careers/opportunity/8319085?gh_jid=8319085",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": false,
+      "requires_processing_consent": false,
+      "requires_retention_consent": false,
+      "retention_period": null,
+      "demographic_data_consent_applies": false
+    }
+  ],
+  "internal_job_id": 3596436,
+  "location": {
+    "name": "San Francisco, California"
+  },
+  "metadata": [
+    {
+      "id": 58735330,
+      "name": "Naukri Job URL",
+      "value": null,
+      "value_type": "long_text"
+    },
+    {
+      "id": 58735350,
+      "name": "Naukri Job Error",
+      "value": null,
+      "value_type": "long_text"
+    },
+    {
+      "id": 58735367,
+      "name": "Minimum Salary",
+      "value": null,
+      "value_type": "number"
+    },
+    {
+      "id": 58735368,
+      "name": "Maximum Salary",
+      "value": null,
+      "value_type": "number"
+    },
+    {
+      "id": 58735369,
+      "name": "Minimum Work Experience",
+      "value": null,
+      "value_type": "number"
+    },
+    {
+      "id": 58735370,
+      "name": "Maximum Work Experience",
+      "value": null,
+      "value_type": "number"
+    },
+    {
+      "id": 58735384,
+      "name": "City",
+      "value": null,
+      "value_type": "single_select"
+    },
+    {
+      "id": 58735385,
+      "name": "Job Description",
+      "value": null,
+      "value_type": "long_text"
+    }
+  ],
+  "id": 8319085,
+  "updated_at": "2026-10-23T18:52:38-04:00",
+  "requisition_id": "P26077_3596436",
+  "title": "Software Architect, AI Systems and Platform",
+  "company_name": "Okta",
+  "first_published": "2026-10-23T17:54:20-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;Secure Every Identity, from AI to Human&lt;br&gt;&lt;br&gt;&lt;/strong&gt;Identity is the key to unlocking the potential of AI. Okta secures AI by building the trusted, neutral infrastructure that enables organizations to safely embrace this new era. This work requires a relentless drive to solve complex challenges with real-world stakes. We are looking for builders and owners who operate with speed and urgency and execute with excellence.&lt;br&gt;&lt;br&gt;This is an opportunity to do career-defining work. We&#39;re all in on this mission. If you are too, let&#39;s talk.&lt;/p&gt;&lt;/div&gt;&lt;h4&gt;&lt;strong&gt;The Software Architect Opportunity&lt;/strong&gt;&lt;/h4&gt;\n&lt;p&gt;The team that built Jeeva AI is building Digital Workers, a new suite of autonomous agents for identity operations and security inside Okta. The team works directly with Todd McKinnon, Okta&#39;s co-founder and CEO, with the opportunity to bring this product to Okta&#39;s 20,000+ customers. You will help shape the product with the ownership and pace of a startup and the resources of a public company.&lt;/p&gt;\n&lt;p&gt;We are hiring two hands-on architects. One will lead agent execution, harnesses and evaluations. The other will lead backend services, integrations, data and platform reliability. You will write critical code, resolve cross-team decisions and work with engineers through production rollout.&lt;/p&gt;\n&lt;h4&gt;&lt;strong&gt;About You&lt;/strong&gt;&lt;/h4&gt;\n&lt;p&gt;&lt;strong&gt;Hands-on builder: &lt;/strong&gt;You still write production code and test important decisions through implementation.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Practical architect: &lt;/strong&gt;You choose a small, clear design and make it easy to extend when the product grows.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Trusted partner: &lt;/strong&gt;You earn confidence through useful code, clear feedback and customer understanding.&lt;/p&gt;\n&lt;h4&gt;&lt;strong&gt;What you will be doing&lt;/strong&gt;&lt;/h4&gt;\n&lt;ul&gt;\n&lt;li&gt;Define and implement shared contracts for tasks, events, permissions, approvals, evidence and usage.&lt;/li&gt;\n&lt;li&gt;Set clear boundaries between model reasoning, agent harnesses, durable workflows and services that enforce authorization.&lt;/li&gt;\n&lt;li&gt;Select a harness through representative identity tasks, failure tests and operational evidence. Keep model providers and harness components replaceable.&lt;/li&gt;\n&lt;li&gt;Design integrations with OpenAI and Anthropic APIs, including data boundaries, latency, cost, version changes and measured release quality.&lt;/li&gt;\n&lt;li&gt;Build reference services for tenant isolation, scoped tool execution, idempotency, long approval waits and verified results.&lt;/li&gt;\n&lt;li&gt;Define the transactional and analytics data architecture. Keep PostgreSQL application state separate from the planned ClickHouse or BigQuery analytics layer.&lt;/li&gt;\n&lt;li&gt;Connect Product, Applied AI and Platform engineers through clear ownership and practical APIs. Resolve dependencies that slow delivery.&lt;/li&gt;\n&lt;li&gt;Write critical implementations, review recovery and security, and guide technical leads through production rollout and customer expansion.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h4&gt;&lt;strong&gt;What you will bring to the role&lt;/strong&gt;&lt;/h4&gt;\n&lt;ul&gt;\n&lt;li&gt;A record of leading architecture and delivery across multiple engineering teams, with recent production code you personally implemented.&lt;/li&gt;\n&lt;li&gt;Deep knowledge of distributed services, API design, data consistency, cloud security and production operations.&lt;/li&gt;\n&lt;li&gt;Experience making systems simpler while improving reliability, security or delivery speed.&lt;/li&gt;\n&lt;li&gt;The ability to explain design tradeoffs, guide senior engineers and remain accountable through implementation.&lt;/li&gt;\n&lt;li&gt;Depth in at least one of the two role areas below, plus the ability to work across the full product.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h4&gt;&lt;strong&gt;Role focus&lt;/strong&gt;&lt;/h4&gt;\n&lt;p&gt;&lt;strong&gt;AI systems architect: &lt;/strong&gt;Build and evaluate agent harnesses, context management, model integrations and quality controls. Relevant experience includes Claude Agent SDK, OpenAI Codex SDK, Strands Agents, LangChain Deep Agents, LangGraph or a comparable custom runtime.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Platform architect: &lt;/strong&gt;Lead backend, connector, security, data and workflow architecture. Bring deep production systems experience and practical knowledge of integrating model-driven workflows.&lt;/p&gt;\n&lt;h4&gt;&lt;strong&gt;Our stack&lt;/strong&gt;&lt;/h4&gt;\n&lt;p&gt;Python FastAPI, React and TypeScript, AWS Amplify, Step Functions, Amazon Bedrock AgentCore, Lambda, SQS, EventBridge and API Gateway. Storage uses RDS PostgreSQL, pgvector and S3. Security and operations include KMS, Secrets Manager, CloudWatch and CloudTrail.&lt;/p&gt;\n&lt;p&gt;We are adding OpenAI and Anthropic model API integrations. An agent harness and a dedicated analytics layer using ClickHouse or BigQuery are planned. You will help choose and implement them.&lt;/p&gt;\n&lt;h4&gt;&lt;strong&gt;And extra credit for&lt;/strong&gt;&lt;/h4&gt;\n&lt;ul&gt;\n&lt;li&gt;Enterprise identity, security products, OAuth, OIDC, SAML, SCIM or complex customer integrations.&lt;/li&gt;\n&lt;li&gt;ClickHouse, BigQuery, agent evaluations, post-training systems or open-source infrastructure.&lt;/li&gt;\n&lt;li&gt;Building a new product within a larger enterprise and keeping technical decisions reversible.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;P26077_3596436&lt;/p&gt;\n&lt;p&gt;#LI-Inperson&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;#LI- RW1&lt;/p&gt;&lt;div class=&quot;content-pay-transparency&quot;&gt;&lt;div class=&quot;pay-input&quot;&gt;&lt;div class=&quot;description&quot;&gt;&lt;p&gt;Below is the annual base salary range for candidates located in San Francisco Bay Area. Your actual base salary will depend on factors such as your skills, qualifications, experience, and work location. In addition, Okta offers equity (where applicable), bonus, and benefits, including health, dental and vision insurance, 401(k), flexible spending account, and paid leave (including PTO and parental leave) in accordance with our applicable plans and policies. To learn more about our Total Rewards program please visit:&lt;a href=&quot;https://rewards.okta.com/us&quot;&gt; https://rewards.okta.com/us&lt;/a&gt;.&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;title&quot;&gt; The annual base salary range for this position for candidates located in the San Francisco Bay area is between: &lt;/div&gt;&lt;div class=&quot;pay-range&quot;&gt;&lt;span&gt;$274,000&lt;/span&gt;&lt;span class=&quot;divider&quot;&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;$376,200 USD&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;&lt;strong&gt;The Okta Experience&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;&lt;a href=&quot;http://rewards.okta.com&quot;&gt;Supporting Your Well-Being&lt;/a&gt;&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;&lt;a href=&quot;https://www.okta.com/company/okta-for-good/&quot;&gt;Driving Social Impact&amp;nbsp;&lt;/a&gt;&lt;/li&gt;\n&lt;li&gt;&lt;a href=&quot;https://www.okta.com/company/talent-connection-community/&quot;&gt;Developing Talent and Fostering Connection + Community&lt;/a&gt;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;We are intentional about connection. Our global community, spanning over 20 offices worldwide, is united by a drive to innovate. Your journey begins with an immersive, in-person onboarding experience designed to accelerate your impact and connect you to our mission and team from day one.&lt;br&gt;&lt;br&gt;Okta is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, ancestry, marital status, age, physical or mental disability, or status as a protected veteran. We also consider for employment qualified applicants with arrest and convictions records, consistent with applicable laws.&lt;br&gt;&lt;br&gt;If reasonable accommodation is needed to complete any part of the job application, interview process, or onboarding please&amp;nbsp;&lt;a href=&quot;https://docs.google.com/forms/d/1EfiEYZrIyhA2X4Fijk0R3RKYOzNoS3wtvyM4nhbZnXE/edit&quot;&gt;use this Form&lt;/a&gt; to request an accommodation.&lt;br&gt;&lt;br&gt;Notice for New York City Applicants &amp;amp; Employees: Okta may use Automated Employment Decision Tools (AEDT), as defined by New York City Local Law 144, that use artificial intelligence, machine learning, or other automated processes to assist in our recruitment and hiring process. In accordance with NYC Local Law 144, if you are an applicant or employee residing in New York City, please&amp;nbsp;&lt;a href=&quot;https://talent.okta.com/new-york-city-aedt-notice.html&quot;&gt;click here&lt;/a&gt; to view our full NYC AEDT Notice.&lt;/p&gt;&lt;/div&gt;",
+  "departments": [
+    {
+      "id": 391935,
+      "name": "Digital Workers-816",
+      "child_ids": [],
+      "parent_id": 396304
+    }
+  ],
+  "offices": [
+    {
+      "id": 19611,
+      "name": "San Francisco",
+      "location": "San Francisco, CA, United States",
+      "child_ids": [],
+      "parent_id": 67252
+    }
+  ],
+  "ai_disclaimer": null,
+  "include_ai_disclaimer": null,
+  "ai_opt_out_request_url": null
+}

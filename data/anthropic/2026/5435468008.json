@@ -23,7 +23,7 @@
     }
   ],
   "id": 5435468008,
-  "updated_at": "2026-09-28T18:36:44-04:00",
+  "updated_at": "2026-10-23T15:49:01-04:00",
   "requisition_id": "REQ-26-0040-01",
   "title": "Recruiter, Communications",
   "company_name": "Anthropic",
@@ -41,9 +41,9 @@
   ],
   "offices": [
     {
-      "id": 4001218008,
-      "name": "San Francisco, CA",
-      "location": "San Francisco, California, United States",
+      "id": 4001219008,
+      "name": "New York City, NY",
+      "location": "New York, New York, United States",
       "child_ids": [],
       "parent_id": null
     }

@@ -212,15 +212,6 @@
         "additionalInformation": null,
         "components": [
           {
-            "id": "51c359d9-8b73-4196-bd55-8be20b2bf00c",
-            "summary": "Offers Equity",
-            "compensationType": "EquityPercentage",
-            "interval": "NONE",
-            "currencyCode": null,
-            "minValue": null,
-            "maxValue": null
-          },
-          {
             "id": "00f98ada-c4e8-4952-b581-878421588940",
             "summary": "Annual Compensation €157,350",
             "compensationType": "Salary",
@@ -228,6 +219,15 @@
             "currencyCode": "EUR",
             "minValue": 157350,
             "maxValue": 157350
+          },
+          {
+            "id": "51c359d9-8b73-4196-bd55-8be20b2bf00c",
+            "summary": "Offers Equity",
+            "compensationType": "EquityPercentage",
+            "interval": "NONE",
+            "currencyCode": null,
+            "minValue": null,
+            "maxValue": null
           }
         ]
       }

@@ -1,0 +1,108 @@
+{
+  "absolute_url": "https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6232151004",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": true,
+      "requires_processing_consent": false,
+      "requires_retention_consent": true,
+      "retention_period": 730,
+      "demographic_data_consent_applies": true
+    }
+  ],
+  "internal_job_id": 5231512004,
+  "location": {
+    "name": "United Kingdom, London"
+  },
+  "metadata": [
+    {
+      "id": 4367803004,
+      "name": "Cost Center",
+      "value": "GAMES4GB60-GBG5001097 Data Engineering & Services (GB71)",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4167524004,
+      "name": "Career Page - Office Location",
+      "value": "United Kingdom, London",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4167525004,
+      "name": "Career Page - Department",
+      "value": null,
+      "value_type": "single_select"
+    },
+    {
+      "id": 9377282004,
+      "name": "Career Page - Sub Department",
+      "value": null,
+      "value_type": "single_select"
+    },
+    {
+      "id": 20089613004,
+      "name": "Career Page - Studio Project",
+      "value": null,
+      "value_type": "single_select"
+    },
+    {
+      "id": 4395289004,
+      "name": "Worker Type",
+      "value": "Employee",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4404049004,
+      "name": "Country",
+      "value": "United Kingdom",
+      "value_type": "single_select"
+    },
+    {
+      "id": 9262269004,
+      "name": "Job Family",
+      "value": "Software Development Engineering",
+      "value_type": "short_text"
+    },
+    {
+      "id": 9262270004,
+      "name": "Job Family Group",
+      "value": "Engineering",
+      "value_type": "short_text"
+    },
+    {
+      "id": 21724118004,
+      "name": "Bungie Geo Pay",
+      "value": null,
+      "value_type": "single_select"
+    }
+  ],
+  "id": 6232151004,
+  "updated_at": "2026-10-23T14:18:23-04:00",
+  "requisition_id": "R-125942",
+  "title": "Senior Data Engineer",
+  "company_name": "PlayStation Global",
+  "first_published": "2026-10-23T09:15:47-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;Why Sony Interactive Entertainment?&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Sony Interactive Entertainment isn’t just the Best Place to Play — it’s also the Best Place to Work. Sony Interactive Entertainment (SIE) is the company behind the PlayStation brand. As a subsidiary of Sony Group Corporation, we’re part of a proud legacy of innovation and excellence. SIE is a dynamic technology company, delivering cutting-edge hardware and network services to more than 100 million people and an entertainment leader, home to some of the most beloved and recognizable intellectual properties (IP) in the world. Our role at SIE is to create and nurture the experiences under the PlayStation brand, a name synonymous with entertainment excellence and creativity.&lt;/p&gt;&lt;/div&gt;&lt;h1 style=&quot;line-height: 1.2;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Role Overview:&lt;/span&gt;&lt;/h1&gt;\n&lt;p style=&quot;line-height: 1.2;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;We are looking for an experienced Senior Data Engineer to design, develop and operate trusted, scalable data solutions that power decision-making and transformation across Sony Interactive Entertainment (SIE). Working within Player Data Engineering, you will build reusable data pipelines, integration services and curated data products for business domains including Commerce, hardware, game play, products and services, and accounts.&lt;/span&gt;&lt;/p&gt;\n&lt;p style=&quot;line-height: 1.2;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;This is a hands-on senior individual contributor role. You will partner with engineering, platform, product and business teams. Take end-to-end ownership of complex solutions and raise engineering standards through technical leadership and mentoring. You will help create reliable, governed and AI-ready Player data foundations.&lt;/span&gt;&lt;/p&gt;\n&lt;h1 style=&quot;line-height: 1.2;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;What you&#39;ll be doing:&lt;/span&gt;&lt;/h1&gt;\n&lt;h2 style=&quot;line-height: 1.2;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Design, deliver and maintain Player data solutions&lt;/span&gt;&lt;/h2&gt;\n&lt;ul&gt;\n&lt;li style=&quot;font-size: 12pt;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Design, build, test and maintain robust batch and near-real-time data pipelines and ETL/ELT workflows across Player data systems, APIs, Snowflake Db and cloud data environments.&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-size: 12pt;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Develop reusable, well-documented data models and domain-aligned data products, translating complex business logic into reliable engineering solutions.&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-size: 12pt;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Lead technical design for assigned initiatives, evaluate trade-offs, and ensure solutions are scalable, secure, maintainable and cost-effective.&lt;/span&gt;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h2 style=&quot;line-height: 1.2;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Own quality, reliability and operations&lt;/span&gt;&lt;/h2&gt;\n&lt;ul&gt;\n&lt;li style=&quot;font-size: 12pt;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Own solutions throughout the engineering lifecycle, from requirements and design through deployment, monitoring, incident resolution and continuous improvement.&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-size: 12pt;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Implement automated testing, data validation, reconciliation, lineage, observability, alerting and operational runbooks.&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-size: 12pt;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Apply engineering practices including version control, code review, CI/CD, infrastructure automation and appropriate change controls; improve performance and platform efficiency.&lt;/span&gt;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h2 style=&quot;line-height: 1.2;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Provide technical leadership and collaborate&lt;/span&gt;&lt;/h2&gt;\n&lt;ul&gt;\n&lt;li style=&quot;font-size: 12pt;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Mentor engineers, lead technical reviews and contribute to shared patterns, coding standards and communities of practice.&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-size: 12pt;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Partner with TPM’s, business stakeholders, architects, security, governance, analytics and platform teams to clarify requirements, dependencies and data ownership.&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-size: 12pt;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Proactively identify delivery risks, technical debt and cross-team dependencies; communicate progress, options and recommendations clearly.&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-size: 12pt;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Enable trusted data for analytics, planning, automation and AI use cases while respecting privacy, security and access controls.&lt;/span&gt;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h1 style=&quot;line-height: 1.2;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;What we&#39;re looking for:&lt;/span&gt;&lt;/h1&gt;\n&lt;ul&gt;\n&lt;li style=&quot;font-size: 12pt;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Typically 5+ years of professional data engineering or software engineering experience, including ownership of complex production data solutions.&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-size: 12pt;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Experience designing data pipelines and transformations using modern ETL/ELT tools and frameworks, such as dbt, Ab Initio or equivalent technologies.&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-size: 12pt;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Solid experience with cloud data platforms and warehouses, particularly Snowflake; knowledge of data modelling, dimensional design and data product principles.&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-size: 12pt;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Experience with orchestration, Kubernetes, Git-based workflows, automated testing, CI/CD, monitoring and troubleshooting production data services.&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-size: 12pt;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Understanding of data security, access management, data quality, governance and regulatory considerations in enterprise environments.&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-size: 12pt;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Experience leveraging AI coding assistants, agentic workflows, and AI-driven development tools to accelerate engineering productivity and improve code quality.&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-size: 12pt;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Familiarity with building or integrating AI agents into data engineering workflows would be a strong plus.&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-size: 12pt;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Ability to influence technical decisions, mentor peers and communicate effectively with engineering and non-technical stakeholders.&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-size: 12pt;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Bachelor’s degree in a relevant discipline or equivalent practical experience.&lt;/span&gt;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h1 style=&quot;line-height: 1.2;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Desirable Experience&lt;/span&gt;&lt;/h1&gt;\n&lt;ul&gt;\n&lt;li style=&quot;font-size: 12pt; line-height: 1.2;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Strong hands-on SQL and Python skills, with experience in distributed data processing using PySpark and/or Databricks.&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-size: 12pt; line-height: 1.2;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Experience with AWS services, APIs, event-driven integration and infrastructure as code.&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-size: 12pt; line-height: 1.2;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Exposure to AI/ML data preparation, data observability, metadata management and modern data governance practices.&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-size: 12pt; line-height: 1.2;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Experience working with globally distributed teams and supporting cross-functional transformation programs.&lt;/span&gt;&lt;/li&gt;\n&lt;/ul&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p class=&quot;p1&quot;&gt;Please note, Sony Interactive Entertainment conducts background checks at the offer stage for all new employees (which may include criminal background checks for some roles) and will need to process personal information to support these checks.&lt;/p&gt;\n&lt;p class=&quot;p1&quot;&gt;Please refer to our&amp;nbsp;&lt;a href=&quot;https://www.playstation.com/legal/careers-privacy-notice/&quot; target=&quot;_blank&quot;&gt;Candidate Privacy Notice&lt;/a&gt;&amp;nbsp;for more information about what personal information we collect, how we use it, who we share it with, and your data protection rights.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Equal Opportunity Statement:&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&lt;em&gt;Sony is an Equal Opportunity Employer. All persons will receive consideration for employment without regard to gender (including gender identity, gender expression and gender reassignment), race (including colour, nationality, ethnic or national origin), religion or belief, marital or civil partnership status, disability, age, sexual orientation, pregnancy, maternity or parental status, trade union membership or membership in any other legally protected category.&lt;/em&gt;&lt;/p&gt;\n&lt;p&gt;&lt;em&gt;We strive to create an inclusive environment, empower employees and embrace diversity. We encourage everyone to respond.&amp;nbsp;&lt;/em&gt;&lt;/p&gt;\n&lt;p&gt;&lt;em&gt;Sony Interactive Entertainment is a Fair Chance employer and qualified applicants with arrest and conviction records will be considered for employment.&lt;/em&gt;&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;",
+  "departments": [
+    {
+      "id": 4065072004,
+      "name": "Information Capital and Data Services (ICDS)",
+      "child_ids": [],
+      "parent_id": 4065067004
+    }
+  ],
+  "offices": [
+    {
+      "id": 4032610004,
+      "name": "GBR-London-51GMS",
+      "location": null,
+      "child_ids": [],
+      "parent_id": 4011922004
+    }
+  ],
+  "ai_disclaimer": "<p><strong>Use of AI in Recruiting&nbsp;</strong></p><p><br></p><p>We use artificial intelligence and other automated tools to assist with certain aspects of our recruiting process, including reviewing applications and supporting candidate evaluation. For example, we use Greenhouse's AI-powered Talent Matching tool to compare information in your application against job-related qualifications and criteria established by our recruiting team. More information about <a href=\"https://www.greenhouse.com/\" target=\"_blank\">Greenhouse</a>, including about its features and its Privacy Policy, may be found at its website. These tools assist our recruiting team and do not make hiring decisions.&nbsp;</p><p><br></p>",
+  "include_ai_disclaimer": true,
+  "ai_opt_out_request_url": "http://app4.greenhouse.io/ai_opt_out_request/job_post/6232151004/ai_opt_out"
+}

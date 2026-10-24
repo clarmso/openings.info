@@ -6,18 +6,7 @@
   "employmentType": "FullTime",
   "location": "Hub - San Francisco",
   "shouldDisplayCompensationOnJobPostings": true,
-  "secondaryLocations": [
-    {
-      "location": "Hub - New York",
-      "address": {
-        "postalAddress": {
-          "addressRegion": "New York",
-          "addressCountry": "United States",
-          "addressLocality": "New York"
-        }
-      }
-    }
-  ],
+  "secondaryLocations": [],
   "publishedAt": "2026-09-17T21:41:21.387+00:00",
   "isListed": true,
   "isRemote": true,

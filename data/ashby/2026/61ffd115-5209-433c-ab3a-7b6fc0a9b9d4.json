@@ -33,15 +33,6 @@
         "additionalInformation": null,
         "components": [
           {
-            "id": "53f0a8b2-5385-4e33-9605-f0b772361ac9",
-            "summary": "U.S. Tier 1 $230K – $260K",
-            "compensationType": "Salary",
-            "interval": "1 YEAR",
-            "currencyCode": "USD",
-            "minValue": 230000,
-            "maxValue": 260000
-          },
-          {
             "id": "ba11df9f-0966-4e2a-bfae-fe6aaac3b366",
             "summary": "Offers Equity",
             "compensationType": "EquityPercentage",
@@ -49,6 +40,15 @@
             "currencyCode": null,
             "minValue": null,
             "maxValue": null
+          },
+          {
+            "id": "53f0a8b2-5385-4e33-9605-f0b772361ac9",
+            "summary": "U.S. Tier 1 $230K – $260K",
+            "compensationType": "Salary",
+            "interval": "1 YEAR",
+            "currencyCode": "USD",
+            "minValue": 230000,
+            "maxValue": 260000
           }
         ]
       },
@@ -81,17 +81,17 @@
     ],
     "summaryComponents": [
       {
+        "compensationType": "EquityPercentage",
+        "minValue": null,
+        "maxValue": null,
+        "interval": "1 YEAR"
+      },
+      {
         "minValue": 220000,
         "maxValue": 260000,
         "currencyCode": "USD",
         "interval": "1 YEAR",
         "compensationType": "Salary"
-      },
-      {
-        "compensationType": "EquityPercentage",
-        "minValue": null,
-        "maxValue": null,
-        "interval": "1 YEAR"
       }
     ]
   }

@@ -110,15 +110,6 @@
         "additionalInformation": null,
         "components": [
           {
-            "id": "cb4c9238-42a4-46bd-b7b4-a477bdc6d006",
-            "summary": "$128K – $217K",
-            "compensationType": "Salary",
-            "interval": "1 YEAR",
-            "currencyCode": "USD",
-            "minValue": 128000,
-            "maxValue": 217000
-          },
-          {
             "id": "ea9f08ad-8fb7-4664-842f-e0f78e231179",
             "summary": "Offers Equity",
             "compensationType": "EquityPercentage",
@@ -135,6 +126,15 @@
             "currencyCode": "USD",
             "minValue": null,
             "maxValue": null
+          },
+          {
+            "id": "cb4c9238-42a4-46bd-b7b4-a477bdc6d006",
+            "summary": "$128K – $217K",
+            "compensationType": "Salary",
+            "interval": "1 YEAR",
+            "currencyCode": "USD",
+            "minValue": 128000,
+            "maxValue": 217000
           }
         ]
       },
@@ -145,11 +145,11 @@
         "additionalInformation": null,
         "components": [
           {
-            "id": "772694bb-4260-41fb-8635-e24e24b0f368",
-            "summary": "Offers Bonus",
-            "compensationType": "Bonus",
-            "interval": "1 YEAR",
-            "currencyCode": "CAD",
+            "id": "c96531a3-1572-4f40-b7da-16c11edadef8",
+            "summary": "Offers Equity",
+            "compensationType": "EquityPercentage",
+            "interval": "NONE",
+            "currencyCode": null,
             "minValue": null,
             "maxValue": null
           },
@@ -163,11 +163,11 @@
             "maxValue": 206000
           },
           {
-            "id": "c96531a3-1572-4f40-b7da-16c11edadef8",
-            "summary": "Offers Equity",
-            "compensationType": "EquityPercentage",
-            "interval": "NONE",
-            "currencyCode": null,
+            "id": "772694bb-4260-41fb-8635-e24e24b0f368",
+            "summary": "Offers Bonus",
+            "compensationType": "Bonus",
+            "interval": "1 YEAR",
+            "currencyCode": "CAD",
             "minValue": null,
             "maxValue": null
           }

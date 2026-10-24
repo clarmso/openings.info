@@ -23,7 +23,7 @@
     }
   ],
   "id": 5385586008,
-  "updated_at": "2026-09-09T23:36:15-04:00",
+  "updated_at": "2026-10-23T17:40:42-04:00",
   "requisition_id": "266526",
   "title": "Solutions Marketing Lead, Public Sector",
   "company_name": "Anthropic",
@@ -41,9 +41,9 @@
   ],
   "offices": [
     {
-      "id": 4011228008,
-      "name": "Washington, D.C.",
-      "location": "Washington, District of Columbia, United States",
+      "id": 4001218008,
+      "name": "San Francisco, CA",
+      "location": "San Francisco, California, United States",
       "child_ids": [],
       "parent_id": null
     }

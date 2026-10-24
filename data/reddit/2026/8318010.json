@@ -1,0 +1,132 @@
+{
+  "absolute_url": "https://job-boards.greenhouse.io/reddit/jobs/8318010",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": false,
+      "requires_processing_consent": false,
+      "requires_retention_consent": false,
+      "retention_period": null,
+      "demographic_data_consent_applies": false
+    }
+  ],
+  "internal_job_id": 3596009,
+  "location": {
+    "name": "Remote - United Kingdom"
+  },
+  "metadata": [
+    {
+      "id": 944668,
+      "name": "Position ID",
+      "value": null,
+      "value_type": "short_text"
+    },
+    {
+      "id": 956352,
+      "name": "Recruiting Start Date",
+      "value": "",
+      "value_type": "date"
+    },
+    {
+      "id": 944671,
+      "name": "Target Hire Date",
+      "value": "",
+      "value_type": "date"
+    },
+    {
+      "id": 944672,
+      "name": "Target Hire End Date",
+      "value": "",
+      "value_type": "date"
+    },
+    {
+      "id": 944673,
+      "name": "Job Profile",
+      "value": null,
+      "value_type": "single_select"
+    },
+    {
+      "id": 956351,
+      "name": "Management Level",
+      "value": null,
+      "value_type": "single_select"
+    },
+    {
+      "id": 944675,
+      "name": "Job Family",
+      "value": null,
+      "value_type": "single_select"
+    },
+    {
+      "id": 53341,
+      "name": "Worker Sub-Type",
+      "value": "Contract",
+      "value_type": "single_select"
+    },
+    {
+      "id": 944676,
+      "name": "Time Type",
+      "value": null,
+      "value_type": "single_select"
+    },
+    {
+      "id": 944682,
+      "name": "Pay Rate Type",
+      "value": null,
+      "value_type": "single_select"
+    },
+    {
+      "id": 944681,
+      "name": "Scheduled Weekly Hours",
+      "value": "0.0",
+      "value_type": "number"
+    },
+    {
+      "id": 944667,
+      "name": "Company",
+      "value": null,
+      "value_type": "single_select"
+    },
+    {
+      "id": 944677,
+      "name": "Cost Center",
+      "value": null,
+      "value_type": "single_select"
+    },
+    {
+      "id": 944669,
+      "name": "Worker Type",
+      "value": "Contractor",
+      "value_type": "single_select"
+    }
+  ],
+  "id": 8318010,
+  "updated_at": "2026-10-23T12:46:41-04:00",
+  "requisition_id": null,
+  "title": "Manager, EMEA Community (Contract)",
+  "company_name": "Reddit",
+  "first_published": "2026-10-23T12:46:41-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;div class=&quot;content-intro&quot;&gt;&lt;div class=&quot;c-message_kit__blocks c-message_kit__blocks--rich_text&quot;&gt;\n&lt;div class=&quot;c-message__message_blocks c-message__message_blocks--rich_text&quot; data-qa=&quot;message-text&quot;&gt;\n&lt;div class=&quot;p-block_kit_renderer&quot; data-qa=&quot;block-kit-renderer&quot;&gt;\n&lt;div class=&quot;p-block_kit_renderer__block_wrapper p-block_kit_renderer__block_wrapper--first&quot;&gt;\n&lt;div class=&quot;p-rich_text_block&quot;&gt;\n&lt;div class=&quot;p-rich_text_section&quot;&gt;Reddit is a community of communities. It’s built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 130 million daily active unique visitors, Reddit is one of the internet’s largest sources of information. For more information, visit &lt;a class=&quot;c-link&quot; href=&quot;http://www.redditinc.com/&quot; target=&quot;_blank&quot; data-stringify-link=&quot;http://redditinc.com&quot; data-sk=&quot;tooltip_parent&quot;&gt;www.redditinc.com&lt;/a&gt;.&lt;/div&gt;\n&lt;/div&gt;\n&lt;/div&gt;\n&lt;/div&gt;\n&lt;/div&gt;\n&lt;/div&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;This contract engagement is open to candidates based in the UK as a fixed-term leave cover.&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;We are seeking a strategic community management professional to join our International Community Team, and lead a growing team in EMEA. As the Manager of Community for EMEA, you will spearhead the development and execution of the community strategy that supports Reddit’s growth in the region.&lt;/p&gt;\n&lt;p&gt;In this role, you will lead a team of Community Specialists and will take charge of defining the roadmap for community activation and moderation across focus markets, and help develop our international playbook.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;Your work will focus on experimenting, iterating, and refining processes that drive community engagement at scale. The insights you generate through these efforts will accelerate Reddit’s growth in EMEA, and serve as a model for other emerging markets. This role reports to the Director, International Community.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Responsibilities&lt;/strong&gt;:&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Craft and champion the regional community strategy, ensuring alignment with overall team and business goals.&lt;/li&gt;\n&lt;li&gt;Drive the iteration, innovation, and scaling of the community and moderator growth playbook, proactively identifying new opportunities and launching bold initiatives in key markets.&lt;/li&gt;\n&lt;li&gt;Inspire and empower regional teams to execute impactful programs that elevate local communities, and their markets. Encourage innovation and create an environment of continuous learning and improvement.&lt;/li&gt;\n&lt;li&gt;Recruit, onboard, and train local community specialists in key markets to strengthen our collaboration with moderators and drive community engagement.&lt;/li&gt;\n&lt;li&gt;Collaborate with cross-functional teams (Growth, Product, Engineering, etc.) to ensure successful alignment and execution of new initiatives.&lt;/li&gt;\n&lt;li&gt;Gather regional insights and learnings, and effectively report results to various internal stakeholders.&lt;/li&gt;\n&lt;li&gt;Lead, coach and develop the regional team; translate strategy into quarterly and sprint priorities, clear ownership and milestones; review risks and capacity, and unblock delivery&lt;/li&gt;\n&lt;li&gt;Own community-health and growth outcomes across priority markets, including KPI progression, moderator coverage and retention, and the impact of community-building initiatives.&lt;/li&gt;\n&lt;li&gt;Coordinate with Content, Growth, Product and relevant safety partners to deliver market initiatives and surface local needs for broader roadmap decisions.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;Required qualifications:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;5-7 years of experience in community management or marketing operations, including at least 1-2 years in a leadership role, with a proven track record of driving community growth and delivering business impact through community-led or marketing projects.&lt;/li&gt;\n&lt;li&gt;Organized with a strong ability to balance strategic thinking with operational execution.&lt;/li&gt;\n&lt;li&gt;Problem-solver with excellent interpersonal skills, capable of collaborating with diverse cross-functional teams and influencing them to adopt a community-first mindset.&lt;/li&gt;\n&lt;li&gt;Comfortable testing, iterating, and adjusting strategies to find the optimal approach for each market.&lt;/li&gt;\n&lt;li&gt;Skilled at navigating ambiguous environments and experimenting with different approaches to achieve results in focus markets.&lt;/li&gt;\n&lt;li&gt;Data-driven and results-oriented, with a keen ability to translate insights into action.&lt;/li&gt;\n&lt;li&gt;Deep understanding of Reddit’s unique identity, and the critical role communities and moderators play in adding value to the platform and enhancing user experiences.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;Bonus Points&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;\n&lt;ul&gt;\n&lt;li&gt;Experience in moderation on Reddit or similar platforms (e.g., Discord, Facebook, or other forums).&lt;/li&gt;\n&lt;/ul&gt;\n&lt;/li&gt;\n&lt;/ul&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;In select roles and locations, the interviews will be recorded, transcribed and summarized by artificial intelligence (AI). You will have the opportunity to opt out of recording, transcription and summarization prior to any scheduled interviews.&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;During the interview, we will collect the following categories of personal information: Identifiers, Professional and Employment-Related Information, Sensory Information (audio/video recording), and any other categories of personal information you choose to share with us. We will use this information to evaluate your application for employment or an independent contractor role, as applicable.&amp;nbsp; We will not sell your personal information or disclose it to any third party for their marketing purposes.&amp;nbsp; We will delete any recording of your interview promptly after making a hiring decision.&amp;nbsp; For more information about how we will handle your personal information, including our retention of it, please refer to our &lt;a href=&quot;https://redditinc.com/policies/candidate-privacy-policy&quot;&gt;Candidate Privacy Policy for Potential Employees and Contractors&lt;/a&gt;.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;em&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Reddit is proud to be an equal opportunity employer, and is committed to building a workforce representative of the diverse communities we serve.&amp;nbsp; Reddit is committed to providing reasonable accommodations for qualified individuals with disabilities and disabled veterans in our job application procedures. If, due to a disability, you need an accommodation during the interview process, please let your recruiter know.&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;&lt;/div&gt;",
+  "departments": [
+    {
+      "id": 53795,
+      "name": "Community",
+      "child_ids": [],
+      "parent_id": null
+    }
+  ],
+  "offices": [
+    {
+      "id": 88240,
+      "name": "Remote - United Kingdom",
+      "location": null,
+      "child_ids": [],
+      "parent_id": null
+    }
+  ],
+  "ai_disclaimer": null,
+  "include_ai_disclaimer": null,
+  "ai_opt_out_request_url": null
+}

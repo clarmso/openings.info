@@ -33,15 +33,6 @@
         "additionalInformation": "Benchling takes a market-based approach to pay. The candidate's starting pay will be determined based on job-related skills, experience, qualifications, interview performance, and work location. For this role the base salary range is $119,000 - $175,000. However, because this role is eligible to participate in Benchling's commission plan, it is common for employees in this role to receive total on-target earnings of $148,750 - $218,750.",
         "components": [
           {
-            "id": "6e0bc35e-34dc-4f45-be75-f31fc429603d",
-            "summary": "$119K – $175K",
-            "compensationType": "Salary",
-            "interval": "1 YEAR",
-            "currencyCode": "USD",
-            "minValue": 119000,
-            "maxValue": 175000
-          },
-          {
             "id": "67e4ac00-40a6-47f3-b8f6-3e2dd0585328",
             "summary": "Offers Equity",
             "compensationType": "EquityPercentage",
@@ -58,18 +49,20 @@
             "currencyCode": "USD",
             "minValue": null,
             "maxValue": null
+          },
+          {
+            "id": "6e0bc35e-34dc-4f45-be75-f31fc429603d",
+            "summary": "$119K – $175K",
+            "compensationType": "Salary",
+            "interval": "1 YEAR",
+            "currencyCode": "USD",
+            "minValue": 119000,
+            "maxValue": 175000
           }
         ]
       }
     ],
     "summaryComponents": [
-      {
-        "compensationType": "Salary",
-        "interval": "1 YEAR",
-        "currencyCode": "USD",
-        "minValue": 119000,
-        "maxValue": 175000
-      },
       {
         "compensationType": "EquityPercentage",
         "interval": "NONE",
@@ -83,6 +76,13 @@
         "currencyCode": "USD",
         "minValue": null,
         "maxValue": null
+      },
+      {
+        "compensationType": "Salary",
+        "interval": "1 YEAR",
+        "currencyCode": "USD",
+        "minValue": 119000,
+        "maxValue": 175000
       }
     ]
   }

@@ -44,15 +44,6 @@
         "additionalInformation": "Benchling takes a market-based approach to pay. The candidate's starting pay will be determined based on job-related skills, experience, qualifications, interview performance, and work location. For this role the base salary is $182,000 - $247,000. However, because this role is eligible to participate in Benchling's commission plan, it is common for employees in this role to receive total on-target earnings of $364,000 - $494,000.",
         "components": [
           {
-            "id": "2d27475d-7574-48b3-88a5-9d0a0ef8e8c2",
-            "summary": "Offers Equity",
-            "compensationType": "EquityPercentage",
-            "interval": "NONE",
-            "currencyCode": null,
-            "minValue": null,
-            "maxValue": null
-          },
-          {
             "id": "cf6aa709-78a2-454b-8bb9-7c9878fb9450",
             "summary": "$182K – $247K",
             "compensationType": "Salary",
@@ -69,18 +60,20 @@
             "currencyCode": "USD",
             "minValue": null,
             "maxValue": null
+          },
+          {
+            "id": "2d27475d-7574-48b3-88a5-9d0a0ef8e8c2",
+            "summary": "Offers Equity",
+            "compensationType": "EquityPercentage",
+            "interval": "NONE",
+            "currencyCode": null,
+            "minValue": null,
+            "maxValue": null
           }
         ]
       }
     ],
     "summaryComponents": [
-      {
-        "compensationType": "EquityPercentage",
-        "interval": "NONE",
-        "currencyCode": null,
-        "minValue": null,
-        "maxValue": null
-      },
       {
         "compensationType": "Salary",
         "interval": "1 YEAR",
@@ -92,6 +85,13 @@
         "compensationType": "Commission",
         "interval": "1 YEAR",
         "currencyCode": "USD",
+        "minValue": null,
+        "maxValue": null
+      },
+      {
+        "compensationType": "EquityPercentage",
+        "interval": "NONE",
+        "currencyCode": null,
         "minValue": null,
         "maxValue": null
       }

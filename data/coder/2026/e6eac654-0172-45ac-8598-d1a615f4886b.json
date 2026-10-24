@@ -89,20 +89,20 @@
         "additionalInformation": null,
         "components": [
           {
-            "id": "db7d0539-bec4-4ec9-82d8-c1c977702607",
-            "summary": "Offers Equity",
-            "compensationType": "EquityPercentage",
-            "interval": "NONE",
-            "currencyCode": null,
-            "minValue": null,
-            "maxValue": null
-          },
-          {
             "id": "6b7d8ef9-ff6a-455b-a378-e1f4cdf288a0",
             "summary": "Offers Bonus",
             "compensationType": "Bonus",
             "interval": "1 YEAR",
             "currencyCode": "EUR",
+            "minValue": null,
+            "maxValue": null
+          },
+          {
+            "id": "db7d0539-bec4-4ec9-82d8-c1c977702607",
+            "summary": "Offers Equity",
+            "compensationType": "EquityPercentage",
+            "interval": "NONE",
+            "currencyCode": null,
             "minValue": null,
             "maxValue": null
           },
@@ -124,20 +124,20 @@
         "additionalInformation": null,
         "components": [
           {
-            "id": "7c0a5434-7176-4ffe-8a03-d053c770153d",
-            "summary": "Offers Equity",
-            "compensationType": "EquityPercentage",
-            "interval": "NONE",
-            "currencyCode": null,
-            "minValue": null,
-            "maxValue": null
-          },
-          {
             "id": "56c6c66e-d76a-40c4-ba01-57012c4f5ad7",
             "summary": "Offers Bonus",
             "compensationType": "Bonus",
             "interval": "1 YEAR",
             "currencyCode": "PLN",
+            "minValue": null,
+            "maxValue": null
+          },
+          {
+            "id": "7c0a5434-7176-4ffe-8a03-d053c770153d",
+            "summary": "Offers Equity",
+            "compensationType": "EquityPercentage",
+            "interval": "NONE",
+            "currencyCode": null,
             "minValue": null,
             "maxValue": null
           },

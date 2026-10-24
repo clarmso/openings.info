@@ -78,15 +78,6 @@
         "additionalInformation": null,
         "components": [
           {
-            "id": "e4724d64-21e2-4cf9-9aa6-5761a1016f6e",
-            "summary": "USA - All Other States $240K – $325K",
-            "compensationType": "Salary",
-            "interval": "1 YEAR",
-            "currencyCode": "USD",
-            "minValue": 240000,
-            "maxValue": 325000
-          },
-          {
             "id": "f8ea380c-4719-45f0-94e4-8e3752660fba",
             "summary": "Offers Equity",
             "compensationType": "EquityPercentage",
@@ -94,6 +85,15 @@
             "currencyCode": null,
             "minValue": null,
             "maxValue": null
+          },
+          {
+            "id": "e4724d64-21e2-4cf9-9aa6-5761a1016f6e",
+            "summary": "USA - All Other States $240K – $325K",
+            "compensationType": "Salary",
+            "interval": "1 YEAR",
+            "currencyCode": "USD",
+            "minValue": 240000,
+            "maxValue": 325000
           }
         ]
       },

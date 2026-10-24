@@ -9,8 +9,8 @@
   "secondaryLocations": [],
   "publishedAt": "2026-08-13T18:13:45.202+00:00",
   "isListed": true,
-  "isRemote": null,
-  "workplaceType": null,
+  "isRemote": false,
+  "workplaceType": "OnSite",
   "address": {
     "postalAddress": {
       "addressCountry": "United Kingdom",

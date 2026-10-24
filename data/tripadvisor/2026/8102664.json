@@ -12,7 +12,7 @@
   ],
   "internal_job_id": 3508397,
   "location": {
-    "name": "Pescara or Bergamo"
+    "name": "Brescia or Bergamo"
   },
   "metadata": [
     {
@@ -23,9 +23,9 @@
     }
   ],
   "id": 8102664,
-  "updated_at": "2026-10-05T09:00:38-04:00",
+  "updated_at": "2026-10-23T04:30:27-04:00",
   "requisition_id": "00049691",
-  "title": "Field Sales Representative (based in Pescara or Bergamo)",
+  "title": "Field Sales Representative (based in Brescia or Bergamo)",
   "company_name": "Tripadvisor",
   "first_published": "2026-08-03T06:09:29-04:00",
   "language": "en",
@@ -48,9 +48,9 @@
       "parent_id": null
     },
     {
-      "id": 408186,
-      "name": "Pescara, PE, Italy",
-      "location": "Pescara, PE, Italy",
+      "id": 426366,
+      "name": "Brescia, BS, Italy",
+      "location": "Brescia, BS, Italy",
       "child_ids": [],
       "parent_id": null
     }

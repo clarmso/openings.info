@@ -12,7 +12,7 @@
   ],
   "internal_job_id": 3572675,
   "location": {
-    "name": "Brescia or Cagliari"
+    "name": "Cagliari"
   },
   "metadata": [
     {
@@ -23,9 +23,9 @@
     }
   ],
   "id": 8256265,
-  "updated_at": "2026-10-21T06:03:33-04:00",
+  "updated_at": "2026-10-23T04:28:22-04:00",
   "requisition_id": "00049791",
-  "title": "Field Sales Representative - based in Brescia or Cagliari",
+  "title": "Field Sales Representative - based in Cagliari",
   "company_name": "Tripadvisor",
   "first_published": "2026-10-06T04:49:07-04:00",
   "language": "en",
@@ -40,13 +40,6 @@
     }
   ],
   "offices": [
-    {
-      "id": 426366,
-      "name": "Brescia, BS, Italy",
-      "location": "Brescia, BS, Italy",
-      "child_ids": [],
-      "parent_id": null
-    },
     {
       "id": 426367,
       "name": "Cagliari, CA, Italy",

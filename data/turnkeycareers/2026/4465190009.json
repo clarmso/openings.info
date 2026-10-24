@@ -1,0 +1,47 @@
+{
+  "absolute_url": "https://job-boards.greenhouse.io/turnkeycareers/jobs/4465190009",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": false,
+      "requires_processing_consent": false,
+      "requires_retention_consent": false,
+      "retention_period": null,
+      "demographic_data_consent_applies": false
+    }
+  ],
+  "internal_job_id": 4284008009,
+  "location": {
+    "name": "United States (Remote)"
+  },
+  "metadata": null,
+  "id": 4465190009,
+  "updated_at": "2026-10-23T11:22:09-04:00",
+  "requisition_id": "60",
+  "title": "Senior Platform Engineer",
+  "company_name": "Turnkey",
+  "first_published": "2026-10-23T11:22:09-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;p&gt;&lt;strong&gt;About Us&lt;/strong&gt;&lt;br&gt;Machines will make decisions, move value, and coordinate on behalf of organizations, instantly, autonomously, and at unprecedented scale. But the systems that govern today’s economy weren’t designed for that world. Turnkey is building the infrastructure for this future: programmable guardrails that enable autonomy without sacrificing control.&lt;/p&gt;\n&lt;p&gt;Founded by the team who scaled Coinbase Custody to $100M+ ARR and secured over $100B in crypto assets, we know how to move at pace without ever compromising on security.&lt;/p&gt;\n&lt;p&gt;Our mission is to help the world operate an economy on autopilot, safely. We&#39;re low-ego, high-agency, and deeply technical. Our team consists of experts in cryptography, security, and systems who believe great infrastructure is invisible. We&#39;re building the trustless, programmable foundation for the autonomous economy, and we&#39;re hiring people who understand what that requires.&lt;/p&gt;\n&lt;h2&gt;&lt;strong&gt;Your role&amp;nbsp;&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;You’ll join a small platform team that works with nearly every engineering team at Turnkey. Your job is to help the whole org build faster, scale more confidently, and make better decisions, through the tooling you build, the practices you establish, and the systemic problems you find and fix before they become incidents.&lt;/p&gt;\n&lt;p&gt;You’ll work independently across product and infrastructure teams on scaling and performance, gathering requirements and constraints from each team and turning them into shared solutions. This is a role for someone who has lived through what breaks between 1 and 10, and who gets energy from stepping outside their own domain to solve problems wherever they sit.&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Build tooling for performance analysis and observability so teams can see how their systems behave and decide from data rather than intuition&lt;/li&gt;\n&lt;li&gt;Partner with product, infrastructure, and security teams to understand their requirements and constraints, translate technical tradeoffs for non-technical stakeholders, and build shared understanding of priorities to develop solutions that work across team boundaries&lt;/li&gt;\n&lt;li&gt;Identify systemic issues across infrastructure and product, and drive them to resolution&lt;/li&gt;\n&lt;li&gt;Anticipate scaling bottlenecks and take systems from X to Y scale (e.g., [throughput / latency / tenant count targets]) before they become incidents&lt;/li&gt;\n&lt;li&gt;Level up other teams by introducing better tooling and practices and helping them build habits around measurement, SLOs, and data-driven decisions&lt;/li&gt;\n&lt;li&gt;Translate technical tradeoffs for non-technical stakeholders and build shared understanding of priorities&lt;/li&gt;\n&lt;li&gt;Raise the technical bar through design reviews, documentation, and mentorship&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h2&gt;&lt;strong&gt;What we’re looking for&lt;/strong&gt;&lt;/h2&gt;\n&lt;ul&gt;\n&lt;li&gt;5+ years of experience in platform engineering, infrastructure, or SRE, with substantial distributed systems experience&lt;/li&gt;\n&lt;li&gt;Experience designing, building, scaling, and operating robust, reliable distributed systems in production&lt;/li&gt;\n&lt;li&gt;Working experience with Golang, AWS, Postgres, and Kubernetes.&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;Experience building tooling for performance and observability (metrics, tracing, profiling, logging, alerting, or similar)&lt;/li&gt;\n&lt;li&gt;A data-driven approach: you define the metrics, instrument the system, and can tell the story of how a system or team moved from X to Y&lt;/li&gt;\n&lt;li&gt;A record of leveling up teams beyond your own, through tooling, practices, or decision-making habits&lt;/li&gt;\n&lt;li&gt;Clear communication and collaboration with both technical and non-technical stakeholders&lt;/li&gt;\n&lt;li&gt;Intellectual curiosity and a willingness to step outside your own domain to understand how other teams work and what they need&lt;br&gt;&lt;br&gt;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h2&gt;&lt;strong&gt;Style points&lt;/strong&gt;&lt;/h2&gt;\n&lt;ul&gt;\n&lt;li&gt;Infrastructure-as-code experience (Terraform or similar)&lt;/li&gt;\n&lt;li&gt;Experience in security-sensitive or high-assurance environments (TEE’s, secure enclaves, key management, regulated infrastructure).&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;Fluency in Go&lt;/li&gt;\n&lt;li&gt;Experience with incident management and post-incident learning programs&lt;/li&gt;\n&lt;li&gt;Open source contributions or public technical writing&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;h2&gt;&lt;strong&gt;What We Offer&lt;/strong&gt;&lt;/h2&gt;\n&lt;ul&gt;\n&lt;li&gt;Full benefits, including medical, dental, vision, life, disability, HSA/FSA, 401(k)&lt;/li&gt;\n&lt;li&gt;Paid parental leave&lt;/li&gt;\n&lt;li&gt;Unlimited PTO&lt;/li&gt;\n&lt;li&gt;$3,000/yr learning and development budget to attend industry conferences&lt;/li&gt;\n&lt;li&gt;Multiple team offsites per year&lt;/li&gt;\n&lt;li&gt;Lunch stipend&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;Please note that while the team is remote, we are only considering candidates who are physically based in the United States and Canada at the current time.&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&lt;em&gt;Turnkey is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, age, disability, protected veteran status, or any other characteristic protected by law. We encourage individuals of all backgrounds to apply.&lt;/em&gt;&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;div class=&quot;content-pay-transparency&quot;&gt;&lt;div class=&quot;pay-input&quot;&gt;&lt;div class=&quot;title&quot;&gt;Compensation range&lt;/div&gt;&lt;div class=&quot;pay-range&quot;&gt;&lt;span&gt;$180,000&lt;/span&gt;&lt;span class=&quot;divider&quot;&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;$250,000 USD&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;",
+  "departments": [
+    {
+      "id": 4029007009,
+      "name": "Engineering",
+      "child_ids": [],
+      "parent_id": null
+    }
+  ],
+  "offices": [
+    {
+      "id": 4029005009,
+      "name": "Remote",
+      "location": "Remote",
+      "child_ids": [],
+      "parent_id": null
+    }
+  ],
+  "ai_disclaimer": null,
+  "include_ai_disclaimer": null,
+  "ai_opt_out_request_url": "http://app9.greenhouse.io/ai_opt_out_request/job_post/4465190009/ai_opt_out"
+}

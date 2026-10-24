@@ -6,29 +6,8 @@
   "employmentType": "Contract",
   "location": "Hamilton, ON",
   "shouldDisplayCompensationOnJobPostings": true,
-  "secondaryLocations": [
-    {
-      "location": "Burlington, ON",
-      "address": {
-        "postalAddress": {
-          "addressRegion": "Ontario",
-          "addressCountry": "Canada",
-          "addressLocality": "Burlington"
-        }
-      }
-    },
-    {
-      "location": "Oakville",
-      "address": {
-        "postalAddress": {
-          "addressRegion": "Ontario",
-          "addressCountry": "Canada",
-          "addressLocality": "Oakville"
-        }
-      }
-    }
-  ],
-  "publishedAt": "2026-08-07T17:11:45.588+00:00",
+  "secondaryLocations": [],
+  "publishedAt": "2026-10-23T21:35:17.797+00:00",
   "isListed": true,
   "isRemote": false,
   "workplaceType": "OnSite",

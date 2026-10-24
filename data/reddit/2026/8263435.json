@@ -1,0 +1,132 @@
+{
+  "absolute_url": "https://job-boards.greenhouse.io/reddit/jobs/8263435",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": false,
+      "requires_processing_consent": false,
+      "requires_retention_consent": false,
+      "retention_period": null,
+      "demographic_data_consent_applies": true
+    }
+  ],
+  "internal_job_id": 3575463,
+  "location": {
+    "name": "Chicago, IL; New York City, NY"
+  },
+  "metadata": [
+    {
+      "id": 944668,
+      "name": "Position ID",
+      "value": "P-100413",
+      "value_type": "short_text"
+    },
+    {
+      "id": 956352,
+      "name": "Recruiting Start Date",
+      "value": "2026-10-07",
+      "value_type": "date"
+    },
+    {
+      "id": 944671,
+      "name": "Target Hire Date",
+      "value": "2027-01-11",
+      "value_type": "date"
+    },
+    {
+      "id": 944672,
+      "name": "Target Hire End Date",
+      "value": "",
+      "value_type": "date"
+    },
+    {
+      "id": 944673,
+      "name": "Job Profile",
+      "value": "Product Adoption Specialist 5",
+      "value_type": "single_select"
+    },
+    {
+      "id": 956351,
+      "name": "Management Level",
+      "value": "IC5",
+      "value_type": "single_select"
+    },
+    {
+      "id": 944675,
+      "name": "Job Family",
+      "value": "Product Adoption",
+      "value_type": "single_select"
+    },
+    {
+      "id": 53341,
+      "name": "Worker Sub-Type",
+      "value": "Regular",
+      "value_type": "single_select"
+    },
+    {
+      "id": 944676,
+      "name": "Time Type",
+      "value": "Full time",
+      "value_type": "single_select"
+    },
+    {
+      "id": 944682,
+      "name": "Pay Rate Type",
+      "value": "Salary",
+      "value_type": "single_select"
+    },
+    {
+      "id": 944681,
+      "name": "Scheduled Weekly Hours",
+      "value": "40.0",
+      "value_type": "number"
+    },
+    {
+      "id": 944667,
+      "name": "Company",
+      "value": "Reddit, Inc.",
+      "value_type": "single_select"
+    },
+    {
+      "id": 944677,
+      "name": "Cost Center",
+      "value": "Support-AEA-Prod Adopt",
+      "value_type": "single_select"
+    },
+    {
+      "id": 944669,
+      "name": "Worker Type",
+      "value": "Employee",
+      "value_type": "single_select"
+    }
+  ],
+  "id": 8263435,
+  "updated_at": "2026-10-23T20:22:47-04:00",
+  "requisition_id": "R-105932",
+  "title": "Lead Product Adoption Strategist, SMB",
+  "company_name": "Reddit",
+  "first_published": "2026-10-23T12:40:04-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;div class=&quot;content-intro&quot;&gt;&lt;div class=&quot;c-message_kit__blocks c-message_kit__blocks--rich_text&quot;&gt;\n&lt;div class=&quot;c-message__message_blocks c-message__message_blocks--rich_text&quot; data-qa=&quot;message-text&quot;&gt;\n&lt;div class=&quot;p-block_kit_renderer&quot; data-qa=&quot;block-kit-renderer&quot;&gt;\n&lt;div class=&quot;p-block_kit_renderer__block_wrapper p-block_kit_renderer__block_wrapper--first&quot;&gt;\n&lt;div class=&quot;p-rich_text_block&quot;&gt;\n&lt;div class=&quot;p-rich_text_section&quot;&gt;Reddit is a community of communities. It’s built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 130 million daily active unique visitors, Reddit is one of the internet’s largest sources of information. For more information, visit &lt;a class=&quot;c-link&quot; href=&quot;http://www.redditinc.com/&quot; target=&quot;_blank&quot; data-stringify-link=&quot;http://redditinc.com&quot; data-sk=&quot;tooltip_parent&quot;&gt;www.redditinc.com&lt;/a&gt;.&lt;/div&gt;\n&lt;/div&gt;\n&lt;/div&gt;\n&lt;/div&gt;\n&lt;/div&gt;\n&lt;/div&gt;&lt;/div&gt;&lt;p&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;We’re assembling a collaborative team of individuals to drive Reddit Ads product adoption within our Global Sales organization and with advertisers. The Product Adoption team’s mission is to accelerate and scale the adoption of priority products and features to drive advertiser success and revenue growth. Product Adoption team members are Reddit ads product evangelists and experts, and we are looking for our next team member to help us innovate and scale across our SMB business.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;In this role, you will be responsible for owning the end-to-end SMB product adoption motion, from identifying high-potential account / agency opportunities to building scaled programs and shaping vertical strategy. You will inherit an established operational foundation and help evolve the role into a more proactive, sales-focused motion that drives greater visibility, adoption, and revenue impact across the SMB segment. Your close partners will include Sales, PMM, Product, Strategy &amp;amp; Ops, Enablement, and other Product Adoption team members.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;You will help define which products and solutions matter most for SMB, build the reporting and insight cadence that gives SMB a stronger voice, and create the training, programs, and partner motions needed to drive adoption at scale. You will also play a key role in surfacing actionable market feedback to inform go-to-market and product direction.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;This role is required to be based in New York or Chicago.&lt;/span&gt;&lt;/p&gt;\n&lt;h2&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;&lt;strong&gt;Why Join Reddit’s Product Adoption Team?&lt;/strong&gt;&lt;/span&gt;&lt;/h2&gt;\n&lt;ul&gt;\n&lt;li style=&quot;font-size: 10pt;&quot;&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;Innovative environment: Be part of a high-impact team helping shape how Reddit scales product adoption across one of its most important growth segments.&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-size: 10pt;&quot;&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;Career growth: This is an opportunity to step into a strategic role with visibility across Sales, PMM, Product, and Strategy &amp;amp; Ops, while helping define how SMB product adoption evolves at Reddit.&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-size: 10pt;&quot;&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;Collaborative culture: Join a thoughtful, highly cross-functional team that values smart ideas, strong execution, and shared success.&lt;/span&gt;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h2&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;&lt;strong&gt;Responsibilities&lt;/strong&gt;&lt;/span&gt;&lt;/h2&gt;\n&lt;ul&gt;\n&lt;li style=&quot;font-size: 10pt;&quot;&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;Drive SMB growth by identifying high-potential account opportunities and partnering with Sales teams to increase adoption of Reddit’s priority performance ad solutions.&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-size: 10pt;&quot;&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;Build scaled programs that drive adoption across a large SMB advertiser base without requiring 1:1 account support, including onboarding, reactivation, and milestone-based outreach programs.&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-size: 10pt;&quot;&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;Support SMB Sales teams based in the US and EMEA timezones.&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-size: 10pt;&quot;&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;Own product adoption support for eCommerce partners, Shopify and WooCommerce, and identify activation, incentive, and training opportunities that improve partner-led adoption.&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-size: 10pt;&quot;&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;Own the vertical strategy for SMB by defining priority product solutions, shaping goals, and developing clear points of view on where Reddit should focus to drive impact with SMB.&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-size: 10pt;&quot;&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;Establish and maintain a proactive reporting cadence for SMB across program metrics, revenue pacing, product adoption, and vertical performance&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-size: 10pt;&quot;&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;Where relevant, build adoption plans for top-opportunity SMB verticals/agencies/advertisers, supporting sellers with coaching, objection handling, and strategic product guidance.&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-size: 10pt;&quot;&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;Synthesize field feedback, advertiser insights, and performance signals into clear recommendations for Sales, PMM, and Product partners.&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-size: 10pt;&quot;&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;Act as a strong internal advocate for the SMB business, ensuring SMB advertiser needs, blockers, and opportunities are represented in cross-functional product and go-to-market discussions.&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-size: 10pt;&quot;&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;Design and deliver vertical-specific training, sales enablement, and host office hours to help teams position and activate Reddit’s lower-funnel solutions.&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-size: 10pt;&quot;&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;Support SMB advertiser council programming in partnership with PMM, helping surface product blockers, strong-potential accounts, and actionable insights that can influence roadmap decisions.&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-size: 10pt;&quot;&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;Measure and communicate program effectiveness, including adoption, activation, engagement, and revenue impact, and identify where additional intervention is needed.&lt;/span&gt;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h2&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;&lt;strong&gt;Basic Qualifications&lt;/strong&gt;&lt;/span&gt;&lt;/h2&gt;\n&lt;ul&gt;\n&lt;li style=&quot;font-size: 10pt;&quot;&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;8+ years of experience in digital advertising, product adoption, sales strategy, ads go-to-market, revenue operations, or related fields&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-size: 10pt;&quot;&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;Strong experience working cross-functionally across Sales, Product Marketing, Product, Enablement, and Operations teams&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-size: 10pt;&quot;&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;Experience using data and market feedback to shape strategy, influence priorities, and drive measurable business outcomes&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-size: 10pt;&quot;&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;Demonstrated ability to build scalable programs and processes for large customer segments rather than relying solely on one-to-one account support&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-size: 10pt;&quot;&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;Strong understanding of performance advertising and product adoption motions within a digital ads environment&lt;/span&gt;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h2&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;&lt;strong&gt;Preferred Qualifications&lt;/strong&gt;&lt;/span&gt;&lt;/h2&gt;\n&lt;ul&gt;\n&lt;li style=&quot;font-size: 10pt;&quot;&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;Experience working with SMB or scaled advertiser segments&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-size: 10pt;&quot;&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;Experience with eCommerce or partner-led growth motions, ideally including platforms such as Shopify or WooCommerce.&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-size: 10pt;&quot;&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;Strong analytical skills and comfort working with dashboards, reporting, and performance data to identify trends and opportunities.&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-size: 10pt;&quot;&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;Excellent program and project management skills, with the ability to manage multiple strategic initiatives at once&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-size: 10pt;&quot;&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;Strong written and verbal communication skills, including the ability to translate insights into clear recommendations for senior stakeholders&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-size: 10pt;&quot;&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;A proactive, sales-minded approach paired with strong operational rigor and strategic thinking&lt;/span&gt;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;Benefits:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Comprehensive Health benefits&lt;/li&gt;\n&lt;li&gt;401k Matching&lt;/li&gt;\n&lt;li&gt;Workspace benefits for your home office&lt;/li&gt;\n&lt;li&gt;Personal &amp;amp; Professional development funds&lt;/li&gt;\n&lt;li&gt;Family Planning Support&lt;/li&gt;\n&lt;li&gt;Flexible Vacation (please use them!) &amp;amp; Reddit Global Days Off&lt;/li&gt;\n&lt;li&gt;4+ months paid Parental Leave&lt;/li&gt;\n&lt;li&gt;Paid Volunteer time off&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;#LI-Hybrid #LI-NT1&lt;/span&gt;&lt;/p&gt;&lt;div class=&quot;content-pay-transparency&quot;&gt;&lt;div class=&quot;pay-input&quot;&gt;&lt;div class=&quot;description&quot;&gt;&lt;p&gt;&lt;strong&gt;Pay Transparency:&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;This job posting may span more than one career level.&lt;/p&gt;\n&lt;p&gt;In addition to base salary, this job is eligible to receive equity in the form of restricted stock units, and will also be eligible to receive a commission. Additionally, Reddit offers a wide range of benefits to U.S.-based employees, including medical, dental, and vision insurance, 401(k) program with employer match, generous time off for vacation, and parental leave. To learn more, please visit &lt;a href=&quot;https://www.redditinc.com/careers/&quot; target=&quot;_blank&quot;&gt;https://www.redditinc.com/careers/&lt;/a&gt;.&lt;/p&gt;\n&lt;p&gt;To provide greater transparency to candidates, we share base salary ranges for all US-based job postings regardless of state. We set standard base pay ranges for all roles based on function, level, and country location, benchmarked against similar stage growth companies. Final offer amounts are determined by multiple factors including, skills, depth of work experience and relevant licenses/credentials, and may vary from the amounts listed below.&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;title&quot;&gt;The base salary range for this position is:&lt;/div&gt;&lt;div class=&quot;pay-range&quot;&gt;&lt;span&gt;$182,000&lt;/span&gt;&lt;span class=&quot;divider&quot;&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;$254,800 USD&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;In select roles and locations, the interviews will be recorded, transcribed and summarized by artificial intelligence (AI). You will have the opportunity to opt out of recording, transcription and summarization prior to any scheduled interviews.&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;During the interview, we will collect the following categories of personal information: Identifiers, Professional and Employment-Related Information, Sensory Information (audio/video recording), and any other categories of personal information you choose to share with us. We will use this information to evaluate your application for employment or an independent contractor role, as applicable.&amp;nbsp; We will not sell your personal information or disclose it to any third party for their marketing purposes.&amp;nbsp; We will delete any recording of your interview promptly after making a hiring decision.&amp;nbsp; For more information about how we will handle your personal information, including our retention of it, please refer to our &lt;a href=&quot;https://redditinc.com/policies/candidate-privacy-policy&quot;&gt;Candidate Privacy Policy for Potential Employees and Contractors&lt;/a&gt;.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;em&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Reddit is proud to be an equal opportunity employer, and is committed to building a workforce representative of the diverse communities we serve.&amp;nbsp; Reddit is committed to providing reasonable accommodations for qualified individuals with disabilities and disabled veterans in our job application procedures. If, due to a disability, you need an accommodation during the interview process, please let your recruiter know.&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;&lt;/div&gt;",
+  "departments": [
+    {
+      "id": 15691,
+      "name": "Sales",
+      "child_ids": [],
+      "parent_id": null
+    }
+  ],
+  "offices": [
+    {
+      "id": 10168,
+      "name": "New York",
+      "location": "New York, NY, United States",
+      "child_ids": [],
+      "parent_id": null
+    }
+  ],
+  "ai_disclaimer": null,
+  "include_ai_disclaimer": null,
+  "ai_opt_out_request_url": null
+}

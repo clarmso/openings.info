@@ -41,7 +41,7 @@
     }
   ],
   "id": 5244295007,
-  "updated_at": "2026-10-08T07:16:26-04:00",
+  "updated_at": "2026-10-23T15:49:46-04:00",
   "requisition_id": "260921_B37111",
   "title": "Commercial Account Executive 2",
   "company_name": "Zscaler",
@@ -96,9 +96,9 @@
   ],
   "offices": [
     {
-      "id": 4045520007,
-      "name": "Remote - Massachusetts, USA",
-      "location": "Remote - Massachusetts, USA",
+      "id": 4045549007,
+      "name": "Remote - Illinois, USA",
+      "location": "Remote - Illinois, USA",
       "child_ids": [],
       "parent_id": 4007290007
     }

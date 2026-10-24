@@ -33,15 +33,6 @@
         "additionalInformation": null,
         "components": [
           {
-            "id": "4479bdf9-b7b4-4c2a-90db-2c3465e66252",
-            "summary": "Offers Equity",
-            "compensationType": "EquityPercentage",
-            "interval": "NONE",
-            "currencyCode": null,
-            "minValue": null,
-            "maxValue": null
-          },
-          {
             "id": "ad37ee79-8249-4436-b69b-39fcd8308b42",
             "summary": "₹30,40,000 – ₹34,20,000",
             "compensationType": "Salary",
@@ -49,24 +40,33 @@
             "currencyCode": "INR",
             "minValue": 3040000,
             "maxValue": 3420000
+          },
+          {
+            "id": "4479bdf9-b7b4-4c2a-90db-2c3465e66252",
+            "summary": "Offers Equity",
+            "compensationType": "EquityPercentage",
+            "interval": "NONE",
+            "currencyCode": null,
+            "minValue": null,
+            "maxValue": null
           }
         ]
       }
     ],
     "summaryComponents": [
       {
-        "compensationType": "EquityPercentage",
-        "interval": "NONE",
-        "currencyCode": null,
-        "minValue": null,
-        "maxValue": null
-      },
-      {
         "compensationType": "Salary",
         "interval": "1 YEAR",
         "currencyCode": "INR",
         "minValue": 3040000,
         "maxValue": 3420000
+      },
+      {
+        "compensationType": "EquityPercentage",
+        "interval": "NONE",
+        "currencyCode": null,
+        "minValue": null,
+        "maxValue": null
       }
     ]
   }

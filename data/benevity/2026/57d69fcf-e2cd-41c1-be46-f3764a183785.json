@@ -6,59 +6,7 @@
   "employmentType": "FullTime",
   "location": "UK, Remote",
   "shouldDisplayCompensationOnJobPostings": false,
-  "secondaryLocations": [
-    {
-      "location": "Atlanta, GA",
-      "address": {
-        "postalAddress": {
-          "addressRegion": "Georgia",
-          "addressCountry": "United States",
-          "addressLocality": "Atlanta"
-        }
-      }
-    },
-    {
-      "location": "Calgary, Alberta",
-      "address": {
-        "postalAddress": {
-          "addressRegion": "Alberta",
-          "streetAddress": "611 Meredith Rd NE",
-          "addressCountry": "Canada",
-          "addressLocality": "Calgary"
-        }
-      }
-    },
-    {
-      "location": "New York City",
-      "address": {
-        "postalAddress": {
-          "addressRegion": "New York",
-          "addressCountry": "United States",
-          "addressLocality": "New York City"
-        }
-      }
-    },
-    {
-      "location": "Washington, D.C.",
-      "address": {
-        "postalAddress": {
-          "addressRegion": "D.C.",
-          "addressCountry": "United States",
-          "addressLocality": "Washington"
-        }
-      }
-    },
-    {
-      "location": "Boston, Massachusetts",
-      "address": {
-        "postalAddress": {
-          "addressRegion": "Massachusetts",
-          "addressCountry": "United States",
-          "addressLocality": "Boston"
-        }
-      }
-    }
-  ],
+  "secondaryLocations": [],
   "publishedAt": "2026-07-21T19:09:06.051+00:00",
   "isListed": true,
   "isRemote": true,

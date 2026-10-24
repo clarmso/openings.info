@@ -117,7 +117,7 @@
     }
   ],
   "id": 8173801,
-  "updated_at": "2026-10-16T17:59:16-04:00",
+  "updated_at": "2026-10-23T11:31:54-04:00",
   "requisition_id": "3273537552",
   "title": "Senior Solutions Architect",
   "company_name": "MongoDB",
@@ -135,9 +135,9 @@
   ],
   "offices": [
     {
-      "id": 95767,
-      "name": "Remote Germany",
-      "location": "Germany",
+      "id": 19178,
+      "name": "Munich",
+      "location": "Munich, Germany",
       "child_ids": [],
       "parent_id": 23658
     }

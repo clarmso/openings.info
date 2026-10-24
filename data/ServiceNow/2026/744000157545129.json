@@ -1,0 +1,111 @@
+{
+  "id": "744000157545129",
+  "name": "Senior Full-Stack Engineer  ",
+  "uuid": "fd5db779-5df9-41e2-9bc9-ac3cfbff5bef",
+  "jobAdId": "d539fa44-cd73-4376-b080-0274b58a3238",
+  "defaultJobAd": true,
+  "refNumber": "JB0076391",
+  "company": {
+    "identifier": "ServiceNow",
+    "name": "ServiceNow"
+  },
+  "releasedDate": "2026-10-23T18:25:49.103Z",
+  "location": {
+    "city": "Tel Aviv",
+    "country": "il",
+    "address": "5 Ha'Solelim st",
+    "postalCode": "6777508",
+    "remote": false,
+    "hybrid": true,
+    "fullLocation": "Tel Aviv, , Israel"
+  },
+  "industry": {
+    "id": "it_and_services",
+    "label": "Information Technology And Services"
+  },
+  "department": {
+    "id": "2294038",
+    "label": "Engineering, Infrastructure and Operations"
+  },
+  "function": {
+    "id": "engineering",
+    "label": "Engineering"
+  },
+  "typeOfEmployment": {
+    "id": "permanent",
+    "label": "Full-time"
+  },
+  "experienceLevel": {
+    "id": "not_applicable",
+    "label": "Not Applicable"
+  },
+  "customField": [
+    {
+      "fieldId": "60345fa28b4ba8595bef1863",
+      "fieldLabel": "Recruiting Team",
+      "valueId": "professional",
+      "valueLabel": "Professional"
+    },
+    {
+      "fieldId": "60345d5c5165a31b17288279",
+      "fieldLabel": "Region",
+      "valueId": "395ee3093de740ba9cb8b3d35cb67e2d",
+      "valueLabel": "EMEA - Europe, Middle East and Africa"
+    },
+    {
+      "fieldId": "6034601b43915a29a4b3389b",
+      "fieldLabel": "Job Location",
+      "valueId": "L_TLV007",
+      "valueLabel": "1 Ha'Solelim st, Tel Aviv, 6777508, Israel(L_TLV007)"
+    },
+    {
+      "fieldId": "60345e1a0b24a127cbdfa148",
+      "fieldLabel": "Employee Type",
+      "valueId": "0082f6cbe6154da19322cbab1f6aa5af",
+      "valueLabel": "Regular"
+    },
+    {
+      "fieldId": "5f63a78f1dae5c5c4e54ba2b",
+      "fieldLabel": "Department",
+      "valueId": "2294038",
+      "valueLabel": "Engineering, Infrastructure and Operations"
+    },
+    {
+      "fieldId": "COUNTRY",
+      "fieldLabel": "Country/Region",
+      "valueId": "il",
+      "valueLabel": "Israel"
+    },
+    {
+      "fieldId": "5f63a78f1dae5c5c4e54ba2a",
+      "fieldLabel": "Brands",
+      "valueId": "default",
+      "valueLabel": "ServiceNow"
+    },
+    {
+      "fieldId": "603462175165a31b1728827d",
+      "fieldLabel": "Cost Center",
+      "valueId": "CC6336",
+      "valueLabel": "6336 Agentic AI"
+    },
+    {
+      "fieldId": "618ed92b8f5e5f110e5bfb95",
+      "fieldLabel": "Work Persona",
+      "valueId": "bf7551c6-9b06-4e7c-8217-3baf43edd060",
+      "valueLabel": "Flexible"
+    },
+    {
+      "fieldId": "690cc0e8c682c3dbadaa7d73",
+      "fieldLabel": "Job Posting Type",
+      "valueId": "professional",
+      "valueLabel": "Professional"
+    }
+  ],
+  "visibility": "PUBLIC",
+  "ref": "https://api.smartrecruiters.com/v1/companies/ServiceNow/postings/744000157545129",
+  "language": {
+    "code": "en",
+    "label": "English",
+    "labelNative": "English (US)"
+  }
+}

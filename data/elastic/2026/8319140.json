@@ -1,0 +1,87 @@
+{
+  "absolute_url": "https://jobs.elastic.co/jobs?gh_jid=8319140&gh_jid=8319140",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": false,
+      "requires_processing_consent": false,
+      "requires_retention_consent": false,
+      "retention_period": null,
+      "demographic_data_consent_applies": false
+    }
+  ],
+  "education": "education_optional",
+  "internal_job_id": 3498732,
+  "location": {
+    "name": "Greece"
+  },
+  "metadata": [
+    {
+      "id": 32131013,
+      "name": "Requisition open date",
+      "value": "2026-07-20",
+      "value_type": "date"
+    },
+    {
+      "id": 168141,
+      "name": "Target Remote Countries / States Locations [For Job Wrapping]",
+      "value": [],
+      "value_type": "multi_select"
+    },
+    {
+      "id": 33574685,
+      "name": "Types of Hiring",
+      "value": null,
+      "value_type": "single_select"
+    },
+    {
+      "id": 20164553,
+      "name": "FADV_Account",
+      "value": null,
+      "value_type": "single_select"
+    },
+    {
+      "id": 20164588,
+      "name": "FADV_Package",
+      "value": null,
+      "value_type": "single_select"
+    },
+    {
+      "id": 30595384,
+      "name": "Seniority",
+      "value": "Mid-Senior Level",
+      "value_type": "single_select"
+    }
+  ],
+  "id": 8319140,
+  "updated_at": "2026-10-23T15:01:36-04:00",
+  "requisition_id": "R12027",
+  "title": "Principal Software Engineer - Global UX - Application - Platform",
+  "company_name": "Elastic",
+  "first_published": "2026-10-23T15:01:36-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Elastic, the Search AI Company, enables everyone to find the answers they need in real time, using all their data, at scale — unleashing the potential of businesses and people. The Elastic Search AI Platform, used by more than 50% of the Fortune 500, brings together the precision of search and the intelligence of AI to enable everyone to accelerate the results that matter. By taking advantage of all structured and unstructured data — securing and protecting private information more effectively — Elastic’s complete, cloud-based solutions for search, security, and observability help organizations deliver on the promise of AI.&lt;/p&gt;&lt;/div&gt;&lt;h3&gt;&lt;strong&gt;What is The Role&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;In this role, you will provide technical leadership for the Global UX engineering team, the group responsible for Elastic UI (EUI) - Elastic&#39;s design system and React component library - and the shared patterns, tokens, and tooling that give Elastic products a consistent, accessible, and high-quality experience.&lt;/p&gt;\n&lt;p&gt;EUI underpins the UI of every major Elastic product. As Tech Lead, you will set technical direction for how the design system scales across dozens of consuming teams, mentor and grow the engineers around you, and act as the senior-most technical voice connecting design intent to component architecture. This is a hands-on leadership role: you will write and review code, make the hard architectural calls, and also be the person other engineers and designers turn to when a component API, theming strategy, or migration path needs to be figured out.&lt;/p&gt;\n&lt;p&gt;We are looking for a Principal Software Engineer with deep expertise in React, TypeScript, and component library architecture, who has built or led design systems at scale, and who combines strong technical judgment with the leadership skills to align a team, a roadmap, and a community of internal consumers around a shared direction.&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;What You Will Be Doing&lt;/strong&gt;&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Provide technical leadership for Elastic UI (EUI), setting direction for component architecture, API design, theming, accessibility, and long-term maintainability across a design system consumed by many product teams.&lt;/li&gt;\n&lt;li&gt;Own the hardest technical decisions in the system: composable component patterns, breaking-change and migration strategy, versioning, token architecture, and the tradeoffs between flexibility and consistency.&lt;/li&gt;\n&lt;li&gt;Act as tech lead for the Global UX engineering team - setting technical standards, reviewing designs, unblocking engineers on difficult problems, and ensuring the team&#39;s work ladders up to a coherent long-term architecture.&lt;/li&gt;\n&lt;li&gt;Partner closely with design leadership to translate design language, visual direction, and interaction patterns into robust, reusable, well-documented component APIs.&lt;/li&gt;\n&lt;li&gt;Drive adoption of the design system across Elastic by working directly with consuming teams, understanding their constraints, and evolving EUI&#39;s APIs and documentation so adoption is easy rather than forced.&lt;/li&gt;\n&lt;li&gt;Raise the bar on accessibility, performance, and cross-browser correctness for shared UI building blocks used throughout Elastic&#39;s products.&lt;/li&gt;\n&lt;li&gt;Mentor and grow engineers on the team through code review, design critique, and pairing, and help develop the next generation of senior and staff-level engineers.&lt;/li&gt;\n&lt;li&gt;Represent the Global UX team in cross-functional planning with product, design, and engineering leadership, and make the case for investment in design system health and developer experience.&lt;/li&gt;\n&lt;li&gt;Use profiling, telemetry, and feedback from consuming teams to identify where the design system is creating friction, and lead the initiatives that fix it.&lt;/li&gt;\n&lt;li&gt;Explore how AI can improve the design-to-code workflow - for example, component generation from design specs, automated accessibility checks, or AI-assisted migration tooling - while holding the team accountable for the quality and correctness of shipped components.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;What You Bring&amp;nbsp;&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Deep, hands-on expertise building and operating React and TypeScript component libraries or design systems in production, at a scale with many internal or external consumers.&lt;/li&gt;\n&lt;li&gt;A strong track record of technical leadership - setting architecture, raising quality standards across a team, and making decisions that other engineers align behind without needing formal authority.&lt;/li&gt;\n&lt;li&gt;Experience designing composable, flexible component APIs, including patterns like compound components, render props, headless components, and theming/token systems.&lt;/li&gt;\n&lt;li&gt;Strong instincts for accessibility (WCAG, semantic HTML, keyboard and screen-reader behavior) and a track record of building that rigor into a team&#39;s default practices.&lt;/li&gt;\n&lt;li&gt;Experience managing the lifecycle of a widely-consumed library: releases, breaking changes, deprecation and migration paths, and documentation that keeps adoption smooth.&lt;/li&gt;\n&lt;li&gt;Ability to partner directly with designers and design leadership, translating visual and interaction intent into technical constraints and component contracts.&lt;/li&gt;\n&lt;li&gt;Excellent judgment about when to invest in reusable abstractions versus one-off solutions, and the communication skills to explain those tradeoffs to both engineers and non-technical stakeholders.&lt;/li&gt;\n&lt;li&gt;A history of mentoring engineers and elevating the technical level of a team, through code review, design docs, and pragmatic, hands-on leadership.&lt;/li&gt;\n&lt;li&gt;Experience working transparently in a distributed team - clear written communication, async-first collaboration, and open-source or open development practices.&lt;/li&gt;\n&lt;li&gt;Curiosity about how AI can improve design system workflows, paired with the judgment to hold a high bar for correctness and quality in whatever ships.&lt;/li&gt;\n&lt;/ul&gt;&lt;div class=&quot;content-pay-transparency&quot;&gt;&lt;div class=&quot;pay-input&quot;&gt;&lt;div class=&quot;description&quot;&gt;&lt;p&gt;Compensation for this role is in the form of base salary.&amp;nbsp; This role does not have a variable compensation component.&amp;nbsp;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;At Elastic, our compensation philosophy aims to provide fair, competitive and transparent remuneration. Salary ranges are established based on a combination of external market benchmarks, internal pay equity considerations, and the responsibilities and complexity associated with each role. This approach helps ensure consistency across comparable roles while remaining competitive within the relevant labour markets.&lt;/p&gt;\n&lt;p&gt;The final compensation offered within the applicable range will be determined based on several objective factors, including relevant professional experience, level of skills and expertise, alignment with the role requirements, and the overall scope and complexity of the position.&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;title&quot;&gt;The typical starting salary range for this role is:&lt;/div&gt;&lt;div class=&quot;pay-range&quot;&gt;&lt;span&gt;€73.300&lt;/span&gt;&lt;span class=&quot;divider&quot;&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;€115.900 EUR&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;h2&gt;&lt;strong&gt;Additional Information - We Take Care of Our People&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;As a distributed company, diversity drives our identity. Whether you’re looking to launch a new career or grow an existing one, Elastic is the type of company where you can balance great work with great life. Your age is only a number. It doesn’t matter if you’re just out of college or your children are; we need you for what you can do.&lt;/p&gt;\n&lt;p&gt;We strive to have parity of benefits across regions and while regulations differ from place to place, we believe taking care of our people is the right thing to do.&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Competitive pay based on the work you do here and not your previous salary&lt;/li&gt;\n&lt;li&gt;Health coverage for you and your family in many locations&lt;/li&gt;\n&lt;li&gt;Ability to craft your calendar with flexible locations and schedules for many roles&lt;/li&gt;\n&lt;li&gt;Generous number of vacation days each year&lt;/li&gt;\n&lt;li&gt;Increase your impact - We match up to $2000 (or local currency equivalent) for financial donations and service&lt;/li&gt;\n&lt;li&gt;Up to 40 hours each year to use toward volunteer projects you love&lt;/li&gt;\n&lt;li&gt;Embracing parenthood with minimum of 16 weeks of parental leave&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;Different people approach problems differently. We need that. Elastic is an equal opportunity employer and is committed to creating an inclusive culture that celebrates different perspectives, experiences, and backgrounds. Qualified applicants will receive consideration for employment without regard to race, ethnicity, color, religion, sex, pregnancy, sexual orientation, gender perception or identity, national origin, age, marital status, protected veteran status, disability status, or any other basis protected by federal, state or local law, ordinance or regulation.&lt;/p&gt;\n&lt;p&gt;We welcome individuals with disabilities and strive to create an accessible and inclusive experience for all individuals. To request an accommodation during the application or the recruiting process, please email &lt;a href=&quot;mailto:candidate_accessibility@elastic.co&quot; target=&quot;_blank&quot;&gt;candidate_accessibility@elastic.co&lt;/a&gt;&lt;span class=&quot;gmail_default&quot;&gt;.&lt;/span&gt;&amp;nbsp;We will reply to your request within 24 business hours of submission.&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;color: #000000;&quot;&gt;Applicants have rights under Federal Employment Laws, view posters linked below:&lt;/span&gt; &lt;a href=&quot;https://www.dol.gov/sites/dolgov/files/WHD/legacy/files/fmlaen.pdf&quot; target=&quot;_blank&quot;&gt;Family and Medical Leave Act (FMLA)&lt;/a&gt; &lt;span style=&quot;color: #000000;&quot;&gt;Poster;&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;&amp;nbsp;&lt;a href=&quot;https://www.dol.gov/sites/dolgov/files/ofccp/pdf/pay-transp_%20English_formattedESQA508c.pdf&quot; target=&quot;_blank&quot;&gt;Pay Transparency Nondiscrimination Provision&lt;/a&gt; Poster; &lt;/span&gt;&lt;a href=&quot;https://www.dol.gov/sites/dolgov/files/WHD/legacy/files/eppabw.pdf&quot; target=&quot;_blank&quot;&gt;Employee Polygraph Protection Act (EPPA)&lt;/a&gt; &lt;span style=&quot;color: #000000;&quot;&gt;Poster and &lt;a href=&quot;https://www.dol.gov/sites/dolgov/files/OFCCP/regs/compliance/posters/pdf/22-088_EEOC_KnowYourRights.pdf&quot; target=&quot;_blank&quot;&gt;Know Your Rights&lt;/a&gt; (Poster)&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;color: #000000;&quot;&gt;Elasticsearch develops and distributes technology and information that is subject to U.S. and other countries’ export controls and licensing requirements for individuals who are located in or are nationals of the following sanctioned countries and regions: Belarus, Cuba, Iran, North Korea, Syria, or Russia, including the Ukrainian territories annexed by Russia (The Crimea region of Ukraine, The Donetsk People&#39;s Republic (DNR), The Luhansk People&#39;s Republic (LNR), Kherson or Zaporizhzhia). If you are located in or are a national of one of the listed countries or regions, an export license may be required as a condition of your employment in this role. Please note that national origin and/or nationality do not affect eligibility for employment with Elastic.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;Please see&amp;nbsp;&lt;a href=&quot;https://www.elastic.co/legal/applicant-privacy-statement&quot; target=&quot;_blank&quot; data-saferedirecturl=&quot;https://www.google.com/url?q=https://www.elastic.co/legal/applicant-privacy-statement&amp;amp;source=gmail&amp;amp;ust=1611068262479000&amp;amp;usg=AFQjCNG3orAPk5sJIr9WVm0ZDxYw82c5DA&quot;&gt;here&lt;/a&gt;&amp;nbsp;for our Privacy Statement.&lt;/p&gt;&lt;/div&gt;",
+  "departments": [
+    {
+      "id": 53786,
+      "name": "Platform - Application Experience",
+      "child_ids": [],
+      "parent_id": 83403
+    }
+  ],
+  "offices": [
+    {
+      "id": 80195,
+      "name": "United Kingdom",
+      "location": null,
+      "child_ids": [
+        20739
+      ],
+      "parent_id": 80176
+    }
+  ],
+  "ai_disclaimer": null,
+  "include_ai_disclaimer": null,
+  "ai_opt_out_request_url": null
+}

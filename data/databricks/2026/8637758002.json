@@ -31,7 +31,7 @@
     }
   ],
   "id": 8637758002,
-  "updated_at": "2026-10-12T18:05:19-04:00",
+  "updated_at": "2026-10-23T19:35:23-04:00",
   "requisition_id": "FEQ427R29",
   "title": "Solutions Architect - Public Sector ",
   "company_name": "Databricks",
@@ -49,11 +49,11 @@
   ],
   "offices": [
     {
-      "id": 4056375002,
-      "name": "Remote - Washington D.C.",
-      "location": "Remote - Washington D.C.",
+      "id": 4056379002,
+      "name": "Remote - Virginia",
+      "location": "Remote - Virginia",
       "child_ids": [],
-      "parent_id": 4033536002
+      "parent_id": 4039466002
     }
   ],
   "ai_disclaimer": null,

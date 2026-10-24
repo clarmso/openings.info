@@ -54,7 +54,7 @@
     {
       "id": 31273219,
       "name": "Does this role require access to ITAR-controlled data?",
-      "value": null,
+      "value": "No",
       "value_type": "single_select"
     },
     {
@@ -65,7 +65,7 @@
     }
   ],
   "id": 8257217,
-  "updated_at": "2026-10-05T17:08:17-04:00",
+  "updated_at": "2026-10-23T16:38:39-04:00",
   "requisition_id": "R21941",
   "title": "Senior Technology Partner Manager",
   "company_name": "Datadog",

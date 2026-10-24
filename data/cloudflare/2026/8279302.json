@@ -12,7 +12,7 @@
   ],
   "internal_job_id": 3581209,
   "location": {
-    "name": "Hybrid"
+    "name": "Distributed"
   },
   "metadata": [
     {
@@ -42,7 +42,7 @@
     }
   ],
   "id": 8279302,
-  "updated_at": "2026-10-21T14:43:01-04:00",
+  "updated_at": "2026-10-23T11:57:59-04:00",
   "requisition_id": "1008",
   "title": "Program Lead Strategic CDN Accounts GTM",
   "company_name": "Cloudflare",

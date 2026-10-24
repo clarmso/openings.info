@@ -1,0 +1,411 @@
+{
+  "id": "6343c2d5-a58a-4e3b-bb2e-2ee0c60d3aed",
+  "title": "Communications and Social Media Manager",
+  "department": "Marketing & Communications",
+  "team": "Marketing & Communications",
+  "employmentType": "FullTime",
+  "location": "Remote",
+  "shouldDisplayCompensationOnJobPostings": true,
+  "secondaryLocations": [
+    {
+      "location": "Japan (Remote)",
+      "address": {
+        "postalAddress": {
+          "addressCountry": "Japan"
+        }
+      }
+    },
+    {
+      "location": "Slovakia (Remote)",
+      "address": {
+        "postalAddress": {
+          "addressCountry": "Slovakia"
+        }
+      }
+    },
+    {
+      "location": "Spain (Remote)",
+      "address": {
+        "postalAddress": {
+          "addressCountry": "Spain"
+        }
+      }
+    },
+    {
+      "location": "Czechia (Remote)",
+      "address": {
+        "postalAddress": {
+          "addressCountry": "Czechia"
+        }
+      }
+    },
+    {
+      "location": "Switzerland (Remote)",
+      "address": {
+        "postalAddress": {
+          "addressCountry": "Switzerland"
+        }
+      }
+    },
+    {
+      "location": "Estonia (Remote)",
+      "address": {
+        "postalAddress": {
+          "addressCountry": "Estonia"
+        }
+      }
+    },
+    {
+      "location": "Singapore (Remote)",
+      "address": {
+        "postalAddress": {
+          "addressCountry": "Singapore"
+        }
+      }
+    },
+    {
+      "location": "Slovenia (Remote)",
+      "address": {
+        "postalAddress": {
+          "addressCountry": "Slovenia"
+        }
+      }
+    },
+    {
+      "location": "Mexico (Remote)",
+      "address": {
+        "postalAddress": {
+          "addressCountry": "Mexico"
+        }
+      }
+    },
+    {
+      "location": "Portugal (Remote)",
+      "address": {
+        "postalAddress": {
+          "addressCountry": "Portugal"
+        }
+      }
+    },
+    {
+      "location": "USA (Remote)",
+      "address": {
+        "postalAddress": {
+          "addressCountry": "United States"
+        }
+      }
+    },
+    {
+      "location": "Israel (Remote)",
+      "address": {
+        "postalAddress": {
+          "addressCountry": "Israel"
+        }
+      }
+    },
+    {
+      "location": "Kyrgyzstan (Remote)",
+      "address": {
+        "postalAddress": {
+          "addressCountry": "Kyrgyzstan"
+        }
+      }
+    },
+    {
+      "location": "Bulgaria (Remote)",
+      "address": {
+        "postalAddress": {
+          "addressCountry": "Bulgaria"
+        }
+      }
+    },
+    {
+      "location": "Austria (Remote)",
+      "address": {
+        "postalAddress": {
+          "addressCountry": "Austria"
+        }
+      }
+    },
+    {
+      "location": "Iceland (Remote)",
+      "address": {
+        "postalAddress": {
+          "addressCountry": "Iceland"
+        }
+      }
+    },
+    {
+      "location": "Croatia (Remote)",
+      "address": {
+        "postalAddress": {
+          "addressCountry": "Croatia"
+        }
+      }
+    },
+    {
+      "location": "Hungary (Remote)",
+      "address": {
+        "postalAddress": {
+          "addressCountry": "Hungary"
+        }
+      }
+    },
+    {
+      "location": "Ireland (Remote)",
+      "address": {
+        "postalAddress": {
+          "addressCountry": "Ireland"
+        }
+      }
+    },
+    {
+      "location": "Canada (Remote)",
+      "address": {
+        "postalAddress": {
+          "addressCountry": "Canada"
+        }
+      }
+    },
+    {
+      "location": "South Africa (Remote)",
+      "address": {
+        "postalAddress": {
+          "addressCountry": "South Africa"
+        }
+      }
+    },
+    {
+      "location": "Brazil (Remote)",
+      "address": {
+        "postalAddress": {
+          "addressCountry": "Brazil"
+        }
+      }
+    },
+    {
+      "location": "Greece (Remote)",
+      "address": {
+        "postalAddress": {
+          "addressCountry": "Greece"
+        }
+      }
+    },
+    {
+      "location": "Mauritius (Remote)",
+      "address": {
+        "postalAddress": {
+          "addressCountry": "Mauritius"
+        }
+      }
+    },
+    {
+      "location": "UK (Remote)",
+      "address": {
+        "postalAddress": {
+          "addressCountry": "United Kingdom"
+        }
+      }
+    },
+    {
+      "location": "Romania (Remote)",
+      "address": {
+        "postalAddress": {
+          "addressCountry": "Romania"
+        }
+      }
+    },
+    {
+      "location": "Cyprus (Remote)",
+      "address": {
+        "postalAddress": {
+          "addressCountry": "Cyprus"
+        }
+      }
+    },
+    {
+      "location": "Malta (Remote)",
+      "address": {
+        "postalAddress": {
+          "addressCountry": "Malta"
+        }
+      }
+    },
+    {
+      "location": "Latvia (Remote)",
+      "address": {
+        "postalAddress": {
+          "addressCountry": "Latvia"
+        }
+      }
+    },
+    {
+      "location": "Argentina (Remote)",
+      "address": {
+        "postalAddress": {
+          "addressCountry": "Argentina"
+        }
+      }
+    },
+    {
+      "location": "Bosnia and Herzegovina (Remote)",
+      "address": {
+        "postalAddress": {
+          "addressCountry": "Bosnia and Herzegovina"
+        }
+      }
+    },
+    {
+      "location": "Poland (Remote)",
+      "address": {
+        "postalAddress": {
+          "addressCountry": "Poland"
+        }
+      }
+    },
+    {
+      "location": "Uruguay (Remote)",
+      "address": {
+        "postalAddress": {
+          "addressCountry": "Uruguay"
+        }
+      }
+    }
+  ],
+  "publishedAt": "2026-10-21T17:23:29.076+00:00",
+  "isListed": true,
+  "isRemote": true,
+  "workplaceType": "Remote",
+  "address": {
+    "postalAddress": {}
+  },
+  "jobUrl": "https://jobs.ashbyhq.com/duck-duck-go/6343c2d5-a58a-4e3b-bb2e-2ee0c60d3aed",
+  "applyUrl": "https://jobs.ashbyhq.com/duck-duck-go/6343c2d5-a58a-4e3b-bb2e-2ee0c60d3aed/application",
+  "descriptionHtml": "<h1><strong>Who We Are  </strong></h1><p style=\"min-height:1.5em\">Hi, we're DuckDuckGo, the online protection company and remote-first team of 400+ on a mission to raise the standard of trust online. Founded in 2008 and profitable since 2014, our annual revenue is in the hundreds of millions USD and millions use our browser on <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" class=\"ProsemirrorEditor-link\" href=\"https://spreadprivacy.com/introducing-duckduckgo-for-mac/\">Mac</a>, <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" class=\"ProsemirrorEditor-link\" href=\"https://spreadprivacy.com/windows-browser-open-beta/\">Windows</a>, <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" class=\"ProsemirrorEditor-link\" href=\"https://spreadprivacy.com/duckduckgo-privacy-browser-ios14/\">iOS</a>, and <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" class=\"ProsemirrorEditor-link\" href=\"https://spreadprivacy.com/introducing-app-tracking-protection/\">Android</a>, our <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" class=\"ProsemirrorEditor-link\" href=\"https://duckduckgo.com/\">search engine</a>, and the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" class=\"ProsemirrorEditor-link\" href=\"https://duckduckgo.com/pro\">DuckDuckGo subscription</a>. We also offer private, useful, and optional AI, including <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" class=\"ProsemirrorEditor-link\" href=\"https://duck.ai/\">Duck.ai</a>, which lets you chat privately with ChatGPT, Claude, and other AIs, all in one place. </p><div style=\"min-height:1.2em;margin-top:0px;margin-bottom:0px\"> </div><p style=\"min-height:1.5em\">Our <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" class=\"ProsemirrorEditor-link\" href=\"https://duckduckgo.com/how-we-work\">culture</a> of trust, inclusivity, and empowered project management underpins everything we do, where each team member takes full ownership of their projects, from scoping and execution to postmortem. If you're seeking end-to-end ownership of your work, you've come to the right place!</p><h1><strong>Your Team and Role </strong></h1><p style=\"min-height:1.5em\">Working on the Marketing and Communications Functional Team, you'll help shape how millions of people hear about DuckDuckGo, lead projects, and own key ongoing work.</p><div style=\"min-height:1.2em;margin-top:0px;margin-bottom:0px\"> </div><p style=\"min-height:1.5em\">As a Social Media And Communications Manager, you'll write social media copy, manage social media mentions and communities, coordinate proactive announcements, manage incoming press requests, regularly report out and keep track of key performance metrics and work on related projects. You'll be the directly responsible individual (DRI) on your own projects from scoping through postmortem, collaborating closely with product, design, legal, support, and leadership. </p><div style=\"min-height:1.2em;margin-top:0px;margin-bottom:0px\"> </div><p style=\"min-height:1.5em\">Example projects include: </p><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">Announcing DuckDuckGo products and features, across press, social, and community channels.</p></li><li><p style=\"min-height:1.5em\">Running a multi-week social campaign to raise awareness of a product area, from measuring the baseline and planning content through weekly reporting and recommendations.</p></li></ul><h1><strong>About You</strong></h1><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">6+ years in communications, including PR and social media, ideally in tech.</p></li><li><p style=\"min-height:1.5em\">Excellent writing skills, with the ability to explain products clearly, without jargon.</p></li><li><p style=\"min-height:1.5em\">Hands-on social media experience, including content development and community management on X, Facebook, Reddit, LinkedIn, Instagram, TikTok, Threads, and Bluesky.</p></li><li><p style=\"min-height:1.5em\">Media relations experience, including pitching journalists, handling inquiries, and building press relationships.</p></li><li><p style=\"min-height:1.5em\">Experience measuring social media and earned media reach, engagement, sentiment, and campaign impact and turning results into insightful reports.</p></li><li><p style=\"min-height:1.5em\">Fluency in online culture, with strong judgment about when to join a conversation and when not to.</p></li><li><p style=\"min-height:1.5em\">Ability to run multiple campaigns, content calendars, and approval cycles with cross-functional team members at once.</p></li><li><p style=\"min-height:1.5em\">Proven ability to manage projects from kickoff through delivery.</p></li></ul><h1><strong>Compensation</strong></h1><p style=\"min-height:1.5em\">This role is paid on a regional pay scale, in local currency, and stock options:</p><div style=\"min-height:1.2em;margin-top:0px;margin-bottom:0px\"> </div><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\"><strong>United States</strong>: $129,000 USD annually</p></li><li><p style=\"min-height:1.5em\"><strong>United Kingdom</strong>: £97,300 GBP annually</p></li><li><p style=\"min-height:1.5em\"><strong>Canada</strong>: C$183,200 CAD annually</p></li><li><p style=\"min-height:1.5em\"><strong>Europe/Rest of World</strong>: €113,750 EUR annually</p></li></ul><div style=\"min-height:1.2em;margin-top:0px;margin-bottom:0px\"> </div><p style=\"min-height:1.5em\">In Spain, pay is expected to transition to the EUR scale on January 1, 2027, and in other Europe/Rest of World countries on February 1, 2027.</p><div style=\"min-height:1.2em;margin-top:0px;margin-bottom:0px\"> </div><p style=\"min-height:1.5em\">Eligibility for company-sponsored health benefits is limited to team members based in the United States. This program does not extend to team members located in other countries, such as Canada or the UK.</p><div style=\"min-height:1.2em;margin-top:0px;margin-bottom:0px\"> </div><p style=\"min-height:1.5em\">Our<a target=\"_blank\" rel=\"noopener noreferrer nofollow\" class=\"ProsemirrorEditor-link\" href=\"https://duckduckgo.com/assets/hiring/team_support_guide.pdf\"> Team Member Support Guide</a> explains how we prioritize your wellbeing including <strong>paid parental leave, office setup, </strong>and <strong>co-working allowances.</strong></p><div style=\"min-height:1.2em;margin-top:0px;margin-bottom:0px\"> </div><h1><strong>Hiring Process</strong></h1><p style=\"min-height:1.5em\">Hiring works best when it's a two-way street. Learn how we help you get to know DuckDuckGo, envision your future role here, and find out more about <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" class=\"ProsemirrorEditor-link\" href=\"https://duckduckgo.com/how-we-hire\"><u>how we hire</u></a>.</p><div style=\"min-height:1.2em;margin-top:0px;margin-bottom:0px\"> </div><h1><strong>Diversity, Equity and Inclusion</strong></h1><p style=\"min-height:1.5em\">DuckDuckGo provides equal work opportunities to all team members and applicants<u>,</u> and it prohibits discrimination and harassment of any type on the basis of race, color, ethnicity, caste, religion, age, sex (including pregnancy), national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by our policies or federal, state, or local laws.</p><div style=\"min-height:1.2em;margin-top:0px;margin-bottom:0px\"> </div><p style=\"min-height:1.5em\">We want to ensure that our hiring process is accessible. If you need reasonable accommodation for any part of the application process because of a medical condition or disability, please send an email to <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" class=\"ProsemirrorEditor-link\" href=\"mailto:careers@duckduckgo.com\"><u>careers@duckduckgo.com</u></a> to let us know the nature of your request.</p><div style=\"min-height:1.2em;margin-top:0px;margin-bottom:0px\"> </div><h1><strong>Please note that:</strong></h1><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">You’ll be required to attend meetings on camera via video conferencing.</p></li><li><p style=\"min-height:1.5em\">Expect to travel at least two times a year: once for our all-hands meetup and again for a team retreat (each around 4-5 days). While extenuating circumstances may impact attendance, everyone is strongly encouraged to attend.</p></li><li><p style=\"min-height:1.5em\">While we offer a flexible work arrangement with no core hours, expect an average full-time commitment of 40 hours per week.</p></li><li><p style=\"min-height:1.5em\">A successful candidate must pass a background check as a condition of joining the team.</p></li><li><p style=\"min-height:1.5em\">By applying for this role, you confirm that all information submitted is accurate and complete. You further acknowledge that providing false or fraudulent information during the application process is cause for denial of an offer, revocation of any existing offer, or other adverse action, up to and including termination after the start of your commencement of work.</p></li></ul><div style=\"min-height:1.2em;margin-top:0px;margin-bottom:0px\"> </div><p style=\"min-height:1.5em\"><strong>Disclosure Statement: Use of AI in Hiring Process</strong></p><p style=\"min-height:1.5em\">As part of our commitment to enhancing our recruitment process, we utilize artificial intelligence (AI) technology to assist in reviewing and summarizing job applications and test projects, including those tools integrated into our recruitment vendor platforms. We use AI to flag potentially fraudulent applications, analyze and summarize applicants’ experience, interviews, and project performance, and help streamline our selection process.</p><div style=\"min-height:1.2em;margin-top:0px;margin-bottom:0px\"> </div><p style=\"min-height:1.5em\"><strong>Key Principles:</strong></p><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\"><strong>Data Privacy:</strong> All information provided in your application will be handled in accordance with our <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" class=\"ProsemirrorEditor-link\" href=\"https://duckduckgo.com/static-assets/files/pages/careers/DuckDuckGo-Recruiting-Privacy-Policy-effective-September-30-2025.pdf\">Recruiting Privacy Policy</a>. We ensure that your personal information is protected and used solely for recruitment purposes.</p></li><li><p style=\"min-height:1.5em\"><strong>Human Oversight and Accountability:</strong> The AI technology is designed to support our hiring team by providing insights and summaries of applications and evaluations of test projects against scoring rubrics. All final evaluations and hiring decisions, however, will be made by our hiring team, who will consider the AI's input alongside other factors.</p></li><li><p style=\"min-height:1.5em\"><strong>Transparency:</strong> We believe in transparency regarding our hiring practices. If you have any questions about how AI is used in our recruitment process, please feel free to reach out to us.</p></li></ul><div style=\"min-height:1.2em;margin-top:0px;margin-bottom:0px\"> </div><p style=\"min-height:1.5em\">By submitting your application, you acknowledge and consent to the use of AI technology in our review process. If you would like to request an alternative selection process, please contact us as at <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" class=\"ProsemirrorEditor-link\" href=\"mailto:careers@duckduckgo.com\">careers@duckduckgo.com</a>. Thank you for your interest in joining DuckDuckGo!</p>",
+  "descriptionPlain": "WHO WE ARE  \n\nHi, we're DuckDuckGo, the online protection company and remote-first team of 400+ on a mission to raise the standard of trust online. Founded in 2008 and profitable since 2014, our annual revenue is in the hundreds of millions USD and millions use our browser on Mac https://spreadprivacy.com/introducing-duckduckgo-for-mac/, Windows https://spreadprivacy.com/windows-browser-open-beta/, iOS https://spreadprivacy.com/duckduckgo-privacy-browser-ios14/, and Android https://spreadprivacy.com/introducing-app-tracking-protection/, our search engine https://duckduckgo.com/, and the DuckDuckGo subscription https://duckduckgo.com/pro. We also offer private, useful, and optional AI, including Duck.ai https://duck.ai/, which lets you chat privately with ChatGPT, Claude, and other AIs, all in one place. \n\n \n\nOur culture https://duckduckgo.com/how-we-work of trust, inclusivity, and empowered project management underpins everything we do, where each team member takes full ownership of their projects, from scoping and execution to postmortem. If you're seeking end-to-end ownership of your work, you've come to the right place!\n\n\nYOUR TEAM AND ROLE \n\nWorking on the Marketing and Communications Functional Team, you'll help shape how millions of people hear about DuckDuckGo, lead projects, and own key ongoing work.\n\n \n\nAs a Social Media And Communications Manager, you'll write social media copy, manage social media mentions and communities, coordinate proactive announcements, manage incoming press requests, regularly report out and keep track of key performance metrics and work on related projects. You'll be the directly responsible individual (DRI) on your own projects from scoping through postmortem, collaborating closely with product, design, legal, support, and leadership. \n\n \n\nExample projects include: \n\n - Announcing DuckDuckGo products and features, across press, social, and community channels.\n\n - Running a multi-week social campaign to raise awareness of a product area, from measuring the baseline and planning content through weekly reporting and recommendations.\n\n\nABOUT YOU\n\n - 6+ years in communications, including PR and social media, ideally in tech.\n\n - Excellent writing skills, with the ability to explain products clearly, without jargon.\n\n - Hands-on social media experience, including content development and community management on X, Facebook, Reddit, LinkedIn, Instagram, TikTok, Threads, and Bluesky.\n\n - Media relations experience, including pitching journalists, handling inquiries, and building press relationships.\n\n - Experience measuring social media and earned media reach, engagement, sentiment, and campaign impact and turning results into insightful reports.\n\n - Fluency in online culture, with strong judgment about when to join a conversation and when not to.\n\n - Ability to run multiple campaigns, content calendars, and approval cycles with cross-functional team members at once.\n\n - Proven ability to manage projects from kickoff through delivery.\n\n\nCOMPENSATION\n\nThis role is paid on a regional pay scale, in local currency, and stock options:\n\n \n\n - United States: $129,000 USD annually\n\n - United Kingdom: £97,300 GBP annually\n\n - Canada: C$183,200 CAD annually\n\n - Europe/Rest of World: €113,750 EUR annually\n\n \n\nIn Spain, pay is expected to transition to the EUR scale on January 1, 2027, and in other Europe/Rest of World countries on February 1, 2027.\n\n \n\nEligibility for company-sponsored health benefits is limited to team members based in the United States. This program does not extend to team members located in other countries, such as Canada or the UK.\n\n \n\nOur Team Member Support Guide https://duckduckgo.com/assets/hiring/team_support_guide.pdf explains how we prioritize your wellbeing including paid parental leave, office setup, and co-working allowances.\n\n \n\n\nHIRING PROCESS\n\nHiring works best when it's a two-way street. Learn how we help you get to know DuckDuckGo, envision your future role here, and find out more about how we hire https://duckduckgo.com/how-we-hire.\n\n \n\n\nDIVERSITY, EQUITY AND INCLUSION\n\nDuckDuckGo provides equal work opportunities to all team members and applicants, and it prohibits discrimination and harassment of any type on the basis of race, color, ethnicity, caste, religion, age, sex (including pregnancy), national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by our policies or federal, state, or local laws.\n\n \n\nWe want to ensure that our hiring process is accessible. If you need reasonable accommodation for any part of the application process because of a medical condition or disability, please send an email to careers@duckduckgo.com to let us know the nature of your request.\n\n \n\n\nPLEASE NOTE THAT:\n\n - You’ll be required to attend meetings on camera via video conferencing.\n\n - Expect to travel at least two times a year: once for our all-hands meetup and again for a team retreat (each around 4-5 days). While extenuating circumstances may impact attendance, everyone is strongly encouraged to attend.\n\n - While we offer a flexible work arrangement with no core hours, expect an average full-time commitment of 40 hours per week.\n\n - A successful candidate must pass a background check as a condition of joining the team.\n\n - By applying for this role, you confirm that all information submitted is accurate and complete. You further acknowledge that providing false or fraudulent information during the application process is cause for denial of an offer, revocation of any existing offer, or other adverse action, up to and including termination after the start of your commencement of work.\n\n \n\nDisclosure Statement: Use of AI in Hiring Process\n\nAs part of our commitment to enhancing our recruitment process, we utilize artificial intelligence (AI) technology to assist in reviewing and summarizing job applications and test projects, including those tools integrated into our recruitment vendor platforms. We use AI to flag potentially fraudulent applications, analyze and summarize applicants’ experience, interviews, and project performance, and help streamline our selection process.\n\n \n\nKey Principles:\n\n - Data Privacy: All information provided in your application will be handled in accordance with our Recruiting Privacy Policy https://duckduckgo.com/static-assets/files/pages/careers/DuckDuckGo-Recruiting-Privacy-Policy-effective-September-30-2025.pdf. We ensure that your personal information is protected and used solely for recruitment purposes.\n\n - Human Oversight and Accountability: The AI technology is designed to support our hiring team by providing insights and summaries of applications and evaluations of test projects against scoring rubrics. All final evaluations and hiring decisions, however, will be made by our hiring team, who will consider the AI's input alongside other factors.\n\n - Transparency: We believe in transparency regarding our hiring practices. If you have any questions about how AI is used in our recruitment process, please feel free to reach out to us.\n\n \n\nBy submitting your application, you acknowledge and consent to the use of AI technology in our review process. If you would like to request an alternative selection process, please contact us as at careers@duckduckgo.com. Thank you for your interest in joining DuckDuckGo!",
+  "compensation": {
+    "compensationTierSummary": "$129K • Offers Equity • Multiple Ranges",
+    "scrapeableCompensationSalarySummary": "$129,000",
+    "compensationTiers": [
+      {
+        "id": "5e52c206-df58-443e-8049-b2f2dc867b90",
+        "tierSummary": "Annual Compensation $129,000 • Offers Equity",
+        "title": "United States",
+        "additionalInformation": null,
+        "components": [
+          {
+            "id": "44faa768-a988-43d4-870d-92a55436f745",
+            "summary": "Annual Compensation $129,000",
+            "compensationType": "Salary",
+            "interval": "1 YEAR",
+            "currencyCode": "USD",
+            "minValue": 129000,
+            "maxValue": 129000
+          },
+          {
+            "id": "68be3bb1-a5b5-4b85-a33a-6b6749c38104",
+            "summary": "Offers Equity",
+            "compensationType": "EquityPercentage",
+            "interval": "NONE",
+            "currencyCode": null,
+            "minValue": null,
+            "maxValue": null
+          }
+        ]
+      },
+      {
+        "id": "01b3f82e-0ce3-40b4-bc11-dfd5bb6f5a20",
+        "tierSummary": "Annual Compensation CA$183,200 • Offers Equity",
+        "title": "Canada",
+        "additionalInformation": null,
+        "components": [
+          {
+            "id": "da39b65e-166f-442e-9737-37597c9aedfc",
+            "summary": "Offers Equity",
+            "compensationType": "EquityPercentage",
+            "interval": "NONE",
+            "currencyCode": null,
+            "minValue": null,
+            "maxValue": null
+          },
+          {
+            "id": "908bba0e-630a-4691-b51d-8b970cef17ac",
+            "summary": "Annual Compensation CA$183,200",
+            "compensationType": "Salary",
+            "interval": "1 YEAR",
+            "currencyCode": "CAD",
+            "minValue": 183200,
+            "maxValue": 183200
+          }
+        ]
+      },
+      {
+        "id": "1921528c-a869-4cef-b9fe-4f9b8a09b98f",
+        "tierSummary": "Annual Compensation £97,300 • Offers Equity",
+        "title": "United Kingdom",
+        "additionalInformation": null,
+        "components": [
+          {
+            "id": "fddb3455-44cf-41c9-8d16-e89c57e4f642",
+            "summary": "Offers Equity",
+            "compensationType": "EquityPercentage",
+            "interval": "NONE",
+            "currencyCode": null,
+            "minValue": null,
+            "maxValue": null
+          },
+          {
+            "id": "02688e34-29e5-46cd-99a4-1aba430135df",
+            "summary": "Annual Compensation £97,300",
+            "compensationType": "Salary",
+            "interval": "1 YEAR",
+            "currencyCode": "GBP",
+            "minValue": 97300,
+            "maxValue": 97300
+          }
+        ]
+      },
+      {
+        "id": "c3f1a830-9e75-4bd8-80e7-fa18faf0ceb4",
+        "tierSummary": "Annual Compensation €113,750 • Offers Equity",
+        "title": "Europe and Rest of the world",
+        "additionalInformation": null,
+        "components": [
+          {
+            "id": "5604c4cc-3471-465e-9102-d2a1679208d3",
+            "summary": "Annual Compensation €113,750",
+            "compensationType": "Salary",
+            "interval": "1 YEAR",
+            "currencyCode": "EUR",
+            "minValue": 113750,
+            "maxValue": 113750
+          },
+          {
+            "id": "56dd6ea7-9b57-44b9-80ec-28199f712f41",
+            "summary": "Offers Equity",
+            "compensationType": "EquityPercentage",
+            "interval": "NONE",
+            "currencyCode": null,
+            "minValue": null,
+            "maxValue": null
+          }
+        ]
+      }
+    ],
+    "summaryComponents": [
+      {
+        "compensationType": "Salary",
+        "interval": "1 YEAR",
+        "currencyCode": "USD",
+        "minValue": 129000,
+        "maxValue": 129000
+      },
+      {
+        "compensationType": "EquityPercentage",
+        "minValue": null,
+        "maxValue": null,
+        "interval": "1 YEAR"
+      }
+    ]
+  }
+}
