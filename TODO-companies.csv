@@ -1442,7 +1442,6 @@ palitronica,,,LinkedIn jobs page only (no dedicated ATS); recruiting@palitronica
 snyk,workday,https://snyk.io/careers/all-jobs/,Migrated off Ashby to Workday (unsupported ATS); unable to locate exact Workday tenant/site,UK
 CrowdStrike,workday,,Uses Workday (unsupported ATS),US
 Proofpoint,workday,,Uses Workday (unsupported ATS),US
-binsentry,bamboohr,,,Canada
 plusgrade,workday,https://plusgrade.wd10.myworkdayjobs.com/Plusgrade_External_Site,Uses Workday (unsupported ATS),Canada
 zoom,workday,https://careers.zoom.us/jobs/search,Careers site is Clinch-branded but applications go through Workday (unsupported ATS),US
 brightcoreenergy,greenhouse,,found via HN Who's Hiring Aug 2026 (item 49156683); hq_country unconfirmed,
