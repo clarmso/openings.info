@@ -1,0 +1,20 @@
+{
+  "id": "301",
+  "jobOpeningName": "Account Executive",
+  "departmentId": "18595",
+  "departmentLabel": "Sales",
+  "employmentStatusLabel": "Full-Time",
+  "employmentType": null,
+  "location": {
+    "city": null,
+    "state": null
+  },
+  "atsLocation": {
+    "country": "United States",
+    "state": "Illinois",
+    "province": null,
+    "city": "Chicago"
+  },
+  "isRemote": null,
+  "locationType": "1"
+}

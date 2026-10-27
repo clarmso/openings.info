@@ -1,0 +1,62 @@
+{
+  "absolute_url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8895476002",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": false,
+      "requires_processing_consent": false,
+      "requires_retention_consent": false,
+      "retention_period": null,
+      "demographic_data_consent_applies": false
+    }
+  ],
+  "internal_job_id": 6562905002,
+  "location": {
+    "name": "London, United Kingdom"
+  },
+  "metadata": [
+    {
+      "id": 9740521002,
+      "name": "Company Assignment",
+      "value": "Databricks SARL",
+      "value_type": "single_select"
+    },
+    {
+      "id": 24059030002,
+      "name": "Career Page Posting Category",
+      "value": [
+        "Field Engineering"
+      ],
+      "value_type": "multi_select"
+    }
+  ],
+  "id": 8895476002,
+  "updated_at": "2026-10-26T11:09:41-04:00",
+  "requisition_id": "FEQ327R411",
+  "title": "Senior EMEA AI Solutions Architect",
+  "company_name": "Databricks",
+  "first_published": "2026-10-26T11:09:41-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;p&gt;The Solutions Architect (AI) team executes on Databricks’ strategic Product Operating Model that provides enhanced focus on earlier stage, highly prioritized product lines in order to establish product market fit, and set the course for rapid revenue growth. They are part of a global go-to-market team mandate, though individually will cover a specific, local region.&amp;nbsp; Clients may span across one or more business units and verticals. By working in partnership with direct account teams, they will jointly engage clients, foster the necessary relationships, position &lt;em&gt;in-depth&lt;/em&gt; the specific product line, so as to provide compelling reasons for clients to adopt and grow the usage of the given product.&amp;nbsp; They understand the appropriate approach, the guardrails, and the steps needed to successfully adopt the product line, as clients deliver on their business objectives.&lt;/p&gt;\n&lt;p&gt;The Solutions Architect (AI) is paired with an Account Executive aligned to the product line with specific targets accordingly. Together, they will devise and implement a strategy across their assigned set of accounts, develop presentations, demos and other assets and deliver them such that customers make an informed decision as they decide to adopt the product-line in a meaningful way.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;The impact you will have&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Provide technical leadership to guide strategic customers to successful implementations on big data projects, ranging from architectural design to data engineering to model deployment&lt;/li&gt;\n&lt;li&gt;Collaborate with GTM leadership and account teams to design and execute high-impact engagement strategies and strategic sales plays across your territory, driving AI adoption&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;As a trusted advisor, serve as an expert Solutions Architect building technical credibility with CAIOs, CDOs and CTOs to drive product adoption and vision.&lt;/li&gt;\n&lt;li&gt;Enable clients at scale through workshops, POC execution, and developing customer-facing collateral that increases technical knowledge and demonstrates the value of the Databricks architecture for AI and agentic workflows.&lt;/li&gt;\n&lt;li&gt;Lead the design and implementation of high-profile, high-value agentic AI use cases on Databricks, leveraging Databricks Agent Framework, AgentBricks, and other Databricks AI capabilities to accelerate production adoption and deliver measurable business outcomes.&lt;/li&gt;\n&lt;li&gt;Drive agentic AI quality and production readiness by implementing robust evaluation and monitoring strategies using MLflow, LLM-as-a-judge, custom evaluation metrics, and tracing to continuously improve agent accuracy, reliability, and performance.&lt;/li&gt;\n&lt;li&gt;Influence product roadmap by translating field-derived, data-driven insights into strategic recommendations for Product and Engineering teams.&lt;/li&gt;\n&lt;li&gt;Handle the most complex technical challenges in this product line by acting as the tier-3 escalation point for the field, ensuring customer success in mission-critical use-cases.&lt;/li&gt;\n&lt;li&gt;Establish and refine the sales qualification and POC intake process, ensuring well-scoped engagements that maximize customer success and minimize friction for R&amp;amp;D.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;Competencies &amp;amp; Responsibilities&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;10+ years in a customer-facing, pre-sales or consulting role influencing technical executives, driving high-level ML/AI strategy and product adoption.&lt;/li&gt;\n&lt;li&gt;Experience with design and implementation of production-grade ML and generative AI applications in customer or enterprise environments&lt;/li&gt;\n&lt;li&gt;Hands-on experience designing, building, and deploying enterprise-grade agentic AI solutions, including RAG, tool calling, multi-agent orchestration, and autonomous workflows, ideally using Databricks Agent Framework and Agent Bricks.&lt;/li&gt;\n&lt;li&gt;Strong understanding of agentic AI evaluation methodologies, including MLflow Tracing, LLM judges, custom scorers, and systematic approaches to measuring agent quality, reliability, and production performance.&lt;/li&gt;\n&lt;li&gt;Deep familiarity with using frontier models (from providers such as Anthropic, OpenAI and Google Gemini), including deployment, optimisation and migration strategies as well as with machine learning, LLMs, and agentic AI workflows.&lt;/li&gt;\n&lt;li&gt;Proficient in programming, debugging, and problem-solving using SQL, Python, Apache Spark, cloud platforms, and Lakehouse architectures and with AI tools.&lt;/li&gt;\n&lt;li&gt;Experience collaborating with Global System Integrators (GSIs) and third-party consulting organizations to drive customer outcomes in AI.&lt;/li&gt;\n&lt;li&gt;Hands-on experience building solutions within major public cloud environments (AWS, Azure, or GCP), with an understanding of cloud-native AI platforms&lt;/li&gt;\n&lt;li&gt;Undergraduate degree (or higher) in a technical field such as Computer Science, Cybersecurity, Applied Mathematics, Engineering or similar.&lt;/li&gt;\n&lt;/ul&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;&lt;strong&gt;About Databricks&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;font-family: arial, sans-serif;&quot;&gt;Databricks is the Data and AI company. More than 20,000 organizations worldwide — including adidas, AT&amp;amp;T, Bayer, Block, Mastercard, Rivian, Unilever, and 70% of the Fortune 500 — rely on the Databricks Data + AI Platform to build and scale data and AI apps, analytics and agents. Headquartered in San Francisco with 30+ offices around the globe, Databricks offers a unified platform that includes Genie, Lakebase, Agent Bricks, Lakeflow, Lakehouse, and Unity Catalog. To learn more, follow Databricks on &lt;a href=&quot;https://www.linkedin.com/company/databricks&quot;&gt;LinkedIn&lt;/a&gt;, &lt;a href=&quot;https://x.com/databricks&quot;&gt;X&lt;/a&gt;, &lt;a href=&quot;https://www.youtube.com/@Databricks&quot;&gt;YouTube&lt;/a&gt;, and &lt;a href=&quot;https://www.instagram.com/databricksinc/?hl=en&quot;&gt;Instagram&lt;/a&gt;.&lt;br&gt;&lt;br&gt;&lt;strong&gt;Benefits&lt;br&gt;&lt;br&gt;&lt;/strong&gt;&lt;/span&gt;At Databricks, we strive to provide comprehensive benefits and perks that meet the needs of all of our employees. For specific details on the benefits offered in your region click &lt;a href=&quot;https://docs.google.com/document/d/154un3e8Xav4BceOSlcYFZRGEuQI54xMxVydRwQn54eQ/edit?usp=sharing&quot;&gt;here&lt;/a&gt;.&lt;br&gt;&lt;br&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Our Commitment to Diversity and Inclusion&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;At Databricks, we are committed to fostering a diverse and inclusive culture where everyone can excel. We take great care to ensure that our hiring practices are inclusive and meet equal employment opportunity standards. Individuals looking for employment at Databricks are considered without regard to age, color, disability, ethnicity, family or marital status, gender identity or expression, language, national origin, physical and mental ability, political affiliation, race, religion, sexual orientation, socio-economic status, veteran status, and other protected characteristics.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Compliance&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;If access to export-controlled technology or source code is required for performance of job duties, it is within Employer&#39;s discretion whether to apply for a U.S. government license for such positions, and Employer may decline to proceed with an applicant on this basis alone.&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;&lt;/div&gt;",
+  "departments": [
+    {
+      "id": 4105217002,
+      "name": "Field Engineering - Other",
+      "child_ids": [],
+      "parent_id": 4069106002
+    }
+  ],
+  "offices": [
+    {
+      "id": 4005269002,
+      "name": "Paris, France",
+      "location": "Paris, France",
+      "child_ids": [],
+      "parent_id": 4033857002
+    }
+  ],
+  "ai_disclaimer": null,
+  "include_ai_disclaimer": null,
+  "ai_opt_out_request_url": null
+}

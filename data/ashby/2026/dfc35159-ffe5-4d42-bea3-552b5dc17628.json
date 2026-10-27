@@ -114,13 +114,13 @@
         "additionalInformation": "75/25 Split",
         "components": [
           {
-            "id": "b9530c9f-2e45-425e-afdc-2c85d86fc5d5",
-            "summary": "Offers Equity",
-            "compensationType": "EquityPercentage",
-            "interval": "NONE",
-            "currencyCode": null,
-            "minValue": null,
-            "maxValue": null
+            "id": "4b82393a-00a1-44d9-bd02-5bfcc3d29f1d",
+            "summary": "On Target Earnings CA$280,500 – CA$305,250",
+            "compensationType": "Salary",
+            "interval": "1 YEAR",
+            "currencyCode": "CAD",
+            "minValue": 280500,
+            "maxValue": 305250
           },
           {
             "id": "f6b1fe95-d805-46af-a17a-e098be2b6fb2",
@@ -132,13 +132,13 @@
             "maxValue": null
           },
           {
-            "id": "4b82393a-00a1-44d9-bd02-5bfcc3d29f1d",
-            "summary": "On Target Earnings CA$280,500 – CA$305,250",
-            "compensationType": "Salary",
-            "interval": "1 YEAR",
-            "currencyCode": "CAD",
-            "minValue": 280500,
-            "maxValue": 305250
+            "id": "b9530c9f-2e45-425e-afdc-2c85d86fc5d5",
+            "summary": "Offers Equity",
+            "compensationType": "EquityPercentage",
+            "interval": "NONE",
+            "currencyCode": null,
+            "minValue": null,
+            "maxValue": null
           }
         ]
       }

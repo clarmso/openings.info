@@ -54,7 +54,7 @@
     }
   ],
   "id": 8306243,
-  "updated_at": "2026-10-21T11:15:16-04:00",
+  "updated_at": "2026-10-26T05:43:56-04:00",
   "requisition_id": "R12186",
   "title": "Principal Product Manager II, AI/Vectors - Elasticsearch",
   "company_name": "Elastic",
@@ -72,11 +72,23 @@
   ],
   "offices": [
     {
-      "id": 20739,
-      "name": "London, United Kingdom",
-      "location": "5 Southampton Street, London WC2E 7HA",
-      "child_ids": [],
-      "parent_id": 80195
+      "id": 73204,
+      "name": "United States",
+      "location": null,
+      "child_ids": [
+        51927,
+        69277,
+        85933,
+        87403,
+        20729,
+        20746,
+        20743,
+        44935,
+        44931,
+        44937,
+        44936
+      ],
+      "parent_id": 79984
     }
   ],
   "ai_disclaimer": null,

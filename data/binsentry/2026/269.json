@@ -1,0 +1,20 @@
+{
+  "id": "269",
+  "jobOpeningName": "Customer Success Specialist (Swine)",
+  "departmentId": "18756",
+  "departmentLabel": "Operations",
+  "employmentStatusLabel": "Full-Time",
+  "employmentType": null,
+  "location": {
+    "city": null,
+    "state": null
+  },
+  "atsLocation": {
+    "country": "United States",
+    "state": "North Carolina",
+    "province": null,
+    "city": "Charlotte"
+  },
+  "isRemote": null,
+  "locationType": "1"
+}

@@ -31,20 +31,20 @@
         "additionalInformation": null,
         "components": [
           {
-            "id": "5e94a7ee-38e2-4afc-94c3-54d3c1120ea7",
-            "summary": "Offers Bonus",
-            "compensationType": "Bonus",
-            "interval": "1 YEAR",
-            "currencyCode": "USD",
-            "minValue": null,
-            "maxValue": null
-          },
-          {
             "id": "ecd4cade-901d-4ec5-a075-bf8793bef042",
             "summary": "Offers Equity",
             "compensationType": "EquityPercentage",
             "interval": "NONE",
             "currencyCode": null,
+            "minValue": null,
+            "maxValue": null
+          },
+          {
+            "id": "5e94a7ee-38e2-4afc-94c3-54d3c1120ea7",
+            "summary": "Offers Bonus",
+            "compensationType": "Bonus",
+            "interval": "1 YEAR",
+            "currencyCode": "USD",
             "minValue": null,
             "maxValue": null
           },
@@ -66,15 +66,6 @@
         "additionalInformation": null,
         "components": [
           {
-            "id": "9270c967-4d16-4a27-8738-65901e7e39ed",
-            "summary": "Offers Equity",
-            "compensationType": "EquityPercentage",
-            "interval": "NONE",
-            "currencyCode": null,
-            "minValue": null,
-            "maxValue": null
-          },
-          {
             "id": "bcc3df42-ef4a-4aae-a026-8f4c8b262707",
             "summary": "$68K – $92K",
             "compensationType": "Salary",
@@ -82,6 +73,15 @@
             "currencyCode": "USD",
             "minValue": 68000,
             "maxValue": 92000
+          },
+          {
+            "id": "9270c967-4d16-4a27-8738-65901e7e39ed",
+            "summary": "Offers Equity",
+            "compensationType": "EquityPercentage",
+            "interval": "NONE",
+            "currencyCode": null,
+            "minValue": null,
+            "maxValue": null
           },
           {
             "id": "bea56098-5d3c-4d20-a846-f60286ea2419",
@@ -132,13 +132,13 @@
     ],
     "summaryComponents": [
       {
-        "compensationType": "Bonus",
+        "compensationType": "EquityPercentage",
         "minValue": null,
         "maxValue": null,
         "interval": "1 YEAR"
       },
       {
-        "compensationType": "EquityPercentage",
+        "compensationType": "Bonus",
         "minValue": null,
         "maxValue": null,
         "interval": "1 YEAR"

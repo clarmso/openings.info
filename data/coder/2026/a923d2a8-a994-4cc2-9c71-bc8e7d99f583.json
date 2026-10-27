@@ -66,6 +66,15 @@
         "additionalInformation": "SEs are on base salary/30% variable split.",
         "components": [
           {
+            "id": "41b33016-11c1-465b-aca2-59e6f39c2040",
+            "summary": "Offers Commission",
+            "compensationType": "Commission",
+            "interval": "1 YEAR",
+            "currencyCode": "USD",
+            "minValue": null,
+            "maxValue": null
+          },
+          {
             "id": "7b49e3ce-e68f-47c2-b24d-eacf0bb6a8cd",
             "summary": "Offers Equity",
             "compensationType": "EquityPercentage",
@@ -82,15 +91,6 @@
             "currencyCode": "USD",
             "minValue": 180000,
             "maxValue": 244000
-          },
-          {
-            "id": "41b33016-11c1-465b-aca2-59e6f39c2040",
-            "summary": "Offers Commission",
-            "compensationType": "Commission",
-            "interval": "1 YEAR",
-            "currencyCode": "USD",
-            "minValue": null,
-            "maxValue": null
           }
         ]
       },
@@ -101,13 +101,13 @@
         "additionalInformation": "SEs are on base salary/30% variable split.",
         "components": [
           {
-            "id": "d39fe402-4538-4db9-b539-3db9a16d5656",
-            "summary": "Offers Equity",
-            "compensationType": "EquityPercentage",
-            "interval": "NONE",
-            "currencyCode": null,
-            "minValue": null,
-            "maxValue": null
+            "id": "411fc50c-37f8-4cf3-bb91-c49c633d6512",
+            "summary": "Estimated Base Salary $175K – $236K",
+            "compensationType": "Salary",
+            "interval": "1 YEAR",
+            "currencyCode": "USD",
+            "minValue": 175000,
+            "maxValue": 236000
           },
           {
             "id": "08eb39ac-82f9-449a-b677-88911a6bfc9a",
@@ -119,13 +119,13 @@
             "maxValue": null
           },
           {
-            "id": "411fc50c-37f8-4cf3-bb91-c49c633d6512",
-            "summary": "Estimated Base Salary $175K – $236K",
-            "compensationType": "Salary",
-            "interval": "1 YEAR",
-            "currencyCode": "USD",
-            "minValue": 175000,
-            "maxValue": 236000
+            "id": "d39fe402-4538-4db9-b539-3db9a16d5656",
+            "summary": "Offers Equity",
+            "compensationType": "EquityPercentage",
+            "interval": "NONE",
+            "currencyCode": null,
+            "minValue": null,
+            "maxValue": null
           }
         ]
       }

@@ -1,9 +1,7 @@
 {
   "open_ids": [
-    "0566e351-e0f3-4283-a5dd-f1ccd6c2afd2",
     "0c76ce3a-08b7-4329-8599-e4cdd2ae2a53",
     "0d055e51-ecd5-4daf-8295-d89b2dd5a0e3",
-    "0dbddaac-9166-4333-81a4-d2e956dc1a4f",
     "0e75d6ca-522d-4dfc-a360-f34312393259",
     "1181d421-2adb-4586-ac11-853d865965bd",
     "121dc43a-3cce-4786-8daa-75dcc3126b9d",
@@ -16,7 +14,6 @@
     "27ea212e-092c-4567-bb56-fc17a71fcc4c",
     "28537fcc-b49a-4187-a3fe-a2016af68fe4",
     "2ad9ffba-40de-4995-bd62-4af1159eefb7",
-    "2b300ef7-13b9-4f51-82d2-ed6a4ab1aa71",
     "2c5b9b65-9ed0-4c3e-aa13-ff8bf46855de",
     "2e2fd17b-7360-449b-9fd4-de722f49a51f",
     "344a98be-f2db-484d-90c9-6073dd0fb341",
@@ -49,10 +46,7 @@
     "94b85a28-9893-48c5-a2bb-a50175887ef1",
     "96d77b19-2396-4f9e-9513-59471b3e28ed",
     "972c9931-ca55-4263-bc0d-75afc697e3b9",
-    "a79598be-83e8-4e26-a872-2c20e4cc8242",
     "a7bbfda0-f218-4a09-847c-e7eb1c468cc5",
-    "a88bdd3a-c09b-4984-a877-319326d0ef5f",
-    "acc9972c-336a-4a2a-9d75-701c54ccab40",
     "b4a227cd-e023-4966-a809-6291b0061a85",
     "b72d088d-155e-44ca-9e56-e7582659fc0e",
     "bb0dbca7-3d6c-455d-9177-896d5fd6e8eb",
@@ -80,5 +74,5 @@
     "faff149d-3b2a-43e7-bcab-ee4a2f67dda0",
     "fc72f330-7d7b-43ba-8258-b727cb8d6871"
   ],
-  "updated_at": "2026-10-24T08:01:15"
+  "updated_at": "2026-10-27T08:51:10"
 }

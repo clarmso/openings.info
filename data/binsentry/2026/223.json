@@ -1,0 +1,20 @@
+{
+  "id": "223",
+  "jobOpeningName": "Part-Time Field Technician - Quebec City",
+  "departmentId": "18756",
+  "departmentLabel": "Operations",
+  "employmentStatusLabel": "Part-Time",
+  "employmentType": null,
+  "location": {
+    "city": null,
+    "state": null
+  },
+  "atsLocation": {
+    "country": "Canada",
+    "state": "Quebec",
+    "province": null,
+    "city": "Quebec"
+  },
+  "isRemote": null,
+  "locationType": "1"
+}

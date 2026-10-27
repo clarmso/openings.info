@@ -1,0 +1,81 @@
+{
+  "absolute_url": "https://job-boards.greenhouse.io/zscaler/jobs/5275347007",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": false,
+      "requires_processing_consent": false,
+      "requires_retention_consent": false,
+      "retention_period": null,
+      "demographic_data_consent_applies": false
+    }
+  ],
+  "internal_job_id": 4698477007,
+  "location": {
+    "name": "Remote - USA; Santa Clara, California, USA"
+  },
+  "metadata": [
+    {
+      "id": 4203262007,
+      "name": "Employment Type",
+      "value": "Fulltime Employee",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4363861007,
+      "name": "Additional Job Post Location",
+      "value": [],
+      "value_type": "multi_select"
+    },
+    {
+      "id": 4363809007,
+      "name": "Division",
+      "value": "IT",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4391305007,
+      "name": "Geo/Region",
+      "value": "AMS",
+      "value_type": "single_select"
+    }
+  ],
+  "id": 5275347007,
+  "updated_at": "2026-10-26T18:27:20-04:00",
+  "requisition_id": "260810_I78731",
+  "title": "Sr. Staff Applied AI Engineer, GTM",
+  "company_name": "Zscaler",
+  "first_published": "2026-10-26T18:27:03-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;Zscaler (NASDAQ: ZS) accelerates digital transformation so customers can be more agile, efficient, resilient, and secure. The Zscaler Zero Trust Exchange platform protects thousands of customers from cyberattacks and data loss by securely connecting users, devices, and applications in any location. Distributed across 200+ public data centers globally and thousands of private sites at the edge, the SASE-based Zero Trust Exchange is the world’s largest in-line cloud security platform.&lt;/p&gt;\n&lt;p&gt;We believe the future of work is Human + AI and are building an AI-native enterprise where human potential is amplified by machine intelligence to solve the world’s hardest security challenges. Driven by deep customer obsession, we are committed to the mission, outcome, and to each other. We bring these commitments to life through three core behaviors: ownership and collaboration, trust through outcomes and impact, and a challenge culture with ongoing feedback. Ready to make an impact at the company pioneering security transformation in the AI era? Join us at Zscaler.&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;Role&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;&lt;br&gt;&lt;/strong&gt;We are looking for a Sr Staff Applied AI Engineer to join our team. This is an On-site in Santa Clara, California or Remote (US role) role, reporting to the Sr. Manager, Applied AI Engineering in the IT/Data Strategy department. The Sr Staff Applied AI Engineer, GTM is a senior, hands-on AI builder embedded with our go-to-market organization who turns ambiguous, high-stakes ideas into secure, production-grade solutions that move revenue outcomes. Beyond engineering, you will act as a trusted transformation advisor to GTM leaders to run discovery, shape the GTM AI strategy and roadmap, and guide Build/Partner/Buy decisions where success is measured in business terms such as pipeline generated and seller productivity. In this role, you will also improve and expand the technical implementations, standards, and engineering playbooks the rest of the Applied AI team relies on, keeping our deliverables aligned with current best practices.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;What you’ll do (Role Expectations)&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Assist GTM AI strategy from discovery through delivery by embedding with GTM leaders, RevOps, and product owners to map the revenue lifecycle, set the GTM AI roadmap, and advise on feasibility, cost, risk, and Build/Partner/Buy decisions&lt;/li&gt;\n&lt;li&gt;Build and deploy secure, production-grade AI solutions for revenue teams, designing and shipping high-impact use cases using retrieval-augmented generation, structured-data querying, and agentic workflows&lt;/li&gt;\n&lt;li&gt;Run each solution like a product tied to revenue, building monitoring and evaluation frameworks, implementing security controls for customer and commercial data, and establishing ROI against GTM KPIs&lt;/li&gt;\n&lt;li&gt;Drive adoption and change across the field by partnering with Sales Enablement, GTM Operations, and frontline managers to roll out solutions, train users, and establish tight feedback loops based on how the field actually works&lt;/li&gt;\n&lt;li&gt;Set the standards that multiply the team, improving and expanding reusable building blocks like retrieval pipelines, reference architectures, GTM data connectors, and engineering playbooks while mentoring other engineers&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;Who You Are (Success Profile)&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;You thrive in ambiguity, comfortably building the path as you walk it and seeing dynamic environments as the raw material to build something meaningful.&lt;/li&gt;\n&lt;li&gt;You act like an owner, operating with high integrity and a strong bias for action while navigating seamlessly between high-level strategy and hands-on execution.&lt;/li&gt;\n&lt;li&gt;You are a high-trust collaborator who is ambitious for the team, embracing ongoing candor, feedback, and mutual respect as the fastest ways to earn trust.&lt;/li&gt;\n&lt;li&gt;You are driven by innovation, bringing a deep curiosity for solving complex technical challenges and a desire to build secure, scalable, and transformative systems.&lt;/li&gt;\n&lt;li&gt;You are a pragmatic builder obsessed with creating, iterating, and shipping value to users quickly without sacrificing technical excellence.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;What We’re Looking for (Minimum Qualifications)&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;5+ years of professional software engineering experience, including 3+ years working directly on AI and/or ML projects&lt;/li&gt;\n&lt;li&gt;Direct experience driving both AI strategy and execution for GTM functions (Sales, Marketing, Partner Enablement), including shipping solutions used by customer-facing teams with measurable impact on GTM metrics, and fluency in the revenue lifecycle&lt;/li&gt;\n&lt;li&gt;Hands-on experience across most of the components that make up modern AI solutions, including retrieval methods, reusable skill development, agentic orchestration, connecting to tools and data through the Model Context Protocol (MCP), and agent-to-agent (A2A) frameworks&lt;/li&gt;\n&lt;li&gt;A track record of working directly with GTM leaders on ambiguous problems, running discovery, converting unclear expectations into a concrete plan, and communicating trade-offs, risk, and architecture to both technical and non-technical audiences&lt;/li&gt;\n&lt;li&gt;Experience securing AI systems and the data they access, including least-privilege access and defending against risks such as prompt injection, data leakage, and unsafe or non-compliant outputs&lt;/li&gt;\n&lt;li&gt;Strong engineering skills with experience deploying and running AI at scale, proficiency in Python, comfort integrating across GTM systems of record, and experience releasing and monitoring AI systems on a major cloud platform&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;What Will Make You Stand Out (Preferred Qualifications)&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Proven ability to leverage AI technologies and workflows to drive measurable operational efficiency&lt;/li&gt;\n&lt;li&gt;GTM experience at a B2B enterprise SaaS or cybersecurity company with complex, multi-motion sales, with a prior role in RevOps, Sales Engineering, or GTM Strategy being a strong plus&lt;/li&gt;\n&lt;li&gt;Direct experience with graph-based knowledge systems and long-term agent memory, including account and relationship graphs, GraphRAG, or persistent context across an account’s history&lt;/li&gt;\n&lt;li&gt;Experience building automated evaluation frameworks, such as LLM-as-judge or regression testing for AI quality, ideally paired with A/B or holdout experiments that measure business lift in the field&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;#LI-DY1 #LI-SantaClara&lt;/p&gt;&lt;div class=&quot;content-pay-transparency&quot;&gt;&lt;div class=&quot;pay-input&quot;&gt;&lt;div class=&quot;description&quot;&gt;&lt;p&gt;Zscaler’s salary ranges are benchmarked and are determined by role and level. The range displayed on each job posting reflects the minimum and maximum target for new hire salaries for the position across all US locations and could be higher or lower based on a multitude of factors, including job-related skills, experience, and relevant education or training.&lt;/p&gt;\n&lt;p&gt;The base salary range listed for this full-time position excludes commission/ bonus/ equity (if applicable) + benefits.&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;title&quot;&gt;Base Pay Range&lt;/div&gt;&lt;div class=&quot;pay-range&quot;&gt;&lt;span&gt;$180,000&lt;/span&gt;&lt;span class=&quot;divider&quot;&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;$225,000 USD&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p data-pm-slice=&quot;1 3 []&quot;&gt;At Zscaler, we are committed to building a team that reflects the communities we serve and the customers we work with. We foster an inclusive environment that values all backgrounds and perspectives, emphasizing collaboration and belonging. Join us in our mission to make doing business seamless and secure.&lt;/p&gt;\n&lt;p&gt;Our Benefits program is one of the most important ways we support our employees. Zscaler proudly offers comprehensive and inclusive benefits to meet the diverse needs of our employees and their families throughout their life stages, including:&lt;/p&gt;\n&lt;div class=&quot;has-nudge&quot; data-nudge-id=&quot;5eb9419b-6a4d-4451-bfa6-e2eb96084be0&quot;&gt;\n&lt;ul&gt;\n&lt;li&gt;Various health plans&lt;/li&gt;\n&lt;li&gt;Time off plans for vacation and sick time&lt;/li&gt;\n&lt;li&gt;Parental leave options&lt;/li&gt;\n&lt;li&gt;Retirement options&lt;/li&gt;\n&lt;li&gt;Education reimbursement&lt;/li&gt;\n&lt;li&gt;In-office perks, and more!&lt;/li&gt;\n&lt;/ul&gt;\n&lt;div class=&quot;has-nudge&quot; data-nudge-id=&quot;5eb9419b-6a4d-4451-bfa6-e2eb96084be0&quot;&gt;\n&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;Learn more about Zscaler&#39;s hybrid working model and benefits&amp;nbsp;&lt;a href=&quot;https://www.zscaler.com/candidate-resource-hub&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;\n&lt;/div&gt;\n&lt;/div&gt;\n&lt;p&gt;By applying for this role, you adhere to applicable laws, regulations, and Zscaler policies, including those related to security and privacy standards and guidelines.&lt;/p&gt;\n&lt;p class=&quot;p1&quot;&gt;Zscaler is committed to providing equal employment opportunities to all individuals. We strive to create a workplace where employees are treated with respect and have the chance to succeed. All qualified applicants will be considered for employment without regard to race, color, religion, sex (including pregnancy or related medical conditions), age, national origin, sexual orientation, gender identity or expression, genetic information, disability status, protected veteran status, or any other characteristic protected by federal, state, or local laws. &lt;em&gt;See more information by clicking on the &lt;/em&gt;&lt;a href=&quot;https://www.eeoc.gov/sites/default/files/2023-06/22-088_EEOC_KnowYourRights6.12ScreenRdr.pdf&quot;&gt;&lt;em&gt;Know Your Rights: Workplace Discrimination is Illegal &lt;/em&gt;&lt;/a&gt;&lt;em&gt;link.&lt;/em&gt;&lt;/p&gt;\n&lt;p&gt;Pay Transparency&lt;/p&gt;\n&lt;p&gt;Zscaler complies with all applicable federal, state, and local pay transparency rules.&lt;/p&gt;\n&lt;p&gt;Zscaler is committed to providing reasonable support (called accommodations or adjustments) in our recruiting processes for candidates who are differently abled, have long term conditions, mental health conditions or sincerely held religious beliefs, or who are neurodivergent or require pregnancy-related support.&lt;/p&gt;&lt;/div&gt;",
+  "departments": [
+    {
+      "id": 4018616007,
+      "name": "IT Data Strategy",
+      "child_ids": [
+        4018624007
+      ],
+      "parent_id": 4018611007
+    }
+  ],
+  "offices": [
+    {
+      "id": 4058983007,
+      "name": "Office - Santa Clara, USA",
+      "location": "Santa Clara, California, USA",
+      "child_ids": [],
+      "parent_id": 4007290007
+    },
+    {
+      "id": 4007362007,
+      "name": "Remote - USA",
+      "location": "Remote - USA",
+      "child_ids": [],
+      "parent_id": 4007290007
+    }
+  ],
+  "ai_disclaimer": null,
+  "include_ai_disclaimer": null,
+  "ai_opt_out_request_url": null
+}

@@ -35,13 +35,13 @@
         "additionalInformation": null,
         "components": [
           {
-            "id": "95f28a63-61cc-4800-b77d-01d48a879216",
-            "summary": "$133K – $180K",
-            "compensationType": "Salary",
+            "id": "03773601-d5b5-46f8-93da-6c07bcac45d8",
+            "summary": "Offers Bonus",
+            "compensationType": "Bonus",
             "interval": "1 YEAR",
             "currencyCode": "USD",
-            "minValue": 133000,
-            "maxValue": 180000
+            "minValue": null,
+            "maxValue": null
           },
           {
             "id": "08e1439e-972d-40e5-8881-c094e3569e98",
@@ -53,24 +53,24 @@
             "maxValue": null
           },
           {
-            "id": "03773601-d5b5-46f8-93da-6c07bcac45d8",
-            "summary": "Offers Bonus",
-            "compensationType": "Bonus",
+            "id": "95f28a63-61cc-4800-b77d-01d48a879216",
+            "summary": "$133K – $180K",
+            "compensationType": "Salary",
             "interval": "1 YEAR",
             "currencyCode": "USD",
-            "minValue": null,
-            "maxValue": null
+            "minValue": 133000,
+            "maxValue": 180000
           }
         ]
       }
     ],
     "summaryComponents": [
       {
-        "compensationType": "Salary",
+        "compensationType": "Bonus",
         "interval": "1 YEAR",
         "currencyCode": "USD",
-        "minValue": 133000,
-        "maxValue": 180000
+        "minValue": null,
+        "maxValue": null
       },
       {
         "compensationType": "EquityPercentage",
@@ -80,11 +80,11 @@
         "maxValue": null
       },
       {
-        "compensationType": "Bonus",
+        "compensationType": "Salary",
         "interval": "1 YEAR",
         "currencyCode": "USD",
-        "minValue": null,
-        "maxValue": null
+        "minValue": 133000,
+        "maxValue": 180000
       }
     ]
   }

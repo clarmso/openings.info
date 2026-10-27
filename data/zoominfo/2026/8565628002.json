@@ -41,7 +41,7 @@
     }
   ],
   "id": 8565628002,
-  "updated_at": "2026-10-22T17:47:14-04:00",
+  "updated_at": "2026-10-26T18:17:08-04:00",
   "requisition_id": "JR107649",
   "title": "Senior Software Engineer - Platform Integrations ",
   "company_name": "ZoomInfo Technologies LLC",
@@ -59,8 +59,8 @@
   ],
   "offices": [
     {
-      "id": 4089777002,
-      "name": "Remote-US-MD",
+      "id": 4085834002,
+      "name": "Remote-US-WA",
       "location": null,
       "child_ids": [],
       "parent_id": null

@@ -27,11 +27,11 @@
   "salaryRange": {
     "currency": "USD",
     "min": 48000,
-    "max": 58000,
+    "max": 65000,
     "interval": "per-year-salary"
   },
-  "salaryDescription": "<div>Compensation: Base pay is $48,000-$58,000 annually, commensurate with experience, with 10% bonus paid annually, and equity. Voltus also offers a range of benefits including: unlimited leave for full-time employees, parental leave, and a comprehensive benefits package to promote health, wellness, and financial security.</div>\n<div>&nbsp;</div>",
-  "salaryDescriptionPlain": "Compensation: Base pay is $48,000-$58,000 annually, commensurate with experience, with 10% bonus paid annually, and equity. Voltus also offers a range of benefits including: unlimited leave for full-time employees, parental leave, and a comprehensive benefits package to promote health, wellness, and financial security.\n \n",
+  "salaryDescription": "<div>Compensation: Base pay is $48,000-$65,000 annually, commensurate with experience, with 10% bonus paid annually, and equity. Voltus also offers a range of benefits including: unlimited leave for full-time employees, parental leave, and a comprehensive benefits package to promote health, wellness, and financial security.</div>\n<div>&nbsp;</div>",
+  "salaryDescriptionPlain": "Compensation: Base pay is $48,000-$65,000 annually, commensurate with experience, with 10% bonus paid annually, and equity. Voltus also offers a range of benefits including: unlimited leave for full-time employees, parental leave, and a comprehensive benefits package to promote health, wellness, and financial security.\n \n",
   "text": "Engineering Technician",
   "country": "US",
   "workplaceType": "onsite",

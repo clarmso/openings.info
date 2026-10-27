@@ -12,7 +12,7 @@
   ],
   "internal_job_id": 4567192008,
   "location": {
-    "name": "San Francisco, CA | New York City, NY | Washington, DC"
+    "name": "Boston, MA; San Francisco, CA | Seattle, WA | New York City, NY | Washington, DC"
   },
   "metadata": [
     {
@@ -23,7 +23,7 @@
     }
   ],
   "id": 5462881008,
-  "updated_at": "2026-10-24T00:26:19-04:00",
+  "updated_at": "2026-10-24T22:33:03-04:00",
   "requisition_id": "PIP-267929",
   "title": "Incident Manager, Safeguards",
   "company_name": "Anthropic",

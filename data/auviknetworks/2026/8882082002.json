@@ -7,7 +7,7 @@
       "requires_processing_consent": false,
       "requires_retention_consent": false,
       "retention_period": null,
-      "demographic_data_consent_applies": true
+      "demographic_data_consent_applies": false
     }
   ],
   "internal_job_id": 6556925002,
@@ -16,7 +16,7 @@
   },
   "metadata": null,
   "id": 8882082002,
-  "updated_at": "2026-10-09T14:54:29-04:00",
+  "updated_at": "2026-10-26T16:12:49-04:00",
   "requisition_id": null,
   "title": "Manager, Knowledge & Enablement, Global Support",
   "company_name": "Auvik Networks",

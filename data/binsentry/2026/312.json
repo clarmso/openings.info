@@ -1,0 +1,20 @@
+{
+  "id": "312",
+  "jobOpeningName": " Accountant",
+  "departmentId": "18924",
+  "departmentLabel": "Administration",
+  "employmentStatusLabel": "Full-Time",
+  "employmentType": null,
+  "location": {
+    "city": "Kitchener",
+    "state": "Ontario"
+  },
+  "atsLocation": {
+    "country": null,
+    "state": null,
+    "province": null,
+    "city": null
+  },
+  "isRemote": null,
+  "locationType": "2"
+}

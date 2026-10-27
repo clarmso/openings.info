@@ -12,7 +12,7 @@
   ],
   "internal_job_id": 4667938007,
   "location": {
-    "name": "Bangalore, IND"
+    "name": "Bangalore, IND; Hyderabad, IND; Mohali, IND; Pune, IND"
   },
   "metadata": [
     {
@@ -41,9 +41,9 @@
     }
   ],
   "id": 5210725007,
-  "updated_at": "2026-10-14T23:47:34-04:00",
+  "updated_at": "2026-10-27T01:36:52-04:00",
   "requisition_id": "260709_I72461",
-  "title": "Senior Staff Software Development Engineer - Rust + Windows/ Networking + (C/C++)",
+  "title": "Senior Staff Software Development Engineer - Rust + Networking",
   "company_name": "Zscaler",
   "first_published": "2026-09-17T05:45:21-04:00",
   "language": "en",

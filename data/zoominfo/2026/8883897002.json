@@ -1,0 +1,72 @@
+{
+  "absolute_url": "https://www.zoominfo.com/careers?gh_jid=8883897002",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": false,
+      "requires_processing_consent": false,
+      "requires_retention_consent": false,
+      "retention_period": null,
+      "demographic_data_consent_applies": false
+    }
+  ],
+  "internal_job_id": 6557774002,
+  "location": {
+    "name": "Chennai, Tamil Nadu, India"
+  },
+  "metadata": [
+    {
+      "id": 24710929002,
+      "name": "Job Family Group",
+      "value": "Engineering",
+      "value_type": "single_select"
+    },
+    {
+      "id": 24711071002,
+      "name": "Time Type",
+      "value": "Full time",
+      "value_type": "single_select"
+    },
+    {
+      "id": 101751589002,
+      "name": "Work Shift",
+      "value": "General Shift (09:00 AM - 06:00 PM, 10:00 AM - 07:00 PM, 11:00 AM - 08:00 PM)",
+      "value_type": "short_text"
+    },
+    {
+      "id": 4203585002,
+      "name": "LEGACY - Employment Type",
+      "value": null,
+      "value_type": "single_select"
+    }
+  ],
+  "id": 8883897002,
+  "updated_at": "2026-10-26T12:50:32-04:00",
+  "requisition_id": "JR108236",
+  "title": "Manager, Software Engineering",
+  "company_name": "ZoomInfo Technologies LLC",
+  "first_published": "2026-10-26T12:50:32-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;ZoomInfo is where careers accelerate. We move fast, think boldly, and empower you to do the best work of your life. You’ll be surrounded by teammates who care deeply, challenge each other, and celebrate wins. With tools that amplify your impact and a culture that backs your ambition, you won’t just contribute. You’ll make things happen fast.&lt;/p&gt;&lt;/div&gt;&lt;p&gt;At ZoomInfo we encourage creativity, value innovation, demand teamwork, expect accountability and cherish results. If you are collaborative, take initiative, and get stuff done we want to talk to you! We have high aspirations for the company and are looking for the right people to help fulfill the dream. We strive to continually improve every aspect of the company and use cutting-edge technologies and processes to delight our customers and rapidly increase revenue.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;About The Role:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;&lt;strong&gt;Enterprise Apps AI Center of Excellence (CoE) &lt;/strong&gt;is a team that operates with the agility of a startup to generate substantial value for Enterprise organizations (Marketing, Sales, Finance and HR) through Artificial Intelligence&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;Going beyond simple efficiency improvements, we focus on building innovative AI solutions that unlock new capabilities and insights for the Enterprise Applications organization. Our mission is to transform business processes, enhance strategic decision-making, and drive significant value using advanced AI applications. The ultimate goal is to empower the enterprise business applications users with cutting-edge AI, enabling more strategic and effective operations.&lt;/li&gt;\n&lt;li&gt;As the Manager, Software Engineering, you will lead our team in conceptualizing, developing, and deploying impactful AI/ML solutions that revolutionize enterprise business processes. You will be accountable for the entire AI solution lifecycle – from ideation and requirements gathering to development, implementation, and ongoing support. This role involves supporting technically a geographically diverse team located in the US and India and managing the team.&amp;nbsp;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;What You&#39;ll Do:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;&lt;strong&gt;Hands-on People Manager:&lt;/strong&gt; Working hands-on on GenAI and agentic AI (LLM agents, tools, MCP, RAG, evaluation frameworks), ML/Deep Learning along with managing and mentoring the team.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Architect AI solutions:&lt;/strong&gt; Design AI applications, agentic systems, and software platforms that transform business processes across Enterprise Applications (Marketing, Sales, Finance and HR)&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Build and deploy agentic systems in production:&lt;/strong&gt; Design, code, and ship multi-agent workflows, RAG pipelines, tool calling, and AI-powered automation using modern GenAI frameworks, working with frontier models (GPT, Claude, Gemini).&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Integrate AI into enterprise systems:&lt;/strong&gt; Connect AI solutions to external systems using REST APIs, MCP (Model Context Protocol), and tools.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Set quality and safety standards:&lt;/strong&gt; Build LLM evaluation frameworks, observability, and guardrails, and apply responsible AI and security practices.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Turn messy data into AI-ready data:&lt;/strong&gt; Work with large-scale, unstructured, and messy data (documents, PDFs, emails, tickets, spreadsheets, logs), including data cleaning, parsing, chunking, and building reliable data pipelines to feed GenAI and RAG systems.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Deliver business impact:&lt;/strong&gt; Partner with business leaders to identify high-value AI use cases, make build-vs-buy decisions, measure ROI, and present proposals and results to executives.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Lead AI research and initiatives:&lt;/strong&gt; Proactively research AI/ML advancements and industry trends, and lead AI/ML and data initiatives to identify business opportunities and critical use cases, delivering end-to-end AI solutions for enterprise applications.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Educate and enable:&lt;/strong&gt; Able to educate engineers and business stakeholders on GenAI concepts, capabilities, and limitations, through technical sessions, documentation, and hands-on enablement.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Mentor engineers:&lt;/strong&gt; Coach junior and mid-level engineers through code reviews, design reviews, and pairing, supporting their career growth and ownership of projects end to end.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;What You Bring:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;&lt;strong&gt;Bachelor&#39;s or Master&#39;s degree&lt;/strong&gt; in Computer Science, Software Engineering, or an equivalent quantitative field (or equivalent experience).&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Strong engineering fundamentals&lt;/strong&gt; with hands-on depth in at least one backend language (Python, Java, JavaScript/TypeScript, or C++), and 10+ years of software engineering experience.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;People Management and Mentorship with technical hands-on experience (GenAI and agentic AI).&lt;/strong&gt;&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Production GenAI experience:&lt;/strong&gt; built and deployed agentic systems and GenAI applications in production, including multi-agent workflows, RAG pipelines, tool calling, and automation, using any GenAI Framework.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Strong expertise in LLMs, Transformers, and modern GenAI&lt;/strong&gt;, including fine-tuning, structured outputs, multi-agent orchestration, and model selection across frontier models (GPT, Claude, Gemini), balancing quality, latency, and cost.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Solid foundation in machine learning and deep learning&lt;/strong&gt;, including neural network fundamentals, NLP, and core ML concepts.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Proven technical leadership and mentorship:&lt;/strong&gt; led or technically guided engineers, coached juniors, and delivered through others.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Strong SDLC understanding:&lt;/strong&gt; design, coding standards, testing, CI/CD, and deployment.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Excellent communication:&lt;/strong&gt; able to explain technical concepts to executives and present proposals clearly.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;#LI-PM1&lt;/p&gt;\n&lt;p&gt;#LI-Hybrid&lt;/p&gt;\n&lt;p&gt;&lt;/p&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;&lt;strong&gt;About us:&lt;/strong&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;ZoomInfo (NASDAQ: GTM), the all-in-one AI GTM platform, enables sales, marketing, and customer success teams to execute their go-to-market strategy with confidence. Powered by the industry&#39;s most comprehensive B2B data, including more than 100 million companies, 500 million contacts, and billions of signals, ZoomInfo delivers the intelligence, automation, and integrations that modern revenue teams need to identify, engage, and convert their best buyers.&lt;/p&gt;\n&lt;p&gt;ZoomInfo is committed to protecting your privacy when you apply for jobs with us. Please review our Job Applicant &lt;a href=&quot;https://drive.google.com/file/d/1yiG-k0YX_sW10PiJk_xliDc3W-veJCrK/view?usp=drive_link&quot; target=&quot;_blank&quot;&gt;Privacy Notice&lt;/a&gt; for more details on how we handle your personal information.&lt;/p&gt;\n&lt;p&gt;ZoomInfo may use a software-based assessment as part of the recruitment process. More information about this tool, including the results of the most recent bias audit, is available &lt;a href=&quot;https://www.zoominfo.com/legal/nyc-local-law-144-notice&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;\n&lt;p&gt;ZoomInfo is proud to be an equal opportunity employer, hiring based on qualifications, merit, and business needs, and does not discriminate based on protected status. We welcome all applicants and are committed to providing equal employment opportunities regardless of sex, race, age, color, national origin, sexual orientation, gender identity, marital status, disability status, religion, protected military or veteran status, medical condition, or any other characteristic protected by applicable law. We also consider qualified candidates with criminal histories in accordance with legal requirements.&lt;/p&gt;\n&lt;p&gt;For Massachusetts Applicants: It is unlawful in Massachusetts to require or administer a lie detector test as a condition of employment or continued employment. An employer who violates this law shall be subject to criminal penalties and civil liability. ZoomInfo does not administer lie detector tests to applicants in any location.&lt;/p&gt;&lt;/div&gt;",
+  "departments": [
+    {
+      "id": 4074815002,
+      "name": "898 Corporate Engineering - G&A - Enterprise Technologies",
+      "child_ids": [],
+      "parent_id": null
+    }
+  ],
+  "offices": [
+    {
+      "id": 4042474002,
+      "name": "Chennai, Tamil Nadu, India",
+      "location": "Chennai, Tamil Nadu, India",
+      "child_ids": [],
+      "parent_id": 4141596002
+    }
+  ],
+  "ai_disclaimer": null,
+  "include_ai_disclaimer": null,
+  "ai_opt_out_request_url": null
+}

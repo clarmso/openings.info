@@ -1,0 +1,20 @@
+{
+  "id": "279",
+  "jobOpeningName": "Electronic Assembler ",
+  "departmentId": "18756",
+  "departmentLabel": "Operations",
+  "employmentStatusLabel": "Full-Time",
+  "employmentType": null,
+  "location": {
+    "city": "Kitchener",
+    "state": "Ontario"
+  },
+  "atsLocation": {
+    "country": null,
+    "state": null,
+    "province": null,
+    "city": null
+  },
+  "isRemote": null,
+  "locationType": "0"
+}

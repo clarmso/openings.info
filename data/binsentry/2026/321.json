@@ -1,0 +1,20 @@
+{
+  "id": "321",
+  "jobOpeningName": "IT Manager",
+  "departmentId": "18929",
+  "departmentLabel": "IT",
+  "employmentStatusLabel": "Full-Time",
+  "employmentType": null,
+  "location": {
+    "city": "Kitchener",
+    "state": "Ontario"
+  },
+  "atsLocation": {
+    "country": null,
+    "state": null,
+    "province": null,
+    "city": null
+  },
+  "isRemote": null,
+  "locationType": "0"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "308",
+  "jobOpeningName": "Part-Time Field Technician - Broadway / New Market / Moorefield, Virginia",
+  "departmentId": "18756",
+  "departmentLabel": "Operations",
+  "employmentStatusLabel": "Part-Time",
+  "employmentType": null,
+  "location": {
+    "city": null,
+    "state": null
+  },
+  "atsLocation": {
+    "country": "United States",
+    "state": "Virginia",
+    "province": null,
+    "city": "Broadway"
+  },
+  "isRemote": null,
+  "locationType": "1"
+}

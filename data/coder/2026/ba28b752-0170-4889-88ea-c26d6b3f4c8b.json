@@ -7,7 +7,7 @@
   "location": "New York City",
   "shouldDisplayCompensationOnJobPostings": true,
   "secondaryLocations": [],
-  "publishedAt": "2026-07-28T21:18:14.735+00:00",
+  "publishedAt": "2026-10-26T17:59:03.355+00:00",
   "isListed": true,
   "isRemote": true,
   "workplaceType": "Remote",
@@ -33,6 +33,15 @@
         "additionalInformation": null,
         "components": [
           {
+            "id": "43cb5c98-02a5-4342-beca-1c36c5a552ff",
+            "summary": "$110K – $149K",
+            "compensationType": "Salary",
+            "interval": "1 YEAR",
+            "currencyCode": "USD",
+            "minValue": 110000,
+            "maxValue": 149000
+          },
+          {
             "id": "19d51211-eca6-40f2-8a94-e9c41d8e415d",
             "summary": "Offers Bonus",
             "compensationType": "Bonus",
@@ -49,20 +58,18 @@
             "currencyCode": null,
             "minValue": null,
             "maxValue": null
-          },
-          {
-            "id": "43cb5c98-02a5-4342-beca-1c36c5a552ff",
-            "summary": "$110K – $149K",
-            "compensationType": "Salary",
-            "interval": "1 YEAR",
-            "currencyCode": "USD",
-            "minValue": 110000,
-            "maxValue": 149000
           }
         ]
       }
     ],
     "summaryComponents": [
+      {
+        "compensationType": "Salary",
+        "interval": "1 YEAR",
+        "currencyCode": "USD",
+        "minValue": 110000,
+        "maxValue": 149000
+      },
       {
         "compensationType": "Bonus",
         "interval": "1 YEAR",
@@ -76,13 +83,6 @@
         "currencyCode": null,
         "minValue": null,
         "maxValue": null
-      },
-      {
-        "compensationType": "Salary",
-        "interval": "1 YEAR",
-        "currencyCode": "USD",
-        "minValue": 110000,
-        "maxValue": 149000
       }
     ]
   }

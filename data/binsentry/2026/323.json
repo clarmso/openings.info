@@ -1,0 +1,20 @@
+{
+  "id": "323",
+  "jobOpeningName": "Electronics Engineer",
+  "departmentId": "18925",
+  "departmentLabel": "Hardware",
+  "employmentStatusLabel": "Full-Time",
+  "employmentType": null,
+  "location": {
+    "city": "Kitchener",
+    "state": "Ontario"
+  },
+  "atsLocation": {
+    "country": null,
+    "state": null,
+    "province": null,
+    "city": null
+  },
+  "isRemote": null,
+  "locationType": "0"
+}

@@ -43,14 +43,14 @@
       "id": 4137836,
       "name": "Working Model Eligibility",
       "value": [
-        "2-Flexible"
+        "3-Fully Remote"
       ],
       "value_type": "multi_select"
     },
     {
       "id": 4914029,
       "name": "Job Level",
-      "value": "Senior Manager",
+      "value": "People Manager",
       "value_type": "single_select"
     },
     {
@@ -117,7 +117,7 @@
     }
   ],
   "id": 8023944,
-  "updated_at": "2026-10-23T11:31:54-04:00",
+  "updated_at": "2026-10-26T15:00:33-04:00",
   "requisition_id": "2273478590",
   "title": "Senior Manager, Brand Design",
   "company_name": "MongoDB",
@@ -135,9 +135,9 @@
   ],
   "offices": [
     {
-      "id": 4044,
-      "name": "Los Angeles ",
-      "location": "Los Angeles, CA, United States",
+      "id": 95782,
+      "name": "Remote Arkansas",
+      "location": "Arkansas, United States",
       "child_ids": [],
       "parent_id": 23657
     }

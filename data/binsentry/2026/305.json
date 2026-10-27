@@ -1,0 +1,20 @@
+{
+  "id": "305",
+  "jobOpeningName": "Part-Time Field Technician - South Bruce / Hanover / North Huron, Ontario",
+  "departmentId": "18756",
+  "departmentLabel": "Operations",
+  "employmentStatusLabel": "Part-Time",
+  "employmentType": null,
+  "location": {
+    "city": null,
+    "state": null
+  },
+  "atsLocation": {
+    "country": "Canada",
+    "state": "Ontario",
+    "province": null,
+    "city": "South Bruce/Hanover/North Huron"
+  },
+  "isRemote": null,
+  "locationType": "1"
+}

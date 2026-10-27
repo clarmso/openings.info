@@ -36,7 +36,7 @@
     {
       "id": 4914027,
       "name": "Region",
-      "value": "North America",
+      "value": "EMEA",
       "value_type": "single_select"
     },
     {
@@ -80,20 +80,16 @@
     {
       "id": 5525816,
       "name": "Other Large Market Budgeted Salary",
-      "value": {
-        "unit": "USD",
-        "max_value": "157000.0",
-        "min_value": "110000.0"
-      },
+      "value": null,
       "value_type": "currency_range"
     },
     {
       "id": 13324394,
       "name": "Job Post Range (United States)",
       "value": {
-        "unit": "USD",
-        "max_value": "204000.0",
-        "min_value": "104000.0"
+        "unit": "EUR",
+        "max_value": "0.0",
+        "min_value": "0.0"
       },
       "value_type": "currency_range"
     },
@@ -101,7 +97,7 @@
       "id": 40497768,
       "name": "Job Post Range (Canada)",
       "value": {
-        "unit": "USD",
+        "unit": "EUR",
         "max_value": "0.0",
         "min_value": "0.0"
       },
@@ -121,7 +117,7 @@
     }
   ],
   "id": 8190019,
-  "updated_at": "2026-10-23T11:31:54-04:00",
+  "updated_at": "2026-10-26T11:00:23-04:00",
   "requisition_id": "3273544074",
   "title": "Senior Manager, Event Operations",
   "company_name": "MongoDB",
@@ -139,11 +135,11 @@
   ],
   "offices": [
     {
-      "id": 3964,
-      "name": "Austin",
-      "location": "Austin, TX, United States",
+      "id": 3962,
+      "name": "Dublin",
+      "location": "Dublin, Ireland",
       "child_ids": [],
-      "parent_id": 23657
+      "parent_id": 23658
     }
   ],
   "ai_disclaimer": null,

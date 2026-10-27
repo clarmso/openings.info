@@ -64,12 +64,12 @@
     {
       "id": 58619948,
       "name": "IC or MG",
-      "value": null,
+      "value": "IC",
       "value_type": "single_select"
     }
   ],
   "id": 8197852,
-  "updated_at": "2026-10-19T20:05:26-04:00",
+  "updated_at": "2026-10-26T12:25:29-04:00",
   "requisition_id": "R20966",
   "title": "Product Manager ll - Code Intelligence",
   "company_name": "Datadog",
@@ -86,6 +86,13 @@
     }
   ],
   "offices": [
+    {
+      "id": 5455,
+      "name": "Boston",
+      "location": "Boston, MA, United States",
+      "child_ids": [],
+      "parent_id": 78117
+    },
     {
       "id": 5664,
       "name": "New York",

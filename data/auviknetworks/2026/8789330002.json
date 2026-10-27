@@ -7,7 +7,7 @@
       "requires_processing_consent": false,
       "requires_retention_consent": false,
       "retention_period": null,
-      "demographic_data_consent_applies": true
+      "demographic_data_consent_applies": false
     }
   ],
   "internal_job_id": 6516351002,
@@ -16,7 +16,7 @@
   },
   "metadata": null,
   "id": 8789330002,
-  "updated_at": "2026-09-25T01:01:26-04:00",
+  "updated_at": "2026-10-26T16:08:17-04:00",
   "requisition_id": null,
   "title": "Account Executive",
   "company_name": "Auvik Networks",

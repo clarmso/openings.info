@@ -23,7 +23,7 @@
     }
   ],
   "id": 5440477008,
-  "updated_at": "2026-10-08T12:10:44-04:00",
+  "updated_at": "2026-10-26T18:34:42-04:00",
   "requisition_id": "PIP-267793",
   "title": "Staff + Software Security Engineer, Labs",
   "company_name": "Anthropic",
@@ -41,9 +41,9 @@
   ],
   "offices": [
     {
-      "id": 4001220008,
-      "name": "London, UK",
-      "location": "London, England, United Kingdom",
+      "id": 4001218008,
+      "name": "San Francisco, CA",
+      "location": "San Francisco, California, United States",
       "child_ids": [],
       "parent_id": null
     }

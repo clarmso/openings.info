@@ -125,7 +125,7 @@
     }
   ],
   "id": 8209134,
-  "updated_at": "2026-10-23T20:00:06-04:00",
+  "updated_at": "2026-10-26T18:40:04-04:00",
   "requisition_id": "426438",
   "title": "2027 - Software Engineering Intern, AMER",
   "company_name": "MongoDB",
@@ -157,23 +157,9 @@
       "parent_id": 23657
     },
     {
-      "id": 3961,
-      "name": "Palo Alto",
-      "location": "Palo Alto, CA, United States",
-      "child_ids": [],
-      "parent_id": 23657
-    },
-    {
       "id": 17687,
       "name": "San Francisco ",
       "location": "San Francisco, CA, United States",
-      "child_ids": [],
-      "parent_id": 23657
-    },
-    {
-      "id": 4040,
-      "name": "Seattle",
-      "location": "Seattle, WA, United States",
       "child_ids": [],
       "parent_id": 23657
     }

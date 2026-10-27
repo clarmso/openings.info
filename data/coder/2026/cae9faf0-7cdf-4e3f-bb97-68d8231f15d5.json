@@ -33,13 +33,13 @@
         "additionalInformation": null,
         "components": [
           {
-            "id": "c3ce668a-9ac1-4761-994a-10b99ca5e04b",
-            "summary": "£56K – £75K",
-            "compensationType": "Salary",
-            "interval": "1 YEAR",
-            "currencyCode": "GBP",
-            "minValue": 56000,
-            "maxValue": 75000
+            "id": "06145215-f3b8-467c-96a3-4b2e63de6804",
+            "summary": "Offers Equity",
+            "compensationType": "EquityPercentage",
+            "interval": "NONE",
+            "currencyCode": null,
+            "minValue": null,
+            "maxValue": null
           },
           {
             "id": "0aa81b45-c373-4f52-aa4c-aeb69aa71f67",
@@ -51,24 +51,24 @@
             "maxValue": null
           },
           {
-            "id": "06145215-f3b8-467c-96a3-4b2e63de6804",
-            "summary": "Offers Equity",
-            "compensationType": "EquityPercentage",
-            "interval": "NONE",
-            "currencyCode": null,
-            "minValue": null,
-            "maxValue": null
+            "id": "c3ce668a-9ac1-4761-994a-10b99ca5e04b",
+            "summary": "£56K – £75K",
+            "compensationType": "Salary",
+            "interval": "1 YEAR",
+            "currencyCode": "GBP",
+            "minValue": 56000,
+            "maxValue": 75000
           }
         ]
       }
     ],
     "summaryComponents": [
       {
-        "compensationType": "Salary",
-        "interval": "1 YEAR",
-        "currencyCode": "GBP",
-        "minValue": 56000,
-        "maxValue": 75000
+        "compensationType": "EquityPercentage",
+        "interval": "NONE",
+        "currencyCode": null,
+        "minValue": null,
+        "maxValue": null
       },
       {
         "compensationType": "Bonus",
@@ -78,11 +78,11 @@
         "maxValue": null
       },
       {
-        "compensationType": "EquityPercentage",
-        "interval": "NONE",
-        "currencyCode": null,
-        "minValue": null,
-        "maxValue": null
+        "compensationType": "Salary",
+        "interval": "1 YEAR",
+        "currencyCode": "GBP",
+        "minValue": 56000,
+        "maxValue": 75000
       }
     ]
   }

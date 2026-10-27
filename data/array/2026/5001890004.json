@@ -1,0 +1,59 @@
+{
+  "absolute_url": "https://boards.greenhouse.io/array/jobs/5001890004?gh_jid=5001890004",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": false,
+      "requires_processing_consent": false,
+      "requires_retention_consent": false,
+      "retention_period": null,
+      "demographic_data_consent_applies": false
+    }
+  ],
+  "internal_job_id": 4599616004,
+  "location": {
+    "name": "India (Non-US based)"
+  },
+  "metadata": [
+    {
+      "id": 5087750004,
+      "name": "Job Level",
+      "value": [
+        "IC1"
+      ],
+      "value_type": "multi_select"
+    }
+  ],
+  "id": 5001890004,
+  "updated_at": "2026-10-26T21:56:47-04:00",
+  "requisition_id": "297",
+  "title": "Recruiting Coordinator (Contractor)",
+  "company_name": "Array",
+  "first_published": "2023-10-25T11:04:23-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;p&gt;Array is a financial innovation platform that helps digital brands, financial institutions, and fintechs get compelling consumer products to market faster. We deliver a suite of credit and identity monitoring tools, privacy protection, and a financial ads marketplace via embeddable widgets or a clean, modern API.&amp;nbsp; Our private label offerings help drive revenue and increase engagement for our customers while empowering millions of consumers to achieve their financial goals.&lt;/p&gt;\n&lt;p&gt;As a remote-first company, we’re focused on providing opportunities for high performing individuals to have deep impact in the fast growing fintech space. A clear mission, a commitment to continuous improvement and a willingness to experiment empower us individually and together deliver the best products for our clients and users.&lt;/p&gt;\n&lt;p&gt;As a Recruitment Coordinator at Array, you will own interview scheduling, candidate communication, and daily recruiting operations while improving our workflows through AI and automation. This role reports to the Manager of Talent Acquisition.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;This remote role requires active coverage from India supporting U.S. operations Monday–Friday, 9 a.m.–5 p.m. Eastern Time.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;You will:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Schedule interviews, panels, and reschedules through Greenhouse.&lt;/li&gt;\n&lt;li&gt;Monitor Slack, calendars, and the talent inbox; resolve issues quickly and keep candidates informed.&lt;/li&gt;\n&lt;li&gt;Monitor automated workflows and alerts, troubleshoot failures, and follow through to resolution.&lt;/li&gt;\n&lt;li&gt;Coordinate paid interviews, background checks, interviewer training, and hiring handoffs.&lt;/li&gt;\n&lt;li&gt;Maintain accurate records and improve coordination processes.&lt;/li&gt;\n&lt;li&gt;Maintain a habit of using AI tools to think, build, and ship faster—it’s your default, not an afterthought.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;You have:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Hands-on experience scheduling interviews in Greenhouse for U.S.-based companies.&lt;/li&gt;\n&lt;li&gt;Excellent written and verbal English and strong organizational skills.&lt;/li&gt;\n&lt;li&gt;Proficiency with Slack, Google Calendar, Google Meet, and Zoom.&lt;/li&gt;\n&lt;li&gt;Familiarity with AI automation tools, webhooks, and workflow troubleshooting.&lt;/li&gt;\n&lt;li&gt;Proactive ownership, attention to detail, and responsiveness throughout your shift.&lt;/li&gt;\n&lt;li&gt;A belief that AI is reshaping work; you instinctively use it to accelerate everything you do.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;Pay transparency: &lt;/strong&gt;$7.00/hr+ depending on experience. (40hrs a week)&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Expected interview process: &lt;/strong&gt;Hiring Manager Interview - Loop Round: How We Work, TA, Executive Interview.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Expected onboarding process: &lt;/strong&gt;Onboarding at Array is active, not passive: new hires spend their first two weeks building fluency in our products, customers, and value proposition, and are expected to pass scored assessments before beginning role-specific work. Success means meeting defined performance standards through a six-month evaluation period — with continuous feedback and ongoing accountability as core parts of working at Array.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Benefit: &lt;/strong&gt;Benefits will be provided through our employment partner, Pride India.&lt;/p&gt;\n&lt;p&gt;&lt;em&gt;Not sure if you meet the Qualifications? We know that folks tend to only apply if they check every box. If you think you have the appropriate qualifications, but don’t meet every single one, we encourage you to still apply. We’d love to hear from you.&lt;/em&gt;&lt;/p&gt;\n&lt;p&gt;&lt;em&gt;We are proud to be an equal opportunity workplace; we are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. Array will provide reasonable accommodations to qualified applicants—if you need an accommodation to participate in the application or interview process, please email talent@array.com to make your request.&lt;/em&gt;&lt;/p&gt;\n&lt;p&gt;&lt;em&gt;Array uses CLEAR to conduct identity verification as part of the application process. We encourage you to review CLEAR’s &lt;/em&gt;&lt;a href=&quot;https://www.clearme.com/privacy-policy&quot;&gt;&lt;em&gt;Privacy Notice&lt;/em&gt;&lt;/a&gt;&lt;em&gt; and &lt;/em&gt;&lt;a href=&quot;https://www.clearme.com/terms-of-use&quot;&gt;&lt;em&gt;Terms of Use&lt;/em&gt;&lt;/a&gt;&lt;em&gt; to understand how your personal data will be processed.&lt;/em&gt;&lt;/p&gt;",
+  "departments": [
+    {
+      "id": 4016189004,
+      "name": "People",
+      "child_ids": [],
+      "parent_id": null
+    }
+  ],
+  "offices": [
+    {
+      "id": 4008089004,
+      "name": "Remote",
+      "location": "Remote",
+      "child_ids": [
+        4066837004,
+        4033863004
+      ],
+      "parent_id": null
+    }
+  ],
+  "ai_disclaimer": null,
+  "include_ai_disclaimer": false,
+  "ai_opt_out_request_url": "http://app4.greenhouse.io/ai_opt_out_request/job_post/5001890004/ai_opt_out"
+}

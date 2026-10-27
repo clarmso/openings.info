@@ -54,15 +54,6 @@
         "additionalInformation": null,
         "components": [
           {
-            "id": "4d7974f2-a45b-4a2a-a9c6-ca19ceb0a0f7",
-            "summary": "Offers Commission",
-            "compensationType": "Commission",
-            "interval": "1 YEAR",
-            "currencyCode": "USD",
-            "minValue": null,
-            "maxValue": null
-          },
-          {
             "id": "97d1c09b-78dd-4e69-974c-57f2f272114e",
             "summary": "$141K – $173K",
             "compensationType": "Salary",
@@ -79,18 +70,20 @@
             "currencyCode": null,
             "minValue": null,
             "maxValue": null
+          },
+          {
+            "id": "4d7974f2-a45b-4a2a-a9c6-ca19ceb0a0f7",
+            "summary": "Offers Commission",
+            "compensationType": "Commission",
+            "interval": "1 YEAR",
+            "currencyCode": "USD",
+            "minValue": null,
+            "maxValue": null
           }
         ]
       }
     ],
     "summaryComponents": [
-      {
-        "compensationType": "Commission",
-        "interval": "1 YEAR",
-        "currencyCode": "USD",
-        "minValue": null,
-        "maxValue": null
-      },
       {
         "compensationType": "Salary",
         "interval": "1 YEAR",
@@ -102,6 +95,13 @@
         "compensationType": "EquityPercentage",
         "interval": "NONE",
         "currencyCode": null,
+        "minValue": null,
+        "maxValue": null
+      },
+      {
+        "compensationType": "Commission",
+        "interval": "1 YEAR",
+        "currencyCode": "USD",
         "minValue": null,
         "maxValue": null
       }

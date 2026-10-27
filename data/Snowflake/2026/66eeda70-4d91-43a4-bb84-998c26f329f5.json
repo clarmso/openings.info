@@ -8,12 +8,12 @@
   "shouldDisplayCompensationOnJobPostings": true,
   "secondaryLocations": [
     {
-      "location": "US-VA-McLean",
+      "location": "US-WA-Bellevue",
       "address": {
         "postalAddress": {
-          "addressRegion": "Virginia",
+          "addressRegion": "Washington",
           "addressCountry": "United States",
-          "addressLocality": "McLean"
+          "addressLocality": "Bellevue"
         }
       }
     }

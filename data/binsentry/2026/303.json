@@ -1,0 +1,20 @@
+{
+  "id": "303",
+  "jobOpeningName": "Product Designer",
+  "departmentId": "18927",
+  "departmentLabel": "Product",
+  "employmentStatusLabel": "Full-Time",
+  "employmentType": null,
+  "location": {
+    "city": "Kitchener",
+    "state": "Ontario"
+  },
+  "atsLocation": {
+    "country": null,
+    "state": null,
+    "province": null,
+    "city": null
+  },
+  "isRemote": null,
+  "locationType": "0"
+}

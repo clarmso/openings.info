@@ -1,0 +1,20 @@
+{
+  "id": "310",
+  "jobOpeningName": "Software Developer",
+  "departmentId": "18928",
+  "departmentLabel": "Software",
+  "employmentStatusLabel": "Full-Time",
+  "employmentType": null,
+  "location": {
+    "city": "Kitchener",
+    "state": "Ontario"
+  },
+  "atsLocation": {
+    "country": null,
+    "state": null,
+    "province": null,
+    "city": null
+  },
+  "isRemote": null,
+  "locationType": "0"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "319",
+  "jobOpeningName": "Part-Time Field Technician - Gordo, Alabama",
+  "departmentId": "18756",
+  "departmentLabel": "Operations",
+  "employmentStatusLabel": "Part-Time",
+  "employmentType": null,
+  "location": {
+    "city": null,
+    "state": null
+  },
+  "atsLocation": {
+    "country": "United States",
+    "state": "Alabama",
+    "province": null,
+    "city": "Gordo"
+  },
+  "isRemote": null,
+  "locationType": "1"
+}

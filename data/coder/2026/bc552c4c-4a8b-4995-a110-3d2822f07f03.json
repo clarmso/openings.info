@@ -31,13 +31,13 @@
         "additionalInformation": "SEs are on base salary/30% variable split.",
         "components": [
           {
-            "id": "a224eaf4-a29f-40f4-994c-c3340679ed13",
-            "summary": "Offers Equity",
-            "compensationType": "EquityPercentage",
-            "interval": "NONE",
-            "currencyCode": null,
-            "minValue": null,
-            "maxValue": null
+            "id": "ba21c996-af63-4b3a-a722-35875506291f",
+            "summary": "Estimated Base Salary $154K – $209K",
+            "compensationType": "Salary",
+            "interval": "1 YEAR",
+            "currencyCode": "USD",
+            "minValue": 154000,
+            "maxValue": 209000
           },
           {
             "id": "437f9673-be12-4bd7-8bef-70663be9f441",
@@ -49,13 +49,13 @@
             "maxValue": null
           },
           {
-            "id": "ba21c996-af63-4b3a-a722-35875506291f",
-            "summary": "Estimated Base Salary $154K – $209K",
-            "compensationType": "Salary",
-            "interval": "1 YEAR",
-            "currencyCode": "USD",
-            "minValue": 154000,
-            "maxValue": 209000
+            "id": "a224eaf4-a29f-40f4-994c-c3340679ed13",
+            "summary": "Offers Equity",
+            "compensationType": "EquityPercentage",
+            "interval": "NONE",
+            "currencyCode": null,
+            "minValue": null,
+            "maxValue": null
           }
         ]
       },
@@ -65,6 +65,15 @@
         "title": "Tier 2",
         "additionalInformation": "SEs are on base salary/30% variable split.",
         "components": [
+          {
+            "id": "48917b9b-31f8-4d40-8246-a525b08bca9a",
+            "summary": "Offers Equity",
+            "compensationType": "EquityPercentage",
+            "interval": "NONE",
+            "currencyCode": null,
+            "minValue": null,
+            "maxValue": null
+          },
           {
             "id": "395ebdae-c58a-47e3-bfd8-67760ade177f",
             "summary": "Offers Commission",
@@ -82,15 +91,6 @@
             "currencyCode": "USD",
             "minValue": 151000,
             "maxValue": 204000
-          },
-          {
-            "id": "48917b9b-31f8-4d40-8246-a525b08bca9a",
-            "summary": "Offers Equity",
-            "compensationType": "EquityPercentage",
-            "interval": "NONE",
-            "currencyCode": null,
-            "minValue": null,
-            "maxValue": null
           }
         ]
       },
@@ -132,10 +132,11 @@
     ],
     "summaryComponents": [
       {
-        "compensationType": "EquityPercentage",
-        "minValue": null,
-        "maxValue": null,
-        "interval": "1 YEAR"
+        "minValue": 150000,
+        "maxValue": 209000,
+        "currencyCode": "USD",
+        "interval": "1 YEAR",
+        "compensationType": "Salary"
       },
       {
         "compensationType": "Commission",
@@ -144,11 +145,10 @@
         "interval": "1 YEAR"
       },
       {
-        "minValue": 150000,
-        "maxValue": 209000,
-        "currencyCode": "USD",
-        "interval": "1 YEAR",
-        "compensationType": "Salary"
+        "compensationType": "EquityPercentage",
+        "minValue": null,
+        "maxValue": null,
+        "interval": "1 YEAR"
       }
     ]
   }

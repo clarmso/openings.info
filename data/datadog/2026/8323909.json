@@ -1,0 +1,96 @@
+{
+  "absolute_url": "https://careers.datadoghq.com/detail/8323909/?gh_jid=8323909",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": false,
+      "requires_processing_consent": false,
+      "requires_retention_consent": false,
+      "retention_period": null,
+      "demographic_data_consent_applies": true
+    }
+  ],
+  "internal_job_id": 3573631,
+  "location": {
+    "name": "Tokyo, Japan"
+  },
+  "metadata": [
+    {
+      "id": 33310,
+      "name": "Time Type",
+      "value": "Full time",
+      "value_type": "single_select"
+    },
+    {
+      "id": 166208,
+      "name": "Area - Engineering",
+      "value": null,
+      "value_type": "single_select"
+    },
+    {
+      "id": 498252,
+      "name": "Cost Center",
+      "value": "Technical Solutions - Commercial & Mid-Market Sales Engineering",
+      "value_type": "single_select"
+    },
+    {
+      "id": 516515,
+      "name": "Geography",
+      "value": "APAC",
+      "value_type": "single_select"
+    },
+    {
+      "id": 9593635,
+      "name": "Early Career Time Type",
+      "value": null,
+      "value_type": "single_select"
+    },
+    {
+      "id": 29446322,
+      "name": "Pay Transparency Range",
+      "value": null,
+      "value_type": "currency_range"
+    },
+    {
+      "id": 31273219,
+      "name": "Does this role require access to ITAR-controlled data?",
+      "value": null,
+      "value_type": "single_select"
+    },
+    {
+      "id": 58619948,
+      "name": "IC or MG",
+      "value": "IC",
+      "value_type": "single_select"
+    }
+  ],
+  "id": 8323909,
+  "updated_at": "2026-10-26T22:48:14-04:00",
+  "requisition_id": "R21954",
+  "title": "Sales Engineer",
+  "company_name": "Datadog",
+  "first_published": "2026-10-26T22:33:23-04:00",
+  "language": "ja",
+  "application_deadline": null,
+  "content": "&lt;p&gt;Datadogのセールスエンジニアは、営業チームと連携し、お客様やパートナー企業に対する商談機会の見極めから契約締結までを技術面から支援します。セールスプレゼンテーションや製品デモ、技術評価（POC）の支援を通じて、専門的な知見を提供していただきます。&lt;/p&gt;\n&lt;p&gt;また、お客様、競合他社、パートナー企業から寄せられるフィードバックをプロダクトチームへ共有し、製品機能の優先順位の検討にも携わります。さらに、社内のさまざまなチームと連携してお客様の課題解決を支援し、不具合のエスカレーションを行うとともに、Datadogブランドを体現する存在としてご活躍いただきます。&lt;/p&gt;\n&lt;p&gt;親しみやすく、情熱にあふれ、大きな可能性を持つチームの一員として働きたい方に、ぜひお会いしたいと考えています。&lt;/p&gt;\n&lt;p&gt;&lt;em&gt;Datadogでは、社員同士の関係性やコラボレーションを育み、新たなアイデアや創造性を生み出すオフィスカルチャーを大切にしています。一人ひとりが自分に合った仕事と生活の調和を実現できるよう、ハイブリッドな働き方を採用しています。&lt;/em&gt;&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;業務内容&lt;/strong&gt;&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;営業およびカスタマーサクセスチームと連携し、Datadogが提供する総合的な価値、ビジョン、戦略をお客様にわかりやすく説明する&lt;/li&gt;\n&lt;li&gt;新しいテクノロジーを継続的に学び、競合に関する知識、技術力、専門家としての信頼性を高める&lt;/li&gt;\n&lt;li&gt;幅広い見込み顧客および既存顧客に対し、製品および技術に関するプレゼンテーションを実施する&lt;/li&gt;\n&lt;li&gt;プロダクトチームと直接コミュニケーションを取り、お客様からの機能要望について連携する&lt;/li&gt;\n&lt;li&gt;お客様による製品の検証、導入およびオンボーディングを支援し、課題や障壁が生じた際の解決をサポートする&lt;/li&gt;\n&lt;li&gt;お客様のライフサイクル全体で発生する多様な技術課題に対し、創造的な発想で解決を支援する&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;&lt;strong&gt;応募資格&lt;/strong&gt;&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;セールスエンジニアまたはソリューションエンジニアとして2年以上の経験があり、あわせてDevOps／SREまたはプラットフォームエンジニアリングに関する経験をお持ちの方&lt;/li&gt;\n&lt;li&gt;DevOpsモニタリング、クラウドアーキテクチャ関連ツール、モダンなWeb開発に関する知識および実務経験をお持ちの方&lt;/li&gt;\n&lt;li&gt;日本国内のお客様と直接コミュニケーションを取るため、書面・会話ともにネイティブレベルの日本語能力をお持ちの方&lt;/li&gt;\n&lt;li&gt;スピード感のある環境で、規模や複雑さの異なる多数の案件を同時に進めた経験をお持ちの方&lt;/li&gt;\n&lt;li&gt;周囲と連携し、チームで協力して仕事を進めることを楽しめる方&lt;/li&gt;\n&lt;li&gt;技術プレゼンテーションや製品デモを自信を持って実施できる方&lt;/li&gt;\n&lt;li&gt;日々新たに生じるさまざまな課題に対し、柔軟かつ創造的に考えられる方&lt;/li&gt;\n&lt;li&gt;ハイブリッドなオフィスカルチャーに共感し、東京オフィスで対面によるコラボレーションを楽しめる方&lt;/li&gt;\n&lt;li&gt;業務時間の最大25％程度の出張に対応できる方&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;em&gt;Datadogは、さまざまな経歴やバックグラウンドを持つ人材を大切にしています。入社初日から上記すべての条件を満たしている必要はありません。テクノロジーに情熱を持ち、自身のスキルをさらに伸ばしたいと考えている方からのご応募を歓迎します。&lt;/em&gt;&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;福利厚生と成長支援&lt;/strong&gt;&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;業界トップクラスのオンボーディングプログラム&lt;/li&gt;\n&lt;li&gt;充実したグローバル福利厚生制度&lt;/li&gt;\n&lt;li&gt;社内ネットワークの構築を支援する、部門内のメンターおよびバディプログラム&lt;/li&gt;\n&lt;li&gt;新入社員向け株式報酬（RSU）および従業員株式購入制度（ESPP）&lt;/li&gt;\n&lt;li&gt;継続的な能力開発、製品トレーニング、キャリアパスの支援&lt;/li&gt;\n&lt;li&gt;Community GuildsやInclusion Talksに参加できる、インクルーシブな企業文化&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;em&gt;上記の福利厚生および成長支援制度は、雇用される国やDatadogとの雇用形態によって異なる場合があります。&lt;/em&gt;&lt;/p&gt;\n&lt;p&gt;&lt;em&gt;世界中のすべての候補者様にご理解頂けるよう、応募情報に関する項目は一部、英語のままで記載されています。全ての求人情報を英語でご確認されたい場合は、&lt;a href=&quot;https://careers.datadoghq.com/detail/8258855/?gh_jid=8258855&quot;&gt;こちら&lt;/a&gt;をご覧ください。&lt;/em&gt;&lt;/p&gt;\n&lt;p style=&quot;color: white;&quot;&gt;#LI-Hybrid&lt;/p&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;hr&gt;\n&lt;p&gt;&lt;strong&gt;About Datadog:&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Datadog is the leading observability and security platform for the AI era, providing businesses with unified visibility across the technology stack to manage complexity at scale. It brings applications, infrastructure, data, models, and security into one place, using AI to detect and resolve issues before they impact customers. Trusted globally by Fortune 500 companies and high-growth AI leaders, Datadog enables businesses to move faster with clarity and confidence. Learn more about #DatadogLife on &lt;a href=&quot;https://www.instagram.com/datadoghq/?hl=en&quot; target=&quot;_blank&quot;&gt;Instagram&lt;/a&gt;, &lt;a href=&quot;https://www.linkedin.com/company/datadog&quot; target=&quot;_blank&quot;&gt;LinkedIn,&lt;/a&gt; and &lt;a href=&quot;https://learn.datadoghq.com/&quot; target=&quot;_blank&quot;&gt;Datadog Learning Center. &lt;/a&gt;&lt;/p&gt;\n&lt;hr&gt;\n&lt;p data-renderer-start-pos=&quot;215&quot;&gt;&lt;strong data-renderer-mark=&quot;true&quot;&gt;Equal Opportunity at Datadog:&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Datadog is proud to offer &lt;a href=&quot;https://www.eeoc.gov/sites/default/files/2023-06/22-088_EEOC_KnowYourRights6.12ScreenRdr.pdf&quot; target=&quot;_blank&quot;&gt;equal employment opportunity&lt;/a&gt; to everyone regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity, veteran status, and other characteristics protected by law. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. Here are our &lt;a href=&quot;https://www.datadoghq.com/legal/candidate-legal-notices/&quot; target=&quot;_blank&quot;&gt;Candidate Legal Notices&lt;/a&gt; for your reference.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;Datadog endeavors to make our Careers Page accessible to all users. If you would like to contact us regarding the accessibility of our website or need assistance completing the application process, please complete &lt;a href=&quot;https://docs.google.com/forms/d/e/1FAIpQLSeoJeduEZ2NdZF_65uZmWUrCM-zee7yADXX1s6Xr9zAGq8iKA/viewform&quot; target=&quot;_blank&quot;&gt;this form&lt;/a&gt;. This form is for accommodation requests only and cannot be used to inquire about the status of applications.&amp;nbsp;&lt;/p&gt;\n&lt;p data-renderer-start-pos=&quot;662&quot;&gt;&lt;strong data-renderer-mark=&quot;true&quot;&gt;Privacy and AI Guidelines:&lt;/strong&gt;&lt;/p&gt;\n&lt;p data-renderer-start-pos=&quot;662&quot;&gt;Any information you submit to Datadog as part of your application will be processed in accordance with Datadog’s&amp;nbsp;&lt;a class=&quot;c-link&quot; href=&quot;https://www.datadoghq.com/legal/applicant-candidate-privacy/&quot; target=&quot;_blank&quot; data-stringify-link=&quot;https://www.datadoghq.com/legal/applicant-candidate-privacy/&quot; data-sk=&quot;tooltip_parent&quot;&gt;Applicant and Candidate Privacy Notice&lt;/a&gt;. For information on our AI policy, please visit &lt;a href=&quot;https://www.datadoghq.com/legal/interviewing-at-datadog-ai-guidelines/&quot; target=&quot;_blank&quot;&gt;Interviewing at Datadog AI Guidelines&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;",
+  "departments": [
+    {
+      "id": 202108,
+      "name": "Commercial & Mid-Market Sales Engineering",
+      "child_ids": [],
+      "parent_id": 9023
+    }
+  ],
+  "offices": [
+    {
+      "id": 10522,
+      "name": "Tokyo",
+      "location": "Tokyo, Japan",
+      "child_ids": [],
+      "parent_id": 73439
+    }
+  ],
+  "ai_disclaimer": null,
+  "include_ai_disclaimer": null,
+  "ai_opt_out_request_url": null
+}
