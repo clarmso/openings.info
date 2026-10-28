@@ -13,11 +13,11 @@
   "education": "education_required",
   "internal_job_id": 5231274004,
   "location": {
-    "name": "Remote - Canada"
+    "name": "Remote - Canada, India"
   },
   "metadata": null,
   "id": 6231544004,
-  "updated_at": "2026-10-21T22:58:23-04:00",
+  "updated_at": "2026-10-27T17:36:22-04:00",
   "requisition_id": "N260027",
   "title": "Senior Brokerage Operations Associate (Canada)",
   "company_name": "Alpaca ",
@@ -37,9 +37,16 @@
   ],
   "offices": [
     {
-      "id": 4031051004,
-      "name": "Remote - United States",
+      "id": 4031433004,
+      "name": "Remote - Canada",
       "location": null,
+      "child_ids": [],
+      "parent_id": null
+    },
+    {
+      "id": 4025508004,
+      "name": "Remote - India ",
+      "location": "India",
       "child_ids": [],
       "parent_id": null
     }

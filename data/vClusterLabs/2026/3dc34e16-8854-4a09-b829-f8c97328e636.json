@@ -83,13 +83,13 @@
         "additionalInformation": null,
         "components": [
           {
-            "id": "2ca6a70e-136b-426d-b308-8d250b13dd9d",
-            "summary": "€80K – €135K",
-            "compensationType": "Salary",
+            "id": "a4f239ef-7194-4fde-a751-19b7da4b0651",
+            "summary": "Offers Bonus",
+            "compensationType": "Bonus",
             "interval": "1 YEAR",
             "currencyCode": "EUR",
-            "minValue": 80000,
-            "maxValue": 135000
+            "minValue": null,
+            "maxValue": null
           },
           {
             "id": "8c195e2f-83a6-4daa-92cd-7b6c08029f93",
@@ -101,13 +101,13 @@
             "maxValue": null
           },
           {
-            "id": "a4f239ef-7194-4fde-a751-19b7da4b0651",
-            "summary": "Offers Bonus",
-            "compensationType": "Bonus",
+            "id": "2ca6a70e-136b-426d-b308-8d250b13dd9d",
+            "summary": "€80K – €135K",
+            "compensationType": "Salary",
             "interval": "1 YEAR",
             "currencyCode": "EUR",
-            "minValue": null,
-            "maxValue": null
+            "minValue": 80000,
+            "maxValue": 135000
           }
         ]
       },

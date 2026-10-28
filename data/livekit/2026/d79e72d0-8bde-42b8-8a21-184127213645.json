@@ -1,0 +1,71 @@
+{
+  "id": "d79e72d0-8bde-42b8-8a21-184127213645",
+  "title": "Solutions Architect",
+  "department": "S&M",
+  "team": "Sales",
+  "employmentType": "FullTime",
+  "location": "Germany (Remote)",
+  "shouldDisplayCompensationOnJobPostings": true,
+  "secondaryLocations": [],
+  "publishedAt": "2026-10-27T16:35:52.216+00:00",
+  "isListed": true,
+  "isRemote": true,
+  "workplaceType": "Remote",
+  "address": {
+    "postalAddress": {
+      "addressCountry": "Germany"
+    }
+  },
+  "jobUrl": "https://jobs.ashbyhq.com/livekit/d79e72d0-8bde-42b8-8a21-184127213645",
+  "applyUrl": "https://jobs.ashbyhq.com/livekit/d79e72d0-8bde-42b8-8a21-184127213645/application",
+  "descriptionHtml": "<h2>About LiveKit</h2><p style=\"min-height:1.5em\">LiveKit is building the infrastructure layer for the agentic era of computing. Our platform gives developers everything they need to build, test, deploy, scale, and observe AI agents in production. Founded in 2021, LiveKit powers voice and agentic AI applications for OpenAI, Salesforce, Spotify, Meta, and tens of thousands of other developers, collectively facilitating billions of calls each year.</p><div style=\"min-height:1.2em;margin-top:0px;margin-bottom:0px\"> </div><h2>About This Role</h2><p style=\"min-height:1.5em\">We're hiring a Solutions Architect (Pre-Sales) to be the technical partner to the engineers and enterprises building on LiveKit.</p><p style=\"min-height:1.5em\">You'll work alongside an account executive to understand what a customer is trying to build, design the right architecture, and bring it to life with live demos and proofs-of-concept — guiding teams from first conversation to production.</p><p style=\"min-height:1.5em\">This role is ideal for someone who loves to build, is energized by talking with other engineers, and takes pride in turning a hard technical problem into something that just works. Real-time voice and video is visceral — latency, quality, and reliability are felt, not read about — so the best conversations include something live. You'll collaborate closely with our Sales, Engineering, Product teams to win technical decisions and to make sure what you hear in the field informs how we build.</p><p style=\"min-height:1.5em\">You'll thrive here if you:</p><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">love to build and solve the most challenging customer problems with LiveKit</p></li><li><p style=\"min-height:1.5em\">have a curious mind with a continuous desire to learn and improve</p></li><li><p style=\"min-height:1.5em\">enjoy demoing and presenting, whether to a room or engineer, to a CTO or at a conference</p></li><li><p style=\"min-height:1.5em\">have a team first mentality, seeking to lift others around you as you progress in your career</p></li></ul><div style=\"min-height:1.2em;margin-top:0px;margin-bottom:0px\"> </div><h2>What You'll Do</h2><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">Partner with an account executive as the technical lead on strategic deals — from discovery and architecture design through demos, POCs, and technical decisions</p></li><li><p style=\"min-height:1.5em\">Advise customers on cloud architecture and deployment across self-hosted and LiveKit Cloud (AWS, GCP, Azure)</p></li><li><p style=\"min-height:1.5em\">Build live demos and reference applications — voice agents, video pipelines, telephony integrations — tailored to each customer's use case, and reusable by the wider team</p></li><li><p style=\"min-height:1.5em\">Scope and run proofs-of-concept against clear, shared success criteria, guiding customers all the way to production</p></li><li><p style=\"min-height:1.5em\">Reason with customers about connectivity, infrastructure, and end-to-end latency to design for scale and reliability</p></li><li><p style=\"min-height:1.5em\">Create technical content — blog posts, guides, webinars, and conference talks — that helps developers and enterprises build with LiveKit</p></li><li><p style=\"min-height:1.5em\">Act as the technical enabler for your region's pod, and share field insight with Product and Engineering to help shape the roadmap</p></li></ul><div style=\"min-height:1.2em;margin-top:0px;margin-bottom:0px\"> </div><h2>Who You Are</h2><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">4+ years in solutions architecture, sales engineering, or a customer-facing engineering role (or equivalent hands-on engineering experience with strong customer instincts)</p></li><li><p style=\"min-height:1.5em\">Hands-on experience with at least one major cloud provider (AWS, GCP, or Azure) — you can architect, deploy, and debug real applications</p></li><li><p style=\"min-height:1.5em\">Comfortable with the modern deployment toolchain: containers, Kubernetes, infrastructure-as-code, and networking fundamentals (load balancing, DNS, firewalls/NAT)</p></li><li><p style=\"min-height:1.5em\">Able to reason about connectivity, infrastructure, and latency end to end — how architecture, network path, compute, co-location, and model choice shape the AI agentic experiences of today</p></li><li><p style=\"min-height:1.5em\">Strong programming ability in at least one of our core SDK languages — Python, TypeScript/Node, or Go</p></li><li><p style=\"min-height:1.5em\">A clear communicator who can demo, present, and write for technical audiences</p></li></ul><div style=\"min-height:1.2em;margin-top:0px;margin-bottom:0px\"> </div><h2>Nice to Have</h2><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">Working knowledge of real-time media protocols and their latency/quality trade-offs (WebRTC, RTP/SRTP, WebSockets)</p></li><li><p style=\"min-height:1.5em\">Familiarity with the AI voice stack: STT/TTS providers, LLM integration, speech-to-speech models, turn detection, and telephony/SIP</p></li><li><p style=\"min-height:1.5em\">Experience speaking at meetups or conferences, or a track record of technical writing or open-source contributions</p></li></ul><div style=\"min-height:1.2em;margin-top:0px;margin-bottom:0px\"> </div><h2>Our Commitment to You</h2><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">An opportunity to build something truly impactful to the world</p></li><li><p style=\"min-height:1.5em\">Contribute to open source alongside world-class engineers</p></li><li><p style=\"min-height:1.5em\">Competitive salary and equity package</p></li><li><p style=\"min-height:1.5em\">Health, dental, and vision benefits</p></li><li><p style=\"min-height:1.5em\">Flexible vacation policy</p></li></ul><div style=\"min-height:1.2em;margin-top:0px;margin-bottom:0px\"> </div><p style=\"min-height:1.5em\">LiveKit is an equal opportunity employer and does not discriminate on the basis of any characteristic protected by applicable law. If you require a reasonable accommodation during the application or interview process, please contact recruiting@livekit.io.</p>",
+  "descriptionPlain": "ABOUT LIVEKIT\n\nLiveKit is building the infrastructure layer for the agentic era of computing. Our platform gives developers everything they need to build, test, deploy, scale, and observe AI agents in production. Founded in 2021, LiveKit powers voice and agentic AI applications for OpenAI, Salesforce, Spotify, Meta, and tens of thousands of other developers, collectively facilitating billions of calls each year.\n\n \n\n\nABOUT THIS ROLE\n\nWe're hiring a Solutions Architect (Pre-Sales) to be the technical partner to the engineers and enterprises building on LiveKit.\n\nYou'll work alongside an account executive to understand what a customer is trying to build, design the right architecture, and bring it to life with live demos and proofs-of-concept — guiding teams from first conversation to production.\n\nThis role is ideal for someone who loves to build, is energized by talking with other engineers, and takes pride in turning a hard technical problem into something that just works. Real-time voice and video is visceral — latency, quality, and reliability are felt, not read about — so the best conversations include something live. You'll collaborate closely with our Sales, Engineering, Product teams to win technical decisions and to make sure what you hear in the field informs how we build.\n\nYou'll thrive here if you:\n\n - love to build and solve the most challenging customer problems with LiveKit\n\n - have a curious mind with a continuous desire to learn and improve\n\n - enjoy demoing and presenting, whether to a room or engineer, to a CTO or at a conference\n\n - have a team first mentality, seeking to lift others around you as you progress in your career\n\n \n\n\nWHAT YOU'LL DO\n\n - Partner with an account executive as the technical lead on strategic deals — from discovery and architecture design through demos, POCs, and technical decisions\n\n - Advise customers on cloud architecture and deployment across self-hosted and LiveKit Cloud (AWS, GCP, Azure)\n\n - Build live demos and reference applications — voice agents, video pipelines, telephony integrations — tailored to each customer's use case, and reusable by the wider team\n\n - Scope and run proofs-of-concept against clear, shared success criteria, guiding customers all the way to production\n\n - Reason with customers about connectivity, infrastructure, and end-to-end latency to design for scale and reliability\n\n - Create technical content — blog posts, guides, webinars, and conference talks — that helps developers and enterprises build with LiveKit\n\n - Act as the technical enabler for your region's pod, and share field insight with Product and Engineering to help shape the roadmap\n\n \n\n\nWHO YOU ARE\n\n - 4+ years in solutions architecture, sales engineering, or a customer-facing engineering role (or equivalent hands-on engineering experience with strong customer instincts)\n\n - Hands-on experience with at least one major cloud provider (AWS, GCP, or Azure) — you can architect, deploy, and debug real applications\n\n - Comfortable with the modern deployment toolchain: containers, Kubernetes, infrastructure-as-code, and networking fundamentals (load balancing, DNS, firewalls/NAT)\n\n - Able to reason about connectivity, infrastructure, and latency end to end — how architecture, network path, compute, co-location, and model choice shape the AI agentic experiences of today\n\n - Strong programming ability in at least one of our core SDK languages — Python, TypeScript/Node, or Go\n\n - A clear communicator who can demo, present, and write for technical audiences\n\n \n\n\nNICE TO HAVE\n\n - Working knowledge of real-time media protocols and their latency/quality trade-offs (WebRTC, RTP/SRTP, WebSockets)\n\n - Familiarity with the AI voice stack: STT/TTS providers, LLM integration, speech-to-speech models, turn detection, and telephony/SIP\n\n - Experience speaking at meetups or conferences, or a track record of technical writing or open-source contributions\n\n \n\n\nOUR COMMITMENT TO YOU\n\n - An opportunity to build something truly impactful to the world\n\n - Contribute to open source alongside world-class engineers\n\n - Competitive salary and equity package\n\n - Health, dental, and vision benefits\n\n - Flexible vacation policy\n\n \n\nLiveKit is an equal opportunity employer and does not discriminate on the basis of any characteristic protected by applicable law. If you require a reasonable accommodation during the application or interview process, please contact recruiting@livekit.io.",
+  "compensation": {
+    "compensationTierSummary": "€156,960 – €238,020 • Offers Equity • The range above is On-Target Earnings (OTE), split 70% base salary and 30% variable, and covers multiple levels. Where you land depends on experience and the level we hire at.",
+    "scrapeableCompensationSalarySummary": "€156,960 - €238,020",
+    "compensationTiers": [
+      {
+        "id": "6e72d5c4-dfa9-4ecc-a09e-7d0fe1e7e436",
+        "tierSummary": "€156,960 – €238,020 • Offers Equity • The range above is On-Target Earnings (OTE), split 70% base salary and 30% variable, and covers multiple levels. Where you land depends on experience and the level we hire at.",
+        "title": null,
+        "additionalInformation": "The range above is On-Target Earnings (OTE), split 70% base salary and 30% variable, and covers multiple levels. Where you land depends on experience and the level we hire at.",
+        "components": [
+          {
+            "id": "18c58ced-a7c0-40e1-b6e5-01b613b4fd72",
+            "summary": "Offers Equity",
+            "compensationType": "EquityPercentage",
+            "interval": "NONE",
+            "currencyCode": null,
+            "minValue": null,
+            "maxValue": null
+          },
+          {
+            "id": "a2e60e3c-cfa8-4f40-8f29-9ac3aa37d564",
+            "summary": "€156,960 – €238,020",
+            "compensationType": "Salary",
+            "interval": "1 YEAR",
+            "currencyCode": "EUR",
+            "minValue": 156960,
+            "maxValue": 238020
+          }
+        ]
+      }
+    ],
+    "summaryComponents": [
+      {
+        "compensationType": "EquityPercentage",
+        "interval": "NONE",
+        "currencyCode": null,
+        "minValue": null,
+        "maxValue": null
+      },
+      {
+        "compensationType": "Salary",
+        "interval": "1 YEAR",
+        "currencyCode": "EUR",
+        "minValue": 156960,
+        "maxValue": 238020
+      }
+    ]
+  }
+}

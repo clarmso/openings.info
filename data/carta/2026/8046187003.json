@@ -1,0 +1,47 @@
+{
+  "absolute_url": "https://job-boards.greenhouse.io/carta/jobs/8046187003",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": false,
+      "requires_processing_consent": false,
+      "requires_retention_consent": false,
+      "retention_period": null,
+      "demographic_data_consent_applies": false
+    }
+  ],
+  "internal_job_id": 5908485003,
+  "location": {
+    "name": "London, England"
+  },
+  "metadata": null,
+  "id": 8046187003,
+  "updated_at": "2026-10-27T18:40:49-04:00",
+  "requisition_id": "JR104304",
+  "title": " Senior Finance Systems Developer ",
+  "company_name": "Carta",
+  "first_published": "2026-10-27T18:40:49-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h2&gt;The Company You’ll Join&lt;/h2&gt;\n&lt;p&gt;Carta is the connected platform and AI-native ecosystem for private capital. Built to replace fragmented tools with a single system of record, Carta brings together the software, services, and legal infrastructure that founders use to manage equity, fund managers use to run administration and reporting, and legal teams use to close transactions. Trusted by 55,000 companies and 1.8M+ equity holders in 160+ countries, and 10,000 funds and SPVs representing $250B+ in assets under management, Carta is transforming how private capital operates. Recognized by Fortune, Forbes, Fast Company, Inc. and Great Places to Work.&lt;/p&gt;\n&lt;p&gt;For more information about our offices and culture, check out our &lt;a href=&quot;https://carta.com/careers/&quot;&gt;Carta careers page&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;&lt;h2&gt;&lt;strong&gt;The Team You’ll Work With&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;The Senior Finance Systems Administrator role will report to and work closely with the Finance Systems Senior Manager as well as partner with stakeholders across the Company in finance, accounting engineering, and business systems.&lt;/p&gt;\n&lt;h2&gt;&lt;strong&gt;The Problems You’ll Solve&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;At Carta, we&#39;re transforming how private capital operates — connecting the software, services, and legal infrastructure that founders, fund managers, and legal teams depend on. We believe the problems we solve today unlock the opportunities of tomorrow.&lt;/p&gt;\n&lt;p&gt;The Senior Finance Systems Developer role will proactively support the AI-driven development, implementation, and maintenance of Carta’s enterprise finance systems with a primary focus on NetSuite, Zuora, and related peripheral systems. This role will demonstrate strong influence and communications skills to collaborate internally with Finance, AP, AR and IT teams. The position will act as an advisor to the organization on system efficiency and effectiveness. The position will be the primary internal system admin and support contact for all finance systems in the Europe region including NetSuite, Zuora, Stripe, Zip, and others . This role will also collaborate with US counterparts to support the Middle East and APAC regions.&lt;/p&gt;\n&lt;p&gt;Other responsibilities include:&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Drive the adoption of AI, automation, and emerging technologies to transform accounting processes&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;Estimate, design, implement, and maintain configurations and customizations of Finance Systems to meet the evolving needs of the finance team&lt;/li&gt;\n&lt;li&gt;Partner with internal users and stakeholders, assisting with data analysis, business process mapping, reporting needs and continuous improvement initiatives.&lt;/li&gt;\n&lt;li&gt;Maintain proper system access for user roles ensuring compliance with segregation of duties&lt;/li&gt;\n&lt;li&gt;Provide internal, ongoing system/technical support to Finance users, including training with a focus on superior customer service&lt;/li&gt;\n&lt;li&gt;Monitor end user usage of business systems and track performance&lt;/li&gt;\n&lt;li&gt;Provide front line support with regards to all aspects of business facing applications and troubleshooting to diagnose, isolate and resolve issues&lt;/li&gt;\n&lt;li&gt;Develop, document and implement policies, procedures and guidelines to ensure data integrity, system integrity and security&lt;/li&gt;\n&lt;li&gt;Responsible for the change management and release process of NetSuite, Zuora, Stripe, and other finance applications&lt;/li&gt;\n&lt;li&gt;Provide quality and timely communication regarding system status&lt;/li&gt;\n&lt;li&gt;Maintain up-to-date knowledge of system functionality, customization and integration&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;Support onboarding of additional business units and acquired subsidiaries onto Suite Billing, Zuora Billing and related quote-to-cash systems&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;About You&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;A successful candidate for this position will demonstrate the following:&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Ability to integrate AI tools to optimize/redesign workflows and drive measurable impact (e.g., efficiency gains, quality improvements)&lt;/li&gt;\n&lt;li&gt;Ongoing AI skill development (e.g., prompt/context engineering, Claude Plugin/Skills) and staying current with emerging AI technologies&lt;/li&gt;\n&lt;li&gt;5+ years of experience in Finance System administration, configuration, and third-party integrations in complex environments with a focus on NetSuite and Zuora&lt;/li&gt;\n&lt;li&gt;Hands-on experience with roles, permissions, page layouts, custom objects, SuiteScripts, workflows, reports, and dashboards&lt;/li&gt;\n&lt;li&gt;Proficiency in SQL, CSV imports, user provisioning, role definitions, analytics, JavaScript(JS) and script scheduling&lt;/li&gt;\n&lt;li&gt;Strong background in data analytics, reporting, and database management (SQL and NetSuite preferred)&lt;/li&gt;\n&lt;li&gt;Familiarity with revenue recognition principles and financial reporting concepts&lt;/li&gt;\n&lt;li&gt;Strong understanding of business processes&amp;nbsp; (O2C &amp;amp; P2P), system requirements, and financial reporting&lt;/li&gt;\n&lt;li&gt;Knowledge of the hire-to-retire process and system access management&lt;/li&gt;\n&lt;li&gt;Experience in project management, system implementation, and integrations.&lt;/li&gt;\n&lt;li&gt;Strong analytical and problem-solving skills with attention to detail&lt;/li&gt;\n&lt;li&gt;Excellent written and verbal communication skills&lt;/li&gt;\n&lt;li&gt;Ability to work independently with minimal guidance while collaborating across teams&lt;/li&gt;\n&lt;li&gt;Skilled at managing multiple stakeholders and maintaining professionalism under pressure&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h4&gt;&lt;strong&gt;Preferred but Not Required:&lt;/strong&gt;&lt;/h4&gt;\n&lt;ul&gt;\n&lt;li&gt;NetSuite and/or Zuora certification&lt;/li&gt;\n&lt;/ul&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;Disclosures:&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;We are an equal opportunity employer and are committed to providing a positive interview experience for every candidate. If accommodations due to a disability or medical condition are needed, please connect with the talent partner via email.&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;Carta uses E-Verify in the United States for employment authorization. See the &lt;a href=&quot;https://www.e-verify.gov/about-e-verify/what-is-e-verify&quot;&gt;E-Verify&lt;/a&gt; and &lt;a href=&quot;Department&quot;&gt;Department of Justice&lt;/a&gt; websites for more details.&lt;/li&gt;\n&lt;li&gt;For information on our data privacy policies, see&amp;nbsp;&lt;a class=&quot;c-link&quot; href=&quot;https://carta.com/privacy/&quot; target=&quot;_blank&quot; data-stringify-link=&quot;https://carta.com/privacy/&quot; data-sk=&quot;tooltip_parent&quot;&gt;Privacy&lt;/a&gt;,&amp;nbsp;&lt;a class=&quot;c-link&quot; href=&quot;https://carta.com/privacy/candidate/&quot; target=&quot;_blank&quot; data-stringify-link=&quot;https://carta.com/privacy/candidate/&quot; data-sk=&quot;tooltip_parent&quot;&gt;CA Candidate Privacy&lt;/a&gt;, and &lt;a class=&quot;c-link&quot; href=&quot;https://carta.com/legal/br/brazil-pay-transparency/&quot; target=&quot;_blank&quot; data-stringify-link=&quot;https://carta.com/legal/br/brazil-pay-transparency/&quot; data-sk=&quot;tooltip_parent&quot;&gt;Brazil Transparency Report&lt;/a&gt;.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Please note that all official communications from us will come from an @carta.com or @carta-external.com domain. Report any contact from unapproved domains to security@carta.com.&lt;/strong&gt;&lt;/li&gt;\n&lt;/ul&gt;&lt;/div&gt;",
+  "departments": [
+    {
+      "id": 4034393003,
+      "name": "ZZZTEMPLATES",
+      "child_ids": [],
+      "parent_id": null
+    }
+  ],
+  "offices": [
+    {
+      "id": 4035326003,
+      "name": "London",
+      "location": null,
+      "child_ids": [],
+      "parent_id": 4078815003
+    }
+  ],
+  "ai_disclaimer": null,
+  "include_ai_disclaimer": null,
+  "ai_opt_out_request_url": null
+}

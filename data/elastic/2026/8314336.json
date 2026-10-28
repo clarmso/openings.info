@@ -1,0 +1,87 @@
+{
+  "absolute_url": "https://jobs.elastic.co/jobs?gh_jid=8314336&gh_jid=8314336",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": false,
+      "requires_processing_consent": false,
+      "requires_retention_consent": false,
+      "retention_period": null,
+      "demographic_data_consent_applies": false
+    }
+  ],
+  "education": "education_optional",
+  "internal_job_id": 3594739,
+  "location": {
+    "name": "Bangalore, India"
+  },
+  "metadata": [
+    {
+      "id": 32131013,
+      "name": "Requisition open date",
+      "value": "2026-10-22",
+      "value_type": "date"
+    },
+    {
+      "id": 168141,
+      "name": "Target Remote Countries / States Locations [For Job Wrapping]",
+      "value": [],
+      "value_type": "multi_select"
+    },
+    {
+      "id": 33574685,
+      "name": "Types of Hiring",
+      "value": null,
+      "value_type": "single_select"
+    },
+    {
+      "id": 20164553,
+      "name": "FADV_Account",
+      "value": null,
+      "value_type": "single_select"
+    },
+    {
+      "id": 20164588,
+      "name": "FADV_Package",
+      "value": null,
+      "value_type": "single_select"
+    },
+    {
+      "id": 30595384,
+      "name": "Seniority",
+      "value": "Associate",
+      "value_type": "single_select"
+    }
+  ],
+  "id": 8314336,
+  "updated_at": "2026-10-27T09:19:57-04:00",
+  "requisition_id": "R12635",
+  "title": "AI Tool Admin",
+  "company_name": "Elastic",
+  "first_published": "2026-10-27T09:19:57-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Elastic, the Search AI Company, enables everyone to find the answers they need in real time, using all their data, at scale — unleashing the potential of businesses and people. The Elastic Search AI Platform, used by more than 50% of the Fortune 500, brings together the precision of search and the intelligence of AI to enable everyone to accelerate the results that matter. By taking advantage of all structured and unstructured data — securing and protecting private information more effectively — Elastic’s complete, cloud-based solutions for search, security, and observability help organizations deliver on the promise of AI.&lt;/p&gt;&lt;/div&gt;&lt;h3&gt;&lt;strong&gt;What is The Role&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;At Elastic, we have a simple goal: to pursue the world&#39;s data problems with products that delight and inspire. We help people around the world do extraordinary things with their data. From stock quotes to Twitter streams, Apache logs to WordPress blogs, our products are extending what&#39;s possible with data, delivering on the promise that good things come from connecting the dots. Often, what you can do with our products is only limited by what you can dream up. We believe that diversity drives our vibe. We unite employees across 30+ countries into one unified team, while the broader community spans across over 100 countries.&lt;/p&gt;\n&lt;p&gt;Elastic, makers of the hugely popular open source products Elasticsearch, Kibana, Logstash, and Beats, is growing very fast and so is our marketing team. As a key member of the Marketing AI, Operations and Automation team, you will play a hands-on, critical role in governing and administering the marketing AI tool stack that teams across the organisation depend on. From configuring tools at the system level to reviewing AI-generated content before it goes live, you will be the operational backbone that keeps marketing AI running consistently, safely, and at scale.&lt;/p&gt;\n&lt;p&gt;Elastic is looking for a flexible and adaptable person with the ability to manage a variety of governance and administration responsibilities across a growing set of AI tools and platforms. This is an ideal position for a self-motivated individual who has experience administering enterprise marketing technology, is process oriented, and has the ability to work in a fast-paced, distributed environment.&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;What You Will Be Doing&lt;/strong&gt;&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Own the AI-level configuration, system prompts, and governance standards for every tool in the approved marketing AI stack, ensuring consistency across the organisation rather than tool-by-tool drift.&lt;/li&gt;\n&lt;li&gt;Act as the human review layer for AI-generated content and submissions, serving as the final checkpoint before anything goes live when agents flag warnings.&lt;/li&gt;\n&lt;li&gt;Enforce the tool ownership model, ensuring every approved marketing AI tool has a named owner assigned before teams begin using it.&lt;/li&gt;\n&lt;li&gt;Maintain the internal prompt library, approved-use guidelines, and minimum starting prompts available to marketers across the organisation.&lt;/li&gt;\n&lt;li&gt;Partner with the Marketing AI Engineer to onboard new tools and workflows through the appropriate approval processes.&lt;/li&gt;\n&lt;li&gt;Surface tool-level usage patterns and review volume to inform resourcing and governance decisions as the team scales.&lt;/li&gt;\n&lt;li&gt;Assist in maintaining internal documentation across team knowledge bases, wikis, and the playbooks.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;What You Bring&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;3+ years in a marketing operations or marketing technology role with tool administration responsibilities.&lt;/li&gt;\n&lt;li&gt;Hands-on experience working with at least one enterprise AI or generative AI platform at an organisational level, such as Jasper, Writer, or Adobe Firefly.&lt;/li&gt;\n&lt;li&gt;Demonstrated understanding of system-level prompt architecture and how AI configuration affects output quality and consistency across teams.&lt;/li&gt;\n&lt;li&gt;Strong process orientation with the ability to build governance workflows and documentation standards from scratch.&lt;/li&gt;\n&lt;li&gt;Familiarity with Marketo, Workfront, or similar enterprise marketing platforms.&lt;/li&gt;\n&lt;li&gt;Clear, precise written communication and strong attention to detail.&lt;/li&gt;\n&lt;li&gt;Experience working across globally distributed teams spanning AMER, EMEA, and APJ.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;h2&gt;&lt;strong&gt;Additional Information - We Take Care of Our People&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;As a distributed company, diversity drives our identity. Whether you’re looking to launch a new career or grow an existing one, Elastic is the type of company where you can balance great work with great life. Your age is only a number. It doesn’t matter if you’re just out of college or your children are; we need you for what you can do.&lt;/p&gt;\n&lt;p&gt;We strive to have parity of benefits across regions and while regulations differ from place to place, we believe taking care of our people is the right thing to do.&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Competitive pay based on the work you do here and not your previous salary&lt;/li&gt;\n&lt;li&gt;Health coverage for you and your family in many locations&lt;/li&gt;\n&lt;li&gt;Ability to craft your calendar with flexible locations and schedules for many roles&lt;/li&gt;\n&lt;li&gt;Generous number of vacation days each year&lt;/li&gt;\n&lt;li&gt;Increase your impact - We match up to $2000 (or local currency equivalent) for financial donations and service&lt;/li&gt;\n&lt;li&gt;Up to 40 hours each year to use toward volunteer projects you love&lt;/li&gt;\n&lt;li&gt;Embracing parenthood with minimum of 16 weeks of parental leave&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;Different people approach problems differently. We need that. Elastic is an equal opportunity employer and is committed to creating an inclusive culture that celebrates different perspectives, experiences, and backgrounds. Qualified applicants will receive consideration for employment without regard to race, ethnicity, color, religion, sex, pregnancy, sexual orientation, gender perception or identity, national origin, age, marital status, protected veteran status, disability status, or any other basis protected by federal, state or local law, ordinance or regulation.&lt;/p&gt;\n&lt;p&gt;We welcome individuals with disabilities and strive to create an accessible and inclusive experience for all individuals. To request an accommodation during the application or the recruiting process, please email &lt;a href=&quot;mailto:candidate_accessibility@elastic.co&quot; target=&quot;_blank&quot;&gt;candidate_accessibility@elastic.co&lt;/a&gt;&lt;span class=&quot;gmail_default&quot;&gt;.&lt;/span&gt;&amp;nbsp;We will reply to your request within 24 business hours of submission.&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;color: #000000;&quot;&gt;Applicants have rights under Federal Employment Laws, view posters linked below:&lt;/span&gt; &lt;a href=&quot;https://www.dol.gov/sites/dolgov/files/WHD/legacy/files/fmlaen.pdf&quot; target=&quot;_blank&quot;&gt;Family and Medical Leave Act (FMLA)&lt;/a&gt; &lt;span style=&quot;color: #000000;&quot;&gt;Poster;&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;&amp;nbsp;&lt;a href=&quot;https://www.dol.gov/sites/dolgov/files/ofccp/pdf/pay-transp_%20English_formattedESQA508c.pdf&quot; target=&quot;_blank&quot;&gt;Pay Transparency Nondiscrimination Provision&lt;/a&gt; Poster; &lt;/span&gt;&lt;a href=&quot;https://www.dol.gov/sites/dolgov/files/WHD/legacy/files/eppabw.pdf&quot; target=&quot;_blank&quot;&gt;Employee Polygraph Protection Act (EPPA)&lt;/a&gt; &lt;span style=&quot;color: #000000;&quot;&gt;Poster and &lt;a href=&quot;https://www.dol.gov/sites/dolgov/files/OFCCP/regs/compliance/posters/pdf/22-088_EEOC_KnowYourRights.pdf&quot; target=&quot;_blank&quot;&gt;Know Your Rights&lt;/a&gt; (Poster)&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;color: #000000;&quot;&gt;Elasticsearch develops and distributes technology and information that is subject to U.S. and other countries’ export controls and licensing requirements for individuals who are located in or are nationals of the following sanctioned countries and regions: Belarus, Cuba, Iran, North Korea, Syria, or Russia, including the Ukrainian territories annexed by Russia (The Crimea region of Ukraine, The Donetsk People&#39;s Republic (DNR), The Luhansk People&#39;s Republic (LNR), Kherson or Zaporizhzhia). If you are located in or are a national of one of the listed countries or regions, an export license may be required as a condition of your employment in this role. Please note that national origin and/or nationality do not affect eligibility for employment with Elastic.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;Please see&amp;nbsp;&lt;a href=&quot;https://www.elastic.co/legal/applicant-privacy-statement&quot; target=&quot;_blank&quot; data-saferedirecturl=&quot;https://www.google.com/url?q=https://www.elastic.co/legal/applicant-privacy-statement&amp;amp;source=gmail&amp;amp;ust=1611068262479000&amp;amp;usg=AFQjCNG3orAPk5sJIr9WVm0ZDxYw82c5DA&quot;&gt;here&lt;/a&gt;&amp;nbsp;for our Privacy Statement.&lt;/p&gt;&lt;/div&gt;",
+  "departments": [
+    {
+      "id": 74344,
+      "name": "Marketing Operations",
+      "child_ids": [],
+      "parent_id": 53543
+    }
+  ],
+  "offices": [
+    {
+      "id": 80198,
+      "name": "India",
+      "location": null,
+      "child_ids": [
+        84275
+      ],
+      "parent_id": 80177
+    }
+  ],
+  "ai_disclaimer": null,
+  "include_ai_disclaimer": null,
+  "ai_opt_out_request_url": null
+}

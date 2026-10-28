@@ -41,7 +41,7 @@
     }
   ],
   "id": 8687939002,
-  "updated_at": "2026-10-21T13:16:41-04:00",
+  "updated_at": "2026-10-27T19:00:55-04:00",
   "requisition_id": "JR107981",
   "title": "Senior Software Engineer, Data Infrastructure",
   "company_name": "ZoomInfo Technologies LLC",
@@ -59,9 +59,9 @@
   ],
   "offices": [
     {
-      "id": 4011963002,
-      "name": "Vancouver",
-      "location": "Vancouver, Washington, United States",
+      "id": 4085834002,
+      "name": "Remote-US-WA",
+      "location": null,
       "child_ids": [],
       "parent_id": null
     }

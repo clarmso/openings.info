@@ -33,15 +33,6 @@
         "additionalInformation": null,
         "components": [
           {
-            "id": "0c060aa1-4ee2-48b3-898c-720399a6c04b",
-            "summary": "CA$115K – CA$155K",
-            "compensationType": "Salary",
-            "interval": "1 YEAR",
-            "currencyCode": "CAD",
-            "minValue": 115000,
-            "maxValue": 155000
-          },
-          {
             "id": "b225521c-9104-459a-800f-f39afe536462",
             "summary": "Offers Equity",
             "compensationType": "EquityPercentage",
@@ -49,24 +40,33 @@
             "currencyCode": null,
             "minValue": null,
             "maxValue": null
+          },
+          {
+            "id": "0c060aa1-4ee2-48b3-898c-720399a6c04b",
+            "summary": "CA$115K – CA$155K",
+            "compensationType": "Salary",
+            "interval": "1 YEAR",
+            "currencyCode": "CAD",
+            "minValue": 115000,
+            "maxValue": 155000
           }
         ]
       }
     ],
     "summaryComponents": [
       {
-        "compensationType": "Salary",
-        "interval": "1 YEAR",
-        "currencyCode": "CAD",
-        "minValue": 115000,
-        "maxValue": 155000
-      },
-      {
         "compensationType": "EquityPercentage",
         "interval": "NONE",
         "currencyCode": null,
         "minValue": null,
         "maxValue": null
+      },
+      {
+        "compensationType": "Salary",
+        "interval": "1 YEAR",
+        "currencyCode": "CAD",
+        "minValue": 115000,
+        "maxValue": 155000
       }
     ]
   }

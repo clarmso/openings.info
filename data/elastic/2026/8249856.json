@@ -37,13 +37,13 @@
     {
       "id": 20164553,
       "name": "FADV_Account",
-      "value": null,
+      "value": "237364CAN_ELASTIC CANADA",
       "value_type": "single_select"
     },
     {
       "id": 20164588,
       "name": "FADV_Package",
-      "value": null,
+      "value": "2366_CANADA FIELD OPS",
       "value_type": "single_select"
     },
     {
@@ -54,7 +54,7 @@
     }
   ],
   "id": 8249856,
-  "updated_at": "2026-10-13T13:04:20-04:00",
+  "updated_at": "2026-10-27T15:36:20-04:00",
   "requisition_id": "R12497",
   "title": "Mid-Market Account Executive, Montreal/Quebec City",
   "company_name": "Elastic",

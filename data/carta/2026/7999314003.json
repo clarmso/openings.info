@@ -16,7 +16,7 @@
   },
   "metadata": null,
   "id": 7999314003,
-  "updated_at": "2026-09-23T08:42:07-04:00",
+  "updated_at": "2026-10-27T17:01:08-04:00",
   "requisition_id": "JR104266",
   "title": "Onboarding Lead",
   "company_name": "Carta",
@@ -41,9 +41,9 @@
   ],
   "offices": [
     {
-      "id": 4001900003,
-      "name": "New Jersey",
-      "location": "Hamilton, New Jersey, United States",
+      "id": 4001899003,
+      "name": "New York",
+      "location": "New York, New York, United States",
       "child_ids": [],
       "parent_id": 4078813003
     }

@@ -32,15 +32,6 @@
         "additionalInformation": null,
         "components": [
           {
-            "id": "2846e53b-4f30-4131-83ba-bc5f7ac8a793",
-            "summary": "Base Salary ₩230M – ₩315M",
-            "compensationType": "Salary",
-            "interval": "1 YEAR",
-            "currencyCode": "KRW",
-            "minValue": 230000000,
-            "maxValue": 315000000
-          },
-          {
             "id": "49032bfe-aeb2-4a78-a916-dc93aad5d1d8",
             "summary": "Offers Equity",
             "compensationType": "EquityCashValue",
@@ -48,24 +39,33 @@
             "currencyCode": "KRW",
             "minValue": null,
             "maxValue": null
+          },
+          {
+            "id": "2846e53b-4f30-4131-83ba-bc5f7ac8a793",
+            "summary": "Base Salary ₩230M – ₩315M",
+            "compensationType": "Salary",
+            "interval": "1 YEAR",
+            "currencyCode": "KRW",
+            "minValue": 230000000,
+            "maxValue": 315000000
           }
         ]
       }
     ],
     "summaryComponents": [
       {
-        "compensationType": "Salary",
-        "interval": "1 YEAR",
-        "currencyCode": "KRW",
-        "minValue": 230000000,
-        "maxValue": 315000000
-      },
-      {
         "compensationType": "EquityCashValue",
         "interval": "1 YEAR",
         "currencyCode": "KRW",
         "minValue": null,
         "maxValue": null
+      },
+      {
+        "compensationType": "Salary",
+        "interval": "1 YEAR",
+        "currencyCode": "KRW",
+        "minValue": 230000000,
+        "maxValue": 315000000
       }
     ]
   }

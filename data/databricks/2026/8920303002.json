@@ -1,0 +1,62 @@
+{
+  "absolute_url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8920303002",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": false,
+      "requires_processing_consent": false,
+      "requires_retention_consent": false,
+      "retention_period": null,
+      "demographic_data_consent_applies": false
+    }
+  ],
+  "internal_job_id": 6574293002,
+  "location": {
+    "name": "Sao Paulo, Brazil"
+  },
+  "metadata": [
+    {
+      "id": 9740521002,
+      "name": "Company Assignment",
+      "value": "Databricks Brazil LTDA",
+      "value_type": "single_select"
+    },
+    {
+      "id": 24059030002,
+      "name": "Career Page Posting Category",
+      "value": [
+        "Engineering"
+      ],
+      "value_type": "multi_select"
+    }
+  ],
+  "id": 8920303002,
+  "updated_at": "2026-10-27T16:59:31-04:00",
+  "requisition_id": "P-1625",
+  "title": "Staff Technical Solutions Engineer, Data & AI",
+  "company_name": "Databricks",
+  "first_published": "2026-10-27T16:59:31-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;p&gt;&lt;strong&gt;P-1411&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Note: this is a hybrid role and requires ~3 days in the office in São Paulo-SP.&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Mission&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;As a Staff Data &amp;amp; AI Technical Solutions Engineer, you will personally drive and mentor others in producing Data &amp;amp; AI technical solutions for any issues reported by customers - including deep diving into production data pipelines, AI workflows, streaming data ingestion, and more.&amp;nbsp; You have deep expertise in Data &amp;amp; AI architectures, having seen a broad set of use cases and successfully maintained complex production environments while adhering to SLA’s. You collaborate effectively with other teams, such as product engineering and customer account teams, to deliver results for customers, especially during critical production downtime situations. You provide customers with the guidance, knowledge, and expertise to build performant architectures and reliable services to achieve their strategic objectives using Databricks’ platform. Reporting to a TSE manager, you are a technical expert within a world-class global support engineering organization, recognized for your leadership, technical depth, and ability to troubleshoot even the most complex customer situations.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;The impact you will have:&lt;/strong&gt;&lt;strong&gt;&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Be directly responsible for leading and driving technical solutions for a breadth of complex problems reported by Databricks customers, including escalated and critical scenarios.&lt;/li&gt;\n&lt;li&gt;Deep Dive into code-level analysis and systems architecture of customer workloads to address issues related to Databricks products - including Spark core internals, Spark SQL, Delta, DLT, and Model Serving.&lt;/li&gt;\n&lt;li&gt;Serve as a customer support advisor - be able to diffuse escalations during incidents directly with customer stakeholders, quickly find mitigations and solutions for advanced use cases, and be strategic at helping prevent future customer issues.&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;Help make the Databricks products simpler to use and customer production environments more stable, such as by influencing Engineering and Backline Support teams to identify areas for product improvements.&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;Be known as a deep technical expert and leader in the Databricks platform and productionizing systems, and mentor others in those areas to spread your knowledge.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;What we look for:&lt;/strong&gt;&lt;strong&gt;&amp;nbsp;&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Minimum of 8 years of experience in designing, building, testing, and maintaining data pipelines. Relevant past Spark experience is mandatory.&lt;/li&gt;\n&lt;li&gt;Expertise in SQL databases or data warehouses (such as Oracle, Teradata, SQL Server, MySQL) and ETL technologies (such as Informatica, DataStage, Talend, Fivetran).&lt;/li&gt;\n&lt;li&gt;5 years of hands-on experience in developing two or more Big Data technologies, such as Spark &amp;amp; Hadoop, Lakehouse architecture - such as Delta, Data Ingestion, Data Streaming applications, or ML/AI applications for industry use cases.&lt;/li&gt;\n&lt;li&gt;Around 3 years of hands-on experience as a technical lead on a Data &amp;amp; AI Engineering team, serving as the go-to person to resolve critical issues.&lt;/li&gt;\n&lt;li&gt;Prior Support or customer-facing experience is not required for this role, but proven ability to influence cross-functionally is, such as with internal stakeholders or engineering teams.&lt;/li&gt;\n&lt;li&gt;Preferably: Hands-on experience with public cloud (AWS, Azure, or GCP).&lt;/li&gt;\n&lt;li&gt;Technical degree or Bachelor&#39;s Degree in Computer Science or related field/experience&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;&lt;strong&gt;About Databricks&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;font-family: arial, sans-serif;&quot;&gt;Databricks is the Data and AI company. More than 20,000 organizations worldwide — including adidas, AT&amp;amp;T, Bayer, Block, Mastercard, Rivian, Unilever, and 70% of the Fortune 500 — rely on the Databricks Data + AI Platform to build and scale data and AI apps, analytics and agents. Headquartered in San Francisco with 30+ offices around the globe, Databricks offers a unified platform that includes Genie, Lakebase, Agent Bricks, Lakeflow, Lakehouse, and Unity Catalog. To learn more, follow Databricks on &lt;a href=&quot;https://www.linkedin.com/company/databricks&quot;&gt;LinkedIn&lt;/a&gt;, &lt;a href=&quot;https://x.com/databricks&quot;&gt;X&lt;/a&gt;, &lt;a href=&quot;https://www.youtube.com/@Databricks&quot;&gt;YouTube&lt;/a&gt;, and &lt;a href=&quot;https://www.instagram.com/databricksinc/?hl=en&quot;&gt;Instagram&lt;/a&gt;.&lt;br&gt;&lt;br&gt;&lt;strong&gt;Benefits&lt;br&gt;&lt;br&gt;&lt;/strong&gt;&lt;/span&gt;At Databricks, we strive to provide comprehensive benefits and perks that meet the needs of all of our employees. For specific details on the benefits offered in your region click &lt;a href=&quot;https://docs.google.com/document/d/154un3e8Xav4BceOSlcYFZRGEuQI54xMxVydRwQn54eQ/edit?usp=sharing&quot;&gt;here&lt;/a&gt;.&lt;br&gt;&lt;br&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Our Commitment to Diversity and Inclusion&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;At Databricks, we are committed to fostering a diverse and inclusive culture where everyone can excel. We take great care to ensure that our hiring practices are inclusive and meet equal employment opportunity standards. Individuals looking for employment at Databricks are considered without regard to age, color, disability, ethnicity, family or marital status, gender identity or expression, language, national origin, physical and mental ability, political affiliation, race, religion, sexual orientation, socio-economic status, veteran status, and other protected characteristics.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Compliance&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;If access to export-controlled technology or source code is required for performance of job duties, it is within Employer&#39;s discretion whether to apply for a U.S. government license for such positions, and Employer may decline to proceed with an applicant on this basis alone.&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;&lt;/div&gt;",
+  "departments": [
+    {
+      "id": 4003101002,
+      "name": "Support",
+      "child_ids": [],
+      "parent_id": 4001015002
+    }
+  ],
+  "offices": [
+    {
+      "id": 4059191002,
+      "name": "Sao Paulo, Brazil",
+      "location": "Sao Paulo, Brazil",
+      "child_ids": [],
+      "parent_id": 4034119002
+    }
+  ],
+  "ai_disclaimer": null,
+  "include_ai_disclaimer": null,
+  "ai_opt_out_request_url": null
+}

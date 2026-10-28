@@ -12,7 +12,7 @@
   ],
   "internal_job_id": 6569922002,
   "location": {
-    "name": "France"
+    "name": "Paris, France"
   },
   "metadata": [
     {
@@ -31,7 +31,7 @@
     }
   ],
   "id": 8910988002,
-  "updated_at": "2026-10-26T15:44:46-04:00",
+  "updated_at": "2026-10-27T14:39:17-04:00",
   "requisition_id": "FEQ128R35",
   "title": "Sr. Specialist Solutions Architect - Platform Security and Cloud Infrastructure",
   "company_name": "Databricks",

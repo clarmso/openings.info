@@ -12,7 +12,7 @@
   ],
   "internal_job_id": 3596636,
   "location": {
-    "name": "New York, New York, USA"
+    "name": "Boston, Massachusetts, USA; Denver, Colorado, USA; New York, New York, USA"
   },
   "metadata": [
     {
@@ -69,7 +69,7 @@
     }
   ],
   "id": 8319487,
-  "updated_at": "2026-10-26T12:31:18-04:00",
+  "updated_at": "2026-10-27T09:30:05-04:00",
   "requisition_id": "R22229",
   "title": "Information Security Analyst II - Federal Programs",
   "company_name": "Datadog",

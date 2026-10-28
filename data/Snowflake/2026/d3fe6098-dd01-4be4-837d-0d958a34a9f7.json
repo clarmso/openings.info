@@ -4,7 +4,7 @@
   "department": "Professional Services",
   "team": "Professional Services",
   "employmentType": "FullTime",
-  "location": "DE-Germany-Remote",
+  "location": "CH-Switzerland-Remote",
   "shouldDisplayCompensationOnJobPostings": false,
   "secondaryLocations": [
     {
@@ -32,7 +32,7 @@
   "workplaceType": "Remote",
   "address": {
     "postalAddress": {
-      "addressCountry": "Germany",
+      "addressCountry": "Switzerland",
       "addressLocality": "Remote"
     }
   },

@@ -23,7 +23,7 @@
     }
   ],
   "id": 8112239,
-  "updated_at": "2026-09-21T10:28:36-04:00",
+  "updated_at": "2026-10-27T12:21:00-04:00",
   "requisition_id": "50911",
   "title": "Sales Development Representative 2",
   "company_name": "Twilio",
@@ -48,8 +48,8 @@
   ],
   "offices": [
     {
-      "id": 79092,
-      "name": "Remote - Ireland",
+      "id": 79090,
+      "name": "Remote - United Kingdom",
       "location": null,
       "child_ids": [],
       "parent_id": 74917

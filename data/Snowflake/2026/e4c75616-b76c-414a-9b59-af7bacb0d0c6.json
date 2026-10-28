@@ -4,7 +4,7 @@
   "department": "Global Support",
   "team": "Global Support",
   "employmentType": "FullTime",
-  "location": "GB-London",
+  "location": "GB-United Kingdom-Remote",
   "shouldDisplayCompensationOnJobPostings": false,
   "secondaryLocations": [],
   "publishedAt": "2026-10-26T10:09:16.332+00:00",
@@ -14,7 +14,7 @@
   "address": {
     "postalAddress": {
       "addressCountry": "United Kingdom",
-      "addressLocality": "London"
+      "addressLocality": "Remote"
     }
   },
   "jobUrl": "https://jobs.ashbyhq.com/Snowflake/e4c75616-b76c-414a-9b59-af7bacb0d0c6",

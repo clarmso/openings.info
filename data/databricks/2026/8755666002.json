@@ -18,7 +18,7 @@
     {
       "id": 9740521002,
       "name": "Company Assignment",
-      "value": "Databricks Switzerland GmbH",
+      "value": "Databricks GmbH",
       "value_type": "single_select"
     },
     {
@@ -31,7 +31,7 @@
     }
   ],
   "id": 8755666002,
-  "updated_at": "2026-10-06T06:58:26-04:00",
+  "updated_at": "2026-10-27T08:39:15-04:00",
   "requisition_id": "FEQ427R475",
   "title": "Manager, Field Engineering - Polish speaker",
   "company_name": "Databricks",
@@ -49,11 +49,11 @@
   ],
   "offices": [
     {
-      "id": 4026450002,
-      "name": "Zürich, Switzerland",
-      "location": "Zürich, Switzerland",
+      "id": 4007500002,
+      "name": "Munich, Germany",
+      "location": "Munich, Germany",
       "child_ids": [],
-      "parent_id": 4039464002
+      "parent_id": 4056389002
     }
   ],
   "ai_disclaimer": null,

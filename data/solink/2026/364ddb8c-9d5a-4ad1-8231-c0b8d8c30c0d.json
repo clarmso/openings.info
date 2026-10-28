@@ -4,13 +4,13 @@
   "department": "Marketing ",
   "team": "Marketing",
   "employmentType": "FullTime",
-  "location": "Ottawa Office",
+  "location": "Canada",
   "shouldDisplayCompensationOnJobPostings": true,
   "secondaryLocations": [],
   "publishedAt": "2026-10-19T18:40:08.160+00:00",
   "isListed": true,
   "isRemote": true,
-  "workplaceType": "Hybrid",
+  "workplaceType": "Remote",
   "address": {
     "postalAddress": {
       "addressRegion": "Ontario",

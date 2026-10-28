@@ -54,7 +54,7 @@
     }
   ],
   "id": 8319140,
-  "updated_at": "2026-10-23T15:01:36-04:00",
+  "updated_at": "2026-10-27T14:22:20-04:00",
   "requisition_id": "R12027",
   "title": "Principal Software Engineer - Global UX - Application - Platform",
   "company_name": "Elastic",
@@ -72,11 +72,11 @@
   ],
   "offices": [
     {
-      "id": 80195,
-      "name": "United Kingdom",
+      "id": 80205,
+      "name": "Spain",
       "location": null,
       "child_ids": [
-        20739
+        212141
       ],
       "parent_id": 80176
     }

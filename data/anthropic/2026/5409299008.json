@@ -23,7 +23,7 @@
     }
   ],
   "id": 5409299008,
-  "updated_at": "2026-10-20T18:04:09-04:00",
+  "updated_at": "2026-10-27T21:27:18-04:00",
   "requisition_id": "267178",
   "title": "Regulatory Counsel, AI Regulation, US",
   "company_name": "Anthropic",
@@ -40,6 +40,13 @@
     }
   ],
   "offices": [
+    {
+      "id": 4001219008,
+      "name": "New York City, NY",
+      "location": "New York, New York, United States",
+      "child_ids": [],
+      "parent_id": null
+    },
     {
       "id": 4001218008,
       "name": "San Francisco, CA",

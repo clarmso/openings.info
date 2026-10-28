@@ -12,7 +12,7 @@
   ],
   "internal_job_id": 3537884,
   "location": {
-    "name": "Amsterdam, The Netherlands; Munich, Germany"
+    "name": "Amsterdam, The Netherlands"
   },
   "metadata": [
     {
@@ -65,7 +65,7 @@
     }
   ],
   "id": 8174661,
-  "updated_at": "2026-10-02T12:48:37-04:00",
+  "updated_at": "2026-10-27T11:45:05-04:00",
   "requisition_id": "R20880",
   "title": "Field Enablement Manager (EMEA)",
   "company_name": "Datadog",
@@ -88,13 +88,6 @@
       "location": "Amsterdam, Noord-Holland, Netherlands",
       "child_ids": [],
       "parent_id": 78096
-    },
-    {
-      "id": 67520,
-      "name": "Munich",
-      "location": "München, Bayern, Germany",
-      "child_ids": [],
-      "parent_id": 63631
     }
   ],
   "ai_disclaimer": null,

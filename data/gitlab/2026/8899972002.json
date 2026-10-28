@@ -12,7 +12,7 @@
   ],
   "internal_job_id": 6565077002,
   "location": {
-    "name": "Remote, United Kingdom"
+    "name": "Remote, Canada; Remote, United Kingdom; Remote, United States"
   },
   "metadata": [
     {
@@ -23,7 +23,7 @@
     }
   ],
   "id": 8899972002,
-  "updated_at": "2026-10-23T12:05:57-04:00",
+  "updated_at": "2026-10-27T15:04:24-04:00",
   "requisition_id": "7261",
   "title": "Engineering Manager, Tenant Scale: Gitaly",
   "company_name": "GitLab",
@@ -41,11 +41,27 @@
   ],
   "offices": [
     {
+      "id": 4040901002,
+      "name": "Canada",
+      "location": null,
+      "child_ids": [],
+      "parent_id": 4019551002
+    },
+    {
       "id": 4040908002,
       "name": "United Kingdom",
       "location": null,
       "child_ids": [],
       "parent_id": 4019553002
+    },
+    {
+      "id": 4040904002,
+      "name": "United States of America",
+      "location": null,
+      "child_ids": [
+        4040902002
+      ],
+      "parent_id": 4019551002
     }
   ],
   "ai_disclaimer": null,

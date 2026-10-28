@@ -1,0 +1,92 @@
+{
+  "absolute_url": "https://www.thoughtworks.com/careers/jobs/8324038?gh_jid=8324038",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": false,
+      "requires_processing_consent": false,
+      "requires_retention_consent": false,
+      "retention_period": null,
+      "demographic_data_consent_applies": false
+    }
+  ],
+  "internal_job_id": 3598433,
+  "location": {
+    "name": "Porto Alegre, Brazil"
+  },
+  "metadata": [
+    {
+      "id": 17181,
+      "name": "Employment Type",
+      "value": "Employee",
+      "value_type": "single_select"
+    },
+    {
+      "id": 25173,
+      "name": "Job Role",
+      "value": "Developer",
+      "value_type": "single_select"
+    },
+    {
+      "id": 61790,
+      "name": "Job Grade",
+      "value": "Associate",
+      "value_type": "single_select"
+    },
+    {
+      "id": 25172,
+      "name": "Country",
+      "value": "Brazil",
+      "value_type": "single_select"
+    },
+    {
+      "id": 38057280,
+      "name": "Job Category",
+      "value": "Technology",
+      "value_type": "single_select"
+    },
+    {
+      "id": 15975856,
+      "name": "Function",
+      "value": [
+        "Technology"
+      ],
+      "value_type": "multi_select"
+    },
+    {
+      "id": 53682232,
+      "name": "No. of days in office",
+      "value": "Fully Remote",
+      "value_type": "single_select"
+    }
+  ],
+  "id": 8324038,
+  "updated_at": "2026-10-28T04:57:12-04:00",
+  "requisition_id": "R14971",
+  "title": "Associate (Graduate) Developer",
+  "company_name": "Thoughtworks",
+  "first_published": "2026-10-28T02:05:51-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;div&gt;\n&lt;div class=&quot;description content&quot;&gt;\n&lt;p&gt;Please note that these roles have a &lt;strong data-start=&quot;378&quot; data-end=&quot;409&quot;&gt;fixed start date of January 18th&lt;/strong&gt;, and candidates are expected to be available to join accordingly.&lt;/p&gt;\n&lt;p&gt;Software Developers collaborate with Business and Quality Analysts, Designers, Project Managers and more to design software solutions that will create significant change for our clients. They listen thoughtfully to understand the context of a business problem and write clean and iterative code to deliver a powerful end result. By balancing strong opinions with a willingness to find the right answer, Software Developers bring integrity to technology, ensuring all voices are heard.&lt;br&gt;&lt;br&gt;Our entry-level consultants jumpstart their careers with the First Year Graduate Experience: our year-long program that starts with &lt;a href=&quot;https://www.thoughtworks.com/careers/graduates&quot; target=&quot;_blank&quot;&gt;Thoughtworks University&lt;/a&gt;, an immersive three-week training, plus monthly sessions dedicated to specific topics. And it&#39;s important to call out that we consider tech talent from all walks of life. Whether you&#39;re a Computer Science major with less than one year of professional experience, a coding boot camp graduate or a career changer who is working toward becoming a software developer, you have the opportunity to grow in our community of passionate technologists.&lt;/p&gt;\n&lt;/div&gt;\n&lt;h2 id=&quot;job-responsibilities&quot;&gt;Job responsibilities&lt;/h2&gt;\n&lt;div class=&quot;job-responsibilities content&quot;&gt;\n&lt;ul&gt;\n&lt;li&gt;You will pair to write clean and iterative code using practices like TDD, SOLID principles, OO design and pair programming&lt;/li&gt;\n&lt;li&gt;You will use continuous delivery practices to improve software delivery speed&lt;/li&gt;\n&lt;li&gt;You will work in collaborative, product-focused teams to build innovative customer experiences and create meaningful change for a variety of clients&lt;/li&gt;\n&lt;li&gt;Learn, digest and subsequently apply the latest technology thinking from our &lt;a href=&quot;https://www.thoughtworks.com/radar&quot; target=&quot;_blank&quot;&gt;Technology Radar&lt;/a&gt; to solve client problems&lt;/li&gt;\n&lt;li&gt;Tackle a variety of challenges for clients of all industries, while collaborating with new teammates from diverse backgrounds&lt;/li&gt;\n&lt;/ul&gt;\n&lt;/div&gt;\n&lt;h2 id=&quot;job-qualifications&quot;&gt;Job qualifications&lt;/h2&gt;\n&lt;div class=&quot;job-qualifications content&quot;&gt;\n&lt;h3 id=&quot;technical-skills&quot;&gt;Technical Skills&lt;/h3&gt;\n&lt;div class=&quot;qualifications inner-content&quot;&gt;\n&lt;ul&gt;\n&lt;li&gt;You have less than 1 year of professional experience working as a developer&lt;/li&gt;\n&lt;li&gt;You understand analysis, design, coding and OO concepts&lt;/li&gt;\n&lt;li&gt;Python and React preferred&lt;/li&gt;\n&lt;/ul&gt;\n&lt;/div&gt;\n&lt;h3 id=&quot;professional-skills&quot;&gt;Professional Skills&lt;/h3&gt;\n&lt;div class=&quot;skills inner-content&quot;&gt;\n&lt;ul&gt;\n&lt;li&gt;You thrive in a collaborative, flat environment that values transparency, openness, feedback and change&lt;/li&gt;\n&lt;li&gt;You have a passion for learning and sharing knowledge as well as a desire to create meaningful solutions for business problems&lt;/li&gt;\n&lt;li&gt;You&#39;re resilient in ambiguous situations and can approach challenges from multiple perspectives&lt;/li&gt;\n&lt;/ul&gt;\n&lt;/div&gt;\n&lt;/div&gt;\n&lt;h2 id=&quot;important-things&quot;&gt;Other things to know&lt;/h2&gt;\n&lt;div class=&quot;important-things content&quot;&gt;\n&lt;h3&gt;Learning &amp;amp; Development&lt;/h3&gt;\n&lt;div class=&quot;inner-content&quot;&gt;\n&lt;p&gt;There is no one-size-fits-all career path at Thoughtworks: however you want to develop your career is entirely up to you. But we also balance autonomy with the strength of our cultivation culture. This means your career is supported by interactive tools, numerous development programs and teammates who want to help you grow. We see value in helping each other be our best and that extends to empowering our employees in their career journeys.&lt;/p&gt;\n&lt;/div&gt;\n&lt;/div&gt;\n&lt;h2 id=&quot;responsible-ai-use&quot;&gt;Responsible Use of AI in Recruitment&lt;/h2&gt;\n&lt;div class=&quot;responsible-ai-use content&quot;&gt;\n&lt;p&gt;At Thoughtworks, we use AI tools to support our recruitment team with administrative tasks such as drafting communications, scheduling interviews and writing job descriptions.&lt;br&gt;&lt;br&gt;Crucially, our AI tools do not screen, assess, rank or make hiring decisions. Every application is reviewed by our team and all selection decisions are made exclusively by our interviewers and hiring managers.&lt;br&gt;&lt;br&gt;We are committed to fairness and responsible AI. We actively manage our AI systems by testing, monitoring for biased outcomes and implementing mitigation measures. We hold our third-party vendors to these same high standards through a rigorous governance process. For additional information, please see our full &lt;a href=&quot;https://www.thoughtworks.com/careers/ai-policy-for-recruitment&quot; target=&quot;_blank&quot;&gt;Thoughtworks AI Policy for Recruitment&lt;/a&gt;.&lt;/p&gt;\n&lt;/div&gt;\n&lt;h2 id=&quot;about&quot;&gt;About Thoughtworks&lt;/h2&gt;\n&lt;div class=&quot;about content&quot;&gt;\n&lt;p&gt;Thoughtworks is a dynamic and inclusive community of bright and supportive colleagues who are revolutionizing tech. As a leading technology consultancy, we’re pushing boundaries through our purposeful and impactful work. For 30+ years, we’ve delivered extraordinary impact together with our clients by helping them solve complex business problems with technology as the differentiator. Bring your brilliant expertise and commitment for continuous learning to Thoughtworks. Together, let’s be extraordinary.&lt;/p&gt;\n&lt;/div&gt;\n&lt;p style=&quot;display: none;&quot;&gt;#LI-Hybrid&lt;/p&gt;\n&lt;/div&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p style=&quot;text-align: center;&quot;&gt;&lt;a href=&quot;https://www.thoughtworks.com/careers/ai-policy-for-recruitment&quot;&gt;See here our AI policy.&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;",
+  "departments": [
+    {
+      "id": 315343,
+      "name": "1S_TWBRA DEC Region",
+      "child_ids": [],
+      "parent_id": null
+    }
+  ],
+  "offices": [
+    {
+      "id": 5108,
+      "name": "Porto Alegre",
+      "location": "Porto Alegre - RS, Brazil",
+      "child_ids": [],
+      "parent_id": null
+    }
+  ],
+  "ai_disclaimer": null,
+  "include_ai_disclaimer": null,
+  "ai_opt_out_request_url": null
+}

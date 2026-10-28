@@ -1,0 +1,79 @@
+{
+  "id": "744000157882819",
+  "name": "Sr. Financial Analyst, Penang Malaysia",
+  "uuid": "cf730bf1-bf28-47de-9957-1a64cae94304",
+  "jobAdId": "880028cb-2de3-4d30-851a-4c02ac47808e",
+  "defaultJobAd": true,
+  "refNumber": "REF3463A",
+  "company": {
+    "identifier": "AristaNetworks",
+    "name": "Arista Networks"
+  },
+  "releasedDate": "2026-10-26T17:46:38.918Z",
+  "location": {
+    "city": "George Town",
+    "region": "Penang",
+    "country": "my",
+    "remote": false,
+    "hybrid": false,
+    "latitude": "5.4140975",
+    "longitude": "100.3285271",
+    "fullLocation": "George Town, Penang, Malaysia"
+  },
+  "industry": {
+    "id": "computer_networking",
+    "label": "Computer Networking"
+  },
+  "department": {
+    "id": "1650367",
+    "label": "Finance"
+  },
+  "function": {
+    "id": "finance",
+    "label": "Finance"
+  },
+  "typeOfEmployment": {
+    "id": "permanent",
+    "label": "Full-time"
+  },
+  "experienceLevel": {
+    "id": "mid_senior_level",
+    "label": "Mid-Senior Level"
+  },
+  "customField": [
+    {
+      "fieldId": "COUNTRY",
+      "fieldLabel": "Country/Region",
+      "valueId": "my",
+      "valueLabel": "Malaysia"
+    },
+    {
+      "fieldId": "58b81d3de4b06dbf7dd514e1",
+      "fieldLabel": "Department",
+      "valueId": "1650367",
+      "valueLabel": "Finance"
+    },
+    {
+      "fieldId": "58b81d3de4b06dbf7dd514e0",
+      "fieldLabel": "Brands",
+      "valueId": "default",
+      "valueLabel": "Arista Networks"
+    },
+    {
+      "fieldId": "62a7845974fe2c08874d5452",
+      "fieldLabel": "Role",
+      "valueId": "4e150511-63af-4e42-850a-47ad805607cc",
+      "valueLabel": "Senior"
+    }
+  ],
+  "visibility": "PUBLIC",
+  "ref": "https://api.smartrecruiters.com/v1/companies/AristaNetworks/postings/744000157882819",
+  "creator": {
+    "name": "Purva Arora"
+  },
+  "language": {
+    "code": "en",
+    "label": "English",
+    "labelNative": "English (US)"
+  }
+}
