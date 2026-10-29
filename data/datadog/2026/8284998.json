@@ -12,7 +12,7 @@
   ],
   "internal_job_id": 3583374,
   "location": {
-    "name": "California, USA, Remote; Illinois, USA, Remote; Massachusetts, USA, Remote; New York, USA, Remote"
+    "name": "California, USA, Remote"
   },
   "metadata": [
     {
@@ -69,7 +69,7 @@
     }
   ],
   "id": 8284998,
-  "updated_at": "2026-10-27T12:37:54-04:00",
+  "updated_at": "2026-10-28T16:47:35-04:00",
   "requisition_id": "R22062",
   "title": "Regional Manager, Sales Engineering - AI Accounts",
   "company_name": "Datadog",
@@ -92,27 +92,6 @@
       "location": "California, United States",
       "child_ids": [],
       "parent_id": 78108
-    },
-    {
-      "id": 76735,
-      "name": "Remote - Illinois",
-      "location": "Illinois, United States",
-      "child_ids": [],
-      "parent_id": 78119
-    },
-    {
-      "id": 76740,
-      "name": "Remote - Massachusetts",
-      "location": "Massachusetts, United States",
-      "child_ids": [],
-      "parent_id": 78117
-    },
-    {
-      "id": 76746,
-      "name": "Remote - New York",
-      "location": "New York, United States",
-      "child_ids": [],
-      "parent_id": 5664
     }
   ],
   "ai_disclaimer": null,

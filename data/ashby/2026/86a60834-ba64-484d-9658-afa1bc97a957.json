@@ -119,15 +119,6 @@
         "additionalInformation": null,
         "components": [
           {
-            "id": "5b09c7b6-efde-4f66-85f6-ecb6cfe29980",
-            "summary": "OTE €144.5K – €195.5K",
-            "compensationType": "Salary",
-            "interval": "1 YEAR",
-            "currencyCode": "EUR",
-            "minValue": 144500,
-            "maxValue": 195500
-          },
-          {
             "id": "659f2f29-2e52-4d0c-8b4c-51727268a659",
             "summary": "Offers Commission",
             "compensationType": "Commission",
@@ -144,6 +135,15 @@
             "currencyCode": null,
             "minValue": null,
             "maxValue": null
+          },
+          {
+            "id": "5b09c7b6-efde-4f66-85f6-ecb6cfe29980",
+            "summary": "OTE €144.5K – €195.5K",
+            "compensationType": "Salary",
+            "interval": "1 YEAR",
+            "currencyCode": "EUR",
+            "minValue": 144500,
+            "maxValue": 195500
           }
         ]
       },
@@ -290,13 +290,6 @@
     ],
     "summaryComponents": [
       {
-        "minValue": 110000,
-        "maxValue": 195500,
-        "currencyCode": "EUR",
-        "interval": "1 YEAR",
-        "compensationType": "Salary"
-      },
-      {
         "compensationType": "Commission",
         "minValue": null,
         "maxValue": null,
@@ -307,6 +300,13 @@
         "minValue": null,
         "maxValue": null,
         "interval": "1 YEAR"
+      },
+      {
+        "minValue": 110000,
+        "maxValue": 195500,
+        "currencyCode": "EUR",
+        "interval": "1 YEAR",
+        "compensationType": "Salary"
       }
     ]
   }

@@ -214,15 +214,6 @@
         "additionalInformation": null,
         "components": [
           {
-            "id": "e76dc4f2-5ce2-4969-98a4-b25651200e81",
-            "summary": "Offers Commission",
-            "compensationType": "Commission",
-            "interval": "1 YEAR",
-            "currencyCode": "GBP",
-            "minValue": null,
-            "maxValue": null
-          },
-          {
             "id": "9c5f54f8-9e9f-4851-8f07-35e9a092d850",
             "summary": "OTE £144.5K – £195.5K",
             "compensationType": "Salary",
@@ -239,6 +230,15 @@
             "currencyCode": null,
             "minValue": null,
             "maxValue": null
+          },
+          {
+            "id": "e76dc4f2-5ce2-4969-98a4-b25651200e81",
+            "summary": "Offers Commission",
+            "compensationType": "Commission",
+            "interval": "1 YEAR",
+            "currencyCode": "GBP",
+            "minValue": null,
+            "maxValue": null
           }
         ]
       },
@@ -248,6 +248,15 @@
         "title": "UK Tier 2 - Remote",
         "additionalInformation": null,
         "components": [
+          {
+            "id": "666b5735-7074-4699-97f1-565fbf4d4274",
+            "summary": "Offers Commission",
+            "compensationType": "Commission",
+            "interval": "1 YEAR",
+            "currencyCode": "GBP",
+            "minValue": null,
+            "maxValue": null
+          },
           {
             "id": "02ce6fb7-b659-424b-80b7-5d565b11c1c5",
             "summary": "OTE £127.5K – £172.5K",
@@ -263,15 +272,6 @@
             "compensationType": "EquityPercentage",
             "interval": "NONE",
             "currencyCode": null,
-            "minValue": null,
-            "maxValue": null
-          },
-          {
-            "id": "666b5735-7074-4699-97f1-565fbf4d4274",
-            "summary": "Offers Commission",
-            "compensationType": "Commission",
-            "interval": "1 YEAR",
-            "currencyCode": "GBP",
             "minValue": null,
             "maxValue": null
           }

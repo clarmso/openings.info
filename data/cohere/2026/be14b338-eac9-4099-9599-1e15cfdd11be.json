@@ -96,15 +96,6 @@
         "additionalInformation": null,
         "components": [
           {
-            "id": "58dcda9c-568c-4311-af57-491f942d0f95",
-            "summary": "Offers Equity",
-            "compensationType": "EquityPercentage",
-            "interval": "NONE",
-            "currencyCode": null,
-            "minValue": null,
-            "maxValue": null
-          },
-          {
             "id": "f077c969-cf70-40b6-96dd-82ab9ae62d6a",
             "summary": "CA$140K – CA$210K",
             "compensationType": "Salary",
@@ -112,6 +103,15 @@
             "currencyCode": "CAD",
             "minValue": 140000,
             "maxValue": 210000
+          },
+          {
+            "id": "58dcda9c-568c-4311-af57-491f942d0f95",
+            "summary": "Offers Equity",
+            "compensationType": "EquityPercentage",
+            "interval": "NONE",
+            "currencyCode": null,
+            "minValue": null,
+            "maxValue": null
           }
         ]
       }

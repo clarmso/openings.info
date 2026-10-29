@@ -65,7 +65,7 @@
     }
   ],
   "id": 8129269,
-  "updated_at": "2026-09-21T12:43:00-04:00",
+  "updated_at": "2026-10-28T16:45:50-04:00",
   "requisition_id": "P13818_3520187",
   "title": "Regional Sales Manager, Enterprise ",
   "company_name": "Okta",
@@ -83,30 +83,11 @@
   ],
   "offices": [
     {
-      "id": 67248,
-      "name": "AMER",
+      "id": 21495,
+      "name": "US Remote West Coast",
       "location": null,
-      "child_ids": [
-        67252,
-        172936,
-        80312,
-        67251,
-        85788,
-        73666,
-        19613,
-        61722,
-        19611,
-        22604,
-        21495,
-        19612,
-        21497,
-        21496,
-        172937,
-        80313,
-        19614,
-        57382
-      ],
-      "parent_id": null
+      "child_ids": [],
+      "parent_id": 67252
     }
   ],
   "ai_disclaimer": null,

@@ -103,15 +103,6 @@
         "additionalInformation": null,
         "components": [
           {
-            "id": "075b2fb6-edf5-480e-bea1-d0b1c40eb26a",
-            "summary": "Estimated Base Salary €100K – €115K",
-            "compensationType": "Salary",
-            "interval": "1 YEAR",
-            "currencyCode": "EUR",
-            "minValue": 100000,
-            "maxValue": 115000
-          },
-          {
             "id": "eae18c99-0894-4745-800e-570dd61b47d0",
             "summary": "Offers Equity",
             "compensationType": "EquityPercentage",
@@ -128,6 +119,15 @@
             "currencyCode": "EUR",
             "minValue": null,
             "maxValue": null
+          },
+          {
+            "id": "075b2fb6-edf5-480e-bea1-d0b1c40eb26a",
+            "summary": "Estimated Base Salary €100K – €115K",
+            "compensationType": "Salary",
+            "interval": "1 YEAR",
+            "currencyCode": "EUR",
+            "minValue": 100000,
+            "maxValue": 115000
           }
         ]
       }

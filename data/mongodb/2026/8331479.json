@@ -1,0 +1,149 @@
+{
+  "absolute_url": "https://www.mongodb.com/careers/job/?gh_jid=8331479",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": false,
+      "requires_processing_consent": false,
+      "requires_retention_consent": false,
+      "retention_period": null,
+      "demographic_data_consent_applies": true
+    }
+  ],
+  "internal_job_id": 3601315,
+  "location": {
+    "name": "United States"
+  },
+  "metadata": [
+    {
+      "id": 22194060,
+      "name": "Position ID",
+      "value": "n/a",
+      "value_type": "short_text"
+    },
+    {
+      "id": 24918,
+      "name": "Department ID",
+      "value": "D43000-Marketing Management",
+      "value_type": "single_select"
+    },
+    {
+      "id": 22194061,
+      "name": "Team",
+      "value": "112-Chief Marketing Officer's Team",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4914027,
+      "name": "Region",
+      "value": "North America",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4137836,
+      "name": "Working Model Eligibility",
+      "value": [
+        "2-Flexible",
+        "3-Fully Remote"
+      ],
+      "value_type": "multi_select"
+    },
+    {
+      "id": 4914029,
+      "name": "Job Level",
+      "value": "Senior Vice President",
+      "value_type": "single_select"
+    },
+    {
+      "id": 24109,
+      "name": "Employment Type",
+      "value": "Full-time",
+      "value_type": "single_select"
+    },
+    {
+      "id": 1073551,
+      "name": "Job Type",
+      "value": "Pipeline",
+      "value_type": "single_select"
+    },
+    {
+      "id": 988684,
+      "name": "JD Link",
+      "value": "https://docs.google.com/document/d/1vHe33B8OFZrbNtSqbXkvWc9UYKQ-ZMzVLevgJJrCLMs/edit?tab=t.0#heading=h.timd69pgklpu",
+      "value_type": "url"
+    },
+    {
+      "id": 5525802,
+      "name": "Baseline Budgeted Salary",
+      "value": null,
+      "value_type": "currency_range"
+    },
+    {
+      "id": 5525816,
+      "name": "Other Large Market Budgeted Salary",
+      "value": null,
+      "value_type": "currency_range"
+    },
+    {
+      "id": 13324394,
+      "name": "Job Post Range (United States)",
+      "value": {
+        "unit": "USD",
+        "max_value": "419000.0",
+        "min_value": "213000.0"
+      },
+      "value_type": "currency_range"
+    },
+    {
+      "id": 40497768,
+      "name": "Job Post Range (Canada)",
+      "value": {
+        "unit": null,
+        "max_value": "0.0",
+        "min_value": "0.0"
+      },
+      "value_type": "currency_range"
+    },
+    {
+      "id": 57694516,
+      "name": "Job Post Range (Poland)",
+      "value": null,
+      "value_type": "currency_range"
+    },
+    {
+      "id": 64002488,
+      "name": "Job Post Range (Italy)",
+      "value": null,
+      "value_type": "currency_range"
+    }
+  ],
+  "id": 8331479,
+  "updated_at": "2026-10-28T13:44:13-04:00",
+  "requisition_id": "426495",
+  "title": "SVP, Revenue Marketing",
+  "company_name": "MongoDB",
+  "first_published": "2026-10-28T13:44:13-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;p&gt;MongoDB is growing faster than it has in years, with strong momentum in Atlas and EA. We are consolidating global Revenue Marketing under one leader to strengthen our partnership with Sales and build a modern, AI-powered revenue growth engine.&lt;/p&gt;\n&lt;p&gt;The SVP of Revenue Marketing owns marketing-sourced revenue for our sales-led business across AMER, EMEA, and APJ, including new investments in India, Japan, and Public Sector. You will rethink how we generate growth, connecting account intelligence, enterprise demand creation, developer engagement, and sales execution into a scalable system that influences architecture decisions and converts demand into revenue. You will also own partner marketing, digital services, and MDF.&lt;/p&gt;\n&lt;p&gt;This role reports to the CMO, sits on the Marketing Leadership Team, and partners directly with the CRO. This is a revenue role that lives in marketing. You know why pipeline is short before anyone asks, and you act.&lt;/p&gt;\n&lt;p&gt;This role can be based out of any of our US offices or remotely in the United States.&amp;nbsp;&lt;/p&gt;\n&lt;h3&gt;What you will own&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Marketing-sourced revenue: Own the sales-led marketing revenue target, regional forecasts, and performance; Anticipate pipeline gaps, diagnose performance, and adjust investment and execution to deliver the number&lt;/li&gt;\n&lt;li&gt;Global revenue growth system: Build a unified growth engine across AMER, EMEA, and APJ; Move beyond traditional campaign- and event-centric execution toward always-on, signal-driven engagement; Establish repeatable growth plays, shared capabilities, and measurement while enabling regional teams to adapt to local markets&lt;/li&gt;\n&lt;li&gt;Enterprise demand and architecture decisions: Build account-based growth motions that engage executives, architects, and technical buyers early in their decision-making; Partner with Sales and technical teams to position MongoDB for new application and AI architectures, turning strategic account engagement into qualified pipeline and revenue&lt;/li&gt;\n&lt;li&gt;AI and automation: Partner across Marketing to redesign workflows, automate execution, and improve targeting, personalization, and optimization; Use AI to increase speed and impact while freeing teams for higher-value work&lt;/li&gt;\n&lt;li&gt;Partner marketing: Own hyperscaler, GSI, and OEM co-marketing, including MDF; Build scalable partner growth motions and tie investment to pipeline and revenue&lt;/li&gt;\n&lt;li&gt;New market growth: Build scalable market-entry and expansion models for India, Japan, and Public Sector, leveraging global capabilities and local market expertise&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;What we&#39;re looking for&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Revenue accountability: You’ve owned and delivered a meaningful marketing-sourced revenue target at a B2B SaaS company operating at scale, across multiple regions and segments; You have experience navigating complex enterprise sales motions and driving predictable revenue growth&lt;/li&gt;\n&lt;li&gt;Commercial credibility: You’re a trusted partner to a CRO, experienced in enterprise account strategy, complex sales cycles, and expansion motions; You know how to diagnose pipeline gaps and drive corrective action&lt;/li&gt;\n&lt;li&gt;Systems thinking: You&#39;ve redesigned how marketing generates growth, not just optimized existing campaigns; You connect data, technology, workflows, and people into scalable revenue motions&lt;/li&gt;\n&lt;li&gt;AI fluency: You understand how AI and automation can transform marketing execution and have translated new capabilities into measurable business outcomes&lt;/li&gt;\n&lt;li&gt;Global leadership: You&#39;ve led large, distributed teams and strong regional leaders, including meaningful APJ experience; You balance global scale with local execution&lt;/li&gt;\n&lt;li&gt;Ecosystem experience: You&#39;ve worked with hyperscalers and GSIs and know how to translate partnerships into pipeline&lt;/li&gt;\n&lt;li&gt;Enterprise and technical buyer expertise: You’ve built demand and driven growth in complex enterprise sales motions, engaging C-suite executives, architects, and technical buyers; You understand how to connect developer adoption to enterprise platform decisions and navigate long, multi-stakeholder buying cycles&lt;/li&gt;\n&lt;li&gt;Plus: Experience with data platforms, AI workloads, new market development, Japan, or Public Sector&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;How we&#39;ll measure success&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Marketing-sourced revenue: Pipeline through closed-won, against global and regional targets&lt;/li&gt;\n&lt;li&gt;Pipeline performance: Conversion, velocity, and qualified pipeline in strategic accounts&lt;/li&gt;\n&lt;li&gt;Revenue efficiency: Marketing-sourced revenue and pipeline per dollar invested, including partner ROI&lt;/li&gt;\n&lt;li&gt;Growth system effectiveness: Adoption and performance of repeatable, signal-driven revenue motions&lt;/li&gt;\n&lt;li&gt;AI and automation: Measurable improvements in execution speed, productivity, and program performance&lt;/li&gt;\n&lt;li&gt;Strategic growth: Qualified pipeline and revenue from new application and AI architectures, penetration of strategic enterprise accounts, and new market performance in India, Japan, and Public Sector&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;About MongoDB&lt;/h3&gt;\n&lt;p&gt;MongoDB is built for change, empowering our customers and our people to innovate at the speed of the market. We have redefined the data platform for the AI era, enabling builders to create, transform, and disrupt industries with software. MongoDB’s unified data platform, the most widely available, globally distributed data platform on the market, helps organizations modernize legacy workloads, embrace innovation, and unleash AI. Our cloud-native platform, MongoDB Atlas, is the only globally distributed, multi-cloud data platform and is available across AWS, Google Cloud, and Microsoft Azure.&lt;/p&gt;\n&lt;p&gt;With offices worldwide and over 67,000 customers, including AI-native startups and approximately 75% of the Fortune 100, relying on MongoDB for their most important applications, we’re powering the next era of software.&lt;/p&gt;\n&lt;p&gt;Our compass at MongoDB is our &lt;a href=&quot;https://www.mongodb.com/company&quot;&gt;Leadership Commitment,&lt;/a&gt; guiding how and why we make decisions, show up for each other, and win. It’s what makes us MongoDB.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;To drive the personal growth and business impact of our employees, we’re committed to developing a supportive and enriching culture for everyone. &lt;a href=&quot;https://www.mongodb.com/company/blog/culture/employee-benefits-that-make-a-difference-at-mongodb&quot;&gt;From employee affinity groups, to fertility assistance and a generous parental leave policy&lt;/a&gt;, we value our employees’ wellbeing and want to support them along every step of their professional and personal journeys.&lt;a href=&quot;https://www.mongodb.com/blog/channel/culture&quot;&gt; Learn more about what it’s like to work at MongoDB&lt;/a&gt;, and help us make an impact on the world!&lt;/p&gt;\n&lt;p&gt;MongoDB is committed to providing any necessary accommodations for individuals with disabilities within our application and interview process. To request an accommodation due to a disability, please inform your recruiter.&lt;/p&gt;\n&lt;p&gt;MongoDB, Inc. provides equal employment opportunities to all employees and applicants for employment and prohibits discrimination and harassment of any type and makes all hiring decisions without regard to race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state or local laws.&lt;/p&gt;\n&lt;p&gt;Req ID: 426495&lt;/p&gt;&lt;div class=&quot;content-pay-transparency&quot;&gt;&lt;div class=&quot;pay-input&quot;&gt;&lt;div class=&quot;description&quot;&gt;&lt;p&gt;MongoDB’s base salary range for this role is posted below. Compensation at the time of offer is unique to each candidate and based on a variety of factors such as skill set, experience, qualifications, and work location. Salary is one part of MongoDB’s total compensation and benefits package. Other benefits for eligible employees may include: equity, participation in the employee stock purchase program, flexible paid time off, 20 weeks fully-paid gender-neutral parental leave, fertility and adoption assistance, 401(k) plan, mental health counseling, access to transgender-inclusive health insurance coverage, and health benefits offerings. Please note, the base salary range listed below and the benefits in this paragraph are only applicable to U.S.-based candidates.&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;title&quot;&gt;MongoDB’s base salary range for this role in the U.S. is:&lt;/div&gt;&lt;div class=&quot;pay-range&quot;&gt;&lt;span&gt;$213,000&lt;/span&gt;&lt;span class=&quot;divider&quot;&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;$419,000 USD&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;",
+  "departments": [
+    {
+      "id": 85947,
+      "name": "Marketing Management",
+      "child_ids": [],
+      "parent_id": 6182
+    }
+  ],
+  "offices": [
+    {
+      "id": 95793,
+      "name": "Remote California",
+      "location": "California, United States",
+      "child_ids": [],
+      "parent_id": 23657
+    }
+  ],
+  "ai_disclaimer": null,
+  "include_ai_disclaimer": false,
+  "ai_opt_out_request_url": null
+}

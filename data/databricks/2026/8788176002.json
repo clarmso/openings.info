@@ -1,0 +1,62 @@
+{
+  "absolute_url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8788176002",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": false,
+      "requires_processing_consent": false,
+      "requires_retention_consent": false,
+      "retention_period": null,
+      "demographic_data_consent_applies": false
+    }
+  ],
+  "internal_job_id": 6515798002,
+  "location": {
+    "name": "Bengaluru, India"
+  },
+  "metadata": [
+    {
+      "id": 9740521002,
+      "name": "Company Assignment",
+      "value": "Databricks India Private Limited",
+      "value_type": "single_select"
+    },
+    {
+      "id": 24059030002,
+      "name": "Career Page Posting Category",
+      "value": [
+        "Customer Success"
+      ],
+      "value_type": "multi_select"
+    }
+  ],
+  "id": 8788176002,
+  "updated_at": "2026-10-28T12:00:07-04:00",
+  "requisition_id": "CSQ427R378",
+  "title": "Team Lead - Platform Monitoring Engineer",
+  "company_name": "Databricks",
+  "first_published": "2026-10-28T12:00:07-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;p&gt;Team Lead - Platform Monitoring Engineer&lt;/p&gt;\n&lt;p&gt;We are seeking an experienced, hands-on Team Lead to shape the future of platform observability and proactive customer monitoring. This is a high-impact technical role for someone who thrives at the intersection of platform reliability, incident response, and customer obsession.&lt;/p&gt;\n&lt;p&gt;The successful candidate will balance technical depth with people leadership: driving monitoring solutions, alerting mechanisms, and customer-focused incident detection tools, and raising the bar of the engineers around them. You will partner closely with cross-functional engineering teams to investigate and resolve incidents, drive root cause analyses, and champion solutions that improve customer reliability and stability of the Databricks Platform.&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;The Impact You Will Have&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;Technical Leadership&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Lead platform incident investigation, coordinating cross-functional teams through rapid detection, mitigation, and resolution to minimize customer impact.&lt;/li&gt;\n&lt;li&gt;Conduct thorough post-incident root cause analysis across infrastructure, services, and cloud providers to identify systemic patterns and prevent future occurrences.&lt;/li&gt;\n&lt;li&gt;Guide the design and implementation of customer-focused alerting pipelines and end-to-end observability workflows that expand detection coverage and reduce mean time to detection.&lt;/li&gt;\n&lt;li&gt;Build automation tools, establish reusable monitoring patterns, and resolve reliability gaps that directly impact customer experience.&lt;/li&gt;\n&lt;li&gt;Participate in and help structure the on-call rotation, leading by example during high-severity incidents.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;People Leadership&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Collaborate with internal customer stakeholders to design and execute the customers&#39; reliability plan, focusing on observability and monitoring.&lt;/li&gt;\n&lt;li&gt;Participate in growing the local team of Platform Monitoring Engineers, including hiring and onboarding.&lt;/li&gt;\n&lt;li&gt;Act as the local point of leadership and a connection to the broader global team, aligning local execution with global goals.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;&lt;strong&gt;What We Are Looking For:&lt;/strong&gt;&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Minimum of 6 years of experience as an SRE, DevOps Engineer, CRE, Production Engineer, or similar role.&lt;/li&gt;\n&lt;li&gt;2+ years of experience leading engineers, whether as a people manager or team lead, with clear mentorship and coaching responsibilities.&lt;/li&gt;\n&lt;li&gt;Production-level experience with at least one major cloud provider (AWS, Azure, GCP) and proficiency in container and orchestration technologies (Docker, Kubernetes).&lt;/li&gt;\n&lt;/ul&gt;\n&lt;ul&gt;\n&lt;li&gt;Hands-on experience with monitoring, logging, and alerting tools such as ELK, Prometheus, Grafana, PagerDuty, etc. Ability to architect monitoring solutions that correlate metrics, logs, and traces.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;ul&gt;\n&lt;li&gt;Strong proficiency in Python or similar languages with the ability to build production-quality automation tools.&lt;/li&gt;\n&lt;li&gt;Experience owning critical phases of the incident lifecycle from detection through resolution and post-mortem analysis in demanding production environments.&lt;/li&gt;\n&lt;li&gt;Excellent communication skills, with the ability to influence cross-functional partners.&lt;/li&gt;\n&lt;li&gt;BS, Master&#39;s, or PhD in Computer Science or Computer Engineering, or a related Engineering field.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;\n&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;&lt;strong&gt;About Databricks&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;font-family: arial, sans-serif;&quot;&gt;Databricks is the Data and AI company. More than 20,000 organizations worldwide — including adidas, AT&amp;amp;T, Bayer, Block, Mastercard, Rivian, Unilever, and 70% of the Fortune 500 — rely on the Databricks Data + AI Platform to build and scale data and AI apps, analytics and agents. Headquartered in San Francisco with 30+ offices around the globe, Databricks offers a unified platform that includes Genie, Lakebase, Agent Bricks, Lakeflow, Lakehouse, and Unity Catalog. To learn more, follow Databricks on &lt;a href=&quot;https://www.linkedin.com/company/databricks&quot;&gt;LinkedIn&lt;/a&gt;, &lt;a href=&quot;https://x.com/databricks&quot;&gt;X&lt;/a&gt;, &lt;a href=&quot;https://www.youtube.com/@Databricks&quot;&gt;YouTube&lt;/a&gt;, and &lt;a href=&quot;https://www.instagram.com/databricksinc/?hl=en&quot;&gt;Instagram&lt;/a&gt;.&lt;br&gt;&lt;br&gt;&lt;strong&gt;Benefits&lt;br&gt;&lt;br&gt;&lt;/strong&gt;&lt;/span&gt;At Databricks, we strive to provide comprehensive benefits and perks that meet the needs of all of our employees. For specific details on the benefits offered in your region click &lt;a href=&quot;https://docs.google.com/document/d/154un3e8Xav4BceOSlcYFZRGEuQI54xMxVydRwQn54eQ/edit?usp=sharing&quot;&gt;here&lt;/a&gt;.&lt;br&gt;&lt;br&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Our Commitment to Diversity and Inclusion&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;At Databricks, we are committed to fostering a diverse and inclusive culture where everyone can excel. We take great care to ensure that our hiring practices are inclusive and meet equal employment opportunity standards. Individuals looking for employment at Databricks are considered without regard to age, color, disability, ethnicity, family or marital status, gender identity or expression, language, national origin, physical and mental ability, political affiliation, race, religion, sexual orientation, socio-economic status, veteran status, and other protected characteristics.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Compliance&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;If access to export-controlled technology or source code is required for performance of job duties, it is within Employer&#39;s discretion whether to apply for a U.S. government license for such positions, and Employer may decline to proceed with an applicant on this basis alone.&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;&lt;/div&gt;",
+  "departments": [
+    {
+      "id": 4003101002,
+      "name": "Support",
+      "child_ids": [],
+      "parent_id": 4001015002
+    }
+  ],
+  "offices": [
+    {
+      "id": 4007112002,
+      "name": "Bengaluru, India",
+      "location": "Bengaluru, India",
+      "child_ids": [],
+      "parent_id": 4056341002
+    }
+  ],
+  "ai_disclaimer": null,
+  "include_ai_disclaimer": null,
+  "ai_opt_out_request_url": null
+}

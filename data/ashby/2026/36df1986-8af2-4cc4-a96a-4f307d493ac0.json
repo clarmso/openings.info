@@ -214,6 +214,15 @@
         "additionalInformation": "Offers Uncapped Commission",
         "components": [
           {
+            "id": "3e3625fa-a0a0-4a9c-ae11-bbba33715f00",
+            "summary": "Offers Commission",
+            "compensationType": "Commission",
+            "interval": "1 YEAR",
+            "currencyCode": "CAD",
+            "minValue": null,
+            "maxValue": null
+          },
+          {
             "id": "0e48c1ef-bc92-4cff-9116-c3644fb2acdf",
             "summary": "Offers Equity",
             "compensationType": "EquityPercentage",
@@ -230,15 +239,6 @@
             "currencyCode": "CAD",
             "minValue": 197000,
             "maxValue": 321500
-          },
-          {
-            "id": "3e3625fa-a0a0-4a9c-ae11-bbba33715f00",
-            "summary": "Offers Commission",
-            "compensationType": "Commission",
-            "interval": "1 YEAR",
-            "currencyCode": "CAD",
-            "minValue": null,
-            "maxValue": null
           }
         ]
       }

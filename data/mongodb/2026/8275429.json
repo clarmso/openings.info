@@ -1,0 +1,148 @@
+{
+  "absolute_url": "https://www.mongodb.com/careers/job/?gh_jid=8275429",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": false,
+      "requires_processing_consent": false,
+      "requires_retention_consent": false,
+      "retention_period": null,
+      "demographic_data_consent_applies": true
+    }
+  ],
+  "internal_job_id": 3580373,
+  "location": {
+    "name": "Dublin, Ireland"
+  },
+  "metadata": [
+    {
+      "id": 22194060,
+      "name": "Position ID",
+      "value": "10007294",
+      "value_type": "short_text"
+    },
+    {
+      "id": 24918,
+      "name": "Department ID",
+      "value": "D85023-Global Enterprise Technology (GET)",
+      "value_type": "single_select"
+    },
+    {
+      "id": 22194061,
+      "name": "Team",
+      "value": "T10463-GET Support",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4914027,
+      "name": "Region",
+      "value": "EMEA",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4137836,
+      "name": "Working Model Eligibility",
+      "value": [
+        "1-In Office"
+      ],
+      "value_type": "multi_select"
+    },
+    {
+      "id": 4914029,
+      "name": "Job Level",
+      "value": "Professional - IC",
+      "value_type": "single_select"
+    },
+    {
+      "id": 24109,
+      "name": "Employment Type",
+      "value": "Full-time",
+      "value_type": "single_select"
+    },
+    {
+      "id": 1073551,
+      "name": "Job Type",
+      "value": "Standard",
+      "value_type": "single_select"
+    },
+    {
+      "id": 988684,
+      "name": "JD Link",
+      "value": "https://docs.google.com/document/d/1Vvf6Bop6Q7-YuhpXDTRFRyn7EeXZn4nci-NHjgRzc-w/edit?tab=t.0",
+      "value_type": "url"
+    },
+    {
+      "id": 5525802,
+      "name": "Baseline Budgeted Salary",
+      "value": null,
+      "value_type": "currency_range"
+    },
+    {
+      "id": 5525816,
+      "name": "Other Large Market Budgeted Salary",
+      "value": null,
+      "value_type": "currency_range"
+    },
+    {
+      "id": 13324394,
+      "name": "Job Post Range (United States)",
+      "value": {
+        "unit": "EUR",
+        "max_value": "0.0",
+        "min_value": "0.0"
+      },
+      "value_type": "currency_range"
+    },
+    {
+      "id": 40497768,
+      "name": "Job Post Range (Canada)",
+      "value": {
+        "unit": "EUR",
+        "max_value": "0.0",
+        "min_value": "0.0"
+      },
+      "value_type": "currency_range"
+    },
+    {
+      "id": 57694516,
+      "name": "Job Post Range (Poland)",
+      "value": null,
+      "value_type": "currency_range"
+    },
+    {
+      "id": 64002488,
+      "name": "Job Post Range (Italy)",
+      "value": null,
+      "value_type": "currency_range"
+    }
+  ],
+  "id": 8275429,
+  "updated_at": "2026-10-29T05:34:17-04:00",
+  "requisition_id": "3273580373",
+  "title": "IT Support Specialist 2",
+  "company_name": "MongoDB",
+  "first_published": "2026-10-29T05:34:17-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;p&gt;Serving as the EMEA anchor for MongoDB&#39;s Global Enterprise Technology (GET) team, this position acts as a primary technical DRI for enterprise user support, office technology, and regional incident escalation in the GMT/IST time zone. You hold end-to-end operational responsibility for delivering high-touch, reliable IT services—from onboarding hardware provisioning and daily ticket triage to AV room management and high-visibility regional event support.&lt;/p&gt;\n&lt;p&gt;This role prioritizes proactive support over passive ticketing. By monitoring system health, verifying endpoint configurations, and identifying friction points early, you ensure business continuity for teams across the EMEA region. You combine strong technical diagnostics across macOS, Windows, identity, and SaaS tooling with hands-on AV expertise for Dublin meeting spaces, acting as a trusted partner to local leaders and cross-functional teams.&lt;/p&gt;\n&lt;p&gt;The operational foundation of GET relies on intelligent automation, structured workflows, and data-informed decision-making. Routine health checks, diagnostics, and repetitive provisioning tasks are streamlined through intelligent tooling, freeing your focus for complex technical problem-solving, live event execution, and relationship building. In this environment, you are encouraged to leverage emerging AI productivity tools and automation scripts to continuously optimize service delivery.&lt;/p&gt;\n&lt;p&gt;Success in this role requires technical versatility, disciplined execution in shared team queues, discreet handling of sensitive data, and clear communication across a globally distributed IT organization.&lt;/p&gt;\n&lt;p&gt;We are looking to speak to candidates who are based in Dublin for our hybrid working model.&lt;/p&gt;\n&lt;h3&gt;Key Responsibilities&lt;/h3&gt;\n&lt;p&gt;1. Enterprise Support &amp;amp; Technical Ownership&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Queue Ownership: Ownership of the regional end-user support queue. Deliver rapid, high-quality resolution for macOS, Windows, identity, mobile, and SaaS software issues across the EMEA region&lt;/li&gt;\n&lt;li&gt;Relationship Management: Partner closely with regional department heads, office administrators, and local stakeholders to maintain strong alignment between IT services and business needs&lt;/li&gt;\n&lt;li&gt;Proactive Resolution: Monitor endpoint health and system alerts to remediate device, network, or security issues before they impact productivity&lt;/li&gt;\n&lt;li&gt;SLA &amp;amp; Workflow Tracking: Keep structured ticket workflows updated with clear diagnostic notes, tracking work against key SLAs (MTTR, FTTR, and CSAT)&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;2. Lifecycle Management &amp;amp; Onboarding&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Hardware Provisioning: Manage procurement, device configuration, endpoint deployment, and asset tracking for laptops, mobile devices, and peripherals&lt;/li&gt;\n&lt;li&gt;Onboarding Execution: Ensure new hires receive fully configured hardware and role-based application entitlements prior to their start date&lt;/li&gt;\n&lt;li&gt;Offboarding &amp;amp; Asset Recovery: Execute secure, compliant offboarding workflows, ensuring timely hardware collection, account deprovisioning, and data destruction standards&lt;/li&gt;\n&lt;li&gt;Confidentiality &amp;amp; Data Governance: Handle all employee data, sensitive operational context, and security entitlements in strict compliance with company confidentiality standards and NDA requirements&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;3. Global Handoffs &amp;amp; Incident Response&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Follow-the-Sun Operational Coverage: Participate in the global 24/7 handoff standard—APAC → EMEA → AMERICAS—passing overnight incidents, open risks, and active escalation threads at shift boundaries&lt;/li&gt;\n&lt;li&gt;Escalation Coordination: Hand specialized infrastructure or security elements to L3/Engineering teams while retaining ownership of user-impacting regional threads&lt;/li&gt;\n&lt;li&gt;On-Call Rotation: Participate in the regional after-hours or weekend incident rotation, applying quick diagnostic workarounds and escalating according to severity matrices&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;4. AV Systems, Office Infrastructure &amp;amp; Events&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Conference Room Maintenance: Maintain operational readiness for Dublin office Zoom Rooms, Teams rooms, microphones, displays, and control systems&lt;/li&gt;\n&lt;li&gt;Event Support: Lead technical preparation and live support for EMEA All Hands, town halls, quarterly business reviews, and regional leadership meetings&lt;/li&gt;\n&lt;li&gt;Network &amp;amp; Workplace Collaboration: Partner with Network/AV Engineering and Facilities teams to resolve physical office connectivity issues, room remediation, and hardware upgrades&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;5. Process Discipline &amp;amp; AI-Driven Efficiency&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Structured Ticket Hygiene: Maintain accurate ticket estimates, DRI tags, and clear definitions of done in Jira or similar enterprise service desk tooling&lt;/li&gt;\n&lt;li&gt;Automation &amp;amp; Toil Reduction: Utilize AI agent-assist tools, virtual assistants, and workflow scripting (Python, PowerShell, or API integrations) to eliminate manual tasks&lt;/li&gt;\n&lt;li&gt;Knowledge Management: Author and update internal technical runbooks and end-user self-service documentation in Confluence&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;Success Measures &amp;amp; Expectations&lt;/h3&gt;\n&lt;p&gt;In this role, success is measured by concrete operational outcomes and your ability to scale regional IT support alongside enterprise growth:&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Service Excellence &amp;amp; SLA Rigor: Maintain a consistent track record of hitting target SLAs (≥95%) across regional queues with flat-to-up CSAT scores, shifting the operational ratio decisively from reactive ticket firefighting to proactive, automated issue resolution&lt;/li&gt;\n&lt;li&gt;Day-One Readiness: Achieve 100% on-time hardware and identity provisioning for new hires across EMEA prior to day one, with zero role-based entitlement gaps and auditable asset tracking across all regional inventory&lt;/li&gt;\n&lt;li&gt;Global Incident Discipline: Execute seamless follow-the-sun handoffs (APAC → EMEA → AMERICAS) and maintain zero unacknowledged critical incidents during regional on-call shifts, owning incident communication end-to-end&lt;/li&gt;\n&lt;li&gt;Flawless Executive &amp;amp; Event Delivery: Deliver zero preventable AV or operational failures during regional All Hands, town halls, and executive QBRs through structured pre-flight checks and continuous conference room testing&lt;/li&gt;\n&lt;li&gt;Operational Leverage: Deliver at least one measurable toil-reduction or automation initiative per quarter (leveraging scripts, API integrations, or AI tooling) that tangibly reduces repetitive operational overhead&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;Requirements&lt;/h3&gt;\n&lt;p&gt;Required Qualifications&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Experience Level: 3+ years of experience in an IT Support or Systems Specialist role within a modern SaaS or tech enterprise environment&lt;/li&gt;\n&lt;li&gt;Tooling Expertise: Strong hands-on experience administration tools including Okta, JAMF, Meraki, Confluence, Jira, and Slack&lt;/li&gt;\n&lt;li&gt;Technical Troubleshooting: Demonstrated experience troubleshooting hardware, identity management (SSO/MFA), network connectivity, and cloud software applications&lt;/li&gt;\n&lt;li&gt;AV &amp;amp; Event Operations: Proven capability in supporting meeting room AV infrastructures and live company events&lt;/li&gt;\n&lt;li&gt;Automation &amp;amp; AI Integration: Experience working with workflow automation platforms, scripting tools (Python, PowerShell, or Bash), or AI agent-assist platforms&lt;/li&gt;\n&lt;li&gt;Operational Flexibility: Flexibility to participate in an on-call rotation and occasional early morning / late evening coverage for global events or shift handoffs&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h4&gt;Nice to Have&lt;/h4&gt;\n&lt;ul&gt;\n&lt;li&gt;Certifications: Relevant industry certifications (Okta Administrator, Jamf Certified Tech, CompTIA Network+/Security+)&lt;/li&gt;\n&lt;li&gt;Global Operations: Prior experience with enterprise follow-the-sun global handoff models&lt;/li&gt;\n&lt;li&gt;Integrations &amp;amp; Development: Exposure to REST APIs for building custom IT service integrations&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;About MongoDB&lt;/h3&gt;\n&lt;p&gt;MongoDB is built for change, empowering our customers and our people to innovate at the speed of the market. We have redefined the data platform for the AI era, enabling builders to create, transform, and disrupt industries with software. MongoDB’s unified data platform, the most widely available, globally distributed data platform on the market, helps organizations modernize legacy workloads, embrace innovation, and unleash AI. Our cloud-native platform, MongoDB Atlas, is the only globally distributed, multi-cloud data platform and is available across AWS, Google Cloud, and Microsoft Azure.&lt;/p&gt;\n&lt;p&gt;With offices worldwide and over 67,000 customers, including AI-native startups and approximately 75% of the Fortune 100, relying on MongoDB for their most important applications, we’re powering the next era of software.&lt;/p&gt;\n&lt;p&gt;Our compass at MongoDB is our &lt;a href=&quot;https://www.mongodb.com/company&quot;&gt;Leadership Commitment,&lt;/a&gt; guiding how and why we make decisions, show up for each other, and win. It’s what makes us MongoDB.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;To drive the personal growth and business impact of our employees, we’re committed to developing a supportive and enriching culture for everyone. &lt;a href=&quot;https://www.mongodb.com/company/blog/culture/employee-benefits-that-make-a-difference-at-mongodb&quot;&gt;From employee affinity groups, to fertility assistance and a generous parental leave policy&lt;/a&gt;, we value our employees’ wellbeing and want to support them along every step of their professional and personal journeys.&lt;a href=&quot;https://www.mongodb.com/blog/channel/culture&quot;&gt; Learn more about what it’s like to work at MongoDB&lt;/a&gt;, and help us make an impact on the world!&lt;/p&gt;\n&lt;p&gt;MongoDB is committed to providing any necessary accommodations for individuals with disabilities within our application and interview process. To request an accommodation due to a disability, please inform your recruiter.&lt;/p&gt;\n&lt;p&gt;MongoDB is an equal opportunities employer.&lt;/p&gt;\n&lt;p&gt;&lt;em&gt;Req ID: 3273580373&lt;/em&gt;&lt;/p&gt;",
+  "departments": [
+    {
+      "id": 289357,
+      "name": "Global Enterprise Technology (GET)",
+      "child_ids": [],
+      "parent_id": 298006
+    }
+  ],
+  "offices": [
+    {
+      "id": 3962,
+      "name": "Dublin",
+      "location": "Dublin, Ireland",
+      "child_ids": [],
+      "parent_id": 23658
+    }
+  ],
+  "ai_disclaimer": null,
+  "include_ai_disclaimer": false,
+  "ai_opt_out_request_url": null
+}

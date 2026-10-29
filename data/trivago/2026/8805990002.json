@@ -48,7 +48,7 @@
     {
       "id": 4938402002,
       "name": "Experience level required",
-      "value": "Junior",
+      "value": "Mid Level",
       "value_type": "single_select"
     },
     {
@@ -127,7 +127,7 @@
     }
   ],
   "id": 8805990002,
-  "updated_at": "2026-10-27T07:35:37-04:00",
+  "updated_at": "2026-10-28T09:41:50-04:00",
   "requisition_id": "R0004184",
   "title": "International Media Buyer",
   "company_name": "trivago",

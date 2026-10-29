@@ -6,7 +6,28 @@
   "employmentType": "FullTime",
   "location": "Montreal",
   "shouldDisplayCompensationOnJobPostings": false,
-  "secondaryLocations": [],
+  "secondaryLocations": [
+    {
+      "location": "Toronto",
+      "address": {
+        "postalAddress": {
+          "addressRegion": "Ontario",
+          "addressCountry": "Canada",
+          "addressLocality": "Toronto"
+        }
+      }
+    },
+    {
+      "location": "Ottawa",
+      "address": {
+        "postalAddress": {
+          "addressRegion": "Ontario",
+          "addressCountry": "Canada",
+          "addressLocality": "Ottawa"
+        }
+      }
+    }
+  ],
   "publishedAt": "2026-09-16T18:14:37.868+00:00",
   "isListed": true,
   "isRemote": true,

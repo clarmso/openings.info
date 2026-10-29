@@ -1,0 +1,81 @@
+{
+  "id": "0684ae7c-4fd5-411e-a10c-3773e584cd97",
+  "title": "Senior Product Designer, Developer Platform",
+  "department": "R&D",
+  "team": "Design",
+  "employmentType": "FullTime",
+  "location": "United States (Remote)",
+  "shouldDisplayCompensationOnJobPostings": true,
+  "secondaryLocations": [
+    {
+      "location": "Canada (Remote)",
+      "address": {
+        "postalAddress": {
+          "addressCountry": "Canada",
+          "addressLocality": ""
+        }
+      }
+    }
+  ],
+  "publishedAt": "2026-10-29T04:02:38.102+00:00",
+  "isListed": true,
+  "isRemote": true,
+  "workplaceType": "Remote",
+  "address": {
+    "postalAddress": {
+      "addressCountry": "United States"
+    }
+  },
+  "jobUrl": "https://jobs.ashbyhq.com/livekit/0684ae7c-4fd5-411e-a10c-3773e584cd97",
+  "applyUrl": "https://jobs.ashbyhq.com/livekit/0684ae7c-4fd5-411e-a10c-3773e584cd97/application",
+  "descriptionHtml": "<h2>About LiveKit</h2><p style=\"min-height:1.5em\">LiveKit is building the infrastructure layer for the voice-driven era of computing. Our platform gives developers everything they need to build, test, deploy, scale, and observe agents in production. Founded in 2021, LiveKit powers voice AI applications for OpenAI, xAI, Salesforce, Coursera, Spotify, and thousands of others, collectively facilitating billions of calls each year.</p><div style=\"min-height:1.2em;margin-top:0px;margin-bottom:0px\"> </div><h2>About You</h2><p style=\"min-height:1.5em\">Most product designers want to design for everyone. This role is for someone who'd rather design for one very specific, very opinionated person: the developer at 2am trying to figure out why their voice agent just failed a call. You'll design the tools developers use to test, evaluate and debug AI agents — a category that's still being invented, with no established patterns to copy. If dense data, real-time systems and reading a stack trace sound more fun than intimidating, keep reading.</p><p style=\"min-height:1.5em\">You'll thrive as a Senior Product Designer if you:</p><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">are obsessed with making the best product for our customers</p></li><li><p style=\"min-height:1.5em\">are known as the go-to person for tackling tough problems</p></li><li><p style=\"min-height:1.5em\">work hard and can build and ship fast</p></li><li><p style=\"min-height:1.5em\">are focused on polish, detail and quality</p></li><li><p style=\"min-height:1.5em\">are a fast learner, frequently picking up new tips, tricks, and skills</p></li></ul><p style=\"min-height:1.5em\">The best way to impress us is with thoughtful ways you'd implement LiveKit, and potentially tinkering with it 😊</p><div style=\"min-height:1.2em;margin-top:0px;margin-bottom:0px\"> </div><h2>What You'll Do</h2><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">Own the design of how developers test, evaluate and observe their agents — simulations, evals, logs and agent insights</p></li><li><p style=\"min-height:1.5em\">Turn complex, real-time data into interfaces that are easy to scan, understand and act on</p></li><li><p style=\"min-height:1.5em\">Design new interaction patterns for AI-native workflows, where agents generate the first draft and humans adjust it</p></li><li><p style=\"min-height:1.5em\">Prototype in code and work hand-in-hand with engineers to ship polished work</p></li><li><p style=\"min-height:1.5em\">Contribute patterns to our design system for dense, debugging-oriented surfaces</p></li></ul><div style=\"min-height:1.2em;margin-top:0px;margin-bottom:0px\"> </div><h2>Who You Are</h2><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">You've shipped design work for developer tools, observability or data-heavy products</p></li><li><p style=\"min-height:1.5em\">You have strong data-visualization instincts and know when a chart beats a table (and when it doesn't)</p></li><li><p style=\"min-height:1.5em\">You're comfortable in code — reading PRs, tweaking Tailwind, building prototypes</p></li><li><p style=\"min-height:1.5em\">You earn the trust of deeply technical users and engineers</p></li><li><p style=\"min-height:1.5em\">Experience designing for AI or agent tooling</p></li><li><p style=\"min-height:1.5em\">AI tools are already a core part of how you design</p></li></ul><div style=\"min-height:1.2em;margin-top:0px;margin-bottom:0px\"> </div><h2>Our Commitment to You</h2><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">An opportunity to build something truly impactful to the world</p></li><li><p style=\"min-height:1.5em\">Contribute to open source alongside world-class engineers</p></li><li><p style=\"min-height:1.5em\">Competitive salary and equity package</p></li><li><p style=\"min-height:1.5em\">Health, dental, and vision benefits</p></li><li><p style=\"min-height:1.5em\">Flexible vacation policy</p></li></ul><div style=\"min-height:1.2em;margin-top:0px;margin-bottom:0px\"> </div><p style=\"min-height:1.5em\">LiveKit is an equal opportunity employer and does not discriminate on the basis of any characteristic protected by applicable law. If you require a reasonable accommodation during the application or interview process, please contact <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"mailto:recruiting@livekit.io\">recruiting@livekit.io</a>.</p>",
+  "descriptionPlain": "ABOUT LIVEKIT\n\nLiveKit is building the infrastructure layer for the voice-driven era of computing. Our platform gives developers everything they need to build, test, deploy, scale, and observe agents in production. Founded in 2021, LiveKit powers voice AI applications for OpenAI, xAI, Salesforce, Coursera, Spotify, and thousands of others, collectively facilitating billions of calls each year.\n\n \n\n\nABOUT YOU\n\nMost product designers want to design for everyone. This role is for someone who'd rather design for one very specific, very opinionated person: the developer at 2am trying to figure out why their voice agent just failed a call. You'll design the tools developers use to test, evaluate and debug AI agents — a category that's still being invented, with no established patterns to copy. If dense data, real-time systems and reading a stack trace sound more fun than intimidating, keep reading.\n\nYou'll thrive as a Senior Product Designer if you:\n\n - are obsessed with making the best product for our customers\n\n - are known as the go-to person for tackling tough problems\n\n - work hard and can build and ship fast\n\n - are focused on polish, detail and quality\n\n - are a fast learner, frequently picking up new tips, tricks, and skills\n\nThe best way to impress us is with thoughtful ways you'd implement LiveKit, and potentially tinkering with it 😊\n\n \n\n\nWHAT YOU'LL DO\n\n - Own the design of how developers test, evaluate and observe their agents — simulations, evals, logs and agent insights\n\n - Turn complex, real-time data into interfaces that are easy to scan, understand and act on\n\n - Design new interaction patterns for AI-native workflows, where agents generate the first draft and humans adjust it\n\n - Prototype in code and work hand-in-hand with engineers to ship polished work\n\n - Contribute patterns to our design system for dense, debugging-oriented surfaces\n\n \n\n\nWHO YOU ARE\n\n - You've shipped design work for developer tools, observability or data-heavy products\n\n - You have strong data-visualization instincts and know when a chart beats a table (and when it doesn't)\n\n - You're comfortable in code — reading PRs, tweaking Tailwind, building prototypes\n\n - You earn the trust of deeply technical users and engineers\n\n - Experience designing for AI or agent tooling\n\n - AI tools are already a core part of how you design\n\n \n\n\nOUR COMMITMENT TO YOU\n\n - An opportunity to build something truly impactful to the world\n\n - Contribute to open source alongside world-class engineers\n\n - Competitive salary and equity package\n\n - Health, dental, and vision benefits\n\n - Flexible vacation policy\n\n \n\nLiveKit is an equal opportunity employer and does not discriminate on the basis of any characteristic protected by applicable law. If you require a reasonable accommodation during the application or interview process, please contact recruiting@livekit.io.",
+  "compensation": {
+    "compensationTierSummary": "$184K – $250K • Offers Equity",
+    "scrapeableCompensationSalarySummary": "$184K - $250K",
+    "compensationTiers": [
+      {
+        "id": "40e094fa-af6f-4ed6-b543-6c310f3b22eb",
+        "tierSummary": "$184K – $250K • Offers Equity",
+        "title": null,
+        "additionalInformation": null,
+        "components": [
+          {
+            "id": "deea5e07-4a16-4015-8627-49a9b838e7b6",
+            "summary": "$184K – $250K",
+            "compensationType": "Salary",
+            "interval": "1 YEAR",
+            "currencyCode": "USD",
+            "minValue": 184000,
+            "maxValue": 250000
+          },
+          {
+            "id": "a4c8b7d6-27ca-41ab-81e3-0d719e8b3a81",
+            "summary": "Offers Equity",
+            "compensationType": "EquityPercentage",
+            "interval": "NONE",
+            "currencyCode": null,
+            "minValue": null,
+            "maxValue": null
+          }
+        ]
+      }
+    ],
+    "summaryComponents": [
+      {
+        "compensationType": "Salary",
+        "interval": "1 YEAR",
+        "currencyCode": "USD",
+        "minValue": 184000,
+        "maxValue": 250000
+      },
+      {
+        "compensationType": "EquityPercentage",
+        "interval": "NONE",
+        "currencyCode": null,
+        "minValue": null,
+        "maxValue": null
+      }
+    ]
+  }
+}

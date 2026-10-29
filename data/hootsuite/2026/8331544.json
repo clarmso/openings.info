@@ -1,0 +1,71 @@
+{
+  "absolute_url": "https://job-boards.greenhouse.io/hootsuite/jobs/8331544",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": false,
+      "requires_processing_consent": false,
+      "requires_retention_consent": false,
+      "retention_period": null,
+      "demographic_data_consent_applies": false
+    }
+  ],
+  "internal_job_id": 3601341,
+  "location": {
+    "name": "Vancouver, British Columbia, Canada; Toronto, Ontario, Canada; Ottawa, Ontario, Canada"
+  },
+  "metadata": [
+    {
+      "id": 25593575,
+      "name": "Pay Range - Applicant - Canada",
+      "value": {
+        "unit": "CAD",
+        "max_value": "94700.0",
+        "min_value": "67700.0"
+      },
+      "value_type": "currency_range"
+    },
+    {
+      "id": 25593576,
+      "name": "Pay Range - Applicant - US",
+      "value": null,
+      "value_type": "currency_range"
+    }
+  ],
+  "id": 8331544,
+  "updated_at": "2026-10-28T18:37:26-04:00",
+  "requisition_id": "20260167",
+  "title": "Junior Cyber Incident Response Analyst",
+  "company_name": "Hootsuite",
+  "first_published": "2026-10-28T15:58:37-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;p&gt;Hootsuite’s Security team is looking for a Junior Cyber Incident Response Analyst to assist the team in securing our product, services and IT infrastructure. You’ll work to identify and stop attacks when they occur, and support in developing and implementing technologies, controls, and processes to prevent them. This is a hybrid role and is open to applicants located within commuting distance of our Hootsuite office in Vancouver or Toronto. In this role, you will report to the Director, Information Security.&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;WHAT YOU’LL DO:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Support the team in the day-to-day security operations monitoring and response for corporate and customer facing systems&lt;/li&gt;\n&lt;li&gt;Perform incident analysis and triage, requiring an understanding of network fundamentals, malware analysis, and de-obfuscation techniques&lt;/li&gt;\n&lt;li&gt;Assist in analyzing, escalating, and responding to alerts that originate from our MSSP and other security tools such as SIEM, IDS, Anti-Virus, EDR, WAF, and DLP&lt;/li&gt;\n&lt;li&gt;Support in corporate-wide Security Incident Response Teams to contain threats as identified&lt;/li&gt;\n&lt;li&gt;Support the technical components of the incident response by executing operational runbooks as required&lt;/li&gt;\n&lt;li&gt;Participate in Hootsuite’s security incident on-call rotation schedule&lt;/li&gt;\n&lt;li&gt;Perform other related duties as assigned&amp;nbsp;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&amp;nbsp;&lt;strong&gt;WHAT YOU’LL NEED:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Degree or Diploma in Information Technology, Computer Science or Engineering, along with information security certifications ; complete or willingness to obtain or equivalent combination of education and experience&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;1 - 2 years of experience in a security analyst, SOC analyst, incident response analyst, security engineer, or system administrator or similar role&lt;/li&gt;\n&lt;li&gt;Knowledge of common critical network protocols and layer 7 technologies such as SMTP, HTTP, HTTP/S, SSL/TLS, DNS, FTP, SSH, and others&lt;/li&gt;\n&lt;li&gt;Experience working in a cloud (preferably AWS) environment with CI/CD along with extensive familiarity with Unix / Linux based operating systems&lt;/li&gt;\n&lt;li&gt;Familiarity with Ansible and Terraform is an asset&lt;/li&gt;\n&lt;li&gt;Some experience with programming or scripting, including Bash, Python, YAML, and PowerShell&lt;/li&gt;\n&lt;li&gt;Fundamental understanding of Mac OS, Windows, and Linux operating systems&lt;/li&gt;\n&lt;li&gt;Applied understanding of the OSI model, basic networking and analytical aptitude&lt;/li&gt;\n&lt;li&gt;Thorough understanding of web and mobile application security vulnerabilities, including but not limited to the OWASP Top 10 list of vulnerabilities&lt;/li&gt;\n&lt;li&gt;Understanding of various log formats from a variety of network and computer devices&lt;/li&gt;\n&lt;li&gt;Hands on experience with security products, including SIEM, next generation AV, Firewall technologies, Amazon Services&lt;/li&gt;\n&lt;li&gt;Collaboration and Teamwork: works with others to deliver results, meaningfully contributing to the team and prioritizing group needs over individual needs&lt;/li&gt;\n&lt;li&gt;Creativity and Innovation: seeks new and better ways of doing things, generates original and imaginative ideas, products, or solutions&lt;/li&gt;\n&lt;li&gt;Customer Focus: demonstrates a desire to proactively help and serve internal/external customers meet their needs&lt;/li&gt;\n&lt;li&gt;Open Communication: clearly conveys thoughts, both written and verbally, listening attentively and asking questions for clarification and understanding&lt;/li&gt;\n&lt;li&gt;Problem Solving: uses an organized and logical approach to find solutions to complex problems. Looks beyond the obvious to understand the root cause of problem&lt;/li&gt;\n&lt;li&gt;Challenges and supports others to create results but also develop new capabilities. Successfully develops the capacity and capability of team and individuals on the team&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;WHO YOU ARE:&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li style=&quot;font-weight: 400;&quot;&gt;Solution seeker: You’re focused on tackling new challenges, solving problems, and moving the business forward—and you don’t wait to be asked.&lt;/li&gt;\n&lt;li style=&quot;font-weight: 400;&quot;&gt;Lifelong learner: You have a growth mindset – you’re here to learn, experiment, seek, apply, and provide feedback, share what works with your team, and move on from what doesn’t.&lt;/li&gt;\n&lt;li style=&quot;font-weight: 400;&quot;&gt;Resilient adapter: In the face of change and challenges, you bring a thoughtful, calm approach, and a focus on finding the new opportunity.&lt;/li&gt;\n&lt;li style=&quot;font-weight: 400;&quot;&gt;Intentional collaborator. You build positive working relationships across the business, bringing people together to foster new opportunities and to facilitate the efficient flow of information.&lt;/li&gt;\n&lt;li style=&quot;font-weight: 400;&quot;&gt;Critical challenger: You have the trust in your team to ask difficult questions in order to get to the best end result.&lt;/li&gt;\n&lt;li style=&quot;font-weight: 400;&quot;&gt;Active communicator: You listen actively and communicate ideas and information clearly, inclusively, and proactively.&lt;/li&gt;\n&lt;li style=&quot;font-weight: 400;&quot;&gt;Integrated thinker: You look beyond your role and responsibilities to understand how your team’s work drives broader organizational goals.&lt;/li&gt;\n&lt;li style=&quot;font-weight: 400;&quot;&gt;Accountable owner: You take pride in the work you’re responsible for with a mindset of ultimate accountability and reliability for the outcomes.&lt;/li&gt;\n&lt;li style=&quot;font-weight: 400;&quot;&gt;Bar-raiser: You step up to help your team grow and succeed, even when that means going beyond what might be expected.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;hr&gt;\n&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;In all we do, our six guiding principles light the way:&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Step Up:&lt;/strong&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt; Dare to go beyond the expected to achieve greatness. #StepUp&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;One Team: &lt;/strong&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Make Hootsuite a place we soar together by respecting each other&#39;s individuality, building trust, and showing up for the team. #OneTeam #FreeToBeMe&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Customer Obsessed: &lt;/strong&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Focus relentlessly on helping our customers succeed. #CustomerObsessed&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Go Fast, Be Agile: &lt;/strong&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Widen our competitive advantage by committing to speed and simplicity over perfection and complexity. #GoFastBeAgile&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Play to Win: &lt;/strong&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Commit to building an incredible, profitable company for our customers, our employees, and our stakeholders. #PlayToWin #NoExcuses&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Neighbours &amp;amp; Allies: &lt;/strong&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Give back to our communities and be an ally. #SocialForGood #Allies&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;em&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;br&gt;Accommodations will be provided as requested by candidates taking part in all aspects of the selection process.&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;#LI-Hybrid&lt;/p&gt;&lt;div class=&quot;content-pay-transparency&quot;&gt;&lt;div class=&quot;pay-input&quot;&gt;&lt;div class=&quot;title&quot;&gt;Canada Pay Range For This Role&lt;/div&gt;&lt;div class=&quot;pay-range&quot;&gt;&lt;span&gt;$67,700&lt;/span&gt;&lt;span class=&quot;divider&quot;&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;$94,700 CAD&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Use of AI in Hiring&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Hootsuite uses artificial intelligence (AI) to support our recruitment process. These tools may assist with screening and assessing applicants and / or summarizing interview feedback. All final hiring decisions are made by human decision-makers who use their professional judgement to review and evaluate relevant candidate information in addition to AI outputs. For more information about how we use AI and your rights, please see our&amp;nbsp;&lt;a href=&quot;https://careers.hootsuite.com/privacy-policy/&quot;&gt;Careers Privacy Policy.&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;",
+  "departments": [
+    {
+      "id": 370698,
+      "name": "Security",
+      "child_ids": [],
+      "parent_id": 83759
+    }
+  ],
+  "offices": [
+    {
+      "id": 24311,
+      "name": "Toronto",
+      "location": "Toronto, Ontario, Canada",
+      "child_ids": [],
+      "parent_id": 24309
+    },
+    {
+      "id": 24310,
+      "name": "Vancouver",
+      "location": "Vancouver, British Columbia, Canada",
+      "child_ids": [],
+      "parent_id": 24309
+    }
+  ],
+  "ai_disclaimer": null,
+  "include_ai_disclaimer": null,
+  "ai_opt_out_request_url": null
+}

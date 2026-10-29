@@ -1,0 +1,148 @@
+{
+  "absolute_url": "https://www.mongodb.com/careers/job/?gh_jid=8327081",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": false,
+      "requires_processing_consent": false,
+      "requires_retention_consent": false,
+      "retention_period": null,
+      "demographic_data_consent_applies": true
+    }
+  ],
+  "internal_job_id": 3599587,
+  "location": {
+    "name": "Palo Alto"
+  },
+  "metadata": [
+    {
+      "id": 22194060,
+      "name": "Position ID",
+      "value": "10016239",
+      "value_type": "short_text"
+    },
+    {
+      "id": 24918,
+      "name": "Department ID",
+      "value": "D85024-FIN Tech",
+      "value_type": "single_select"
+    },
+    {
+      "id": 22194061,
+      "name": "Team",
+      "value": "388-ERP",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4914027,
+      "name": "Region",
+      "value": "North America",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4137836,
+      "name": "Working Model Eligibility",
+      "value": [
+        "2-Flexible"
+      ],
+      "value_type": "multi_select"
+    },
+    {
+      "id": 4914029,
+      "name": "Job Level",
+      "value": "Professional - IC",
+      "value_type": "single_select"
+    },
+    {
+      "id": 24109,
+      "name": "Employment Type",
+      "value": "Full-time",
+      "value_type": "single_select"
+    },
+    {
+      "id": 1073551,
+      "name": "Job Type",
+      "value": "Standard",
+      "value_type": "single_select"
+    },
+    {
+      "id": 988684,
+      "name": "JD Link",
+      "value": "https://docs.google.com/document/d/16vadb5fyEHm1RVkkN-eWwoODZ7V7z6XHGhwWtANtdAY/edit?tab=t.0#heading=h.gkyk86qodnpe",
+      "value_type": "url"
+    },
+    {
+      "id": 5525802,
+      "name": "Baseline Budgeted Salary",
+      "value": null,
+      "value_type": "currency_range"
+    },
+    {
+      "id": 5525816,
+      "name": "Other Large Market Budgeted Salary",
+      "value": null,
+      "value_type": "currency_range"
+    },
+    {
+      "id": 13324394,
+      "name": "Job Post Range (United States)",
+      "value": {
+        "unit": "USD",
+        "max_value": "154000.0",
+        "min_value": "78000.0"
+      },
+      "value_type": "currency_range"
+    },
+    {
+      "id": 40497768,
+      "name": "Job Post Range (Canada)",
+      "value": {
+        "unit": "USD",
+        "max_value": "0.0",
+        "min_value": "0.0"
+      },
+      "value_type": "currency_range"
+    },
+    {
+      "id": 57694516,
+      "name": "Job Post Range (Poland)",
+      "value": null,
+      "value_type": "currency_range"
+    },
+    {
+      "id": 64002488,
+      "name": "Job Post Range (Italy)",
+      "value": null,
+      "value_type": "currency_range"
+    }
+  ],
+  "id": 8327081,
+  "updated_at": "2026-10-28T15:02:36-04:00",
+  "requisition_id": "3273599587",
+  "title": "Product Manager 2, Source2Pay",
+  "company_name": "MongoDB",
+  "first_published": "2026-10-28T15:02:36-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;p&gt;MongoDB is seeking an experienced and outcome-oriented Product Manager 2 to partner with the Product Lead for Source-to-Pay (S2P) and Travel &amp;amp; Expense (T&amp;amp;E) to deliver the roadmap across these domains. This role sits at the intersection of Finance, Procurement, Accounting, employees, and Technology, helping MongoDB scale spend-management operations through intuitive experiences, reliable platforms, strong controls, and intelligent automation.&lt;/p&gt;\n&lt;p&gt;You will own product discovery, strategy, roadmap, prioritization, requirements, delivery partnership, and adoption for a portfolio that may include procurement, supplier onboarding and management, purchasing, invoicing, business travel, corporate cards, expense submission, audit, reimbursement, and related reporting and integrations.&lt;/p&gt;\n&lt;p&gt;The ideal candidate combines strong product judgment with enterprise business-systems and AI fluency. You can move comfortably from understanding an employee or Finance pain point to defining a scalable solution, evaluating where AI can improve the experience or operation, aligning stakeholders, guiding an engineering team, and measuring whether the change delivered business value.&lt;/p&gt;\n&lt;h3&gt;What you’ll do&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Partner with the Product Lead for S2P and T&amp;amp;E to shape, prioritize, and deliver the roadmap, translating Finance Technology and company objectives into clear product outcomes and execution plans&lt;/li&gt;\n&lt;li&gt;Build deep understanding of users and business processes across Procurement, Accounts Payable, Accounting, Travel &amp;amp; Expense, Finance, Legal, Security, Internal Audit, and employees&lt;/li&gt;\n&lt;li&gt;Translate business problems into clear product outcomes, including detailed PRDs, epics, user stories, acceptance criteria, process designs, and release plans&lt;/li&gt;\n&lt;li&gt;Lead discovery through interviews, workflow analysis, data analysis, process mapping, and collaboration with subject-matter experts&lt;/li&gt;\n&lt;li&gt;Prioritize investments across new capabilities, enhancements, integrations, operational improvements, technical debt, compliance needs, and user experience&lt;/li&gt;\n&lt;li&gt;Partner closely with Engineering, Architecture, Business Systems, Data &amp;amp; Analytics, Security, Compliance, Internal Audit, and external vendors to deliver reliable and maintainable solutions&lt;/li&gt;\n&lt;li&gt;Drive improvements across procurement and spend workflows, including requisitions, approvals, supplier onboarding, supplier data, purchase orders, invoicing, payment-related handoffs, and spend visibility&lt;/li&gt;\n&lt;li&gt;Drive improvements across T&amp;amp;E workflows, including travel booking, expense submission, corporate cards, policy enforcement, audit, approvals, reimbursement, employee communications, and support experiences&lt;/li&gt;\n&lt;li&gt;Advance intelligent automation, AI-assisted workflows, and self-service capabilities that reduce manual work, improve processing speed, and provide a better employee experience&lt;/li&gt;\n&lt;li&gt;Identify, frame, and prioritize practical AI opportunities across S2P and T&amp;amp;E, such as conversational support, document and receipt understanding, anomaly or fraud detection, policy guidance, risk-based routing, and workflow recommendations&lt;/li&gt;\n&lt;li&gt;Partner with Data &amp;amp; Analytics, Engineering, Security, Privacy, Compliance, and business owners to define responsible AI requirements, including data quality, human oversight, explainability, access controls, monitoring, evaluation, and failure-handling&lt;/li&gt;\n&lt;li&gt;Define and monitor product metrics such as adoption, cycle time, straight-through processing, manual-touch reduction, approval and reimbursement time, exception rates, policy compliance, data quality, support volume, and user satisfaction&lt;/li&gt;\n&lt;li&gt;Ensure product decisions support appropriate access controls, segregation of duties, auditability, data integrity, privacy, and SOX or other applicable control requirements&lt;/li&gt;\n&lt;li&gt;Lead product delivery rituals and operating rhythms, including roadmap reviews, backlog refinement, sprint planning, demos, release readiness, stakeholder readouts, and retrospectives&lt;/li&gt;\n&lt;li&gt;Coordinate integrated testing, business validation, launch readiness, change management, training, communications, and post-launch measurement&lt;/li&gt;\n&lt;li&gt;Serve as a trusted advisor to business leaders and help stakeholders make informed trade-offs among value, risk, cost, time, user experience, and technical health&lt;/li&gt;\n&lt;li&gt;Support incident and problem management for in-scope platforms, partnering with Engineering and Business Systems on root-cause analysis, remediation, and stakeholder communication when issues arise&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;What we’re looking for&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Bachelor’s degree in Business, Information Systems, or a related field&lt;/li&gt;\n&lt;li&gt;5+ years of product management experience, or equivalent experience in enterprise technology, business systems, product ownership, or solution delivery&lt;/li&gt;\n&lt;li&gt;Proven experience owning an enterprise product or set of connected tools from discovery through delivery and adoption&lt;/li&gt;\n&lt;li&gt;Experience with Source-to-Pay, procurement, accounts payable, travel, expense, corporate card, or related Finance operations&lt;/li&gt;\n&lt;li&gt;Strong understanding of enterprise business-system concepts, including workflows, approvals, master data, integrations, reporting, controls, and role-based access&lt;/li&gt;\n&lt;li&gt;Experience partnering with Agile or iterative delivery teams and translating complex business needs into actionable requirements&lt;/li&gt;\n&lt;li&gt;Strong analytical skills and the ability to use data to frame problems, prioritize work, and measure outcomes&lt;/li&gt;\n&lt;li&gt;Demonstrated AI fluency: understand the strengths, limitations, risks, and economics of modern AI capabilities, and know how to translate them into responsible enterprise product opportunities&lt;/li&gt;\n&lt;li&gt;Experience defining AI-enabled product requirements, evaluation criteria, feedback loops, or human-in-the-loop workflows is preferred&lt;/li&gt;\n&lt;li&gt;Demonstrated ability to influence cross-functional stakeholders and make progress in a complex, matrixed environment&lt;/li&gt;\n&lt;li&gt;Excellent written and verbal communication skills, including the ability to explain technical and operational topics to executive, business, and engineering audiences&lt;/li&gt;\n&lt;li&gt;Ability to balance strategic thinking with hands-on execution and attention to operational detail&lt;/li&gt;\n&lt;li&gt;Experience with one or more relevant platforms, such as Coupa, Concur, NetSuite, Brex, AppZen, Navan or comparable procurement, ERP, expense, travel, or spend-management solutions&lt;/li&gt;\n&lt;li&gt;Experience with integrations, APIs, middleware, data flows, and third-party SaaS platforms&lt;/li&gt;\n&lt;li&gt;Familiarity with audit, compliance, SOX, privacy, or internal-control considerations in Finance systems is preferred&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;Success in this role&lt;/h3&gt;\n&lt;p&gt;Within 6 months&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Build strong relationships with key Finance, Procurement, T&amp;amp;E, Technology, Engineering, and control partners&lt;/li&gt;\n&lt;li&gt;Develop a clear understanding of the current S2P and T&amp;amp;E operating model, product landscape, integrations, pain points, controls, and roadmap commitments&lt;/li&gt;\n&lt;li&gt;Establish a fact base of user needs, operational metrics, platform risks, and improvement opportunities&lt;/li&gt;\n&lt;li&gt;Assess the highest-value AI and automation opportunities, establish a baseline for current manual effort and service quality, and identify the data, control, and adoption requirements for experimentation&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;Within 12 months&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Deliver a scalable set of capabilities that reduces manual effort and improves the end-to-end S2P and T&amp;amp;E experience&lt;/li&gt;\n&lt;li&gt;Demonstrate measurable progress against agreed product outcomes and service-level indicators&lt;/li&gt;\n&lt;li&gt;Strengthen platform reliability, integration quality, auditability, and operational readiness&lt;/li&gt;\n&lt;li&gt;Become a trusted product partner to Finance and Technology leaders and a recognized subject-matter expert for the assigned domain&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;What makes you successful&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Product mindset: Focus on outcomes, user value, adoption, and continuous improvement—not just feature delivery&lt;/li&gt;\n&lt;li&gt;Strategic execution: Connect day-to-day prioritization to longer-term Finance Technology strategy&lt;/li&gt;\n&lt;li&gt;Stakeholder leadership: Build trust, surface trade-offs early, and create alignment without relying on authority&lt;/li&gt;\n&lt;li&gt;Technical fluency: Understand systems, integrations, data, architecture, security, and technical debt well enough to make sound product decisions&lt;/li&gt;\n&lt;li&gt;AI fluency: Distinguish appropriate AI use cases from rule-based automation, articulate trade-offs among accuracy, latency, cost, privacy, and user trust, and create a disciplined path from experimentation to production&lt;/li&gt;\n&lt;li&gt;Operational ownership: Care about reliability, controls, supportability, change management, and the experience after launch&lt;/li&gt;\n&lt;li&gt;Structured problem-solving: Break down ambiguous problems, use evidence, and make decisions with appropriate speed&lt;/li&gt;\n&lt;li&gt;Clear communication: Create crisp narratives, requirements, decisions, and executive updates&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;Why join Finance Technology at MongoDB&lt;/h3&gt;\n&lt;p&gt;You will help modernize foundational systems that employees and Finance teams rely on every day. This is an opportunity to shape how MongoDB manages company spend, improve the experience of thousands of users, and build scalable, controlled, and increasingly automated processes at the intersection of Finance, Technology, and operations.&lt;/p&gt;\n&lt;h3&gt;About MongoDB&lt;/h3&gt;\n&lt;p&gt;MongoDB is built for change, empowering our customers and our people to innovate at the speed of the market. We have redefined the data platform for the AI era, enabling builders to create, transform, and disrupt industries with software. MongoDB’s unified data platform, the most widely available, globally distributed data platform on the market, helps organizations modernize legacy workloads, embrace innovation, and unleash AI. Our cloud-native platform, MongoDB Atlas, is the only globally distributed, multi-cloud data platform and is available across AWS, Google Cloud, and Microsoft Azure.&lt;/p&gt;\n&lt;p&gt;With offices worldwide and over 67,000 customers, including AI-native startups and approximately 75% of the Fortune 100, relying on MongoDB for their most important applications, we’re powering the next era of software.&lt;/p&gt;\n&lt;p&gt;Our compass at MongoDB is our &lt;a href=&quot;https://www.mongodb.com/company&quot;&gt;Leadership Commitment,&lt;/a&gt; guiding how and why we make decisions, show up for each other, and win. It’s what makes us MongoDB.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;To drive the personal growth and business impact of our employees, we’re committed to developing a supportive and enriching culture for everyone. &lt;a href=&quot;https://www.mongodb.com/company/blog/culture/employee-benefits-that-make-a-difference-at-mongodb&quot;&gt;From employee affinity groups, to fertility assistance and a generous parental leave policy&lt;/a&gt;, we value our employees’ wellbeing and want to support them along every step of their professional and personal journeys.&lt;a href=&quot;https://www.mongodb.com/blog/channel/culture&quot;&gt; Learn more about what it’s like to work at MongoDB&lt;/a&gt;, and help us make an impact on the world!&lt;/p&gt;\n&lt;p&gt;MongoDB is committed to providing any necessary accommodations for individuals with disabilities within our application and interview process. To request an accommodation due to a disability, please inform your recruiter.&lt;/p&gt;\n&lt;p&gt;MongoDB, Inc. provides equal employment opportunities to all employees and applicants for employment and prohibits discrimination and harassment of any type and makes all hiring decisions without regard to race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state or local laws.&lt;/p&gt;\n&lt;p&gt;Req ID: 3273599587&lt;/p&gt;&lt;div class=&quot;content-pay-transparency&quot;&gt;&lt;div class=&quot;pay-input&quot;&gt;&lt;div class=&quot;description&quot;&gt;&lt;p&gt;MongoDB’s base salary range for this role is posted below. Compensation at the time of offer is unique to each candidate and based on a variety of factors such as skill set, experience, qualifications, and work location. Salary is one part of MongoDB’s total compensation and benefits package. Other benefits for eligible employees may include: equity, participation in the employee stock purchase program, flexible paid time off, 20 weeks fully-paid gender-neutral parental leave, fertility and adoption assistance, 401(k) plan, mental health counseling, access to transgender-inclusive health insurance coverage, and health benefits offerings. Please note, the base salary range listed below and the benefits in this paragraph are only applicable to U.S.-based candidates.&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;title&quot;&gt;MongoDB’s base salary range for this role in the U.S. is:&lt;/div&gt;&lt;div class=&quot;pay-range&quot;&gt;&lt;span&gt;$78,000&lt;/span&gt;&lt;span class=&quot;divider&quot;&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;$154,000 USD&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;",
+  "departments": [
+    {
+      "id": 289353,
+      "name": "FIN Tech",
+      "child_ids": [],
+      "parent_id": 298006
+    }
+  ],
+  "offices": [
+    {
+      "id": 4036,
+      "name": "Atlanta",
+      "location": "Atlanta, GA, United States",
+      "child_ids": [],
+      "parent_id": 23657
+    }
+  ],
+  "ai_disclaimer": null,
+  "include_ai_disclaimer": false,
+  "ai_opt_out_request_url": null
+}

@@ -8,6 +8,16 @@
   "shouldDisplayCompensationOnJobPostings": true,
   "secondaryLocations": [
     {
+      "location": "New York, NY",
+      "address": {
+        "postalAddress": {
+          "addressRegion": "New York",
+          "addressCountry": "USA",
+          "addressLocality": "New York"
+        }
+      }
+    },
+    {
       "location": "San Diego, CA",
       "address": {
         "postalAddress": {

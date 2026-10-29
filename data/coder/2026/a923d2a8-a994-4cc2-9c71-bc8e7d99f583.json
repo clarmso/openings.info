@@ -101,15 +101,6 @@
         "additionalInformation": "SEs are on base salary/30% variable split.",
         "components": [
           {
-            "id": "411fc50c-37f8-4cf3-bb91-c49c633d6512",
-            "summary": "Estimated Base Salary $175K – $236K",
-            "compensationType": "Salary",
-            "interval": "1 YEAR",
-            "currencyCode": "USD",
-            "minValue": 175000,
-            "maxValue": 236000
-          },
-          {
             "id": "08eb39ac-82f9-449a-b677-88911a6bfc9a",
             "summary": "Offers Commission",
             "compensationType": "Commission",
@@ -126,6 +117,15 @@
             "currencyCode": null,
             "minValue": null,
             "maxValue": null
+          },
+          {
+            "id": "411fc50c-37f8-4cf3-bb91-c49c633d6512",
+            "summary": "Estimated Base Salary $175K – $236K",
+            "compensationType": "Salary",
+            "interval": "1 YEAR",
+            "currencyCode": "USD",
+            "minValue": 175000,
+            "maxValue": 236000
           }
         ]
       }

@@ -25,7 +25,8 @@
       "id": 8654220,
       "name": "Job Posting Location",
       "value": [
-        "Austin, US"
+        "Singapore",
+        "Sydney, Australia"
       ],
       "value_type": "multi_select"
     },
@@ -39,7 +40,7 @@
     }
   ],
   "id": 8311376,
-  "updated_at": "2026-10-28T05:19:35-04:00",
+  "updated_at": "2026-10-28T06:08:17-04:00",
   "requisition_id": null,
   "title": "Data Center Network Operations Engineer",
   "company_name": "Cloudflare",

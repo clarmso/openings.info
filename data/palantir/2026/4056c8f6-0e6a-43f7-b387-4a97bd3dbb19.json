@@ -28,7 +28,7 @@
     },
     {
       "text": "What We Require ",
-      "content": "\n<li>\n\n</li><li style=\"list-style-type: disc;\">4+ years of professional software engineering experience developing database engines, distributed data processing systems, storage systems, or comparable infrastructure, with depth in areas such as query planning, execution, or performance optimization. Operating on top of these technologies alone does not qualify.</li>\n<li style=\"list-style-type: disc;\">Experience diagnosing correctness and performance problems in complex systems.</li>\n<li style=\"list-style-type: disc;\">Strong written and verbal communication skills and the ability to work effectively across teams, incorporate feedback, and hold a high bar for quality.</li>\n\n\n"
+      "content": "\n<li style=\"list-style-type: disc;\">4+ years of professional software engineering experience developing database engines, distributed data processing systems, storage systems, or comparable infrastructure, with depth in areas such as query planning, execution, or performance optimization. Operating on top of these technologies alone does not qualify.</li>\n<li style=\"list-style-type: disc;\">Experience diagnosing correctness and performance problems in complex systems.</li>\n<li style=\"list-style-type: disc;\">Strong written and verbal communication skills and the ability to work effectively across teams, incorporate feedback, and hold a high bar for quality.</li>\n"
     }
   ],
   "text": "Software Engineer – Query Engines",

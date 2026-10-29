@@ -6,18 +6,7 @@
   "employmentType": "FullTime",
   "location": "US-CA-Menlo Park",
   "shouldDisplayCompensationOnJobPostings": true,
-  "secondaryLocations": [
-    {
-      "location": "US-WA-Bellevue",
-      "address": {
-        "postalAddress": {
-          "addressRegion": "Washington",
-          "addressCountry": "United States",
-          "addressLocality": "Bellevue"
-        }
-      }
-    }
-  ],
+  "secondaryLocations": [],
   "publishedAt": "2026-10-26T23:01:45.089+00:00",
   "isListed": true,
   "isRemote": null,

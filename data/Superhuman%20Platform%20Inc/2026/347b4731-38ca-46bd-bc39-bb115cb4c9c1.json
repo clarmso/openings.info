@@ -31,15 +31,6 @@
         "additionalInformation": "Commission portion of OTE: 40%",
         "components": [
           {
-            "id": "290ebdff-4f9e-41a1-8c3b-3fb44ad16209",
-            "summary": "$288K – $424K",
-            "compensationType": "Salary",
-            "interval": "1 YEAR",
-            "currencyCode": "USD",
-            "minValue": 288000,
-            "maxValue": 424000
-          },
-          {
             "id": "694669ee-b856-4cbb-8aae-2fbbe83a5f26",
             "summary": "Offers Commission",
             "compensationType": "Commission",
@@ -47,24 +38,33 @@
             "currencyCode": "USD",
             "minValue": null,
             "maxValue": null
+          },
+          {
+            "id": "290ebdff-4f9e-41a1-8c3b-3fb44ad16209",
+            "summary": "$288K – $424K",
+            "compensationType": "Salary",
+            "interval": "1 YEAR",
+            "currencyCode": "USD",
+            "minValue": 288000,
+            "maxValue": 424000
           }
         ]
       }
     ],
     "summaryComponents": [
       {
-        "compensationType": "Salary",
-        "interval": "1 YEAR",
-        "currencyCode": "USD",
-        "minValue": 288000,
-        "maxValue": 424000
-      },
-      {
         "compensationType": "Commission",
         "interval": "1 YEAR",
         "currencyCode": "USD",
         "minValue": null,
         "maxValue": null
+      },
+      {
+        "compensationType": "Salary",
+        "interval": "1 YEAR",
+        "currencyCode": "USD",
+        "minValue": 288000,
+        "maxValue": 424000
       }
     ]
   }

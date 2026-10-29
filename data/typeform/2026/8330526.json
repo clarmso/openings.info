@@ -1,0 +1,78 @@
+{
+  "absolute_url": "https://job-boards.greenhouse.io/typeform/jobs/8330526",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": true,
+      "requires_processing_consent": false,
+      "requires_retention_consent": true,
+      "retention_period": 365,
+      "demographic_data_consent_applies": false
+    }
+  ],
+  "internal_job_id": 3600953,
+  "location": {
+    "name": "Germany (Remote) ; Ireland (Remote); Netherlands (Remote) ; Portugal (Remote) ; United Kingdom (Remote) "
+  },
+  "metadata": [
+    {
+      "id": 64103,
+      "name": "Order",
+      "value": "0.0",
+      "value_type": "number"
+    },
+    {
+      "id": 686321,
+      "name": "Hiring Manager First Name",
+      "value": "Ben Pedro",
+      "value_type": "short_text"
+    },
+    {
+      "id": 1026531,
+      "name": "Pillar_Org Level 3",
+      "value": "InfoSec",
+      "value_type": "single_select"
+    },
+    {
+      "id": 64105,
+      "name": "Integration is ready (DO NOT USE)",
+      "value": null,
+      "value_type": "yes_no"
+    },
+    {
+      "id": 64104,
+      "name": "Typeform UID (DO NOT USE)",
+      "value": null,
+      "value_type": "short_text"
+    }
+  ],
+  "id": 8330526,
+  "updated_at": "2026-10-28T07:16:00-04:00",
+  "requisition_id": "609",
+  "title": "Senior IT Engineer",
+  "company_name": "Typeform",
+  "first_published": "2026-10-28T07:13:41-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h3&gt;Who we are&lt;/h3&gt;\n&lt;p&gt;Typeform is a refreshingly different form builder. We help over 150,000 businesses collect the data they need with forms, surveys, and quizzes that people enjoy. Designed to look striking and feel effortless to fill out, Typeform drives 500 million responses every year—and integrates with essential tools like Slack, Zapier, and Hubspot.&lt;/p&gt;&lt;/div&gt;&lt;h3 data-pm-slice=&quot;1 3 []&quot;&gt;About the role&lt;/h3&gt;\n&lt;p&gt;At Typeform, we believe technology should make work simpler, smarter and more human.&lt;/p&gt;\n&lt;p&gt;We&#39;re looking for a&lt;span class=&quot;Apple-converted-space&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;strong&gt;Senior IT Engineer&lt;/strong&gt;&lt;span class=&quot;Apple-converted-space&quot;&gt;&amp;nbsp;&lt;/span&gt;to help shape the future of IT at Typeform. Someone who combines strong technical expertise with a passion for automation, AI and building better ways of working.&lt;/p&gt;\n&lt;p&gt;This isn&#39;t just about keeping systems running. It&#39;s about rethinking how IT operates.&lt;/p&gt;\n&lt;p&gt;You&#39;ll play a key role in building an AI first, service led IT function, improving how we manage internal technology, support our people and automate everyday processes.&lt;/p&gt;\n&lt;p&gt;Working within a small, high impact team, you&#39;ll have the opportunity to take ownership of meaningful projects, influence our technology roadmap and help us move from reactive support towards smarter, more proactive IT operations.&lt;/p&gt;\n&lt;h3&gt;What you&#39;ll do&lt;/h3&gt;\n&lt;p&gt;&lt;strong&gt;Own and improve our IT operations&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Act as a senior escalation point for complex IT incidents, requests and technical challenges, taking ownership through to resolution.&lt;/li&gt;\n&lt;li&gt;Help maintain secure, reliable and scalable internal technology systems.&lt;/li&gt;\n&lt;li&gt;Apply ITIL best practices across incident, change, problem and service management.&lt;/li&gt;\n&lt;li&gt;Improve service performance, documentation, operational processes and the overall employee experience.&lt;/li&gt;\n&lt;li&gt;Work closely with the wider IT team to balance daily support with longer term engineering projects.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;Build smarter systems through AI and automation&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Identify opportunities to automate repetitive tasks and improve workflows across IT.&lt;/li&gt;\n&lt;li&gt;Design and implement AI powered solutions that improve service delivery, productivity and operational efficiency.&lt;/li&gt;\n&lt;li&gt;Improve employee onboarding, offboarding, access management and software lifecycle processes.&lt;/li&gt;\n&lt;li&gt;Use APIs, integrations, scripting and automation tools to connect systems and remove unnecessary manual work.&lt;/li&gt;\n&lt;li&gt;Explore emerging AI technologies and turn promising ideas into practical solutions, with appropriate security and governance.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;Think like a product owner&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Take ownership of specific IT services and capabilities, from identifying problems through to delivering improvements.&lt;/li&gt;\n&lt;li&gt;Work with stakeholders to understand their needs and prioritise improvements based on business impact.&lt;/li&gt;\n&lt;li&gt;Build and maintain clear roadmaps and project backlogs.&lt;/li&gt;\n&lt;li&gt;Measure the success of improvements through service quality, efficiency, reliability and employee experience.&lt;/li&gt;\n&lt;li&gt;Lead technical changes, migrations and improvements with clear communication, risk management and planning.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;Collaborate across Typeform&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Partner with Security, People, Finance, Procurement and Engineering to deliver secure and effective technology solutions.&lt;/li&gt;\n&lt;li&gt;Communicate technical concepts clearly to both technical and nontechnical colleagues.&lt;/li&gt;\n&lt;li&gt;Share knowledge, improve documentation and support the development of other IT team members.&lt;/li&gt;\n&lt;li&gt;Help create a culture of ownership, continuous improvement and experimentation.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;What you&#39;ll bring&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Strong experience in corporate IT engineering, systems engineering or IT service management within a modern SaaS or technology company.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;ITIL certification and practical experience&lt;/strong&gt;&lt;span class=&quot;Apple-converted-space&quot;&gt;&amp;nbsp;&lt;/span&gt;applying ITIL principles across incident, change, problem and service management.&lt;/li&gt;\n&lt;li&gt;Proven experience troubleshooting complex issues across corporate IT systems, identity, access, devices, applications and integrations.&lt;/li&gt;\n&lt;li&gt;Strong hands on experience with modern IT environments, particularly Apple devices, Okta, Google Workspace, Slack and Atlassian.&lt;/li&gt;\n&lt;li&gt;Experience building automation using APIs, scripting, integrations or workflow automation tools.&lt;/li&gt;\n&lt;li&gt;Practical experience using AI to improve IT operations, support processes or internal productivity.&lt;/li&gt;\n&lt;li&gt;Experience improving employee lifecycle processes, including onboarding, offboarding, provisioning and access management.&lt;/li&gt;\n&lt;li&gt;Strong problem solving skills and the ability to take ownership of technical challenges from investigation through to resolution.&lt;/li&gt;\n&lt;li&gt;A product mindset, with experience prioritising improvements, managing stakeholders and delivering measurable outcomes.&lt;/li&gt;\n&lt;li&gt;Excellent communication skills and the ability to work effectively across technical and business teams.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;Nice to have&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Experience designing AI driven IT workflows or introducing AI into internal service operations.&lt;/li&gt;\n&lt;li&gt;Familiarity with AI agents, intelligent workflow orchestration and knowledge management systems.&lt;/li&gt;\n&lt;li&gt;Experience integrating HR, identity, finance, asset management and IT service platforms.&lt;/li&gt;\n&lt;li&gt;Experience building internal tooling, dashboards or operational reporting.&lt;/li&gt;\n&lt;li&gt;Exposure to security, compliance, endpoint management and IT governance.&lt;/li&gt;\n&lt;li&gt;Experience leading technology migrations or large internal systems improvement projects.&lt;/li&gt;\n&lt;/ul&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;*Typeform drives hundreds of millions of interactions each year, enabling conversational, human-centered experiences across the globe. We &lt;strong&gt;move as one team&lt;/strong&gt;, empowering our collective efforts by valuing each individual’s unique perspective. This fosters &lt;strong&gt;strong bonds&lt;/strong&gt; grounded in respect, transparency, and trust. We &lt;strong&gt;champion our diverse customer base&lt;/strong&gt; by anticipating their needs and addressing their challenges with priority. Committed to excellence, we&lt;strong&gt; hold high expectations &lt;/strong&gt;for ourselves and each other, continuously striving to deliver exceptional results.&lt;/p&gt;\n&lt;p&gt;We are proud to be an equal-opportunity employer. We celebrate diversity and stand firmly against discrimination and harassment of any kind—whether based on race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or expression, or veteran status. Everyone is welcome here.&lt;/p&gt;&lt;/div&gt;",
+  "departments": [
+    {
+      "id": 19395,
+      "name": "People and Culture",
+      "child_ids": [],
+      "parent_id": null
+    }
+  ],
+  "offices": [
+    {
+      "id": 78531,
+      "name": "United Kingdom (Remote) ",
+      "location": null,
+      "child_ids": [],
+      "parent_id": 84513
+    }
+  ],
+  "ai_disclaimer": null,
+  "include_ai_disclaimer": null,
+  "ai_opt_out_request_url": null
+}

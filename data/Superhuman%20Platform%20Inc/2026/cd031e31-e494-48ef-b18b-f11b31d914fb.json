@@ -1,0 +1,42 @@
+{
+  "id": "cd031e31-e494-48ef-b18b-f11b31d914fb",
+  "title": "Security Engineer ",
+  "department": "Engineering, Product, Design, and Marketing",
+  "team": "Engineering",
+  "employmentType": "FullTime",
+  "location": "Hub - Kyiv",
+  "shouldDisplayCompensationOnJobPostings": false,
+  "secondaryLocations": [
+    {
+      "location": "Hub - Berlin",
+      "address": {
+        "postalAddress": {
+          "addressRegion": "Germany",
+          "addressCountry": "Germany",
+          "addressLocality": "Berlin"
+        }
+      }
+    }
+  ],
+  "publishedAt": "2026-10-28T10:27:21.720+00:00",
+  "isListed": true,
+  "isRemote": true,
+  "workplaceType": "Hybrid",
+  "address": {
+    "postalAddress": {
+      "addressRegion": "Ukraine",
+      "addressCountry": "Ukraine",
+      "addressLocality": "Kyiv"
+    }
+  },
+  "jobUrl": "https://jobs.ashbyhq.com/Superhuman%20Platform%20Inc/cd031e31-e494-48ef-b18b-f11b31d914fb",
+  "applyUrl": "https://jobs.ashbyhq.com/Superhuman%20Platform%20Inc/cd031e31-e494-48ef-b18b-f11b31d914fb/application",
+  "descriptionHtml": "<p style=\"min-height:1.5em\"><strong>Location: </strong>Berlin, Germany, or Kyiv, Ukraine</p><p style=\"min-height:1.5em\"><strong>Department: </strong>Engineering</p><p style=\"min-height:1.5em\"><strong>Level of Experience: </strong>L3</p><p style=\"min-height:1.5em\"><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://superhuman.com/company/careers/jobs?ashby_jid=bc22c12c-c89d-48fe-938c-5e7065c43943\"><strong>Link to Job Posting</strong></a></p><p style=\"min-height:1.5em\"><strong>Short Summary of Role: </strong>Superhuman is looking for a Security Engineer to join our Detection &amp; Response team and strengthen our ability to identify, investigate, and respond to security threats across our environments. In this role, you'll lead complex security investigations, drive incident response initiatives, develop automated threat detection and intelligence pipelines, and leverage AI to build innovative security solutions, including autonomous security agents. You'll also bring an attacker mindset to uncover vulnerabilities and improve our defensive capabilities. Ideal candidates have 3+ years of security engineering experience, strong expertise in incident response and detection engineering, hands-on programming skills in Python, Go, or similar languages, and a passion for security automation and emerging AI technologies.</p>",
+  "descriptionPlain": "Location: Berlin, Germany, or Kyiv, Ukraine\n\nDepartment: Engineering\n\nLevel of Experience: L3\n\nLink to Job Posting https://superhuman.com/company/careers/jobs?ashby_jid=bc22c12c-c89d-48fe-938c-5e7065c43943\n\nShort Summary of Role: Superhuman is looking for a Security Engineer to join our Detection & Response team and strengthen our ability to identify, investigate, and respond to security threats across our environments. In this role, you'll lead complex security investigations, drive incident response initiatives, develop automated threat detection and intelligence pipelines, and leverage AI to build innovative security solutions, including autonomous security agents. You'll also bring an attacker mindset to uncover vulnerabilities and improve our defensive capabilities. Ideal candidates have 3+ years of security engineering experience, strong expertise in incident response and detection engineering, hands-on programming skills in Python, Go, or similar languages, and a passion for security automation and emerging AI technologies.",
+  "compensation": {
+    "compensationTierSummary": null,
+    "scrapeableCompensationSalarySummary": null,
+    "compensationTiers": [],
+    "summaryComponents": []
+  }
+}

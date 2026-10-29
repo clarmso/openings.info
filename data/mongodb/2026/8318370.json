@@ -1,0 +1,148 @@
+{
+  "absolute_url": "https://www.mongodb.com/careers/job/?gh_jid=8318370",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": false,
+      "requires_processing_consent": false,
+      "requires_retention_consent": false,
+      "retention_period": null,
+      "demographic_data_consent_applies": true
+    }
+  ],
+  "internal_job_id": 3596132,
+  "location": {
+    "name": "Dublin, Ireland"
+  },
+  "metadata": [
+    {
+      "id": 22194060,
+      "name": "Position ID",
+      "value": "10016259",
+      "value_type": "short_text"
+    },
+    {
+      "id": 24918,
+      "name": "Department ID",
+      "value": "D41620-Renewals",
+      "value_type": "single_select"
+    },
+    {
+      "id": 22194061,
+      "name": "Team",
+      "value": "T10240-Renewals",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4914027,
+      "name": "Region",
+      "value": "EMEA",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4137836,
+      "name": "Working Model Eligibility",
+      "value": [
+        "2-Flexible"
+      ],
+      "value_type": "multi_select"
+    },
+    {
+      "id": 4914029,
+      "name": "Job Level",
+      "value": "Professional - IC",
+      "value_type": "single_select"
+    },
+    {
+      "id": 24109,
+      "name": "Employment Type",
+      "value": "Full-time",
+      "value_type": "single_select"
+    },
+    {
+      "id": 1073551,
+      "name": "Job Type",
+      "value": "Standard",
+      "value_type": "single_select"
+    },
+    {
+      "id": 988684,
+      "name": "JD Link",
+      "value": "https://docs.google.com/document/d/1V1VZiccqHYomXXN51iGDoCelFuVI1aF7Dc0d2kPjZgI/edit?tab=t.0#heading=h.5o1uklfrqyh3",
+      "value_type": "url"
+    },
+    {
+      "id": 5525802,
+      "name": "Baseline Budgeted Salary",
+      "value": null,
+      "value_type": "currency_range"
+    },
+    {
+      "id": 5525816,
+      "name": "Other Large Market Budgeted Salary",
+      "value": null,
+      "value_type": "currency_range"
+    },
+    {
+      "id": 13324394,
+      "name": "Job Post Range (United States)",
+      "value": {
+        "unit": "EUR",
+        "max_value": "0.0",
+        "min_value": "0.0"
+      },
+      "value_type": "currency_range"
+    },
+    {
+      "id": 40497768,
+      "name": "Job Post Range (Canada)",
+      "value": {
+        "unit": "EUR",
+        "max_value": "0.0",
+        "min_value": "0.0"
+      },
+      "value_type": "currency_range"
+    },
+    {
+      "id": 57694516,
+      "name": "Job Post Range (Poland)",
+      "value": null,
+      "value_type": "currency_range"
+    },
+    {
+      "id": 64002488,
+      "name": "Job Post Range (Italy)",
+      "value": null,
+      "value_type": "currency_range"
+    }
+  ],
+  "id": 8318370,
+  "updated_at": "2026-10-28T13:44:05-04:00",
+  "requisition_id": "3273596132",
+  "title": "Renewals Manager (Italian Speaker) ",
+  "company_name": "MongoDB",
+  "first_published": "2026-10-28T09:31:07-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;p&gt;MongoDB is looking for a driven, results-oriented, and experienced Renewal Manager (Senior Individual Contributor) to join our Renewals Growth Organization in EMEA. In this role, you will lead the end-to-end commercial renewal lifecycle across two critical segments in the Italian market: high-velocity Enterprise Growth accounts and strategic Public Sector (PubSec) institutions.&lt;/p&gt;\n&lt;p&gt;Success in this role requires a blend of commercial acumen, operational discipline, and domain expertise in public procurement. You will navigate complex Italian administrative and regulatory frameworks while acting as a trusted commercial advisor to ensure high retention, predictable forecasts, and long-term customer value.&lt;/p&gt;\n&lt;p&gt;We are looking to speak to candidates who are based in Dublin for our hybrid working model.&lt;/p&gt;\n&lt;h3&gt;What You Will Be Doing&lt;/h3&gt;\n&lt;p&gt;As a Renewal Manager at MongoDB, you will own the renewal execution strategy across your assigned territory, driving high Gross Retention Rates (GRR) and closing Professional Services (PS). You will collaborate closely with Sales, Customer Success, Legal, Deal Desk, and Finance to deliver a frictionless experience for both commercial enterprises and public administrations.&lt;/p&gt;\n&lt;p&gt;Renewal &amp;amp; Commercial Management&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;End-to-End Ownership: Proactively lead the renewal cycle for an assigned portfolio of Italian Enterprise Growth and Public Sector accounts, managing timelines, risk mitigation, and commercial negotiations to exceed retention targets&lt;/li&gt;\n&lt;li&gt;Public Sector Navigation: Navigate Italian public sector procurement mechanisms, tender processes, compliance mandates, and budgetary/fiscal cycles (e.g., Consip, MePA/electronic marketplaces, framework agreements, and administrative compliance)&lt;/li&gt;\n&lt;li&gt;Proactive Engagement: Initiate customer and partner engagements at least 120 days prior to contract expiration to uncover requirements, align with fiscal timelines, and de-risk renewals early&lt;/li&gt;\n&lt;li&gt;Deal Structuring &amp;amp; Quoting: Prepare accurate renewal proposals, multi-year commitments, order forms, and amendments that comply with MongoDB commercial policies and public contracting guidelines&lt;/li&gt;\n&lt;li&gt;Account Growth &amp;amp; Services Attachment: Partner with Account Executives to uncover expansion opportunities, protect baseline recurring revenue, and strategically position Professional Services and training credits where appropriate&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;Data Analysis &amp;amp; Forecasting&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Maintain rigorous pipeline hygiene and accurate, real-time forecasts within Salesforce (and Tableau), tracking key renewal milestones and potential risk indicators&lt;/li&gt;\n&lt;li&gt;Analyze customer consumption, deployment health, and contract terms to build proactive retention strategies for at-risk accounts&lt;/li&gt;\n&lt;li&gt;Deliver regular, structured business updates to EMEA leadership regarding renewal progress, risk mitigation plans, and market trends&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;Cross-Functional Collaboration &amp;amp; Process Excellence&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Orchestrate internal resources across Legal, Deal Desk, Finance, Compliance, and Security to address bespoke enterprise terms and public tender/compliance requirements&lt;/li&gt;\n&lt;li&gt;Partner with Enterprise and PubSec Field Sales teams to align on account strategy, customer positioning, and commercial terms&lt;/li&gt;\n&lt;li&gt;Help refine and standardize best practices for managing Italian public administration contracts within MongoDB’s EMEA operational model&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;We’re Looking for Someone With:&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Experience: 4–5+ years of quota-carrying or commercial outcome-oriented experience in renewals, account management, or customer-facing sales within a fast-paced SaaS, cloud, or enterprise technology environment&lt;/li&gt;\n&lt;li&gt;Italian Public Sector Expertise: Proven familiarity with Italian Public Sector procurement processes, government buying cycles, public tenders (gare d’appalto), and purchasing vehicles/frameworks (e.g., Consip, MePA)&lt;/li&gt;\n&lt;li&gt;Track Record: Demonstrated history of consistently meeting or exceeding retention, renewal rate, or revenue quotas (recognition or excellence club achievements are a plus)&lt;/li&gt;\n&lt;li&gt;Commercial Negotiation: Sharp commercial instincts with experience negotiating complex contractual, legal, and pricing terms with enterprise procurement and legal departments&lt;/li&gt;\n&lt;li&gt;Language Skills: Native fluency in Italian (written and spoken) is required, along with professional business fluency in English, with the ability to articulate technical and commercial value to senior stakeholders internally and externally&lt;/li&gt;\n&lt;li&gt;Organizational Agility: Proven capability to balance high-touch, lengthy public sector procurement cycles alongside a high volume of Enterprise Growth opportunities with speed and detail orientation&lt;/li&gt;\n&lt;li&gt;Domain Knowledge: Prior exposure to database systems, cloud infrastructure (AWS, Azure, GCP), distributed data platforms, or modern software development stacks is highly preferred&lt;/li&gt;\n&lt;li&gt;Location Requirement: Must be based in, or willing to relocate to, Dublin, Ireland (or adjust based on your hub policy)&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;Why Join Now&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;A Proven Market Leader: Join a company at the absolute forefront of data innovation, recently named to the CRN Big Data 100 and experiencing massive EMEA growth (including a landmark €74M investment and expansion across Ireland)&lt;/li&gt;\n&lt;li&gt;Best-in-Class Sales Enablement: Benefit from industry-renowned sales training, onboarding bootcamps, and continuous career development programs widely praised across tech employer reviews&lt;/li&gt;\n&lt;li&gt;Highly Rated Workplace Culture: Work within a collaborative, inclusive, and high-performance environment that values diverse perspectives and offers competitive equity packages&lt;/li&gt;\n&lt;li&gt;Generous and Competitive Benefits: Enjoy robust mental health, fertility, parental leave, and flexible hybrid working models designed to support a sustainable work-life balance&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;About MongoDB&lt;/h3&gt;\n&lt;p&gt;MongoDB is built for change, empowering our customers and our people to innovate at the speed of the market. We have redefined the data platform for the AI era, enabling builders to create, transform, and disrupt industries with software. MongoDB’s unified data platform, the most widely available, globally distributed data platform on the market, helps organizations modernize legacy workloads, embrace innovation, and unleash AI. Our cloud-native platform, MongoDB Atlas, is the only globally distributed, multi-cloud data platform and is available across AWS, Google Cloud, and Microsoft Azure.&lt;/p&gt;\n&lt;p&gt;With offices worldwide and over 67,000 customers, including AI-native startups and approximately 75% of the Fortune 100, relying on MongoDB for their most important applications, we’re powering the next era of software.&lt;/p&gt;\n&lt;p&gt;Our compass at MongoDB is our &lt;a href=&quot;https://www.mongodb.com/company&quot;&gt;Leadership Commitment,&lt;/a&gt; guiding how and why we make decisions, show up for each other, and win. It’s what makes us MongoDB.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;To drive the personal growth and business impact of our employees, we’re committed to developing a supportive and enriching culture for everyone. &lt;a href=&quot;https://www.mongodb.com/company/blog/culture/employee-benefits-that-make-a-difference-at-mongodb&quot;&gt;From employee affinity groups, to fertility assistance and a generous parental leave policy&lt;/a&gt;, we value our employees’ wellbeing and want to support them along every step of their professional and personal journeys.&lt;a href=&quot;https://www.mongodb.com/blog/channel/culture&quot;&gt; Learn more about what it’s like to work at MongoDB&lt;/a&gt;, and help us make an impact on the world!&lt;/p&gt;\n&lt;p&gt;MongoDB is committed to providing any necessary accommodations for individuals with disabilities within our application and interview process. To request an accommodation due to a disability, please inform your recruiter.&lt;/p&gt;\n&lt;p&gt;MongoDB is an equal opportunities employer.&lt;/p&gt;\n&lt;p&gt;&lt;em&gt;Req ID: 3273596132&lt;/em&gt;&lt;/p&gt;",
+  "departments": [
+    {
+      "id": 87825,
+      "name": "Renewals",
+      "child_ids": [],
+      "parent_id": 336792
+    }
+  ],
+  "offices": [
+    {
+      "id": 3962,
+      "name": "Dublin",
+      "location": "Dublin, Ireland",
+      "child_ids": [],
+      "parent_id": 23658
+    }
+  ],
+  "ai_disclaimer": null,
+  "include_ai_disclaimer": false,
+  "ai_opt_out_request_url": null
+}

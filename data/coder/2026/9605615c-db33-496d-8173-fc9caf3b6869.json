@@ -33,15 +33,6 @@
         "additionalInformation": "Base plus 30% variable, with commission and accelerator opportunities",
         "components": [
           {
-            "id": "7f02553c-f67d-40a6-8954-e27207f89241",
-            "summary": "Estimated Base Salary £54K – £74K",
-            "compensationType": "Salary",
-            "interval": "1 YEAR",
-            "currencyCode": "GBP",
-            "minValue": 54000,
-            "maxValue": 74000
-          },
-          {
             "id": "d78a40a5-00a5-4c6c-a586-878eb2ac9db5",
             "summary": "Offers Equity",
             "compensationType": "EquityPercentage",
@@ -58,18 +49,20 @@
             "currencyCode": "GBP",
             "minValue": null,
             "maxValue": null
+          },
+          {
+            "id": "7f02553c-f67d-40a6-8954-e27207f89241",
+            "summary": "Estimated Base Salary £54K – £74K",
+            "compensationType": "Salary",
+            "interval": "1 YEAR",
+            "currencyCode": "GBP",
+            "minValue": 54000,
+            "maxValue": 74000
           }
         ]
       }
     ],
     "summaryComponents": [
-      {
-        "compensationType": "Salary",
-        "interval": "1 YEAR",
-        "currencyCode": "GBP",
-        "minValue": 54000,
-        "maxValue": 74000
-      },
       {
         "compensationType": "EquityPercentage",
         "interval": "NONE",
@@ -83,6 +76,13 @@
         "currencyCode": "GBP",
         "minValue": null,
         "maxValue": null
+      },
+      {
+        "compensationType": "Salary",
+        "interval": "1 YEAR",
+        "currencyCode": "GBP",
+        "minValue": 54000,
+        "maxValue": 74000
       }
     ]
   }

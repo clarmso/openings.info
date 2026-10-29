@@ -4,16 +4,16 @@
   "department": "Engineering",
   "team": "Engineering",
   "employmentType": "FullTime",
-  "location": "US-CA-Menlo Park",
+  "location": "US-WA-Bellevue",
   "shouldDisplayCompensationOnJobPostings": true,
   "secondaryLocations": [
     {
-      "location": "US-WA-Bellevue",
+      "location": "US-CA-Menlo Park",
       "address": {
         "postalAddress": {
-          "addressRegion": "Washington",
+          "addressRegion": "California",
           "addressCountry": "United States",
-          "addressLocality": "Bellevue"
+          "addressLocality": "Menlo Park"
         }
       }
     }
@@ -24,9 +24,9 @@
   "workplaceType": "Hybrid",
   "address": {
     "postalAddress": {
-      "addressRegion": "California",
+      "addressRegion": "Washington",
       "addressCountry": "United States",
-      "addressLocality": "Menlo Park"
+      "addressLocality": "Bellevue"
     }
   },
   "jobUrl": "https://jobs.ashbyhq.com/Snowflake/e47d5736-b86b-4c10-a487-4cc3a012096e",

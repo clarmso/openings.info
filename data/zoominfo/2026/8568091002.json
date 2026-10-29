@@ -1,0 +1,72 @@
+{
+  "absolute_url": "https://www.zoominfo.com/careers?gh_jid=8568091002",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": false,
+      "requires_processing_consent": false,
+      "requires_retention_consent": false,
+      "retention_period": null,
+      "demographic_data_consent_applies": false
+    }
+  ],
+  "internal_job_id": 6422268002,
+  "location": {
+    "name": "Bethesda, Maryland, United States"
+  },
+  "metadata": [
+    {
+      "id": 24710929002,
+      "name": "Job Family Group",
+      "value": "Engineering",
+      "value_type": "single_select"
+    },
+    {
+      "id": 24711071002,
+      "name": "Time Type",
+      "value": "Full time",
+      "value_type": "single_select"
+    },
+    {
+      "id": 101751589002,
+      "name": "Work Shift",
+      "value": "General Shift",
+      "value_type": "short_text"
+    },
+    {
+      "id": 4203585002,
+      "name": "LEGACY - Employment Type",
+      "value": null,
+      "value_type": "single_select"
+    }
+  ],
+  "id": 8568091002,
+  "updated_at": "2026-10-28T14:32:25-04:00",
+  "requisition_id": "JR107656",
+  "title": "Senior Full Stack Software Engineer — Workflows",
+  "company_name": "ZoomInfo Technologies LLC",
+  "first_published": "2026-06-11T10:53:41-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;ZoomInfo is where careers accelerate. We move fast, think boldly, and empower you to do the best work of your life. You’ll be surrounded by teammates who care deeply, challenge each other, and celebrate wins. With tools that amplify your impact and a culture that backs your ambition, you won’t just contribute. You’ll make things happen fast.&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;Own the systems that power workflow orchestration and event-driven processing across ZoomInfo&#39;s platform. As a Senior Full Stack Software Engineer on the Workflows team, you&#39;ll help rebuild a high-scale platform, focusing on backend services while contributing across the stack to deliver reliable automation. You&#39;ll partner closely with product, design, and platform teams, with real ownership of your work and mentorship to grow your career.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;What You&#39;ll Do&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Design, build, and maintain full stack workflow applications using Java (Spring Boot) or Node.js (NestJS) on the backend and Angular or React on the front end&lt;/li&gt;\n&lt;li&gt;Develop workflow orchestration systems with Temporal, Google Cloud Workflows, or similar platforms&lt;/li&gt;\n&lt;li&gt;Build and optimize event-driven architectures using Kafka or other streaming technologies&lt;/li&gt;\n&lt;li&gt;Create APIs and integrations that connect front-end applications, backend services, and workflow engines&lt;/li&gt;\n&lt;li&gt;Design for reliable job execution, retries, state management, and long-running processes, with observability built in through logging, tracing, and metrics&lt;/li&gt;\n&lt;li&gt;Optimize performance, throughput, and latency across distributed systems, and troubleshoot production issues with lasting reliability improvements&lt;/li&gt;\n&lt;li&gt;Lead medium- to large-scale features and technical initiatives, partnering with product managers, designers, and platform teams&lt;/li&gt;\n&lt;li&gt;Mentor engineers, participate in design and code reviews, and promote best practices for workflow design, API development, accessibility, idempotency, and error handling&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;What You Bring&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;&lt;em&gt;Must-Have&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Bachelor&#39;s degree in Computer Science or a related field, or equivalent practical experience, plus 7+ years of software engineering experience building production applications&lt;/li&gt;\n&lt;li&gt;Strong backend experience with Java (Spring Boot), Node.js (NestJS), or comparable frameworks&lt;/li&gt;\n&lt;li&gt;Experience building web applications with Angular or React, with the ability to contribute to front-end work and debug front-end issues in production&lt;/li&gt;\n&lt;li&gt;Experience designing REST APIs and building event-driven systems using Kafka or other streaming technologies&lt;/li&gt;\n&lt;li&gt;Strong understanding of distributed systems, cloud platforms, databases, and reliability practices for asynchronous, long-running processes (retries, state management, idempotency, error handling), plus strong problem-solving, code review, and communication skills&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;&lt;em&gt;Preferred&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Experience with workflow orchestration platforms such as Temporal, Google Cloud Workflows, or similar tools&lt;/li&gt;\n&lt;li&gt;Experience with Google Cloud Dataflow, cloud-native technologies, and distributed data processing&lt;/li&gt;\n&lt;li&gt;Experience building monitoring, administration, or troubleshooting interfaces for complex systems&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p class=&quot;markdown-p&quot;&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p class=&quot;markdown-p&quot;&gt;#LI-LM1&lt;/p&gt;\n&lt;p class=&quot;markdown-p&quot;&gt;#LI-Hybrid&amp;nbsp;&lt;/p&gt;&lt;div class=&quot;content-pay-transparency&quot;&gt;&lt;div class=&quot;pay-input&quot;&gt;&lt;div class=&quot;description&quot;&gt;&lt;p&gt;Actual compensation offered will be based on factors such as the candidate’s work location, qualifications, skills, experience and/or training. Your recruiter can share more information about the specific salary range for your desired work location during the hiring process. We want our employees and their families to thrive.&lt;/p&gt;\n&lt;p&gt;In addition to comprehensive benefits we offer holistic mind, body and lifestyle programs designed for overall well-being. Learn more about ZoomInfo benefits &lt;a class=&quot;c-link&quot; href=&quot;https://www.zoominfo.com/careers#benefits&quot; target=&quot;_blank&quot; data-stringify-link=&quot;https://www.zoominfo.com/careers#benefits&quot; data-sk=&quot;tooltip_parent&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;title&quot;&gt;Below is the US base salary for this position. Additional compensation such as Bonus, Commission, Equity and other benefits may also apply.&lt;/div&gt;&lt;div class=&quot;pay-range&quot;&gt;&lt;span&gt;$140,000&lt;/span&gt;&lt;span class=&quot;divider&quot;&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;$220,000 USD&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;&lt;strong&gt;About us:&lt;/strong&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;ZoomInfo (NASDAQ: GTM), the all-in-one AI GTM platform, enables sales, marketing, and customer success teams to execute their go-to-market strategy with confidence. Powered by the industry&#39;s most comprehensive B2B data, including more than 100 million companies, 500 million contacts, and billions of signals, ZoomInfo delivers the intelligence, automation, and integrations that modern revenue teams need to identify, engage, and convert their best buyers.&lt;/p&gt;\n&lt;p&gt;ZoomInfo is committed to protecting your privacy when you apply for jobs with us. Please review our Job Applicant &lt;a href=&quot;https://drive.google.com/file/d/1yiG-k0YX_sW10PiJk_xliDc3W-veJCrK/view?usp=drive_link&quot; target=&quot;_blank&quot;&gt;Privacy Notice&lt;/a&gt; for more details on how we handle your personal information.&lt;/p&gt;\n&lt;p&gt;ZoomInfo may use a software-based assessment as part of the recruitment process. More information about this tool, including the results of the most recent bias audit, is available &lt;a href=&quot;https://www.zoominfo.com/legal/nyc-local-law-144-notice&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;\n&lt;p&gt;ZoomInfo is proud to be an equal opportunity employer, hiring based on qualifications, merit, and business needs, and does not discriminate based on protected status. We welcome all applicants and are committed to providing equal employment opportunities regardless of sex, race, age, color, national origin, sexual orientation, gender identity, marital status, disability status, religion, protected military or veteran status, medical condition, or any other characteristic protected by applicable law. We also consider qualified candidates with criminal histories in accordance with legal requirements.&lt;/p&gt;\n&lt;p&gt;For Massachusetts Applicants: It is unlawful in Massachusetts to require or administer a lie detector test as a condition of employment or continued employment. An employer who violates this law shall be subject to criminal penalties and civil liability. ZoomInfo does not administer lie detector tests to applicants in any location.&lt;/p&gt;&lt;/div&gt;",
+  "departments": [
+    {
+      "id": 4074789002,
+      "name": "938 Engineering - Product Foundations",
+      "child_ids": [],
+      "parent_id": null
+    }
+  ],
+  "offices": [
+    {
+      "id": 4011964002,
+      "name": "Bethesda",
+      "location": "Bethesda, Maryland, United States",
+      "child_ids": [],
+      "parent_id": null
+    }
+  ],
+  "ai_disclaimer": null,
+  "include_ai_disclaimer": null,
+  "ai_opt_out_request_url": null
+}

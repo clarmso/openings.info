@@ -1,0 +1,148 @@
+{
+  "absolute_url": "https://www.mongodb.com/careers/job/?gh_jid=8328627",
+  "data_compliance": [
+    {
+      "type": "gdpr",
+      "requires_consent": false,
+      "requires_processing_consent": false,
+      "requires_retention_consent": false,
+      "retention_period": null,
+      "demographic_data_consent_applies": true
+    }
+  ],
+  "internal_job_id": 3600139,
+  "location": {
+    "name": "Toronto"
+  },
+  "metadata": [
+    {
+      "id": 22194060,
+      "name": "Position ID",
+      "value": "10008169",
+      "value_type": "short_text"
+    },
+    {
+      "id": 24918,
+      "name": "Department ID",
+      "value": "D43220-Industry Solutions",
+      "value_type": "single_select"
+    },
+    {
+      "id": 22194061,
+      "name": "Team",
+      "value": "T10051-Industry Solutions",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4914027,
+      "name": "Region",
+      "value": "North America",
+      "value_type": "single_select"
+    },
+    {
+      "id": 4137836,
+      "name": "Working Model Eligibility",
+      "value": [
+        "2-Flexible"
+      ],
+      "value_type": "multi_select"
+    },
+    {
+      "id": 4914029,
+      "name": "Job Level",
+      "value": "Professional - IC",
+      "value_type": "single_select"
+    },
+    {
+      "id": 24109,
+      "name": "Employment Type",
+      "value": "Full-time",
+      "value_type": "single_select"
+    },
+    {
+      "id": 1073551,
+      "name": "Job Type",
+      "value": "Standard",
+      "value_type": "single_select"
+    },
+    {
+      "id": 988684,
+      "name": "JD Link",
+      "value": "https://docs.google.com/document/d/1Ug4Oublx97s6pis6Qy2n3kzChga7lEl4wmPWhkXb1tw/edit?tab=t.0#heading=h.grd053y60q61",
+      "value_type": "url"
+    },
+    {
+      "id": 5525802,
+      "name": "Baseline Budgeted Salary",
+      "value": null,
+      "value_type": "currency_range"
+    },
+    {
+      "id": 5525816,
+      "name": "Other Large Market Budgeted Salary",
+      "value": null,
+      "value_type": "currency_range"
+    },
+    {
+      "id": 13324394,
+      "name": "Job Post Range (United States)",
+      "value": {
+        "unit": "CAD",
+        "max_value": "0.0",
+        "min_value": "0.0"
+      },
+      "value_type": "currency_range"
+    },
+    {
+      "id": 40497768,
+      "name": "Job Post Range (Canada)",
+      "value": {
+        "unit": "CAD",
+        "max_value": "180000.0",
+        "min_value": "130000.0"
+      },
+      "value_type": "currency_range"
+    },
+    {
+      "id": 57694516,
+      "name": "Job Post Range (Poland)",
+      "value": null,
+      "value_type": "currency_range"
+    },
+    {
+      "id": 64002488,
+      "name": "Job Post Range (Italy)",
+      "value": null,
+      "value_type": "currency_range"
+    }
+  ],
+  "id": 8328627,
+  "updated_at": "2026-10-28T13:44:05-04:00",
+  "requisition_id": "3273600139",
+  "title": "Senior Industry Consultant, Healthcare",
+  "company_name": "MongoDB",
+  "first_published": "2026-10-28T11:02:57-04:00",
+  "language": "en",
+  "application_deadline": null,
+  "content": "&lt;p&gt;We are looking for passionate technologists to join our growing &lt;a href=&quot;https://www.mongodb.com/company/blog/culture/helping-mongodb-customers-unlock-potential-industry-solutions&quot;&gt;Industry Solutions Team&lt;/a&gt; (IST), a remote/flexible, globally-dispersed team. Our objective is to align MongoDB AI platform with industry specific solutions. We understand our enterprise clients and their needs to modernize software legacies, transition to modernized solutions, and guide them through continuous data-driven modernization.&lt;/p&gt;\n&lt;p&gt;MongoDB Industry Solutions &lt;a href=&quot;https://www.mongodb.com/blog/post/transitioning-teacher-mongodbs-new-enterprise-modernization-team-meet-gabriela-preiss&quot;&gt;Consultants&lt;/a&gt; communicate the direction of MongoDB’s platform to customers and industry partner communities (i.e. webinars, client presentations, &lt;a href=&quot;https://www.mongodb.com/docs/atlas/architecture/current/solutions-library/&quot;&gt;blog content&lt;/a&gt;, &lt;a href=&quot;https://www.youtube.com/shorts/bVtfuXSWMIo&quot;&gt;video content&lt;/a&gt;, live/virtual events, &lt;a href=&quot;https://www.mongodb.com/docs/atlas/architecture/current/solutions-library/manufacturing-asset-predictive-maintenance/&quot;&gt;demos&lt;/a&gt;, account support, etc.), while keeping up with continuous data trends. A key component is direct account engagement with the clients’ senior executives, to help business leaders see the vision of how MongoDB is a solution for their industry’s needs, wants, and pain points. This will require a technical background, foundational DBMS/DBaaS understanding, programming knowledge, an interest in customer-facing interactions, and a keen interest to continue learning and digging into how this applies to Healthcare industries.&lt;/p&gt;\n&lt;p&gt;You&#39;ll work closely with multiple teams, such as marketing, product, pre-sales, sales enablement and sales teams, as well as play a key role in winning deals and driving the business forward, as subject matter experts. Our team is an exciting, diverse group, made up of ambitious, innovative thinkers that range from software thought leaders and entrepreneurs to young professionals. Learn more about #LifeAtMongoDB &lt;a href=&quot;https://www.mongodb.com/careers&quot;&gt;here&lt;/a&gt;! &amp;nbsp;&lt;/p&gt;\n&lt;p&gt;This role will primarily focus on the North and Latin American market but you also support other regions such as Europe and Middle East (EMEA). As such, the location for this role is based in Toronto, Canada, and includes about 30% of traveling across the North American region and to some extent globally.&amp;nbsp;&lt;/p&gt;\n&lt;h3&gt;&amp;nbsp;What you do at MongoDB&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;You translate technical concepts and patterns into business benefits for senior management and executives as well as enterprise architects and product owners. This includes the creation of demos, training materials, slide decks, whitepapers, blogs and YouTube videos that communicate the business value of MongoDB as a leading industry solution&lt;/li&gt;\n&lt;li&gt;You partner with our sales team to help ensure success in accounts ranging from small startups to large enterprises (i.e customizing solutions, client presentations, etc.). We are NOT a sales team, but we work closely with sales&lt;/li&gt;\n&lt;li&gt;You support sales through enablement, with activities such as technical discovery, demos, training, proof of values, presentations, and documentation of technical decision criteria; working across a number of sales opportunities in parallel. You will take initiative in creating more opportunities for sales support&lt;/li&gt;\n&lt;li&gt;You present MongoDB’s position at various events - either in person or digitally&lt;/li&gt;\n&lt;li&gt;You represent MongoDB in international organizations, in workgroups, committees, and standardization bodies&lt;/li&gt;\n&lt;li&gt;You are tightly aligned with our product management organization and communicate field requirements, changes you see in industry requirements to the product management leadership&lt;/li&gt;\n&lt;li&gt;You proactively seek opportunities to enable other functions such as Sales, Pre-Sales or Marketing&lt;/li&gt;\n&lt;li&gt;You help our team continue building processes in how we work with each other and other teams throughout MongoDB, to make ourselves as scalable and efficient as possible&lt;/li&gt;\n&lt;li&gt;Enjoy the ride because we’re growing fast&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;As a candidate, you should have&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;More than 5 years in the Healthcare Sector (Lifesciences, clinical data, insurance) directly or in a consultative form in multiple areas; candidates with less years of experience but with exceptional expertise can be considered accordingly&lt;/li&gt;\n&lt;li&gt;Strong programming/software engineering skills for demo development&lt;/li&gt;\n&lt;li&gt;Deep expertise in clinical data structures (openEHR, Snomed, FHIR), and the US healthcare system&lt;/li&gt;\n&lt;li&gt;Expertise in technical architecture, solution design, and delivering complex technical solutions at scale&lt;/li&gt;\n&lt;li&gt;Excellent presentation and communication skills with the ability to visualize and communicate complex information to all levels of an organization - both internally and externally&lt;/li&gt;\n&lt;li&gt;Ability to discuss a broad range of data technologies (non-exhaustive list:&amp;nbsp; RDBMS, document, key-value, unstructured, noSQL, JSON,...)&lt;/li&gt;\n&lt;li&gt;A pro-active, self-starter with the drive to learn new skills and become an expert in that field&lt;/li&gt;\n&lt;li&gt;The ability to travel up to 30% globally in normal circumstances for conferences, clients, team shadowing, team events, MongoDB events, etc.&lt;/li&gt;\n&lt;li&gt;Strong English language skills, Spanish is an advantage&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;Ideally you would also have&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;A Master’s degree or higher in a relevant discipline&lt;/li&gt;\n&lt;li&gt;Experience in addressing data related challenges in unifying standards, advanced data analytics, AI-applications or similar specialized areas in the Healthcare sector&lt;/li&gt;\n&lt;li&gt;Knowledge of latest innovations and emerging trends within the Healthcare sector&lt;/li&gt;\n&lt;li&gt;Strong understanding of data modeling and data architecture principles for various use cases in the industry&lt;/li&gt;\n&lt;li&gt;In-depth understanding of database schema design principles, and database programming&lt;/li&gt;\n&lt;li&gt;Experience with definition of standards, participation in forums, councils, steering committees is a strong advantage&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;What you will learn&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;MongoDB product suite (i.e. core database server, Atlas, Atlas Search &amp;amp; Vector Search, Charts, tools, etc.)&lt;/li&gt;\n&lt;li&gt;MongoDB complementary technologies (i.e. Apache Kafka, Kubernetes, etc.)&lt;/li&gt;\n&lt;li&gt;Modern architecture design patterns and methodologies (i.e. microservices, event-driven architectures, DevOps, cloud, etc.)&lt;/li&gt;\n&lt;li&gt;MongoDB’s partners’ technologies and how we collaborate&lt;/li&gt;\n&lt;li&gt;Sales techniques and related soft skills (i.e. presentations, demonstrations, whiteboarding, discovery, objection handling, etc.)&lt;/li&gt;\n&lt;li&gt;Exposure to a wide variety of markets and a broad spectrum of interesting use cases&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;About MongoDB&lt;/h3&gt;\n&lt;p&gt;MongoDB is built for change, empowering our customers and our people to innovate at the speed of the market. We have redefined the data platform for the AI era, enabling builders to create, transform, and disrupt industries with software. MongoDB’s unified data platform, the most widely available, globally distributed data platform on the market, helps organizations modernize legacy workloads, embrace innovation, and unleash AI. Our cloud-native platform, MongoDB Atlas, is the only globally distributed, multi-cloud data platform and is available across AWS, Google Cloud, and Microsoft Azure.&lt;/p&gt;\n&lt;p&gt;With offices worldwide and over 67,000 customers, including AI-native startups and approximately 75% of the Fortune 100, relying on MongoDB for their most important applications, we’re powering the next era of software.&lt;/p&gt;\n&lt;p&gt;Our compass at MongoDB is our &lt;a href=&quot;https://www.mongodb.com/company&quot;&gt;Leadership Commitment,&lt;/a&gt; guiding how and why we make decisions, show up for each other, and win. It’s what makes us MongoDB.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;To drive the personal growth and business impact of our employees, we’re committed to developing a supportive and enriching culture for everyone. &lt;a href=&quot;https://www.mongodb.com/company/blog/culture/employee-benefits-that-make-a-difference-at-mongodb&quot;&gt;From employee affinity groups, to fertility assistance and a generous parental leave policy&lt;/a&gt;, we value our employees’ wellbeing and want to support them along every step of their professional and personal journeys.&lt;a href=&quot;https://www.mongodb.com/blog/channel/culture&quot;&gt; Learn more about what it’s like to work at MongoDB&lt;/a&gt;, and help us make an impact on the world!&lt;/p&gt;\n&lt;p&gt;MongoDB is committed to providing any necessary accommodations for individuals with disabilities within our application and interview process. To request an accommodation due to a disability, please inform your recruiter.&lt;/p&gt;\n&lt;p&gt;MongoDB is an equal opportunities employer.&lt;/p&gt;\n&lt;p&gt;Req ID: 3273600139&lt;/p&gt;&lt;div class=&quot;content-pay-transparency&quot;&gt;&lt;div class=&quot;pay-input&quot;&gt;&lt;div class=&quot;description&quot;&gt;&lt;p&gt;&lt;em&gt;AI is used to review applications based on job-related criteria and does not replace human decision-making. The hiring team decide who moves forward.&lt;/em&gt;&lt;/p&gt;\n&lt;p&gt;MongoDB’s base salary range for this role is posted below. Compensation at the time of offer is unique to each candidate and based on a variety of factors such as skill set, experience, qualifications, and work location. Salary is one part of MongoDB’s total compensation and benefits package. Other benefits for eligible employees may include: equity, participation in the employee stock purchase program, flexible paid time off, 20 weeks fully-paid gender-neutral parental leave, fertility and adoption assistance, Registered Retirement Savings Plan (RRSP) with employer match, mental health counseling, backup child and elder care, and health, dental, and vision benefits offerings. Please note, the base salary range listed below and the benefits in this paragraph are only applicable to candidates based in Canada.&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;title&quot;&gt;MongoDB’s base salary range for this role in Canada is:&lt;/div&gt;&lt;div class=&quot;pay-range&quot;&gt;&lt;span&gt;$130,000&lt;/span&gt;&lt;span class=&quot;divider&quot;&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;$180,000 CAD&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;",
+  "departments": [
+    {
+      "id": 85960,
+      "name": "Industry Solutions",
+      "child_ids": [],
+      "parent_id": 370707
+    }
+  ],
+  "offices": [
+    {
+      "id": 9444,
+      "name": "Toronto",
+      "location": "Toronto, ON, Canada",
+      "child_ids": [],
+      "parent_id": 23657
+    }
+  ],
+  "ai_disclaimer": null,
+  "include_ai_disclaimer": false,
+  "ai_opt_out_request_url": null
+}

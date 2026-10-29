@@ -41,7 +41,7 @@
     }
   ],
   "id": 8643355002,
-  "updated_at": "2026-10-23T16:17:13-04:00",
+  "updated_at": "2026-10-28T14:46:18-04:00",
   "requisition_id": "JR107911",
   "title": "Senior Forward Deployed Engineer",
   "company_name": "ZoomInfo Technologies LLC",
@@ -59,8 +59,8 @@
   ],
   "offices": [
     {
-      "id": 4086492002,
-      "name": "Remote-US-MA",
+      "id": 4085439002,
+      "name": "Remote-US-MI",
       "location": null,
       "child_ids": [],
       "parent_id": null

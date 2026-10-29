@@ -1,0 +1,20 @@
+{
+  "id": "147",
+  "jobOpeningName": "Technical Sales Representative",
+  "departmentId": "18658",
+  "departmentLabel": "Revenue",
+  "employmentStatusLabel": "Full-Time",
+  "employmentType": null,
+  "location": {
+    "city": "Waterloo",
+    "state": "Ontario"
+  },
+  "atsLocation": {
+    "country": null,
+    "state": null,
+    "province": null,
+    "city": null
+  },
+  "isRemote": null,
+  "locationType": "0"
+}
